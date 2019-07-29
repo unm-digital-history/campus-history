@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="/favicon.ico">
+
+  <title>Modern Art by Betty Sabo</title>
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+
+  <script
+    src="https://code.jquery.com/jquery-1.9.1.min.js"
+    integrity="sha256-wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ="
+    crossorigin="anonymous"></script>
+
+    <script
+      src="https://code.jquery.com/ui/1.9.2/jquery-ui.min.js"
+      integrity="sha256-eEa1kEtgK9ZL6h60VXwDsJ2rxYCwfxi40VZ9E0XwoEA="
+      crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.css"/>
+  <link href="/css/bigfoot-number.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
+
+<!-- unm css -->
+  <link href="//webcore.unm.edu/v1/images/unm.ico" rel="shortcut icon"/>
+  <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7254094/6839152/css/fonts.css" />
+  <link href="//webcore.unm.edu/v2/css/unm-styles.min.css" rel="stylesheet"/>
+
+<!-- unm code -->
+  <script src="//webcore.unm.edu/v2/js/unm-scripts.min.js" type="text/javascript"></script>
+  <script src="//webcore.unm.edu/v2/js/html5shiv.min.js"></script>
+  <script src="//webcore.unm.edu/v2/js/respond.min.js"></script>
+  <link href="//webcore.unm.edu/v2/js/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+
+<!-- custom css -->
+  <link href="/css/main.css" rel="stylesheet">
+
+
+</head>
+
+
+<body id="home">
+  <!-- Google Tag Manager -->
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQT2MB"
+          height="0" width="0" style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+<script>(function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({
+      'gtm.start':
+      new Date().getTime(),event:'gtm.js'}
+             );
+    var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);
+  }
+        )(window,document,'script','dataLayer','GTM-WQT2MB');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- container to hold menus on collapse -->
+<a accesskey="2" class="sr-only sr-only-focusable skip2content" href="#main">Skip to main content
+</a>
+<div class="nav-wrapper" id="offcanvas">
+  <div class="navbar-header">
+    <button class="menu-toggle navbar-toggle collapsed" data-target="#mobile-menu .navbar-collapse" data-toggle="collapse" type="button">
+      <span class="sr-only">Toggle navigation
+      </span>
+      <span class="fa fa-reorder fa-2x">
+      </span>
+    </button>
+    <div id="mobile-menu">
+      <div class="text-center visible-xs-block" id="mobile-toolbar">
+        <ul aria-label="Resource Links" class="list-unstyled btn-group" role="group">
+          <li class="btn btn-sm btn-default">
+            <a href="http://directory.unm.edu/departments/" title="UNM A to Z">UNM A-Z
+            </a>
+          </li>
+          <li class="btn btn-sm btn-default">
+            <a href="https://my.unm.edu" title="myUNM">myUNM
+            </a>
+          </li>
+          <li class="btn btn-sm  btn-default">
+            <a href="http://directory.unm.edu" title="Directory">Directory
+            </a>
+          </li>
+          <li class="btn btn-sm  btn-default">
+            <a href="http://search.unm.edu" title="Search">
+              <span class="fa fa-search">
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="page">
+  <!-- start nav -->
+  <div class="navbar navbar-unm">
+    <div class="container">
+      <a class="navbar-brand" href="http://www.unm.edu">The University of New Mexico
+      </a>
+      <!-- search form -->
+      <form action="//search.unm.edu/search" class="pull-right hidden-xs" id="unm_search_form" method="get">
+        <div class="input-append search-query">
+          <input accesskey="4" id="unm_search_form_q" maxlength="255" name="q" placeholder="Search" title="input search query here" type="text"/>
+          <button accesskey="s" class="btn" id="unm_search_for_submit" name="submit" title="submit search" type="submit">
+            <span class="fa fa-search">
+            </span>
+          </button>
+        </div>
+      </form>
+      <!-- end search form -->
+      <ul class="nav navbar-nav navbar-right hidden-xs" id="toolbar-nav">
+        <li>
+          <a href="http://directory.unm.edu/departments/" title="UNM A to Z">UNM A-Z
+          </a>
+        </li>
+        <li>
+          <a href="https://my.unm.edu" title="myUNM">myUNM
+          </a>
+        </li>
+        <li>
+          <a href="http://directory.unm.edu" title="Directory">Directory
+          </a>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Help
+            <span class="caret">
+            </span>
+          </a>
+          <ul class="dropdown-menu">
+            <li>
+              <a href="http://studentinfo.unm.edu" title="StudentInfo">StudentInfo
+              </a>
+            </li>
+            <li>
+              <a href="http://fastinfo.unm.edu" title="FastInfo">FastInfo
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- end  nav -->
+
+
+<div id="header">
+        <div class="container">
+          <a href="/index.html">
+            <h1>UNM Campus Histories</h1>
+            <!--<h3></h3>-->
+          </a>
+        </div>
+      </div>
+      <div id="hero">
+      </div>
+      <div id="nav">
+        <div class="container">
+          <div class="navbar navbar-top" id="horiz-nav">
+            <nav class="navbar-collapse collapse" id="horz-nav" role="navigation">
+              <ul class="nav navbar-nav" role="menubar">
+                
+                    <li><a href="/">Home</a></li>
+                
+                
+                    <li><a href="/directory">Directory</a></li>
+                
+                
+                    <li><a href="/map">Map</a></li>
+                
+                
+                    <li><a href="/credits">Credits</a></li>
+                
+                
+                    <li><a href="/code">Code Samples</a></li>
+                
+
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+
+
+<div id="upper"><div class="container"><!--UPPER--></div></div><div id="breadcrumbs"><div class="container"></div></div>
+
+<div id="my-main">
+  <div class="container layout" id="c">
+    <div class="row">
+      <div id="primary">
+        <div class="container-fluid single-col">
+  <h1 id="modern-art">“Modern Art”</h1>
+
+<h1 id="introduction">Introduction</h1>
+
+<figure class="img-right" style="width:33%">
+  <a href="images/modern-art-intro.png"><img src="images/modern-art-intro.png" alt="Betty's bronze scultures with a green hat placed on one of the heads" width="100%" /></a>
+<figcaption class="img-right">
+  <p>Betty’s bronze scultures with a green hat placed on one of the heads</p>
+
+</figcaption>
+</figure>
+
+<p>Just at one of the main entrance points at the University of New Mexico (UNM), adjacent between Popejoy Hall and the main entrance of Johnson Center – across from the Student Union Building – lies a space on campus that brings attention to both visitors and students.</p>
+
+<p>This space, entitled, “Modern Art” features artist Betty Sabo who was an art student at UNM in the 1940’s. Behind these bronze sculptures that encapsulate “Modern Art”, lie representations of natural human form.</p>
+
+<p>In the unveiling of the art piece, Sabo writes, “I think everyone can relate to some part of it - the piece has a storyline to a certain extent that is easily recognizable. It’s fun. I really want people to enjoy it.”</p>
+
+<p>Since the time of its inception, the art piece has also taken an interactive form as walking through this space, one would often notice scarfs on the bronze sculptures or items in the hands.</p>
+
+<h1 id="gary-beales">Gary Beales</h1>
+
+<figure class="img-right" style="width:33%">
+  <a href="images/modern-art-tower.png"><img src="images/modern-art-tower.png" alt="The tower, built by Gary Beales, at the center of 'Modern Art'" width="100%" /></a>
+<figcaption class="img-right">
+  <p>The tower, built by Gary Beales, at the center of ‘Modern Art’</p>
+
+</figcaption>
+</figure>
+
+<p>The stainless steel tower in the middle tower is the work of Sabo’s brother – Gary Beales, which served at inspiration by Betty’s work. Watching her brother complete his stainless steel tower, Sabo thought the tower looked confusing on what it represents – a soda can from birds eye view – which inspired to create the bronze figures, who are trying to figure out exactly what the tower is. One of the figures sits on the curb frustrated while some stand up as if are having a conversation on their ideas of the tower. Although this space is entitled and renowd after Sabo’s work, it would not be what it is if it was not for Beales initial piece.</p>
+
+<h1 id="free-speech-at-the-university-of-new-mexico">Free Speech at The University of New Mexico</h1>
+
+<figure class="img-right" style="width:33%">
+  <a href="images/modern-art-free-speech.png"><img src="images/modern-art-free-speech.png" alt="Just ahead in the horizon of UNM's 'Free Speech Zone' lie Betty Sabo's artwork" width="100%" /></a>
+<figcaption class="img-right">
+  <p>Just ahead in the horizon of UNM’s ‘Free Speech Zone’ lie Betty Sabo’s artwork</p>
+
+</figcaption>
+</figure>
+
+<p>“Modern Art” is also significantly related to free speech matters at The University of New Mexico, as many people who come to the University do so while standing at “Modern Art” – which enacted UNM administration to post a sign just before the space with the label, “Free Speech Zone”</p>
+
+<p>In addition to the controversial “Free Speech Zone,” UNM Policy 2240: Cornerstones of a Respectful Campus “calls for the promotion of of an environment which:
+Individuals at all levels and in all units value each other’s contributions and treat each other with respect.
+Individuals in positions of authority serve as role models by promoting courtesy, civility, diversity, and respectful communication.
+Individuals at all levels are allowed to discuss issues of concern in an open and honest manner, without fear of reprisal or retaliation.”</p>
+
+<h1 id="vandalism">Vandalism</h1>
+
+<figure class="img-right" style="width:33%">
+  <a href="images/modern-art-vandalism.png"><img src="images/modern-art-vandalism.png" alt="The bronze status defaces" width="100%" /></a>
+<figcaption class="img-right">
+  <p>The bronze status defaces</p>
+
+</figcaption>
+</figure>
+
+<p>Unfortunately, as a centrally located and well-known space, “Modern Art” has also been one of the most prominent spaces for vandalism on UNM Campus.</p>
+
+<p>According to the 2016 Albuquerque Journal article, “Popular UNM statuses defaced, again” an episode of this vandalism shows purple splotches marred all over the statues. UNM’s Physical Plant department is responsible for cleaning the graffiti.</p>
+
+<h1 id="unm-planning-records">UNM Planning Records</h1>
+
+<figure class="img-right" style="width:33%">
+  <a href="images/modern-art-tbt.png"><img src="images/modern-art-tbt.png" alt="The rock sculture in place before erection of Modern Art" width="100%" /></a>
+<figcaption class="img-right">
+  <p>The rock sculture in place before erection of Modern Art</p>
+
+</figcaption>
+</figure>
+
+<figure class="img-right" style="width:33%">
+  <a href="images/modern-art-tbt-plan.png"><img src="images/modern-art-tbt-plan.png" alt="Planning of the original art" width="100%" /></a>
+<figcaption class="img-right">
+  <p>Planning of the original art</p>
+
+</figcaption>
+</figure>
+
+<p>The University of New Mexico Center for Southwest Research and Special Collections contain history of the space where “Modern Art” is occupied, which is Cornell Mall. The art within Cornell Mall makeup “Landscapes,” but according to Only in New Mexico one of the main issues about art or spaces in this space is that with the exception of Smith Plaza, they have never been named.</p>
+
+<p>Before the Betty Sabo piece was a piece of artwork – large stones gathered from Belen, New Mexico that are said to resemble “Pieces of Marble Columns on the Acropolis” (256)</p>
+
+<h1 id="after-the-marble-columns-of-the-acropolis">After the ‘Marble Columns of the Acropolis’</h1>
+
+<p>The University of New Mexico Southwest Research and Special Collections does not currently have any records on original footprints of the erection of ‘Modern Art’ of 2004, however the Daily Lobo Archives contained an article describing the story of how Sabo’s work got to where it is today.</p>
+
+<p>In the Daily Lobo article, Sabo confirms that the scultptures are a reaction to the fractured soda can. Planning of ‘Modern Art’ started in 2000 when Betty was asked to submit a proposal by the Arts and Public Places Committee because of her contrabution to the Albuquerque community.</p>
+
+<p>In an interview with Roger Lujan, the then director of UNM’s Facility and Planning Department described the revel of the art piece, “This is the beginning of the next and very wonderful chapter in the history and development of UNM”</p>
+
+<p>The Daily Lobo ends with quoting Sabo, “UNM made me what I am today. I never dreamed in my wildest moment that I would have a peice of art at UNM. It’s probabaly the greatest thing that has happened to me.”</p>
+
+<h1 id="betty-sabo---an-artful-life">“Betty Sabo - An Artful Life”</h1>
+
+<figure class="img-right" style="width:33%">
+  <a href="images/modern-art-betty-dead.png"><img src="images/modern-art-betty-dead.png" alt="Betty Sabo pictured with her creation shortly before her death (1928 - 2016)" width="100%" /></a>
+<figcaption class="img-right">
+  <p>Betty Sabo pictured with her creation shortly before her death (1928 - 2016)</p>
+
+</figcaption>
+</figure>
+
+<p>Announced in 2012 by the University of New Mexico Foundation, Betty Sabo’s life and career is the subject of a new documentary, entitled, “Betty Sabo - An Artful Life.” The announcement also discusses the Betty Sabo Endowment, which benefits art students. When the announcement was published, Sabo was battling alzheimer’s. Sabo passed away peacefully a few years later, on February 10 2016  – which is declared Betty Sabo Day by Governor Susana Martinez.</p>
+
+<h1 id="bibliography">Bibliography</h1>
+
+<p>“Administrative Policies and Procedures Manual - Policy 2240: Respectful Campus.” University Policy, 3 May 2019, 
+  policy.unm.edu/university-policies/2000/2240.html.</p>
+
+<p>AlaimoMonson, Rachel. “’Modern Art’ Delivers Wonder to Cornell Mall.” New Mexico Daily Lobo, 24 Aug. 2004, 6:00am,  <br />
+  www.dailylobo.com/article/2004/08/modern_art_delivers_wonder_to_cornell_mall.</p>
+
+<p>“Artist Betty Sabo Died Tuesday Morning.” KOAT, KOAT, 10 May 2016, www.koat.com/article/artist-betty-sabo-died-tuesday-morning/5071312.</p>
+
+<p>Box 58. “The University Planning Records of Cornell Mall .” The University of New Mexico,  Center for Southwest Research and Special 
+  Collections, 1979.</p>
+
+<p>Hooker, Van Dorn, et al. Only in New Mexico: an Architectural History of the University of New Mexico: the First Century, 1889-1989. 
+  University of New Mexico, 2000.</p>
+
+<p>Kent, Jackie. “UNM Signs Alert Students to ‘Free Speech Zones’.” KRQE, KRQE, 23 Apr. 2018, www.krqe.com/news/albuquerque-metro/unm-signs- 
+  alert-students-to-free-speech-zones/1136387617.</p>
+
+<p>“Public Art at UNM: Writing and Research: Examples of Public Art at UNM.” Research Guides, 25 Apr. 2018, 3:02 PM, <br />
+  libguides.unm.edu/publicart/unm_examples.</p>
+
+<p>“UNM Foundation.” University of New Mexico Foundation, www.unmfund.org/donor-story/betty-sabo-an-artful-life/.</p>
+
+</div> <!-- /container -->
+
+      </div>
+      <div id="secondary"></div>
+      <div id="tertiary"></div>
+    </div>
+  </div>
+</div> <!-- /main -->
+
+<div id="footer">
+<div class="container">
+<hr/><div class="row"><div class="col-md-8"><p><a href="http://www.unm.edu"><img alt="The University of New Mexico" src="https://webcore.unm.edu/v2/images/unm-transparent-white.png"/></a></p><p><small>&#169; The University of New Mexico<br/> Albuquerque, NM 87131, (505) 277-0111<br/> New Mexico's Flagship University</small></p></div><div class="col-md-4"><ul class="list-inline"><li><a href="https://www.facebook.com/universityofnewmexico" title="UNM on Facebook"><span class="fa fa-facebook-square fa-2x"><span class="sr-only">UNM on Facebook</span></span></a></li><li><a href="http://instagram.com/uofnm" title="UNM on Instagram"><span class="fa fa-instagram fa-2x"><span class="sr-only">UNM on Instagram</span></span></a></li><li><a href="https://twitter.com/unm" title="UNM on Twitter"><span class="fa fa-twitter-square fa-2x"><span class="sr-only">UNM on Twitter</span></span></a></li><li><a href="http://uofnm.tumblr.com" title="UNM on Tumblr"><span class="fa fa-tumblr-square fa-2x"><span class="sr-only">UNM on Tumblr</span></span></a></li><li><a href="http://www.youtube.com/user/unmlive" title="UNM on YouTube"><span class="fa fa-youtube-square fa-2x"><span class="sr-only">UNM on YouTube</span></span></a></li></ul><p>more at <a href="http://social.unm.edu" title="UNM Social Media Directory &amp; Information">social.unm.edu</a></p><ul class="list-inline" id="unm_footer_links"><li><a href="http://www.unm.edu/accessibility.html">Accessibility</a></li><li><a href="http://www.unm.edu/legal.html">Legal</a></li><li><a href="http://www.unm.edu/contactunm.html">Contact UNM</a></li><li><a href="http://nmhedss2.state.nm.us/Dashboard/index.aspx?ID=21">New Mexico Higher Education Dashboard</a></li></ul></div></div></div></div></div><div id="totop"><span class="fa fa-arrow-circle-up"></span></div>
+
+
+  <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
+
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <script src="/js/myslick.js"></script>
+
+  <script type="text/javascript" src="/js/bigfoot.min.js"></script>
+  <script type="text/javascript">$.bigfoot();</script>
+
+
+</body>
+</html>

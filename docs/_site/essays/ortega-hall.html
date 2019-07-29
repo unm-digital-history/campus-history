@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="/favicon.ico">
+
+  <title>Ortega-Hall</title>
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+
+  <script
+    src="https://code.jquery.com/jquery-1.9.1.min.js"
+    integrity="sha256-wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ="
+    crossorigin="anonymous"></script>
+
+    <script
+      src="https://code.jquery.com/ui/1.9.2/jquery-ui.min.js"
+      integrity="sha256-eEa1kEtgK9ZL6h60VXwDsJ2rxYCwfxi40VZ9E0XwoEA="
+      crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.css"/>
+  <link href="/css/bigfoot-number.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
+
+<!-- unm css -->
+  <link href="//webcore.unm.edu/v1/images/unm.ico" rel="shortcut icon"/>
+  <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7254094/6839152/css/fonts.css" />
+  <link href="//webcore.unm.edu/v2/css/unm-styles.min.css" rel="stylesheet"/>
+
+<!-- unm code -->
+  <script src="//webcore.unm.edu/v2/js/unm-scripts.min.js" type="text/javascript"></script>
+  <script src="//webcore.unm.edu/v2/js/html5shiv.min.js"></script>
+  <script src="//webcore.unm.edu/v2/js/respond.min.js"></script>
+  <link href="//webcore.unm.edu/v2/js/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+
+<!-- custom css -->
+  <link href="/css/main.css" rel="stylesheet">
+
+
+</head>
+
+
+<body id="home">
+  <!-- Google Tag Manager -->
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQT2MB"
+          height="0" width="0" style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+<script>(function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({
+      'gtm.start':
+      new Date().getTime(),event:'gtm.js'}
+             );
+    var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);
+  }
+        )(window,document,'script','dataLayer','GTM-WQT2MB');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- container to hold menus on collapse -->
+<a accesskey="2" class="sr-only sr-only-focusable skip2content" href="#main">Skip to main content
+</a>
+<div class="nav-wrapper" id="offcanvas">
+  <div class="navbar-header">
+    <button class="menu-toggle navbar-toggle collapsed" data-target="#mobile-menu .navbar-collapse" data-toggle="collapse" type="button">
+      <span class="sr-only">Toggle navigation
+      </span>
+      <span class="fa fa-reorder fa-2x">
+      </span>
+    </button>
+    <div id="mobile-menu">
+      <div class="text-center visible-xs-block" id="mobile-toolbar">
+        <ul aria-label="Resource Links" class="list-unstyled btn-group" role="group">
+          <li class="btn btn-sm btn-default">
+            <a href="http://directory.unm.edu/departments/" title="UNM A to Z">UNM A-Z
+            </a>
+          </li>
+          <li class="btn btn-sm btn-default">
+            <a href="https://my.unm.edu" title="myUNM">myUNM
+            </a>
+          </li>
+          <li class="btn btn-sm  btn-default">
+            <a href="http://directory.unm.edu" title="Directory">Directory
+            </a>
+          </li>
+          <li class="btn btn-sm  btn-default">
+            <a href="http://search.unm.edu" title="Search">
+              <span class="fa fa-search">
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="page">
+  <!-- start nav -->
+  <div class="navbar navbar-unm">
+    <div class="container">
+      <a class="navbar-brand" href="http://www.unm.edu">The University of New Mexico
+      </a>
+      <!-- search form -->
+      <form action="//search.unm.edu/search" class="pull-right hidden-xs" id="unm_search_form" method="get">
+        <div class="input-append search-query">
+          <input accesskey="4" id="unm_search_form_q" maxlength="255" name="q" placeholder="Search" title="input search query here" type="text"/>
+          <button accesskey="s" class="btn" id="unm_search_for_submit" name="submit" title="submit search" type="submit">
+            <span class="fa fa-search">
+            </span>
+          </button>
+        </div>
+      </form>
+      <!-- end search form -->
+      <ul class="nav navbar-nav navbar-right hidden-xs" id="toolbar-nav">
+        <li>
+          <a href="http://directory.unm.edu/departments/" title="UNM A to Z">UNM A-Z
+          </a>
+        </li>
+        <li>
+          <a href="https://my.unm.edu" title="myUNM">myUNM
+          </a>
+        </li>
+        <li>
+          <a href="http://directory.unm.edu" title="Directory">Directory
+          </a>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Help
+            <span class="caret">
+            </span>
+          </a>
+          <ul class="dropdown-menu">
+            <li>
+              <a href="http://studentinfo.unm.edu" title="StudentInfo">StudentInfo
+              </a>
+            </li>
+            <li>
+              <a href="http://fastinfo.unm.edu" title="FastInfo">FastInfo
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- end  nav -->
+
+
+<div id="header">
+        <div class="container">
+          <a href="/index.html">
+            <h1>UNM Campus Histories</h1>
+            <!--<h3></h3>-->
+          </a>
+        </div>
+      </div>
+      <div id="hero">
+      </div>
+      <div id="nav">
+        <div class="container">
+          <div class="navbar navbar-top" id="horiz-nav">
+            <nav class="navbar-collapse collapse" id="horz-nav" role="navigation">
+              <ul class="nav navbar-nav" role="menubar">
+                
+                    <li><a href="/">Home</a></li>
+                
+                
+                    <li><a href="/directory">Directory</a></li>
+                
+                
+                    <li><a href="/map">Map</a></li>
+                
+                
+                    <li><a href="/credits">Credits</a></li>
+                
+                
+                    <li><a href="/code">Code Samples</a></li>
+                
+
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+
+
+<div id="upper"><div class="container"><!--UPPER--></div></div><div id="breadcrumbs"><div class="container"></div></div>
+
+<div id="my-main">
+  <div class="container layout" id="c">
+    <div class="row">
+      <div id="primary">
+        <div class="container-fluid single-col">
+  <h1 id="ortega-hall">Ortega Hall</h1>
+
+<figure class="img-center" style="width:75%">
+  <a href="images/ortega-hall-exterior-gloomy.jpg"><img src="images/ortega-hall-exterior-gloomy.jpg" alt="March, 9 1998; Looking Southeast towards Smith plaza on this gloomy winter day. The artwork of Bruce Nauman's Center of the Universe pictured on the rightside.[Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3352/rec/83)" width="100%" /></a>
+<figcaption class="img-center">
+  <p>March, 9 1998; Looking Southeast towards Smith plaza on this gloomy winter day. The artwork of Bruce Nauman’s Center of the Universe pictured on the rightside.<a href="https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3352/rec/83">Source</a></p>
+
+</figcaption>
+</figure>
+
+<h3 id="location">Location</h3>
+<p>Ortega Hall is located southwest of Zimmermann Library and east of the Smith Plaza.</p>
+
+<figure class="img-center" style="width:75%">
+  <a href="images/ortega-hall-today2.jpg"><img src="images/ortega-hall-today2.jpg" alt="Modern day showing the north side of Ortega Hall, Smith Plaza is due east which is the middle of campus. " width="100%" /></a>
+<figcaption class="img-center">
+  <p>Modern day showing the north side of Ortega Hall, Smith Plaza is due east which is the middle of campus.</p>
+
+</figcaption>
+</figure>
+
+<h3 id="history-of-the-grounds">History of the Grounds</h3>
+<p>The current location of Ortega Hall has been a busy area prior to the construction that created the hall. This area was first occupied by Zimmerman Stadium which had opened in 1938 and could hold 16,000 spectators for sporting events. The University decided to name the stadium at the first post-war Homecoming game. The President J. P. Wernette decided to dedicate the stadium in memoriam of Dr. James F. Zimmerman who was the former President of New Mexico. The stadium featured a track and field concept with stands only on the westside for fan attendance. Zimmerman Stadium was home to the New Mexico Lobo Football Team for 21 seasons with the Lobos battling other universities in atheltic competition. In 1960 the stadium turned over to intramural sports after the Lobo Football team had moved to what is now DreamStyle Stadium. After the demolition of Zimmerman Stadium in 1969 the University decided to rebuild on this area which is now occupied by Ortega Hall, Woodward Hall, and the Humanities Building.</p>
+
+<figure class="img-left" style="width:45%">
+  <a href="images/oretga-hall-zimfield1.jpg"><img src="images/oretga-hall-zimfield1.jpg" alt="Zimmerman Stadium in the 1930's, fans gathered in the stands cheering on their Lobo Football Team.[Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2693/rec/21)" width="100%" /></a>
+<figcaption class="img-left">
+  <p>Zimmerman Stadium in the 1930’s, fans gathered in the stands cheering on their Lobo Football Team.<a href="https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2693/rec/21">Source</a></p>
+
+</figcaption>
+</figure>
+
+<figure class="img-right" style="width:45%">
+  <a href="images/ortega-hall-zimbleacher.jpg"><img src="images/ortega-hall-zimbleacher.jpg" alt="Zimmerman Stadium in the 1960's, Photographer looking Northeast looking at Sandia Mountain. Photographer standing where the future Ortega Hall will be built. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2655/rec/23)" width="100%" /></a>
+<figcaption class="img-right">
+  <p>Zimmerman Stadium in the 1960’s, Photographer looking Northeast looking at Sandia Mountain. Photographer standing where the future Ortega Hall will be built. <a href="https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2655/rec/23">Source</a></p>
+
+</figcaption>
+</figure>
+
+<h3 id="construction-of-ortega-hall">Construction of Ortega Hall</h3>
+<p>After the demolition of Zimmerman Stadium the University was trying to create more opportunity for student education. With the enrollment of the University rising they needed to build and expand the University. In 1964 The Daily Lobo released an article which discussed talk about the University planning on new construction. New Mexico’s head architect Van Dorn Hooker released a statement saying “A faculty office and classroom building to be used primarily for the modern language department” Hooker said that this building would complete by second semester of 1971. In 1970 University President Ferrel Heady and Van Dorn Hooker gave the contractor job to K. L. House Construction Company, Inc. New Mexico allowed K. L. House a gross area of 53,043 square ft. and the architects of SMPC. The four that collaborated on the project consisted of Gordon Ferguson, Don Stevens, Robert Mallory, and George Pearl. Just over one year later, June 30, 1971 Ortega Hall was open and ready for University use for that coming fall semester.</p>
+
+<figure class="img-center" style="width:75%">
+  <a href="images/ortega-hall-today3.jpg"><img src="images/ortega-hall-today3.jpg" alt="Exterior view of Ortega Hall, portraying the coloration and multidimesions of the buildings design" width="100%" /></a>
+<figcaption class="img-center">
+  <p>Exterior view of Ortega Hall, portraying the coloration and multidimesions of the buildings design</p>
+
+</figcaption>
+</figure>
+
+<h3 id="the-exterior-design">The Exterior Design</h3>
+<p>This 50,000 square foot classroom and faculty office building at the University of New Mexico also contains clusters of language labratories and audiovisual rooms as well as a large student lounge and library. Completed in 1977 for a cost of $1,440,000, this first increment in the main academic area of the central campus established the upper pedestrian walkway system which connects the major academic buildings south of the central plaza.</p>
+
+<figure class="img-left" style="width:58%">
+  <a href="images/ortega-hall-exterior1.jpeg"><img src="images/ortega-hall-exterior1.jpeg" alt="Black and White exterior image taken in 1978, protrays the architectural works of Ferguson, Stevens, Mallory, and Pearl. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" width="100%" /></a>
+<figcaption class="img-left">
+  <p>Black and White exterior image taken in 1978, protrays the architectural works of Ferguson, Stevens, Mallory, and Pearl. <a href="https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml">Source</a></p>
+
+</figcaption>
+</figure>
+
+<figure class="img-right" style="width:38%">
+  <a href="images/ortega-hall-exterior-bw.jpg"><img src="images/ortega-hall-exterior-bw.jpg" alt="Black and White exterior image taken in 1978, photographer facing East to show different angles of the architecture. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" width="100%" /></a>
+<figcaption class="img-right">
+  <p>Black and White exterior image taken in 1978, photographer facing East to show different angles of the architecture. <a href="https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml">Source</a></p>
+
+</figcaption>
+</figure>
+
+<h3 id="interior-design">Interior Design</h3>
+<p>Ortega Hall, designed for the Department of Modern and Classical Languages, providing four levels of classrooms and faculty offices on a 22 ft. 6 in. module. This module can serve as a typical classroom or a group of four offices. Non-conforming elements on the first level consist of a cluster of six language labratories under control of a central console area. A similar cluster of six audiovisual classrooms grouped for rear screen projection from a central projection room. The roof over these areas becomes the pedestrian platform which forms a base of the building and provides the main circulation level for future buildings in this location. The upper and most visible portion of the structure is made up of three floors of the offices and classrooms. Dean’s suites, secretarial areas, conference rooms and unspecialized classrooms having the most use are located on the second level. An interior two-story lounge for faculty staff is located on the third level covered with a skylight allowing natural light to pass through.</p>
+<div class="carousel">
+  <div><img src="/essays/images/ortega-hall-classroom1.jpg" /></div>
+  <div><img src="/essays/images/ortega-hall-classroom2.jpg" /></div>
+  <div><img src="/essays/images/ortega-hall-classroom3.jpg" /></div>
+  <div><img src="/essays/images/ortega-hall-classroom4.jpg" /></div>
+</div>
+
+<blockquote>
+  <p>Original floor plans showing the classrooms and offices by number. These pictures show all four levels of the building that are still current in 2019. <a href="https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml">Source</a></p>
+</blockquote>
+
+<h3 id="naming-the-building">Naming the Building</h3>
+<p>The decision of the building was difficult for those involved but they had come by with a decision to honor Joaquin Ortega. Joaquin Ortega taught at a multitude of different universities across the United States. At New Mexico he was know for being a Spanish Professor, the Director of the School of Inter-American Affairs and Editor of The New Mexico Quarterly. Professor Ortega inspired students daily and left an impact of every student he encountered. Professor Ortega passed away in Rondo, Spain August 25, 1955. In memory of his passing the University named this new building after him and designated it for the study of Foreign Languages.</p>
+
+<h3 id="current-day-ortega-hall">Current Day Ortega Hall</h3>
+<p>Since the completion of Ortega Hall in 1971 their has been no changes to the exterior or interior of this architectural masterpiece. The only major changes that have happened to this building in 48 years are upgrades in the technology to promote better learning and faculty members coming and going. Personally, I do not see an immediate need for remodeling or demolishing Ortega Hall or The Humanities Building due to their unique architectural design. The appearance of these buildings truly encompass the style of the University of New Mexico.</p>
+
+<h3 id="architect-sketches">Architect Sketches</h3>
+<div class="carousel">
+  <div><img src="/essays/images/ortega-hall-drawing1.jpg" /></div>
+  <div><img src="/essays/images/ortega-hall-drawing2.jpeg" /></div>
+  <div><img src="/essays/images/ortega-hall-drawing3.jpeg" /></div>
+  <div><img src="/essays/images/ortega-hall-drawing4.jpg" /></div>
+  <div><img src="/essays/images/ortega-hall-drawing5.jpg" /></div>
+  <div><img src="/essays/images/ortega-hall-drawing6.jpg" /></div>
+</div>
+
+<blockquote>
+  <p>Preliminary drawings of Ortega Hall. First Picture showing the idea towards creating a better University. Second Picture shows the idea of roofs and bridges over the first level. Third Picture is a birdseye drawing of what the first level would represent in hallways, classrooms, and offices. Fourth Picture is a persons perspective from Smith Plaza looking at the potential building. Fifth picture shows lecture halls on the first level. Sixth Picture is a view of the two-story lounge for faculty members. <a href="https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml">Source</a></p>
+</blockquote>
+
+<hr />
+<h2 id="bibliography">Bibliography</h2>
+<ul>
+  <li>
+    <p>Gugliotta, Terry. “Ortega Hall and the Center of the Universe.” CONTENTdm, 5 Mar. 2012, econtent.unm.edu/digital/collection/ULPhotoImag/id/3352/rec/83.</p>
+  </li>
+  <li>
+    <p>University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  84. Center for Southwest Research, University Libraries, University of New Mexico.</p>
+  </li>
+  <li>
+    <p>Unknown. “Zimmerman Stadium - Stands Filled with Fans.” CONTENTdm, 8 Dec. 2011, econtent.unm.edu/digital/collection/ULPhotoImag/id/2693/rec/21.</p>
+  </li>
+  <li>
+    <p>Unknown. “Zimmerman Stadium and Zimmerman Library.” CONTENTdm, 8 Dec. 2011, econtent.unm.edu/digital/collection/ULPhotoImag/id/2655/rec/23.</p>
+  </li>
+</ul>
+
+</div> <!-- /container -->
+
+      </div>
+      <div id="secondary"></div>
+      <div id="tertiary"></div>
+    </div>
+  </div>
+</div> <!-- /main -->
+
+<div id="footer">
+<div class="container">
+<hr/><div class="row"><div class="col-md-8"><p><a href="http://www.unm.edu"><img alt="The University of New Mexico" src="https://webcore.unm.edu/v2/images/unm-transparent-white.png"/></a></p><p><small>&#169; The University of New Mexico<br/> Albuquerque, NM 87131, (505) 277-0111<br/> New Mexico's Flagship University</small></p></div><div class="col-md-4"><ul class="list-inline"><li><a href="https://www.facebook.com/universityofnewmexico" title="UNM on Facebook"><span class="fa fa-facebook-square fa-2x"><span class="sr-only">UNM on Facebook</span></span></a></li><li><a href="http://instagram.com/uofnm" title="UNM on Instagram"><span class="fa fa-instagram fa-2x"><span class="sr-only">UNM on Instagram</span></span></a></li><li><a href="https://twitter.com/unm" title="UNM on Twitter"><span class="fa fa-twitter-square fa-2x"><span class="sr-only">UNM on Twitter</span></span></a></li><li><a href="http://uofnm.tumblr.com" title="UNM on Tumblr"><span class="fa fa-tumblr-square fa-2x"><span class="sr-only">UNM on Tumblr</span></span></a></li><li><a href="http://www.youtube.com/user/unmlive" title="UNM on YouTube"><span class="fa fa-youtube-square fa-2x"><span class="sr-only">UNM on YouTube</span></span></a></li></ul><p>more at <a href="http://social.unm.edu" title="UNM Social Media Directory &amp; Information">social.unm.edu</a></p><ul class="list-inline" id="unm_footer_links"><li><a href="http://www.unm.edu/accessibility.html">Accessibility</a></li><li><a href="http://www.unm.edu/legal.html">Legal</a></li><li><a href="http://www.unm.edu/contactunm.html">Contact UNM</a></li><li><a href="http://nmhedss2.state.nm.us/Dashboard/index.aspx?ID=21">New Mexico Higher Education Dashboard</a></li></ul></div></div></div></div></div><div id="totop"><span class="fa fa-arrow-circle-up"></span></div>
+
+
+  <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
+
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <script src="/js/myslick.js"></script>
+
+  <script type="text/javascript" src="/js/bigfoot.min.js"></script>
+  <script type="text/javascript">$.bigfoot();</script>
+
+
+</body>
+</html>

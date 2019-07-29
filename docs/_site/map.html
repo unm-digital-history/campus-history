@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html>
+
+<!--
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="/favicon.ico">
+
+  <title></title>
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+
+  <script
+    src="https://code.jquery.com/jquery-1.9.1.min.js"
+    integrity="sha256-wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ="
+    crossorigin="anonymous"></script>
+
+    <script
+      src="https://code.jquery.com/ui/1.9.2/jquery-ui.min.js"
+      integrity="sha256-eEa1kEtgK9ZL6h60VXwDsJ2rxYCwfxi40VZ9E0XwoEA="
+      crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.css"/>
+  <link href="/css/bigfoot-number.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
+
+<!-- unm css -->
+  <link href="//webcore.unm.edu/v1/images/unm.ico" rel="shortcut icon"/>
+  <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7254094/6839152/css/fonts.css" />
+  <link href="//webcore.unm.edu/v2/css/unm-styles.min.css" rel="stylesheet"/>
+
+<!-- unm code -->
+  <script src="//webcore.unm.edu/v2/js/unm-scripts.min.js" type="text/javascript"></script>
+  <script src="//webcore.unm.edu/v2/js/html5shiv.min.js"></script>
+  <script src="//webcore.unm.edu/v2/js/respond.min.js"></script>
+  <link href="//webcore.unm.edu/v2/js/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+
+<!-- custom css -->
+  <link href="/css/main.css" rel="stylesheet">
+
+
+</head>
+
+-->
+
+<body style="height:100%">
+
+<!-- container to hold menus on collapse -->
+<a accesskey="2" class="sr-only sr-only-focusable skip2content" href="#main">Skip to main content
+</a>
+<div class="nav-wrapper" id="offcanvas">
+  <div class="navbar-header">
+    <button class="menu-toggle navbar-toggle collapsed" data-target="#mobile-menu .navbar-collapse" data-toggle="collapse" type="button">
+      <span class="sr-only">Toggle navigation
+      </span>
+      <span class="fa fa-reorder fa-2x">
+      </span>
+    </button>
+    <div id="mobile-menu">
+      <div class="text-center visible-xs-block" id="mobile-toolbar">
+        <ul aria-label="Resource Links" class="list-unstyled btn-group" role="group">
+          <li class="btn btn-sm btn-default">
+            <a href="http://directory.unm.edu/departments/" title="UNM A to Z">UNM A-Z
+            </a>
+          </li>
+          <li class="btn btn-sm btn-default">
+            <a href="https://my.unm.edu" title="myUNM">myUNM
+            </a>
+          </li>
+          <li class="btn btn-sm  btn-default">
+            <a href="http://directory.unm.edu" title="Directory">Directory
+            </a>
+          </li>
+          <li class="btn btn-sm  btn-default">
+            <a href="http://search.unm.edu" title="Search">
+              <span class="fa fa-search">
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="page">
+  <!-- start nav -->
+  <div class="navbar navbar-unm">
+    <div class="container">
+      <a class="navbar-brand" href="http://www.unm.edu">The University of New Mexico
+      </a>
+      <!-- search form -->
+      <form action="//search.unm.edu/search" class="pull-right hidden-xs" id="unm_search_form" method="get">
+        <div class="input-append search-query">
+          <input accesskey="4" id="unm_search_form_q" maxlength="255" name="q" placeholder="Search" title="input search query here" type="text"/>
+          <button accesskey="s" class="btn" id="unm_search_for_submit" name="submit" title="submit search" type="submit">
+            <span class="fa fa-search">
+            </span>
+          </button>
+        </div>
+      </form>
+      <!-- end search form -->
+      <ul class="nav navbar-nav navbar-right hidden-xs" id="toolbar-nav">
+        <li>
+          <a href="http://directory.unm.edu/departments/" title="UNM A to Z">UNM A-Z
+          </a>
+        </li>
+        <li>
+          <a href="https://my.unm.edu" title="myUNM">myUNM
+          </a>
+        </li>
+        <li>
+          <a href="http://directory.unm.edu" title="Directory">Directory
+          </a>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Help
+            <span class="caret">
+            </span>
+          </a>
+          <ul class="dropdown-menu">
+            <li>
+              <a href="http://studentinfo.unm.edu" title="StudentInfo">StudentInfo
+              </a>
+            </li>
+            <li>
+              <a href="http://fastinfo.unm.edu" title="FastInfo">FastInfo
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- end  nav -->
+
+<div id="header">
+        <div class="container">
+          <a href="/index.html">
+            <h1>UNM Campus Histories</h1>
+            <!--<h3></h3>-->
+          </a>
+        </div>
+      </div>
+      <div id="hero">
+      </div>
+      <div id="nav">
+        <div class="container">
+          <div class="navbar navbar-top" id="horiz-nav">
+            <nav class="navbar-collapse collapse" id="horz-nav" role="navigation">
+              <ul class="nav navbar-nav" role="menubar">
+                
+                    <li><a href="/">Home</a></li>
+                
+                
+                    <li><a href="/directory">Directory</a></li>
+                
+                
+                    <li><a class="active"  href="#">Map</a></li>
+                
+                
+                    <li><a href="/credits">Credits</a></li>
+                
+                
+                    <li><a href="/code">Code Samples</a></li>
+                
+
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+  integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+  crossorigin=""/>
+
+  <!-- Make sure you put this AFTER Leaflet's CSS -->
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+    integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+    crossorigin=""></script>
+
+<script src="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.css" />
+
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+
+<script
+  src="https://code.jquery.com/jquery-1.9.1.min.js"
+  integrity="sha256-wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ="
+  crossorigin="anonymous"></script>
+
+  <script
+    src="https://code.jquery.com/ui/1.9.2/jquery-ui.min.js"
+    integrity="sha256-eEa1kEtgK9ZL6h60VXwDsJ2rxYCwfxi40VZ9E0XwoEA="
+    crossorigin="anonymous"></script>
+
+
+<link href="/css/main.css" rel="stylesheet">
+<link href="/css/map.css" rel="stylesheet">
+
+
+<script src="/js/sheetrock.min.js"></script>
+<script src="/js/map.js"></script>
+<script src="/js/togeojson.js"></script>
+<script src="/js/SliderControl.js"></script>
+
+<div class="main" style="height:100%">
+
+<!--Sheetrock expects to be outputting HTML for each row, so here's a place to put it.-->
+<div id="sheetrock"></div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <nav id="menu"></nav>
+      <div id="mapid"></div>
+    </div>
+  </div>
+</div>
+
+</div> <!-- /main -->
+
+
+<script>
+console.log("now generating map.");
+
+var sliderControl = null;
+var map = L.map('mapid').setView([35.0839282, -106.620724], 16);
+var allFeatures = {"type": "FeatureCollection","features": [] };
+var allGroups = {};
+
+allGroups["offices"] =
+  {"group": new L.FeatureGroup(),
+    "style": {
+      "color": "#ffc600",
+      "weight": 2,
+      "opacity": 0.65
+    }
+  };
+
+  allGroups["dorm"] =
+    {"group": new L.FeatureGroup(),
+      "style": {
+        "color": "#ed8b00",
+        "weight": 2,
+        "opacity": 0.65
+      }
+    };
+
+    allGroups["admin"] =
+    {"group": new L.FeatureGroup(),
+    "style": {
+      "color": "#a7a8aa",
+      "weight": 2,
+      "opacity": 0.65
+    }
+    };
+
+    allGroups["nature"] =
+      {"group": new L.FeatureGroup(),
+        "style": {
+          "color": "#a8aa19",
+          "weight": 2,
+          "opacity": 0.65
+        }
+      };
+
+    allGroups["art"] =
+        {"group": new L.FeatureGroup(),
+          "style": {
+            "color": "#007a86",
+            "weight": 2,
+            "opacity": 0.65
+          }
+        };
+
+    allGroups["activity"] =
+        {"group": new L.FeatureGroup(),
+          "style": {
+            "color": "#8a387c",
+            "weight": 2,
+            "opacity": 0.65
+          }
+        };
+
+      allGroups["classrooms"] =
+          {"group": new L.FeatureGroup(),
+            "style": {
+              "color": "#ba0c2f",
+              "weight": 2,
+              "opacity": 0.65
+            }
+          };
+
+      allGroups["library"] =
+          {"group": new L.FeatureGroup(),
+            "style": {
+              "color": "#c05131",
+              "weight": 2,
+              "opacity": 0.65
+            }
+          };
+
+      allGroups["unknown"] =
+        {"group": new L.FeatureGroup(),
+          "style": {
+            "color": "#d6a461",
+            "weight": 2,
+            "opacity": 0.65
+          }
+        };
+
+
+var groupNames = [];
+for (var key in allGroups) {
+  groupNames.push(key);
+}
+
+//var ghostGroup = new L.FeatureGroup();
+//var currentGroup = new L.FeatureGroup();
+
+/*
+// Default for testing
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox.streets',
+    accessToken: 'pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ'
+}).addTo(map);
+*/
+
+L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ', {
+  maxZoom: 20,
+  attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+    '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+    'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+  id: 'mapbox.streets'
+}).addTo(map);
+
+
+// when document is loaded (the map object exists)
+$( function() {
+  console.log("calling getMarkers.");
+
+  // getMarkers gets the data from the sheet and executes the below callback function
+  getMarkers(function(markers) {
+    console.log("done loading data from sheet. now in callback and about to display markers");
+
+    // loop through rows, load KML files, and bind popup.
+
+    var processItemsDeferred = [];
+
+    for(var i = 0; i < markers.length; i++){
+      processItemsDeferred.push(processItem(markers[i]));
+    }
+
+    $.when.apply($, processItemsDeferred).then(everythingDone);
+
+    function processItem(marker) {
+      console.log('called processItem');
+      var dfd = $.Deferred();
+
+      //in the real world, this would probably make an AJAX call.
+      //setTimeout(function() { dfd.resolve() }, 2000);
+      loadMarker(marker, dfd);
+
+      return dfd.promise();
+
+    }
+
+    function everythingDone(){
+      //alert('processed all items');
+      console.log('processed all items');
+      console.log(allFeatures);
+      console.log(allFeatures.features[0]);
+
+
+      console.log("setting up timeline");
+      //Create a marker layer (in the example done via a GeoJSON FeatureCollection)
+      var testlayer = L.geoJson(allFeatures);
+      console.log(testlayer);
+
+      //Make sure to add the slider to the map ;-)
+      console.log("adding slider control...");
+      var sliderControl = L.control.sliderControl({
+        position: "topright",
+        layer: testlayer,
+        isEpoch: true,
+        timeStrLength: 15,
+        timeAttribute:'start'
+      });
+
+      map.addControl(sliderControl);
+
+      sliderControl.options.markers.sort(function(a, b) {
+          console.log("sorting...");
+          return (a.feature.properties.start > b.feature.properties.start);
+      });
+
+
+      //And initialize the slider
+      console.log("starting slider...");
+      sliderControl.startSlider();
+      //map.addLayer(testlayer);
+
+      }
+
+
+    //$.each(markers, loadMarker);
+    //console.log("each loop called.");
+
+    var buildingGroupLayers = {};
+
+    // create control for layers
+    for (var i = 0; i < groupNames.length; i++) {
+      var currentName = groupNames[i];
+      var layerSwatch = '';
+      console.log("setting up " + currentName);
+      console.log("color: " + allGroups[currentName].style.color);
+
+      layerSwatch = '<div class="color-box" style="background-color: '+ allGroups[currentName].style.color + ';"></div>';
+      buildingGroupLayers[layerSwatch + currentName] = allGroups[currentName].group;
+      //buildingGroupLayers[currentName] = allGroups[currentName].group;
+
+      // add layer to map
+      map.addLayer(allGroups[currentName].group);
+    } // end create control loop
+
+    //console.log(buildingGroupLayers);
+
+    // add control to map
+    var mycontrol = L.control.layers(null,buildingGroupLayers).addTo(map);
+  }); // end callback function for getmarkers
+
+
+}); // end autostart function after page load.
+
+
+
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="/favicon.ico">
+
+  <title>McKinnon Center for Management</title>
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+
+  <script
+    src="https://code.jquery.com/jquery-1.9.1.min.js"
+    integrity="sha256-wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ="
+    crossorigin="anonymous"></script>
+
+    <script
+      src="https://code.jquery.com/ui/1.9.2/jquery-ui.min.js"
+      integrity="sha256-eEa1kEtgK9ZL6h60VXwDsJ2rxYCwfxi40VZ9E0XwoEA="
+      crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.css"/>
+  <link href="/css/bigfoot-number.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
+
+<!-- unm css -->
+  <link href="//webcore.unm.edu/v1/images/unm.ico" rel="shortcut icon"/>
+  <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7254094/6839152/css/fonts.css" />
+  <link href="//webcore.unm.edu/v2/css/unm-styles.min.css" rel="stylesheet"/>
+
+<!-- unm code -->
+  <script src="//webcore.unm.edu/v2/js/unm-scripts.min.js" type="text/javascript"></script>
+  <script src="//webcore.unm.edu/v2/js/html5shiv.min.js"></script>
+  <script src="//webcore.unm.edu/v2/js/respond.min.js"></script>
+  <link href="//webcore.unm.edu/v2/js/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+
+<!-- custom css -->
+  <link href="/css/main.css" rel="stylesheet">
+
+
+</head>
+
+
+<body id="home">
+  <!-- Google Tag Manager -->
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQT2MB"
+          height="0" width="0" style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+<script>(function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({
+      'gtm.start':
+      new Date().getTime(),event:'gtm.js'}
+             );
+    var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);
+  }
+        )(window,document,'script','dataLayer','GTM-WQT2MB');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- container to hold menus on collapse -->
+<a accesskey="2" class="sr-only sr-only-focusable skip2content" href="#main">Skip to main content
+</a>
+<div class="nav-wrapper" id="offcanvas">
+  <div class="navbar-header">
+    <button class="menu-toggle navbar-toggle collapsed" data-target="#mobile-menu .navbar-collapse" data-toggle="collapse" type="button">
+      <span class="sr-only">Toggle navigation
+      </span>
+      <span class="fa fa-reorder fa-2x">
+      </span>
+    </button>
+    <div id="mobile-menu">
+      <div class="text-center visible-xs-block" id="mobile-toolbar">
+        <ul aria-label="Resource Links" class="list-unstyled btn-group" role="group">
+          <li class="btn btn-sm btn-default">
+            <a href="http://directory.unm.edu/departments/" title="UNM A to Z">UNM A-Z
+            </a>
+          </li>
+          <li class="btn btn-sm btn-default">
+            <a href="https://my.unm.edu" title="myUNM">myUNM
+            </a>
+          </li>
+          <li class="btn btn-sm  btn-default">
+            <a href="http://directory.unm.edu" title="Directory">Directory
+            </a>
+          </li>
+          <li class="btn btn-sm  btn-default">
+            <a href="http://search.unm.edu" title="Search">
+              <span class="fa fa-search">
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="page">
+  <!-- start nav -->
+  <div class="navbar navbar-unm">
+    <div class="container">
+      <a class="navbar-brand" href="http://www.unm.edu">The University of New Mexico
+      </a>
+      <!-- search form -->
+      <form action="//search.unm.edu/search" class="pull-right hidden-xs" id="unm_search_form" method="get">
+        <div class="input-append search-query">
+          <input accesskey="4" id="unm_search_form_q" maxlength="255" name="q" placeholder="Search" title="input search query here" type="text"/>
+          <button accesskey="s" class="btn" id="unm_search_for_submit" name="submit" title="submit search" type="submit">
+            <span class="fa fa-search">
+            </span>
+          </button>
+        </div>
+      </form>
+      <!-- end search form -->
+      <ul class="nav navbar-nav navbar-right hidden-xs" id="toolbar-nav">
+        <li>
+          <a href="http://directory.unm.edu/departments/" title="UNM A to Z">UNM A-Z
+          </a>
+        </li>
+        <li>
+          <a href="https://my.unm.edu" title="myUNM">myUNM
+          </a>
+        </li>
+        <li>
+          <a href="http://directory.unm.edu" title="Directory">Directory
+          </a>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Help
+            <span class="caret">
+            </span>
+          </a>
+          <ul class="dropdown-menu">
+            <li>
+              <a href="http://studentinfo.unm.edu" title="StudentInfo">StudentInfo
+              </a>
+            </li>
+            <li>
+              <a href="http://fastinfo.unm.edu" title="FastInfo">FastInfo
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- end  nav -->
+
+
+<div id="header">
+        <div class="container">
+          <a href="/index.html">
+            <h1>UNM Campus Histories</h1>
+            <!--<h3></h3>-->
+          </a>
+        </div>
+      </div>
+      <div id="hero">
+      </div>
+      <div id="nav">
+        <div class="container">
+          <div class="navbar navbar-top" id="horiz-nav">
+            <nav class="navbar-collapse collapse" id="horz-nav" role="navigation">
+              <ul class="nav navbar-nav" role="menubar">
+                
+                    <li><a href="/">Home</a></li>
+                
+                
+                    <li><a href="/directory">Directory</a></li>
+                
+                
+                    <li><a href="/map">Map</a></li>
+                
+                
+                    <li><a href="/credits">Credits</a></li>
+                
+                
+                    <li><a href="/code">Code Samples</a></li>
+                
+
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+
+
+<div id="upper"><div class="container"><!--UPPER--></div></div><div id="breadcrumbs"><div class="container"></div></div>
+
+<div id="my-main">
+  <div class="container layout" id="c">
+    <div class="row">
+      <div id="primary">
+        <div class="container-fluid single-col">
+  <figure class="img-center" style="width:100%">
+  <a href="images/mcm.jpg"><img src="images/mcm.jpg" alt="The McKinnon Center for Management, UNM's most modern development and the latest addition to The School of Management. [_Source_](https://www.mgt.unm.edu/building/construction-photos.asp)" width="100%" /></a>
+<figcaption class="img-center">
+  <p>The McKinnon Center for Management, UNM’s most modern development and the latest addition to The School of Management. <a href="https://www.mgt.unm.edu/building/construction-photos.asp"><em>Source</em></a></p>
+
+</figcaption>
+</figure>
+
+<h1 id="background">Background</h1>
+
+<p>The McKinnon Center for Management is the staple of UNM’s northern edge of campus.  The multi-story
+building was constructed as a replacement for the deteriorating Anderson School of Management
+building, and $5 million of the total $25.4 million funds were donated to UNM by Ian and Sonnet McKinnon.  The building
+became accessible to students in the summer of 2018 after a year and a half of construction dating back
+to December 2016.  The building adjacent to MCM previously known as the Graduate School of
+Management has now assumed the Anderson School of Management title.  Together, these buildings make
+up the school of business at UNM.</p>
+
+<h1 id="construction">Construction</h1>
+<figure class="img-right" style="width:40%">
+  <a href="images/mcm-blueprints.jpg"><img src="images/mcm-blueprints.jpg" alt="MCM Blueprints, outlining the construction site.  Notice the extension of the outline into UNM's campus and how limiting it made surrounding pathways. [_Source_](https://www.mgt.unm.edu/building/default.asp)" width="100%" /></a>
+<figcaption class="img-right">
+  <p>MCM Blueprints, outlining the construction site.  Notice the extension of the outline into UNM’s campus and how limiting it made surrounding pathways. <a href="https://www.mgt.unm.edu/building/default.asp"><em>Source</em></a></p>
+
+</figcaption>
+</figure>
+
+<p>Construction for the new management building began in December of 2016.  The plan was to demolish
+the current west ASM building and erect the new one in its place rather than moving locations.  This portion
+of campus proved to be an area where student traffic was at a high and having to shut the area down
+for construction limited mobility and created multiple detours of common routes.  Buildings around this
+area included the Collaborative Teaching and Learning Building and the Economics building, as well as
+Hokona Hall.  The northern edge of campus was gated off and prevented students from accessing these
+buildings without seeking an alternate route.  These gates extended into campus as far as the CTLB.</p>
+
+<figure class="img-left" style="width:32%">
+  <a href="images/mcm-construction-1.jpg"><img src="images/mcm-construction-1.jpg" alt="The demolition of the West ASM building. The East ASM building was not included in the demolition but was definitely affected. [_Source_](https://www.mgt.unm.edu/building/construction-photos.asp)" width="100%" /></a>
+<figcaption class="img-left">
+  <p>The demolition of the West ASM building. The East ASM building was not included in the demolition but was definitely affected. <a href="https://www.mgt.unm.edu/building/construction-photos.asp"><em>Source</em></a></p>
+
+</figcaption>
+</figure>
+
+<figure class="img-right" style="width:32%">
+  <a href="images/mcm-construction-4.jpg"><img src="images/mcm-construction-4.jpg" alt="Removal of interior materials to be separated and recycled. [_Source_](https://www.mgt.unm.edu/building/construction-photos.asp)" width="100%" /></a>
+<figcaption class="img-right">
+  <p>Removal of interior materials to be separated and recycled. <a href="https://www.mgt.unm.edu/building/construction-photos.asp"><em>Source</em></a></p>
+
+</figcaption>
+</figure>
+
+<figure class="img-center" style="width:32%">
+  <a href="images/mcm-construction-2.jpg"><img src="images/mcm-construction-2.jpg" alt="Early morning construction while campus is empty. Crews worked long days to finish the construction in a timely manner in order to limit campus inaccessbibility as much as possible. [_Source_](https://www.mgt.unm.edu/building/construction-photos.asp)" width="100%" /></a>
+<figcaption class="img-center">
+  <p>Early morning construction while campus is empty. Crews worked long days to finish the construction in a timely manner in order to limit campus inaccessbibility as much as possible. <a href="https://www.mgt.unm.edu/building/construction-photos.asp"><em>Source</em></a></p>
+
+</figcaption>
+</figure>
+
+<h1 id="side-effects">Side Effects</h1>
+
+<p>What was once a bustling area of students had now become a loud and distracting eyesore of a
+construction zone.  Students with classes in surrounding buildings were met with a displeasing view
+when they looked out the window, and the sounds generated from construction were often so loud that
+they forced professors to cancel class.  Nonetheless, crews worked long hours daily in order to complete
+the building as fast as possible, knowing that the constant disturbances were uncontrollable issues for
+the university.</p>
+
+<figure class="img-left" style="width:40%">
+  <a href="images/mcm-construction-5.jpg"><img src="images/mcm-construction-5.jpg" alt="Skeletal structure of MCM. The large construction zone created hazards and difficulties for students and staff who had classes in the surrounding buildings. [_Source_](https://www.mgt.unm.edu/building/construction-photos.asp)" width="100%" /></a>
+<figcaption class="img-left">
+  <p>Skeletal structure of MCM. The large construction zone created hazards and difficulties for students and staff who had classes in the surrounding buildings. <a href="https://www.mgt.unm.edu/building/construction-photos.asp"><em>Source</em></a></p>
+
+</figcaption>
+</figure>
+
+<p>Not only was the surrounding area affected by construction, but classes offered by ASM had to be
+moved to both the Graduate School of Management building and the east ASM building, where classrooms were limited
+and professors had to adjust to their new classroom layouts.  In addition, the progression of construction led to new
+boundaries being formed. At one point, students were forced to walk through fences around the
+entirety of the east ASM building just to get to their classrooms.</p>
+
+<h1 id="completion">Completion</h1>
+
+<figure class="img-right" style="width:38%">
+  <a href="images/mcm-ribbon-cutting.jpg"><img src="images/mcm-ribbon-cutting.jpg" alt="The Grand Opening of McKinnon Center for Management on March 15, 2018. The opening and final inspection of the building were completed just in time for UNM's fall semester. [_Source_](https://www.mgt.unm.edu/news/highlights/2018/05/mcm-ribbon-cutting.asp)" width="100%" /></a>
+<figcaption class="img-right">
+  <p>The Grand Opening of McKinnon Center for Management on March 15, 2018. The opening and final inspection of the building were completed just in time for UNM’s fall semester. <a href="https://www.mgt.unm.edu/news/highlights/2018/05/mcm-ribbon-cutting.asp"><em>Source</em></a></p>
+
+</figcaption>
+</figure>
+
+<p>Much to the joy of professors and students alike, the construction of the McKinnon Center for
+Management was completed on March 15, 2018.  The building would undergo further tests to make
+sure it was safe and secure.  By May 11, the MCM was officially open.  The grounds around the building
+were littered with benches, rock beds, and grassy patches, and the design of the building itself made it stand out
+well above the others in surrounding.  The building is easily noticeable when standing on the street just north of it,
+as it is the largest and cleanest building on UNM’s northern campus.</p>
+
+<h1 id="mcm-today">MCM Today</h1>
+
+<figure class="img-left" style="width:40%">
+  <a href="images/mcm-today.jpg"><img src="images/mcm-today.jpg" alt="The first semester that students were able to access the new extension of UNM's school of management. The area where the students are standing had previously been gated off for a year and a half. [_Source_](https://www.mgt.unm.edu/news/highlights/2018/05/mcm-ribbon-cutting.asp)" width="100%" /></a>
+<figcaption class="img-left">
+  <p>The first semester that students were able to access the new extension of UNM’s school of management. The area where the students are standing had previously been gated off for a year and a half. <a href="https://www.mgt.unm.edu/news/highlights/2018/05/mcm-ribbon-cutting.asp"><em>Source</em></a></p>
+
+</figcaption>
+</figure>
+
+<p>After not even a year of being accessible to students at the time that this was written, the McKinnon
+Center for Management has already proved itself to be one of the most prominent buildings featured on
+UNM’s campus, as well as the most modern.  The building also came with a new student drop-off zone,
+which only makes the area more easily accessible.  MCM is forecasted to last about 50 years, and in that
+time it will continue to house an innovative business culture for students and staff.</p>
+
+</div> <!-- /container -->
+
+      </div>
+      <div id="secondary"></div>
+      <div id="tertiary"></div>
+    </div>
+  </div>
+</div> <!-- /main -->
+
+<div id="footer">
+<div class="container">
+<hr/><div class="row"><div class="col-md-8"><p><a href="http://www.unm.edu"><img alt="The University of New Mexico" src="https://webcore.unm.edu/v2/images/unm-transparent-white.png"/></a></p><p><small>&#169; The University of New Mexico<br/> Albuquerque, NM 87131, (505) 277-0111<br/> New Mexico's Flagship University</small></p></div><div class="col-md-4"><ul class="list-inline"><li><a href="https://www.facebook.com/universityofnewmexico" title="UNM on Facebook"><span class="fa fa-facebook-square fa-2x"><span class="sr-only">UNM on Facebook</span></span></a></li><li><a href="http://instagram.com/uofnm" title="UNM on Instagram"><span class="fa fa-instagram fa-2x"><span class="sr-only">UNM on Instagram</span></span></a></li><li><a href="https://twitter.com/unm" title="UNM on Twitter"><span class="fa fa-twitter-square fa-2x"><span class="sr-only">UNM on Twitter</span></span></a></li><li><a href="http://uofnm.tumblr.com" title="UNM on Tumblr"><span class="fa fa-tumblr-square fa-2x"><span class="sr-only">UNM on Tumblr</span></span></a></li><li><a href="http://www.youtube.com/user/unmlive" title="UNM on YouTube"><span class="fa fa-youtube-square fa-2x"><span class="sr-only">UNM on YouTube</span></span></a></li></ul><p>more at <a href="http://social.unm.edu" title="UNM Social Media Directory &amp; Information">social.unm.edu</a></p><ul class="list-inline" id="unm_footer_links"><li><a href="http://www.unm.edu/accessibility.html">Accessibility</a></li><li><a href="http://www.unm.edu/legal.html">Legal</a></li><li><a href="http://www.unm.edu/contactunm.html">Contact UNM</a></li><li><a href="http://nmhedss2.state.nm.us/Dashboard/index.aspx?ID=21">New Mexico Higher Education Dashboard</a></li></ul></div></div></div></div></div><div id="totop"><span class="fa fa-arrow-circle-up"></span></div>
+
+
+  <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
+
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <script src="/js/myslick.js"></script>
+
+  <script type="text/javascript" src="/js/bigfoot.min.js"></script>
+  <script type="text/javascript">$.bigfoot();</script>
+
+
+</body>
+</html>

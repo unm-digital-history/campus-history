@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="/favicon.ico">
+
+  <title>center-of-the-universe</title>
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+
+  <script
+    src="https://code.jquery.com/jquery-1.9.1.min.js"
+    integrity="sha256-wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ="
+    crossorigin="anonymous"></script>
+
+    <script
+      src="https://code.jquery.com/ui/1.9.2/jquery-ui.min.js"
+      integrity="sha256-eEa1kEtgK9ZL6h60VXwDsJ2rxYCwfxi40VZ9E0XwoEA="
+      crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.css"/>
+  <link href="/css/bigfoot-number.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
+
+<!-- unm css -->
+  <link href="//webcore.unm.edu/v1/images/unm.ico" rel="shortcut icon"/>
+  <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7254094/6839152/css/fonts.css" />
+  <link href="//webcore.unm.edu/v2/css/unm-styles.min.css" rel="stylesheet"/>
+
+<!-- unm code -->
+  <script src="//webcore.unm.edu/v2/js/unm-scripts.min.js" type="text/javascript"></script>
+  <script src="//webcore.unm.edu/v2/js/html5shiv.min.js"></script>
+  <script src="//webcore.unm.edu/v2/js/respond.min.js"></script>
+  <link href="//webcore.unm.edu/v2/js/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+
+<!-- custom css -->
+  <link href="/css/main.css" rel="stylesheet">
+
+
+</head>
+
+
+<body id="home">
+  <!-- Google Tag Manager -->
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQT2MB"
+          height="0" width="0" style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+<script>(function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({
+      'gtm.start':
+      new Date().getTime(),event:'gtm.js'}
+             );
+    var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);
+  }
+        )(window,document,'script','dataLayer','GTM-WQT2MB');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- container to hold menus on collapse -->
+<a accesskey="2" class="sr-only sr-only-focusable skip2content" href="#main">Skip to main content
+</a>
+<div class="nav-wrapper" id="offcanvas">
+  <div class="navbar-header">
+    <button class="menu-toggle navbar-toggle collapsed" data-target="#mobile-menu .navbar-collapse" data-toggle="collapse" type="button">
+      <span class="sr-only">Toggle navigation
+      </span>
+      <span class="fa fa-reorder fa-2x">
+      </span>
+    </button>
+    <div id="mobile-menu">
+      <div class="text-center visible-xs-block" id="mobile-toolbar">
+        <ul aria-label="Resource Links" class="list-unstyled btn-group" role="group">
+          <li class="btn btn-sm btn-default">
+            <a href="http://directory.unm.edu/departments/" title="UNM A to Z">UNM A-Z
+            </a>
+          </li>
+          <li class="btn btn-sm btn-default">
+            <a href="https://my.unm.edu" title="myUNM">myUNM
+            </a>
+          </li>
+          <li class="btn btn-sm  btn-default">
+            <a href="http://directory.unm.edu" title="Directory">Directory
+            </a>
+          </li>
+          <li class="btn btn-sm  btn-default">
+            <a href="http://search.unm.edu" title="Search">
+              <span class="fa fa-search">
+              </span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="page">
+  <!-- start nav -->
+  <div class="navbar navbar-unm">
+    <div class="container">
+      <a class="navbar-brand" href="http://www.unm.edu">The University of New Mexico
+      </a>
+      <!-- search form -->
+      <form action="//search.unm.edu/search" class="pull-right hidden-xs" id="unm_search_form" method="get">
+        <div class="input-append search-query">
+          <input accesskey="4" id="unm_search_form_q" maxlength="255" name="q" placeholder="Search" title="input search query here" type="text"/>
+          <button accesskey="s" class="btn" id="unm_search_for_submit" name="submit" title="submit search" type="submit">
+            <span class="fa fa-search">
+            </span>
+          </button>
+        </div>
+      </form>
+      <!-- end search form -->
+      <ul class="nav navbar-nav navbar-right hidden-xs" id="toolbar-nav">
+        <li>
+          <a href="http://directory.unm.edu/departments/" title="UNM A to Z">UNM A-Z
+          </a>
+        </li>
+        <li>
+          <a href="https://my.unm.edu" title="myUNM">myUNM
+          </a>
+        </li>
+        <li>
+          <a href="http://directory.unm.edu" title="Directory">Directory
+          </a>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Help
+            <span class="caret">
+            </span>
+          </a>
+          <ul class="dropdown-menu">
+            <li>
+              <a href="http://studentinfo.unm.edu" title="StudentInfo">StudentInfo
+              </a>
+            </li>
+            <li>
+              <a href="http://fastinfo.unm.edu" title="FastInfo">FastInfo
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- end  nav -->
+
+
+<div id="header">
+        <div class="container">
+          <a href="/index.html">
+            <h1>UNM Campus Histories</h1>
+            <!--<h3></h3>-->
+          </a>
+        </div>
+      </div>
+      <div id="hero">
+      </div>
+      <div id="nav">
+        <div class="container">
+          <div class="navbar navbar-top" id="horiz-nav">
+            <nav class="navbar-collapse collapse" id="horz-nav" role="navigation">
+              <ul class="nav navbar-nav" role="menubar">
+                
+                    <li><a href="/">Home</a></li>
+                
+                
+                    <li><a href="/directory">Directory</a></li>
+                
+                
+                    <li><a href="/map">Map</a></li>
+                
+                
+                    <li><a href="/credits">Credits</a></li>
+                
+                
+                    <li><a href="/code">Code Samples</a></li>
+                
+
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+
+
+<div id="upper"><div class="container"><!--UPPER--></div></div><div id="breadcrumbs"><div class="container"></div></div>
+
+<div id="my-main">
+  <div class="container layout" id="c">
+    <div class="row">
+      <div id="primary">
+        <div class="container-fluid single-col">
+  <h1 id="the-center-of-the-universe-controversy-in-concrete">The Center of the Universe: Controversy in Concrete</h1>
+
+<p>Some may call it an eyesore. Others may call it misunderstood. From the moment the Center of the Universe was conceived by artist Bruce Nauman, it was met with controversy. This tower of concrete that juts out above, below, and to all sides and is lit only by halogen lamps has seen so much anger and outrage, that sometimes it’s hard to believe. Yet, despite all that’s happened to it over the thirty one years since its completion, the <em>Center of the Universe</em> continues to stand tall between Mitchell and Ortega hall.</p>
+
+<h3 id="the-big-bang">The Big Bang</h3>
+
+<figure class="img-center" style="width:100%">
+  <a href="images\cotu-sketch.png"><img src="images\cotu-sketch.png" alt="An original sketch for the sculpture by Bruce Nauman, 1988. Facility Planning #028, Oversize Drawer" width="100%" /></a>
+<figcaption class="img-center">
+  <p>An original sketch for the sculpture by Bruce Nauman, 1988. Facility Planning #028, Oversize Drawer</p>
+
+</figcaption>
+</figure>
+
+<p>Nauman was first commissioned for a sculpture at UNM in 1983, which was initially going to be titled <em>Abstract Stadium</em>, and would be a set of concrete bleachers that were sixty feet long and fifteen feet high, located by the Zimmerman Library. Out of fear that people might fall off, UNM denied the initial proposal, and a new sculpture was commissioned by the National Endowment for the Arts. The organization offered up a whopping fifty thousand dollars, which was somehow matched by private donors and the UNM Foundation. With a wallet full of a hundred thousand dollars and a dream, Nauman began to plan his work. The artist admitted that it was not originally going to be called the <em>Center of the Universe</em>; this idea just happened upon him midway into development of the structure. However, once the plans were public and the sculpture was complete, that’s when the controversy began.</p>
+
+<figure class="img-center" style="width:100%">
+  <a href="images\cotu-construction.png"><img src="images\cotu-construction.png" alt="The *Center of the Universe* under construction in 1988. Photo taken for the Albuquerque Journal, Vol 11 No 19, Facility Planning #028" width="100%" /></a>
+<figcaption class="img-center">
+  <p>The <em>Center of the Universe</em> under construction in 1988. Photo taken for the Albuquerque Journal, Vol 11 No 19, Facility Planning #028</p>
+
+</figcaption>
+</figure>
+
+<h3 id="the-center-of-whose-universe">The Center of Whose Universe?</h3>
+
+<figure class="img-center" style="width:100%">
+  <a href="images\cotu-controversy.png"><img src="images\cotu-controversy.png" alt="The installation was highly controversial, and often appeared in newspapers. Photo taken for the Albuquerque Journal, Vol 11 No 19, Facility Planning #028" width="100%" /></a>
+<figcaption class="img-center">
+  <p>The installation was highly controversial, and often appeared in newspapers. Photo taken for the Albuquerque Journal, Vol 11 No 19, Facility Planning #028</p>
+
+</figcaption>
+</figure>
+
+<p>Faculty, staff, students, even just regular Albuquerque citizens all seemed to be offended by the very existence of this piece. Now, take a moment to imagine that you’ve created a walk through art installation. You’ve set it up on a college campus, not too far from the art building. It’s your piece, your ideas, but it doesn’t seem like it fits the overall aesthetic of the university. Then, the outrage begins to pour in. “A useless concrete behemoth. It’s a great place for rapists to hang out.” Cheryl Hoffman mutters. “There’s nothing to show that it’s a work of art. It’s just a thing that somebody put up.” Mike De Vries says. “It’s ruined a perfectly good bicycle parking lot.” Professor Gordon Johnson comments. Then the graffiti starts getting sprayed. One day it’s on the inside. The next it’s on the outside walls. It’s virtually impossible to get a good picture of it for days or weeks without it covered in a physical form of outrage. 
+“It’s much better to get a strong reaction than no reaction.” Nauman commented to the Albuquerque Journal back in 1988. “But I didn’t make this to upset people. People want things to be pretty and relaxing – and in some situations that may be appropriate. But this is a university campus. People should be willing to be emotionally and intellectually challenged, be willing to be pushed a little bit.”</p>
+
+<figure class="img-center" style="width:80%">
+  <a href="images\cotu-nauman.png"><img src="images\cotu-nauman.png" alt="Bruce Nauman stands in front of his sculpture, which had recently been vandalized. Photo taken for the Albuquerque Journal, Vol 11 No 19, Facility Planning #028" width="100%" /></a>
+<figcaption class="img-center">
+  <p>Bruce Nauman stands in front of his sculpture, which had recently been vandalized. Photo taken for the Albuquerque Journal, Vol 11 No 19, Facility Planning #028</p>
+
+</figcaption>
+</figure>
+
+<h3 id="an-artistic-perspective">An Artistic Perspective</h3>
+<p>There were few who paid compliments to the <em>Center of the Universe</em> when it was first unveiled, and those people were largely artists. The director of the UNM art museum once compared it to a sculpture of a giant tube of lipstick at the prestigious Yale University that was eventually coated in graffiti and towed away because the Yale president hated it so much. One student named Stuart Schield said back in 1988 that “art doesn’t necessarily have to be beautiful”, much like Nauman said during his interview with the Albuquerque Journal. As is the case with so much modern art, the meaning of it was lost on the everyday people, but found in those who immerse their days in it.</p>
+
+<figure class="img-center" style="width:100%">
+  <a href="images\cotu-hooker.png"><img src="images\cotu-hooker.png" alt="The sculpture one year after completion, 1989. Photo by Van Dorn Hooker, Facility Planning #028" width="100%" /></a>
+<figcaption class="img-center">
+  <p>The sculpture one year after completion, 1989. Photo by Van Dorn Hooker, Facility Planning #028</p>
+
+</figcaption>
+</figure>
+
+<h3 id="the-sculpture-today">The Sculpture Today</h3>
+
+<figure class="img-center" style="width:75%">
+  <a href="images\cotu-model.png"><img src="images\cotu-model.png" alt="A model of the original installation, created for an exhibit on Nauman's works. Photo taken for the Contemporanea International Art Magazine, Vol III No 2, Facility Planning #028" width="100%" /></a>
+<figcaption class="img-center">
+  <p>A model of the original installation, created for an exhibit on Nauman’s works. Photo taken for the Contemporanea International Art Magazine, Vol III No 2, Facility Planning #028</p>
+
+</figcaption>
+</figure>
+
+<p>Ever since the initial few years that the sculpture has been around, it’s safe to say controversy has died down. The installation is no longer picketed by angry students and teachers. While the insides are still regularly covered with small marks of rebellion, the graffiti is not near as much of a problem as it was in the past. The UNM landscaping department even made sure renovations on the area between Mitchell and Ortega properly integrated the sculpture. Most people simply walk through or around it, and probably don’t think much of it. They may take a moment inside to wonder why it’s here, or simply stop to spin the Pokestop in Pokemon Go, but few people today know about the outrage and controversy that initially followed Nauman’s installation.</p>
+
+<figure class="img-center" style="width:100%">
+  <a href="images\cotu-color-drawing.png"><img src="images\cotu-color-drawing.png" alt="A color drawing of the sculpture, used for renovations between Mitchell and Ortega halls. Facility Planning #028, Oversize Drawer" width="100%" /></a>
+<figcaption class="img-center">
+  <p>A color drawing of the sculpture, used for renovations between Mitchell and Ortega halls. Facility Planning #028, Oversize Drawer</p>
+
+</figcaption>
+</figure>
+
+<h5 id="bibliography">Bibliography</h5>
+<p>“The Center of the Universe”, drawing my Steve Borbes, Facility Planning #028, Oversize drawers.</p>
+
+<p><em>Contemporanea International Art Magazine</em>, Feb 1990, Vol III No 2, P 38-45.</p>
+
+<p><em>Campus News</em>, University of New Mexico, Feb. 18th, 1988, Vol 23, No 11.</p>
+
+<p><em>New Mexico Daily Lobo</em>, Mar 30, 1988.</p>
+
+<p><em>Albuquerque Journal Magazine</em>, Mar 8, 1988, Vol 11, No 19.</p>
+
+<p>Landscaping, Sculpture- Center of the Universe Illustration, Facility Planning #028, Oversize drawers.</p>
+
+<p>“Center of the Universe”, Bruce Nauman, UNMA UAC 028, Photo by Van Dorn Hooker</p>
+
+
+</div> <!-- /container -->
+
+      </div>
+      <div id="secondary"></div>
+      <div id="tertiary"></div>
+    </div>
+  </div>
+</div> <!-- /main -->
+
+<div id="footer">
+<div class="container">
+<hr/><div class="row"><div class="col-md-8"><p><a href="http://www.unm.edu"><img alt="The University of New Mexico" src="https://webcore.unm.edu/v2/images/unm-transparent-white.png"/></a></p><p><small>&#169; The University of New Mexico<br/> Albuquerque, NM 87131, (505) 277-0111<br/> New Mexico's Flagship University</small></p></div><div class="col-md-4"><ul class="list-inline"><li><a href="https://www.facebook.com/universityofnewmexico" title="UNM on Facebook"><span class="fa fa-facebook-square fa-2x"><span class="sr-only">UNM on Facebook</span></span></a></li><li><a href="http://instagram.com/uofnm" title="UNM on Instagram"><span class="fa fa-instagram fa-2x"><span class="sr-only">UNM on Instagram</span></span></a></li><li><a href="https://twitter.com/unm" title="UNM on Twitter"><span class="fa fa-twitter-square fa-2x"><span class="sr-only">UNM on Twitter</span></span></a></li><li><a href="http://uofnm.tumblr.com" title="UNM on Tumblr"><span class="fa fa-tumblr-square fa-2x"><span class="sr-only">UNM on Tumblr</span></span></a></li><li><a href="http://www.youtube.com/user/unmlive" title="UNM on YouTube"><span class="fa fa-youtube-square fa-2x"><span class="sr-only">UNM on YouTube</span></span></a></li></ul><p>more at <a href="http://social.unm.edu" title="UNM Social Media Directory &amp; Information">social.unm.edu</a></p><ul class="list-inline" id="unm_footer_links"><li><a href="http://www.unm.edu/accessibility.html">Accessibility</a></li><li><a href="http://www.unm.edu/legal.html">Legal</a></li><li><a href="http://www.unm.edu/contactunm.html">Contact UNM</a></li><li><a href="http://nmhedss2.state.nm.us/Dashboard/index.aspx?ID=21">New Mexico Higher Education Dashboard</a></li></ul></div></div></div></div></div><div id="totop"><span class="fa fa-arrow-circle-up"></span></div>
+
+
+  <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
+
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <script src="/js/myslick.js"></script>
+
+  <script type="text/javascript" src="/js/bigfoot.min.js"></script>
+  <script type="text/javascript">$.bigfoot();</script>
+
+
+</body>
+</html>
