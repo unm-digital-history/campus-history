@@ -1,0 +1,25 @@
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+
+
+<div class="sticky_bg_container" style="background-image: url('{{ site.baseurl}}/{{ include.image-url }}'); height: {{ include.height }}vh">
+  <div class="sticky_bg"></div>
+
+  {% if include.box-content %}
+
+    <div style="height: {{ include.pre-box-space }}vh">
+      &nbsp;
+    </div>
+
+    <div class="sticky_bg_content">
+      {{ include.box-content }}
+    </div>
+
+  {% endif %}
+</div>
+
+
+{::nomarkdown}
+<div class="container">
+{:/nomarkdown}

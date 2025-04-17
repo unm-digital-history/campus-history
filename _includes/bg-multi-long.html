@@ -1,0 +1,18 @@
+{::nomarkdown}
+</div> <!-- close container for bg work-->
+{:/nomarkdown}
+
+<div  class = "bg-multi-container" 
+      style = "height: auto"
+      id = "{{ include.bg-id }}-container">
+  
+  <div class="bg-multi" 
+      style = "background-image: url('{{ site.baseurl}}/{{ include.image-url }}')"
+      id = "{{ include.bg-id }}-image"></div>
+
+    <div style="height: {{ include.pre-box-space }}vh">
+      &nbsp;
+    </div>
+
+    <!-- leave this div open for long version here-->
+    <div id="{{ include.bg-id }}-textbox" class="bg-text-box" markdown="1"> 

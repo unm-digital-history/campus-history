@@ -1,0 +1,15 @@
+defaults:
+  -
+    scope:
+      path: "sites"
+    values:
+      layout: "single-col"
+
+
+port: 4001
+
+repository: unm-digital-history/campus-history
+
+baseurl:
+
+essay-images: /essays/images
