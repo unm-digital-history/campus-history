@@ -7,6 +7,21 @@
   PAGE SETUP
 *****************************************************/
 
+
+
+/* "correct" a default bootstrap behavior that doesn't work with UNM code */
+.navbar-nav {
+  flex-direction: row;
+}
+
+.row {
+  display: inline;
+}
+
+.row a {
+  border-bottom: none;
+}
+
 #sheetrock {
     display:none;
 }

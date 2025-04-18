@@ -1,5 +1,5 @@
 <div class="bg-switch" id="{{ include.switch-id }}"
-    style="background-image: url('{{site.baseurl}}/{{include.image-url}}')">
+    style="background-image: url('{{include.image-url}}')">
 </div>
 
 <script>
@@ -41,7 +41,7 @@ window.addEventListener('scroll', () => {
             /* reset to original bg if out of viewport */
             if (index == 0 && ypos > viewHeight) {
                 console.log("first switch out of view. resetting...");
-                /*background.style.backgroundImage = background_orig;*/
+                background.style.backgroundImage = background_orig;
 
             } else if (index == array.length-1 && ypos < 0 ) {
                 console.log("last switch out of view. resetting...");

@@ -1,7 +1,8 @@
 <div class="jumbotron" style="
       margin-bottom:0;
       height: {{ include.height }}vh; 
-      background-image: url('{{include.image-url}}')">
+      background-image: url('{{include.image-url}}');
+      background-position: {{include.background-position}};">
     <h1 id="page-title">{{ include.title}}</h1>
     <h2 id="page-subtitle">{{ include.text }}</h2>
 </div>

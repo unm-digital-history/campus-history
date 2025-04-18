@@ -12,7 +12,9 @@ BACKGROUNDs
   
   /* Styling the scrolling text box */
   .bg-text-box {
-    width:33%;
+    width:50rem;
+    font-size: 2.5rem;
+    line-height: 4.2rem;
     max-width: 600px;
     margin: 0 auto;
     margin-bottom: 85vh;
