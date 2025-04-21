@@ -30,10 +30,11 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 ## Donec odio elit
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
 
-{% include bg.html
+{% include scrollybox/bg.html
   height="220"
   image-url="images/mvh-women-supervision.jpg"
-  pre-box-space="100"
+  pre-box-space = "100"
+  font-size = "200"
   box-content='
        One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
 %}
@@ -46,7 +47,7 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include bg-multi-long.html
+{% include scrollybox/bg-multi-long.html
   bg-id="bg1"
   image-url="images/mvh-floorplan.jpg"
   pre-box-space="0"
@@ -59,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 
 ### IMAGE SWITCH HERE 
 
-{% include bg-switch.html
+{% include scrollybox/bg-switch.html
   image-url="images/mvh-tv-room.jpg"
   switch-id="switch1"
   bg-id="bg1"
@@ -74,7 +75,7 @@ Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. M
 This is the end of the story, and you should see the text box scroll out of view followed by the background image.
 
 
-{% include bg-multi-long-close.html %}
+{% include scrollybox/bg-multi-long-close.html %}
 
 
 ## Duis vehicula erat et diam

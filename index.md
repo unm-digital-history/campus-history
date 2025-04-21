@@ -9,7 +9,7 @@ date: 2019-04-25
   caption="Cool image goes here"
   image-url="essays/duck-pond/images/new-pond.jpg"
   text=""
-  height="90"
+  height="60"
 %}
 
 When walking around campus, it's easy to accept that the space around us just _is_, or _is as it should be_. But the history of the campus tells a different story.

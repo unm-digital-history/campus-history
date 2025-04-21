@@ -2,13 +2,15 @@
 </div>
 {:/nomarkdown}
 
-<div class="bg-image" style="background-image: url('{{ include.image-url }}'); height: {{ include.height }}vh">
+<div class="bg-image" style="background-image: url('{{ site.baseurl}}{{ include.image-url }}'); height: {{ include.height }}vh">
   <h1 id="page-title">{{ include.title}}</h1>
   <h2 id="page-subtitle">{{ include.text }}</h2>
 
   {% if include.box-content %}
 
-    <div style="height: {{ include.pre-box-space }}vh">
+    <div style="height: {{ include.pre-box-space }}vh;
+    font-size: {{ include-font-size: }}%;
+    line-height: {{ include.line-height }}%; ">
       &nbsp;
     </div>
 

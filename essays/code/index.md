@@ -12,7 +12,7 @@ date: 2019-04-23
 
 **• DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.**
 
-**• Remember to use the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown syntax issues. And you can always double experiment with [Dillinger](http://dillinger.io).**
+**• Remember to use the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown syntax issues. And you can always double check and experiment with [Dillinger](http://dillinger.io).**
 
 ---
 
@@ -27,6 +27,8 @@ layout: unm-base
 date: 2025-04-17
 ---
 ```
+
+Obviously, change the title, author, and date for your own essay, but keep the layout set to `unm-base`.
 
 ---
 
@@ -51,17 +53,19 @@ blah blah blah blah ...
 ```
 
 
-
-
 ---
 
 ## Images
 There is one basic way we will embed images in our essay files. Note that it is totally different from how you learned to do them in Markdown itself. This is because if we want to maintain consistency between images, like how the captions appear, we have to make sure we display all images exactly the same way.
 
+In the following sections, the general effect is shown followed by the code snippet that produces it. You can cut and paste from the gray boxes directly into your essays, and change the image filenames, width, etc.
+
 
 ### Standard Usage
 
 {% include figure.html class="img-right" width="33%" caption="Mesa Vista Hall" src="images/centennial-hotel.jpg" %}
+
+You can set the parameter to be whatever percent of the page width you want.
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
@@ -76,20 +80,17 @@ To embed the image above, we use:
 %}{%endraw%}
 ```
 
----
-
-### Use whatever width you want
-You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
-
 
 ### Half-width
 {% include figure.html class="img-left" width="50%" src="images/centennial-hotel.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
 
-Use the "width" property to set whatever percent you want.
+Here's a half-page image just for fun. Use the `width` parameter to set whatever percent you want. Usually, keeping images aligned with standard widths like 25%, 33%, 50%, 66% is best. 
 
----
+Sometimes you need something a little different, though, so you _can_ enter whatever number you want for the `width` parameter.
 
-To achieve the above half-width (50%) image, use:
+<p style="clear:both"></p>
+
+
 ```
 {%raw%}{% include figure.html
 class="img-left"
@@ -98,39 +99,20 @@ caption="Obviously we need a 50% image somewhere with text wrapping around it."
 src="images/centennial-hotel.jpg"
 %}{%endraw%}
 ```
----
-
-
-
-### Full-width
-{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="images/centennial-hotel.jpg" %}
-
-Of course you can have the image take 100% of the page container, but make sure you're image is large enough to look nice.
-
-To achieve the above full-width (but not jumbotron) image, use:
-{%raw%}
-```
-{% include figure.html
-  class="img-center"
-  width="100%"
-  caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."
-  src="images/centennial-hotel.jpg" %}
-```
-{%endraw%}
-
----
-
 
 
 ### Side by side
+To achieve two images side by side use, make sure the width for each is 48%. (It's less than 50% to make room for margins.)
+
 {% include figure.html class="img-left" width="48%" src="images/centennial-hotel.jpg" caption="Here's an image on the left."%}
 
 {% include figure.html class="img-left" width="48%" src="images/centennial-hotel.jpg" caption="Here's an image on the right."%}
 
+<p style="clear:both"></p>
 
-To achieve two images side by side use (note the 48% width for each):
-```
+
 {%raw%}
+```
 {% include figure.html
 class="img-left"
 width="48%"
@@ -144,17 +126,51 @@ width="48%"
 caption="Here's an image on the right."
 src="images/centennial-hotel.jpg"
 %}
-
-{%endraw%}
 ```
+{%endraw%}
 
----
+
+### Full-width
+Of course you can have the image take 100% of the page container, but make sure you're image is large enough to look nice. Unlike the below example.
+
+{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="images/centennial-hotel.jpg" %}
 
 
+{%raw%}
+```
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."
+  src="images/centennial-hotel.jpg" %}
+```
+{%endraw%}
+
+
+
+### Jumbotron Images
+You'll notice that even a "full-width" image is still bound by our page margins. But sometimes you just need to turn things up to 11. 
+
+In that case, go jumbo! You can make an image be the whole width of the browser window, and control the height of the image for whatever effect you need. Set the `height` parameter to be the % of the browser height. (So, 100 will take up the browser winder, however big or small that is.)
+
+{% include jumbotron.html
+  height="50"
+  image-url="images/centennial-hotel.jpg"
+  title=""
+%}
+
+```
+{%raw%}{% include jumbotron.html
+  height="50"
+  image-url="images/centennial-hotel.jpg"
+  title=""
+%}{%endraw%}
+```
 
 
 ### Juxtapose
 It's easy to set up a slider to compare historic and contemporary photos. If you find a historic image from a vantage point that you can replicate, please take a modern photo so we can better illustrate the changes in the surrounding space. Obviously the effect is more striking the closer the images line up.
+
 
 {% include juxtapose.html
 image1="images/kimo-1928.jpg"
@@ -165,7 +181,6 @@ caption=""
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
 
-Include the change-over-time-slider, we use
 
 ```
 {%raw%}{% include juxtapose.html
@@ -175,34 +190,39 @@ caption="These sliders are way more effective the more closely you line up the b
 %}{%endraw%}
 ```
 
----
+
+
 ### Carousel
+Extra images that are cool but you don't know how to integrate in your essay? Use a slide carousel! There are two little bits of code to include, one to define your images, and another to actually display the carousel. The following code generates the slide deck underneath.
 
-<div class="carousel">
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-construction.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-floorplan.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
-</div>
+Be sure to just copy and paste the entire chunck (both parts) and edit carefully.
+
+
+{% assign images = 
+"images/mvh-construction.jpg,
+images/mvh-room-cost.jpg,
+images/mvh-tv-room.jpg" | split: ','
+%}
+
+{% include carousel.html
+images = images 
+%}
+
 
 ```
-{%raw%}<div class="carousel">
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-construction.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-floorplan.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
-</div>{%endraw%}
+{%raw%}{% assign images = 
+images/mvh-construction.jpg,
+images/mvh-room-cost.jpg,
+images/mvh-tv-room.jpg" | split: ','
+%}
+
+{% include carousel.html
+images = images 
+%}{%endraw%}
 ```
----
 
-## Line breaks
-If you need a new section but don't want a new heading (I'm not sure why you'd do this, but I want to keep things flexible), you can use the Markdown code for a horizontal rule, which is `---` (three dashes). It looks like the line before and after this paragraph.
 
----
+
 ## Footnotes
 All good historical essays (as you're writing) show what their sources are, which helps readers know what actual research underlies the essay.
 
@@ -251,33 +271,35 @@ Add the code, for that is:
 
 ## Pull Quotes
 
-As part of our effort to highlight our most important ideas---even in the context of relatively short essays---we want to use pull quotes.
+As part of our effort to highlight our most important ideas---even in the context of relatively short essays---we can use pull quotes. As it sounds, the idea is to "pull" a quote outside the main flow of the text to highlight it. You can specify if you want it on the left or right side.
 
-### Standard usage
-{% include aside.html class="pullquote" text="
+{% include aside.html class="left" text="
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
 
 Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.
-
 
 To place a pull quote as above, we use:
 
 
 ```
 {%raw%}{% include aside.html
-  class="pullquote"
+  class="left"
   text="Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque."
   %}{%endraw%}
 ```
 
 ---
 
-### Full-width quotes
-If you are quoting from a historical source, you might want to say more than can fit in a normal pull quote format. For those cases, you can use a markdown blockquote to highlight a particularly juicy quotation.
+### Block quotes
+If you are quoting from a historical source, you might want to say more than can fit in a normal pull quote format. For those cases, you can use a markdown blockquote to highlight a particularly juicy quotation. Just start your quote with a greater-than sign as shown below:
 
-> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
+Here is my regular text. 
 
-To achieve the above full width pull quote, just start your quote with a greater-than sign as shown below:
+> Here is my very interesting quote. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
+
+And back to the regular text.
+
+
 ```
 > Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
 ```
