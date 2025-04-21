@@ -8,7 +8,7 @@ defaults:
 
 port: 4001
 
-repository: unm-digital-history/campus-history
+repository: unm-digital-history/campus-history/
 
 baseurl: campus-history/
 
