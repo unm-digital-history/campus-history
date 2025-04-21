@@ -8,8 +8,6 @@ defaults:
 
 port: 4001
 
-repository: unm-digital-history/campus-history/
-
-baseurl: campus-history/
+baseurl: /campus-history/
 
 essay-images: /essays/images
