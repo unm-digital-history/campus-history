@@ -34,7 +34,7 @@
 
 <div id="header">
   <div class="container">
-    <a href="/index.html">
+    <a href="{{site.baseurl}}index.html">
       <h1>UNM Campus Histories</h1>
       <!--<h3>{{page.subtitle}}</h3>-->
     </a>
@@ -43,12 +43,13 @@
 
 {% assign headerimage = page.header-image %}
 {% assign headertitle = page.header-title %}
+{% assign headerheight = page.header-height %}
 {% assign backgroundposition = page.background-position %}
 
 {% if headerimage %}
 
 {% include essay-header.html   
-  height='80' 
+  height = headerheight
   image-url = headerimage
   title = headertitle
   background-position = backgroundposition

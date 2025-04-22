@@ -8,13 +8,14 @@
 
   {% if include.box-content %}
 
-    <div style="height: {{ include.pre-box-space }}vh;
-    font-size: {{ include-font-size: }}%;
-    line-height: {{ include.line-height }}%; ">
+    <div style="height: {{ include.pre-box-space }};">
       &nbsp;
     </div>
 
-    <div class="bg-text-box">
+    <div class="bg-text-box"
+      style = "font-size: {{ include.font-size }};
+              line-height: {{ include.line-height }}; 
+              ">
       {{ include.box-content }}
     </div>
 

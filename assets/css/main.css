@@ -220,7 +220,7 @@ aside {
 /* desktop styles */
 @media screen and (min-width: 58em) {
   .pullquote {
-      margin-left: -20%;
+      margin-left: -15%;
   }
 
 aside.right {

@@ -5,6 +5,7 @@ layout: unm-base
 date: 2015-04-14
 header-image: images/mvh-construction.jpg
 header-title: Mesa VISSSTA
+header-height: 50vh
 background-position: 20px
 ---
 
@@ -17,10 +18,9 @@ Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a e
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
 
 {% include juxtapose.html
-image1="../la-posada-dinning-hall/images/la-posada-building-sign2.jpg"
-image2="../la-posada-dinning-hall/images/lp-outside-comparison.jpg"
-caption="La Posada circa 1970s [Left image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/21/rec/1) and La Posada circa 1980s [Right image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/19/rec/3).
-From the 1970s to the 1980s, La Posada looks much more like it does now than it did in the 1970s. This primarily due to the central courtyard, changing the space from something that was unused dirt land to a robust human sprawl."
+image1="images/mvh-tv-room.jpg"
+image2="images/mvh-hist-common-room.jpg"
+caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
 %}
 
 
@@ -33,8 +33,9 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 {% include scrollybox/bg.html
   height="220"
   image-url="images/mvh-women-supervision.jpg"
-  pre-box-space = "100"
-  font-size = "200"
+  pre-box-space = "100vh"
+  font-size = "250%"
+  line-height = "150%"
   box-content='
        One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
 %}
@@ -51,6 +52,8 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
   bg-id="bg1"
   image-url="images/mvh-floorplan.jpg"
   pre-box-space="0"
+  font-size = "150%"
+  line-height = "100%"
 %}
 
 Now we have a text box scrolling up over the image. At various points (clearly labled in the following text) **the background image will switch.**

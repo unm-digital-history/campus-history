@@ -1,16 +1,13 @@
 ---
 title: UNM Campus Histories
-layout: unm-base
 date: 2019-04-25
----
+layout: unm-base
+header-image: "essays/images/1946 map to campus.jpg"
+header-title: UNM Campus Histories
+header-height: 60vh
+background-position: "0px -20px"
 
-{% include jumbotron.html
-  title=""
-  caption="Cool image goes here"
-  image-url="essays/duck-pond/images/new-pond.jpg"
-  text=""
-  height="60"
-%}
+---
 
 When walking around campus, it's easy to accept that the space around us just _is_, or _is as it should be_. But the history of the campus tells a different story.
 
