@@ -8,6 +8,6 @@ defaults:
 
 port: 4001
 
-baseurl: ""
+baseurl: campus-history/
 
 essay-images: /essays/images
