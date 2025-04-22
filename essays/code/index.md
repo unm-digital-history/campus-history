@@ -193,10 +193,7 @@ caption="These sliders are way more effective the more closely you line up the b
 
 
 ### Carousel
-Extra images that are cool but you don't know how to integrate in your essay? Use a slide carousel! There are two little bits of code to include, one to define your images, and another to actually display the carousel. The following code generates the slide deck underneath.
-
-Be sure to just copy and paste the entire chunck (both parts) and edit carefully.
-
+Extra images that are cool but you don't know how to integrate in your essay? Use a slide carousel! There are two little bits of code to include, one to define your images, and another to actually display the carousel. 
 
 {% assign images = 
 "images/mvh-construction.jpg,
@@ -208,6 +205,7 @@ images/mvh-tv-room.jpg" | split: ','
 images = images 
 %}
 
+The following code generates the slide deck above. Be sure to just copy and paste the entire chunck (both parts) and edit carefully.
 
 ```
 {%raw%}{% assign images = 
