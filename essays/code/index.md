@@ -221,7 +221,28 @@ images = images
 %}{%endraw%}
 ```
 
+## 3D Models
+To display your digital models, get the embed code from Sketchfab and paste it into your essay wherever you want it. The code I used is pasted below, but it's exactly what I got from Sketchfab.
 
+<div class="sketchfab-embed-wrapper"> <iframe title="fortune cookie" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d08c927950c74067b8ff37a738abe228/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/fortune-cookie-d08c927950c74067b8ff37a738abe228?utm_medium=embed&utm_campaign=share-popup&utm_content=d08c927950c74067b8ff37a738abe228" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> fortune cookie </a> by <a href="https://sketchfab.com/fredgibbs?utm_medium=embed&utm_campaign=share-popup&utm_content=d08c927950c74067b8ff37a738abe228" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Fred Gibbs </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=d08c927950c74067b8ff37a738abe228" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+
+```
+{%raw%}
+<div class="sketchfab-embed-wrapper"> <iframe title="fortune cookie" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d08c927950c74067b8ff37a738abe228/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/fortune-cookie-d08c927950c74067b8ff37a738abe228?utm_medium=embed&utm_campaign=share-popup&utm_content=d08c927950c74067b8ff37a738abe228" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> fortune cookie </a> by <a href="https://sketchfab.com/fredgibbs?utm_medium=embed&utm_campaign=share-popup&utm_content=d08c927950c74067b8ff37a738abe228" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Fred Gibbs </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=d08c927950c74067b8ff37a738abe228" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+{%endraw%}
+```
+
+## Audio recordings
+
+  <audio controls src="code-narration.mp3"></audio>
+  
+
+```
+{%raw%}
+  <audio controls src="code-narration.mp3"></audio>
+{%endraw%}
+```
 
 ## Footnotes
 All good historical essays (as you're writing) show what their sources are, which helps readers know what actual research underlies the essay.
