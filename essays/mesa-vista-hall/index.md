@@ -103,9 +103,9 @@ Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed s
 
 
 {% assign images = 
-"/essays/la-posada-dinning-hall/images/lp-plan1.1.jpg,
-/essays/la-posada-dinning-hall/images/lp-plan2.1.jpg,
-/essays/la-posada-dinning-hall/images/lp-plan3.1.jpg" | split: ','
+"images/mvh-menu.jpg,
+images/mvh-history-stays.jpg,
+images/mvh-room-cost.jpg" | split: ','
 %}
 
 {% include carousel.html
