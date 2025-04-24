@@ -1,5 +1,5 @@
 ---
-title: University_Police
+title: University-Police
 author: Luke Betzner
 layout: unm-base
 date: 2025-24-4
