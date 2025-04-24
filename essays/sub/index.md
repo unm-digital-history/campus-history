@@ -3,7 +3,7 @@ title: SUB - Student Union Building
 author: Jonathan Seyfried
 layout: unm-base
 date: 2025-04-25
-header-image: images/mvh-construction.jpg
+header-image: images/Jewish_Quarter_Gerona.jpg
 header-title: SUB - Student Union Building
 header-height: 50vh
 background-position: 20px
