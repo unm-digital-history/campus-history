@@ -1,10 +1,10 @@
 ---
-title: mesa-vista-hall
-author: Fred Gibbs
+title: Social Sciences Building
+author: Omid Shenwari
 layout: unm-base
-date: 2015-04-14
+date: 2025-04-24
 header-image: images/mvh-construction.jpg
-header-title: Mesa VISSSTA
+header-title: Social Sciences Building
 header-height: 50vh
 background-position: 20px
 ---
