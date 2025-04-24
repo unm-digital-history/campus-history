@@ -1,4 +1,3 @@
-
 ---
 title: mesa-vista-hall
 author: Fred Gibbs
