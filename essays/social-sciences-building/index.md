@@ -3,7 +3,7 @@ title: Social Sciences Building
 author: Omid Shenwari
 layout: unm-base
 date: 2025-04-24
-header-image: images/mvh-construction.jpg
+header-image: images/Unm_socialsciences.jpg
 header-title: Social Sciences Building
 header-height: 50vh
 background-position: 20px
