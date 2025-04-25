@@ -3,7 +3,7 @@ title: University-Police
 author: Luke Betzner
 layout: unm-base
 date: 2025-24-4
-header-image: images/1970-UNM-vs-BYU-Game
+header-image: images/1970-UNM-vs-BYU-Game.jpg
 header-title: University Police
 header-height: 50vh
 background-position: 20px
