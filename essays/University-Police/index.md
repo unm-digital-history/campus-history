@@ -13,7 +13,7 @@ background-position: 20px
 ## A Tale of Two Boxes
 
 
-{% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/1970-UNM-vs-BYU-Game" %}
+{% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/1970-UNM-vs-BYU-Game.jpg" %}
 
 This is simply a test to determine whether text editing is working correctly.[^note1]
 
