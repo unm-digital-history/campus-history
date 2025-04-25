@@ -15,7 +15,7 @@ background-position: 20px
 
 {% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/2025-04-24 (1970) UNM vs. BYU Game" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
+This is simply a test to determine whether text editing is working correctly.[^note1]
 
 [^note1]: This is my citation at the end of the FIRST paragraph.
 
