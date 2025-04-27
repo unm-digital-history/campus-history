@@ -15,7 +15,9 @@ background-position: 20px
 
 {% include figure.html class="img-right" width="48%" caption="A photograph of taken of the current SUB shortly after its construction in 1959. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/537/rec/2)" src="images/sub1.jpg" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
+
+
+The University of New Mexico built the current Student Union Building, known as the SUB, in 1959. Prior to this building, the BLANK building functioned as the main social gathering location for UNM students.[^note1]
 
 [^note1]: This is my citation at the end of the FIRST paragraph.
 
