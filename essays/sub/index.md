@@ -40,16 +40,6 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 ## Donec odio elit
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
 
-{% include scrollybox/bg.html
-  height="220"
-  image-url="images/mvh-women-supervision.jpg"
-  pre-box-space = "100vh"
-  font-size = "250%"
-  line-height = "150%"
-  box-content='
-       One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
-%}
-
 
 ## Cras magna nunc
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
@@ -62,27 +52,10 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 
-<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-url="images/mvh-floorplan.jpg"
-  pre-box-space="0"
-  font-size = "150%"
-  line-height = "100%"
-%}
 
-Now we have a text box scrolling up over the image. At various points (clearly labled in the following text) **the background image will switch.**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl. Curabitur consectetur placerat commodo. Maecenas sagittis facilisis turpis vel porta. Nulla facilisi. Nam viverra eget metus eget efficitur.
 
-
-### IMAGE SWITCH HERE 
-
-{% include scrollybox/bg-switch.html
-  image-url="images/mvh-tv-room.jpg"
-  switch-id="switch1"
-  bg-id="bg1"
-%}
 
 
 ### Duis vehicula erat et diam
@@ -92,8 +65,6 @@ Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. M
 #### Almost done
 This is the end of the story, and you should see the text box scroll out of view followed by the background image.
 
-
-{% include scrollybox/bg-multi-long-close.html %}
 
 
 ## Duis vehicula erat et diam
