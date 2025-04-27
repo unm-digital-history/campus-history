@@ -13,7 +13,7 @@ background-position: 20px
 ## SUB - Student Union Building
 
 
-{% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-history-stays.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="A photograph of taken of the current SUB shortly after its construction in 1959. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/537/rec/2)" src="images/sub1.jpg" %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
 
