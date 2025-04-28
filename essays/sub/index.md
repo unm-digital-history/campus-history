@@ -13,7 +13,7 @@ background-position: 20px
 ## SUB - Student Union Building
 
 
-{% include figure.html class="img-right" width="48%" caption="A photograph of taken of the current SUB shortly after its construction in 1959. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/537/rec/2)" src="images/sub1.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="A photograph of taken of the current SUB shortly after its construction in 1959. Photo by Dick Meleski. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/537/rec/2)" src="images/sub1.jpg" %}
 
 
 
