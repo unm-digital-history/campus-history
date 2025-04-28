@@ -44,10 +44,12 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 
 ## Site of Antiwar Occupations
 
+Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis.
+
 {% include juxtapose.html
 image1="images/subpolice1970.jpg"
 image2="images/subpolice2024.jpg"
-caption="Militarized law enforcement in 1970 and 2024."
+caption="Militarized law enforcement in 1970 and 2024. 1970 photo from the Calvin Horn Collection [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/964/rec/7). 2024 photo by Leila Chapa [Source](https://www.dailylobo.com/article/2024/05/the-subs-history-with-anti-war-protest)."
 %}
 
 
