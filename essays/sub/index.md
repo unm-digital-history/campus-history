@@ -43,6 +43,14 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 {% include figure.html class="img-left" width="48%" caption="A photograph of the bowling alley in the SUB. Photo by Bob Wyer Photocards, Delhi, NY. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3644/rec/5)" src="images/subbowling1.jpg" %}
 
 ## Site of Antiwar Occupations
+
+{% include juxtapose.html
+image1="images/subpolice1970.jpg"
+image2="images/subpolice2024.jpg"
+caption="Militarized law enforcement in 1970 and 2024."
+%}
+
+
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
 
 {% include aside.html class="left" text="
