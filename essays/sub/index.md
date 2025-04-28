@@ -40,7 +40,7 @@ The first major renovation of the building took place in 1976. With the campus b
 
 [^note2]: "UNM Construction Continues," Albuquerque Journal, August 15, 1976.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
+On November 21, 1977, the bowling alley got demolished - Office of the University Architect "Inspection Report" dated November 21, 1977, Job Inspector Lyle D. Sveum, UNM Archives Box 96, Accession 028.  The space became used for pool tables and ping-pong.
 
 
 
