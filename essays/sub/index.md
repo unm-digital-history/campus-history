@@ -40,7 +40,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 ## Features and Amenities
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
 
-{% include figure.html class="img-left" width="48%" caption="A photograph of taken of the bowling alley in the SUB. Photo by Dick Meleski. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/537/rec/2)" src="images/sub1.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="A photograph of taken of the bowling alley in the SUB. Photo by Bob Wyer Photocards, Delhi, NY. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3644/rec/5)" src="images/subbowling1.jpg" %}
 
 ## Site of Antiwar Occupations
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
