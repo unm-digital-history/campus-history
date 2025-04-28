@@ -21,6 +21,11 @@ The University of New Mexico built the current Student Union Building, known as 
 
 [^note1]: "Dedication of the New Mexico Union," Program Pamphlet, November 14, 1959.
 
+By 1972, students began complaining about the SUB and holding debates on whether to close it to the general public. A Daily Lobo editorial read, "the Union is the major extracurricular campus problem," and called on students themselves to come to an agreement about what to do. 
+
+{% include aside.html class="left" text="
+It is one of the biggest drug traffic centers in the city and if that weren't enough the coffee is terrible. - Daily Lobo editorial, January 19, 1972." %}
+
 The first major renovation of the building took place in 1976. With the campus bookstore relocated, the renovation added new food services such as a rathskeller.[^note2]
 
 [^note2]: "UNM Construction Continues," Albuquerque Journal, August 15, 1976.
@@ -35,7 +40,7 @@ caption="The SUB in 1959 versus the SUB in 2025."
 
 
 
-In 1996, UNM student Khepran Mathes complained that "the SUB basement still smelled like dried barf."[^note3] That same year, students had to wait to use the telephones in the SUB since there weren't enough to meet the demand for their use. [^note4] 
+In the 1990s drug use in the SUB decreased, but other problems remained. In 1996, UNM student Khepran Mathes complained that "the SUB basement still smelled like dried barf."[^note3] That same year, students had to wait to use the telephones in the SUB since there weren't enough to meet the demand for their use. [^note4] 
 
 [^note3]: "Construction screws up east campus", by Khepran Mathes, Daily Lobo, August 26, 1996.
 
