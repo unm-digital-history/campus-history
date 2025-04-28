@@ -53,7 +53,12 @@ caption="Militarized law enforcement in 1970 and 2024. 1970 photo from the Calvi
 %}
 
 
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
+On May 9, 1970, the occupation of the SUB ended when the protesters submitted to arrest without resistance. However, a crowd formed outside the SUB and approached the National Guard soldiers. The soldiers, ordered to not let anyone through, stood their ground and a violant clash erupted. The National Guard soldiers bayonetted ten people, a group that included UNM students. 
+
+{% include aside.html class="left" text="
+What happened outside the Union has been the subject of much controversy and debate, which I cannot help clarify. Some crucial aspects of the encounter seem to be agreed upon. - Ferrel Heady, UNM President." %}
+
+Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he recalled the events of 1970.
 
 {% include aside.html class="left" text="
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
