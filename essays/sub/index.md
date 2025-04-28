@@ -17,7 +17,7 @@ background-position: 20px
 
 
 
-The University of New Mexico built the current Student Union Building, known as the SUB, in 1959. Prior to this building, the BLANK building functioned as the main social gathering location for UNM students. The Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building. Funds for the building also came from the federal agency, the Works Progress Administration.[^note1]
+The University of New Mexico built the current Student Union Building, known as the SUB, in 1959. Prior to this building, since 1936 the building that is now the Maxwell Museum functioned as the main social gathering location for UNM students - p.75 of Only in New Mexico. As early as 1950, the Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. For example, the enrollment in 1929 had not even reached 1,000 - p.45 of Only in New Mexico. In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building. Funds for the building also came from the federal agency, the Works Progress Administration.[^note1]
 
 [^note1]: "Dedication of the New Mexico Union," Program Pamphlet, November 14, 1959.
 
@@ -41,9 +41,11 @@ In 1996, UNM student Khepran Mathes complained that "the SUB basement still smel
 
 [^note4]: "SUB planners happy to hear your renovation suggestions," Miguel Navrot, Daily Lobo, May 1, 1996.
 
-In 2001 UNM initiated a major renovation of the SUB, the largest since the building's original construction. From January 2001 to August 2002, kiosks sold food on Cornell Mall while the construction continued.[^note5]
+In Fall of 2000 UNM initiated a major renovation of the SUB, the largest since the building's original construction. From October 2000 to August 2002, kiosks sold food on Cornell Mall while the construction continued.[^note5]
 
 [^note5]: "Student Union Target for Change," by Garrett Ordower, Albuquerque Journal, January 20, 2001.
+
+Project delays pushed the completion of the renovation to July 2003. 
 
 ## Features and Amenities
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
