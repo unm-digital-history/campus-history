@@ -17,9 +17,9 @@ background-position: 20px
 
 
 
-The University of New Mexico built the current Student Union Building, known as the SUB, in 1959. Prior to this building, the BLANK building functioned as the main social gathering location for UNM students.[^note1]
+The University of New Mexico built the current Student Union Building, known as the SUB, in 1959. Prior to this building, the BLANK building functioned as the main social gathering location for UNM students. The Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building.[^note1]
 
-[^note1]: This is my citation at the end of the FIRST paragraph.
+[^note1]: "Dedication of the New Mexico Union: Program, November 14, 1959. The New Mexico Union Ballroom."
 
 Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
 
@@ -41,6 +41,9 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
 
 {% include figure.html class="img-left" width="48%" caption="A photograph of the bowling alley in the SUB. Photo by Bob Wyer Photocards, Delhi, NY. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3644/rec/5)" src="images/subbowling1.jpg" %}
+
+
+
 
 ## Site of Antiwar Occupations
 
