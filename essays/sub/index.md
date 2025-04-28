@@ -17,7 +17,7 @@ background-position: 20px
 
 
 
-The University of New Mexico built the current Student Union Building, known as the SUB, in 1959. Prior to this building, the BLANK building functioned as the main social gathering location for UNM students. The Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building.[^note1]
+The University of New Mexico built the current Student Union Building, known as the SUB, in 1959. Prior to this building, the BLANK building functioned as the main social gathering location for UNM students. The Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building. Funds for the building also came from the federal agency, the Works Progress Administration.[^note1]
 
 [^note1]: "Dedication of the New Mexico Union," Program Pamphlet, November 14, 1959.
 
@@ -32,6 +32,7 @@ image1="images/sub1959cropped.png"
 image2="images/subtoday.jpg"
 caption="The SUB in 1959 versus the SUB in 2025."
 %}
+
 
 
 In 1996, UNM student Khepran Mathes complained that "the SUB basement still smelled like dried barf."[^note3] That same year, students had to wait to use the telephones in the SUB since there weren't enough to meet the demand for their use. [^note4] 
