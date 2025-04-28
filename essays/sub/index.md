@@ -40,6 +40,10 @@ In 1996, UNM student Khepran Mathes complained that "the SUB basement still smel
 
 [^note4]: "SUB planners happy to hear your renovation suggestions," Miguel Navrot, Daily Lobo, May 1, 1996.
 
+In 2001 UNM initiated a major renovation of the SUB, the largest since the building's original construction. From January 2001 to August 2002, kiosks sold food on Cornell Mall while the construction continued.[^note2]
+
+[^note2]: "Student Union Target for Change," by Garrett Ordower, Albuquerque Journal, January 20, 2001.
+
 ## Features and Amenities
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
 
