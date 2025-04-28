@@ -28,7 +28,7 @@ Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a e
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
 
 {% include juxtapose.html
-image1="images/sub1.jpg"
+image1="images/sub1959cropped.png"
 image2="images/subtoday.jpg"
 caption="The SUB in 1959 versus the SUB in 2025."
 %}
