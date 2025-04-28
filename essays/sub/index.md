@@ -34,10 +34,11 @@ caption="The SUB in 1959 versus the SUB in 2025."
 %}
 
 
-In 1996, UNM student Khepran Mathes complained that "the SUB basement still smelled like dried barf."[^note3]
+In 1996, UNM student Khepran Mathes complained that "the SUB basement still smelled like dried barf."[^note3] That same year, students had to wait to use the telephones in the SUB since there weren't enough to meet the demand for their use. [^note4] 
 
 [^note3]: "Construction screws up east campus", by Khepran Mathes, Daily Lobo, August 26, 1996.
 
+[^note3]: "SUB planners happy to hear your renovation suggestions," Miguel Navrot, Daily Lobo, May 1, 1996.
 
 ## Features and Amenities
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
