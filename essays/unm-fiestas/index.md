@@ -1,6 +1,6 @@
 ---
-title: unm-fiestas
-author: Gabriel-Damas
+title: unm fiestas
+author: Gabriel Damas
 layout: unm-base
 date: 2025-04-29
 header-image: images/mvh-construction.jpg
