@@ -98,32 +98,21 @@ What happened outside the Union has been the subject of much controversy and deb
 Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he recalled the events of 1970. Calvin Horne, who served as a member of the Board of Regents, collected interviews and firsthand accounts of the events of May 8, 1970. Horne concludes that the National Guard acted aggressively against students and initiated the violence - p.63-73 of University in Turmoil. The bayonet stabbings inflicted by National Guard soldiers nearly killed several people. When New Mexico Governor David Cargo met with student groups on May 9, a student said to him, "The problem as I see it, Governor Cargo, is that you are hte only man who can call out the National Guard. But the Guard was under the command of Chief Vigil; so that exonerates you from the bayonet use at the Mall yesterday. President Heady says he couldn't stop the National Guard, so that exonerates him. Mr. Vigil says he had no knowledge of the bayonets; so that exonerates him. General Doane says it's standard operating procedure for the National Guard to use bayonets; so evidently he thinks that exonerates him. Do people get stabbed by themselves? Who decides to do these things? Who is responsible?" p.67 of Tension
 
 ### The 2024 Occupation
-On April 29, 2024, students and members of the community occupied the SUB to protest the refusal of the University to divest from Israel. The next day, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights." Daily Lobo Ella Daniel and Paloma Chapa, May 1, 2024. 
+On April 29, 2024, students and members of the community occupied the SUB to protest the refusal of the University to divest from Israel.  
 
 {% include figure.html class="img-right" width="48%" caption="New Mexico State Police in riot gear on the night of April 30, 2024. Photo by Ella Daniel. [Source](https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub)" src="images/2024subpolice2.jpg" %}
 
-
-
-
-
-## Duis vehicula erat et diam
-{% include figure.html class="img-right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-floorplan.jpg" %}
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
+The next day, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights." Daily Lobo Ella Daniel and Paloma Chapa, May 1, 2024.
 
 
 
 
 
-{% assign images = 
-"images/mvh-menu.jpg,
-images/mvh-history-stays.jpg,
-images/mvh-room-cost.jpg" | split: ','
-%}
 
-{% include carousel.html
-images = images 
-%}
+
+
+
+
 
 
 
