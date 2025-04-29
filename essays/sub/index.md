@@ -31,9 +31,9 @@ Prior to this building, since 1936 the building that is now the Maxwell Museum f
 
 {% include figure.html class="img-right" width="48%" caption="An architectural drawing of the ground floor of the SUB from the 1959 construction plans. Source: University of New Mexico Archives, Center for Southwest Research." src="images/lowerlevelfloormap1959.jpg" %}
 
-By all accounts, students enjoyed the 1959 SUB, with spacious dining areas and a twelve lane bowling alley on the lower floor.
+By all accounts, students enjoyed the 1959 SUB for many years, with spacious dining areas and a twelve lane bowling alley on the lower floor.
 
-By 1972, students began complaining about the SUB and holding debates on whether to close it to the general public. A Daily Lobo editorial read, "the Union is the major extracurricular campus problem," and called on students themselves to come to an agreement about what to do. 
+However, by 1972, students began complaining about the SUB and holding debates on whether to close it to the general public. A Daily Lobo editorial read, "the Union is the major extracurricular campus problem," and called on students themselves to come to an agreement about what to do. 
 
 {% include aside.html class="left" text="
 It is one of the biggest drug traffic centers in the city and if that weren't enough the coffee is terrible. - Daily Lobo editorial, January 19, 1972." %}
