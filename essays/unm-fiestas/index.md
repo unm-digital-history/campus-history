@@ -3,7 +3,7 @@ title: unm fiestas
 author: Gabriel Damas
 layout: unm-base
 date: 2025-04-29
-header-image: images/mvh-construction.jpg
+header-image: images/Crowd.jpg
 header-title: UNM Fiestas
 header-height: 50vh
 background-position: 20px
