@@ -131,7 +131,7 @@ On April 29, 2024, students and members of the community occupied the SUB to pro
 The next day, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights." Daily Lobo Ella Daniel and Paloma Chapa, May 1, 2024.
 
 
-##A 3D Image of a sub purchased at the SUB
+## A 3D Image of a sub purchased at the SUB on April 29, 2025
 
 <div class="sketchfab-embed-wrapper"> <iframe title="Sub_Sandwich" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/8a932816f9834faf9bed1b7c6071a83a/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/sub-sandwich-8a932816f9834faf9bed1b7c6071a83a?utm_medium=embed&utm_campaign=share-popup&utm_content=8a932816f9834faf9bed1b7c6071a83a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Sub_Sandwich </a> by <a href="https://sketchfab.com/jonathanseyfried?utm_medium=embed&utm_campaign=share-popup&utm_content=8a932816f9834faf9bed1b7c6071a83a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> jonathanseyfried </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=8a932816f9834faf9bed1b7c6071a83a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
