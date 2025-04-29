@@ -21,7 +21,7 @@ In the 1950s, rising enrollment strained the resources of the diminutive Student
 {% include figure.html class="img-center" width="70%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move. Source: Center for Southwest Research" src="images/anth-sub-exterior.jpg" %}
 
 ## Renovations
-{% include figure.html class="img-right" width="35%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department. Source: Center for Southwest Research" src="images/lobo-1960.png" %}
+{% include figure.html class="img-right" width="35%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accommodate the Anthropology Department. Source: Center for Southwest Research" src="images/lobo-1960.png" %}
 
 Of all the changes the Anthropology building has endured over its lifetime, some of the most significant came in the 1970s. A decade of construction, renovation, and frustration kicked off in in 1970 with renovation of the Anthropology Annex (thanks to funds from the National Science Foundation) to create more space for departmental research and the Maxwell Museum. By 1979, more renovations were already being discussed as a part of a university-wide seating crisis.[^csw-2]
 
