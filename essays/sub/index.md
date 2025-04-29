@@ -61,7 +61,7 @@ In Fall of 2000 UNM initiated a major renovation of the SUB, the largest since t
 Project delays pushed the completion of the renovation to July 2003. 
 
 ## Features and Amenities
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
+At various times in its history, the SUB included a bowling alley, a billiards room, a video game arcade, and a fitness center. 
 
 {% include figure.html class="img-left" width="48%" caption="A photograph of the bowling alley in the SUB. Photo by Bob Wyer Photocards, Delhi, NY. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3644/rec/5)" src="images/subbowling1.jpg" %}
 
@@ -70,7 +70,7 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 
 ## Site of Antiwar Occupations
 
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis.
+In 1970 and 2024, students occupied the SUB as a social protest action against the University for its support of the national military industrial complex.
 
 {% include juxtapose.html
 image1="images/subpolice1970.jpg"
