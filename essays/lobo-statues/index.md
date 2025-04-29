@@ -2,8 +2,8 @@
 title: lobo-statues
 author: Maya Vigil
 layout: unm-base
-date: 2015-04-14
-header-image: images/mvh-construction.jpg
+date: 2025-04-29
+header-image: images/lobo-head-1.jpg
 header-title: Lobo Statues
 header-height: 50vh
 background-position: 20px
