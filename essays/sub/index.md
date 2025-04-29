@@ -90,7 +90,7 @@ Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he r
 ### The 2024 Occupation
 On April 29, 2024, students and members of the community occupied the SUB to protest the refusal of the University to divest from Israel. The next day, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights." Daily Lobo Ella Daniel and Paloma Chapa, May 1, 2024. 
 
-
+{% include figure.html class="img-right" width="48%" caption="New Mexico State Police in riot gear on the night of April 30, 2024. Photo by Ella Daniel. [Source](https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub)" src="images/2024subpolice2.jpg" %}
 
 
 
