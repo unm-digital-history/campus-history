@@ -17,7 +17,7 @@ The University of New Mexico built the current Student Union Building, known as 
 {% include juxtapose.html
 image1="images/sub1959cropped.png"
 image2="images/subtoday.jpg"
-caption="The SUB in 1959 versus the SUB in 2025. 1959 photo by Dick Meleski.[Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/537/rec/2) "
+caption="The SUB in 1959 versus the SUB in 2025. 1959 photo by Dick Meleski. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/537/rec/2) "
 %}
 
 
