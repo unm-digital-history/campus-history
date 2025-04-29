@@ -15,7 +15,7 @@ background-position: 20px
 
 {% include figure.html class="img-right" width="48%" caption=" Poster of UNM Fiestas for the year 2019 hosted and ran by ASUNM [Source](https://news.unm.edu/news/asunms-student-special-events-hosts-fiestas-2019)" src="images/Fiestas-2019.jpg" %}
 
-Start of 1st Paragragh. ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
+One of UNMs most known and loved events of the year is Fiestas! Fiestas is now a widely known event not only for the students that attend the university of New Mexico,  but also for everyone in the state. What started as a Three day rodeo event dated back to the 1960s now turned into one of the biggest events in the state. This event now consists of multiple artists and multiple headlines with a vast variety of music taste for everyone to enjoy. [^note1]
 
 [^note1]: "Num bubble at the end of P1" This is my citation at the end of the FIRST paragraph.
 
