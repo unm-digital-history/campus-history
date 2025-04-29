@@ -92,6 +92,17 @@ images = images
 %}
 
 
+Carousel third attempt
+
+{% assign images = 
+images/subdining1960s.jpg,
+images/store1950s.jpg,
+images/bowling2.jpg | split: ','
+%}
+
+{% include carousel.html
+images = images 
+%}
 
 ## Site of Antiwar Occupations
 
