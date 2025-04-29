@@ -12,10 +12,12 @@ background-position: 20px
 
 ## SUB - Student Union Building
 
+The University of New Mexico built the current Student Union Building, known as the SUB, in 1959. The SUB functions as a gathering place for student organizations, a dining facility, and a location for large meetings.
+
 {% include juxtapose.html
 image1="images/sub1959cropped.png"
 image2="images/subtoday.jpg"
-caption="The SUB in 1959 versus the SUB in 2025."
+caption="The SUB in 1959 versus the SUB in 2025. 1959 photo by Dick Meleski.[Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/537/rec/2) "
 %}
 
 
@@ -23,11 +25,11 @@ caption="The SUB in 1959 versus the SUB in 2025."
 
 
 
-The University of New Mexico built the current Student Union Building, known as the SUB, in 1959. Prior to this building, since 1936 the building that is now the Maxwell Museum functioned as the main social gathering location for UNM students - p.75 of Only in New Mexico. As early as 1950, the Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. For example, the enrollment in 1929 had not even reached 1,000 - p.45 of Only in New Mexico. In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building. Funds for the building also came from the federal agency, the Works Progress Administration.[^note1]
+Prior to this building, since 1936 the building that is now the Maxwell Museum functioned as the main social gathering location for UNM students - p.75 of Only in New Mexico. As early as 1950, the Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. For example, the enrollment in 1929 had not even reached 1,000 - p.45 of Only in New Mexico. In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building. Funds for the building also came from the federal agency, the Works Progress Administration.[^note1]
 
 [^note1]: "Dedication of the New Mexico Union," Program Pamphlet, November 14, 1959.
 
-{% include figure.html class="img-right" width="48%" caption="A photograph of taken of the current SUB shortly after its construction in 1959. Photo by Dick Meleski. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/537/rec/2)" src="images/sub1.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="An architectural drawing of the ground floor of the SUB from the 1959 construction plans. Source: University of New Mexico Archives, Center for Southwest Research." src="images/lowerlevelfloormap1959.jpg" %}
 
 By all accounts, students enjoyed the 1959 SUB, with spacious dining areas and a twelve lane bowling alley on the lower floor.
 
