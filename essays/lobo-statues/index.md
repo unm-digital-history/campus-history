@@ -1,19 +1,19 @@
 ---
-title: mesa-vista-hall
-author: Fred Gibbs
+title: lobo-statues
+author: Maya Vigil
 layout: unm-base
 date: 2015-04-14
 header-image: images/mvh-construction.jpg
-header-title: Mesa VISSSTA
+header-title: Lobo Statues
 header-height: 50vh
 background-position: 20px
 ---
 
 
-## An early title
+## Lobo Statues Around Campus
 
 
-{% include figure.html class="img-right" width="48%" caption="Lobo Statue Outside of Johnson Center. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/lobo-image-1.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="Lobo statue by John Tatschl. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-image-1.jpg" %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
 
