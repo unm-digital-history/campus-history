@@ -65,7 +65,17 @@ At various times in its history, the SUB included a bowling alley, a billiards r
 
 {% include figure.html class="img-left" width="48%" caption="A photograph of the bowling alley in the SUB. Photo by Bob Wyer Photocards, Delhi, NY. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3644/rec/5)" src="images/subbowling1.jpg" %}
 
+More information about amenities and features.
 
+{% assign images = 
+images/subdining1960s.jpg,
+images/store1950s.jpg,
+images/bowling2.jpg" | split: ','
+%}
+
+{% include carousel.html
+images = images 
+%}
 
 
 ## Site of Antiwar Occupations
