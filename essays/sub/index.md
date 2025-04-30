@@ -67,24 +67,16 @@ At various times in its history, the SUB included a bowling alley, a billiards r
 
 More information about amenities and features.
 
-Carousel first attempt
 
-{% assign images = 
-images/subdining1960s.jpg,
-images/store1950s.jpg,
-images/bowling2.jpg" | split: ','
-%}
-
-{% include carousel.html
-images = images 
-%}
 
 Carousel second attempt
 
 {% assign images = 
 "images/subdining1960s.jpg,
 images/store1950s.jpg,
-images/bowling2.jpg" | split: ','
+images/1950s-lounge.jpg,
+images/bowling2.jpg,
+images/bowling-end.jpg" | split: ','
 %}
 
 {% include carousel.html
@@ -92,17 +84,7 @@ images = images
 %}
 
 
-Carousel third attempt
 
-{% assign images = 
-images/subdining1960s.jpg,
-images/store1950s.jpg,
-images/bowling2.jpg | split: ','
-%}
-
-{% include carousel.html
-images = images 
-%}
 
 ## Site of Antiwar Occupations
 
