@@ -77,7 +77,7 @@ In 1973, the Union Board decided to demolish the bowling alley.[^note9]
 
 [^note9]: Sherie Briggs, “Bowling Alley to Die Soon,” _Daily Lobo_, October 22, 1973, UNM Digital Repository.
 
-In prior years, fewer and fewer students bowled there and only the bowling classes used it. As part of a larger renovation in 1977, a new games area with pool tables and a larger dining space replaced the bowling alley on the ground floor. 
+In prior years, fewer and fewer students bowled there and only the bowling classes used it. In 1977, a new games area with pool tables, along with a larger dining space, replaced the bowling alley on the ground floor. The renovation in 2003 created an atrium in the SUB, which now serves as a central feature of the building for gatherings and exhibitions.
 
 
 {% assign images = 
