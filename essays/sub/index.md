@@ -147,7 +147,7 @@ Coming soon!
 
 - Daniel, Ella, and Paloma Chapa. “16 Arrested After Pro-Palestine Protesters Occupy the SUB: UNM Solidarity Encampment, Week Two.” _Daily Lobo_, May 1, 2024. https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub.
 
-“Dedication of the New Mexico Union: Program.” University of New Mexico, November 14, 1959. UNMA 028, Box 96. Center for Southwest Research, University Libraries, University of New Mexico.
+- “Dedication of the New Mexico Union: Program.” University of New Mexico, November 14, 1959. UNMA 028, Box 96. Center for Southwest Research, University Libraries, University of New Mexico.
 
 - Heady, Ferrel. _One Time Around._ Albuquerque, NM: School of Public Administration, University of New Mexico, 1999.
 
