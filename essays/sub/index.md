@@ -67,17 +67,15 @@ In Fall of 2000 UNM initiated a major renovation of the SUB, the largest since t
 Project delays pushed the completion of the renovation to July 2003. No further major renovations to the SUB took place between 2003 and 2025.
 
 ## Features and Amenities
-At various times in its history, the SUB included a sodar bar, a bowling alley, a billiards room, a video game arcade, and a fitness center. Services available at the SUB have included a barber shop, a bank, and a backpacking equipment rental desk. 
+At various times in its history, the SUB included a sodar bar, a bowling alley, a billiards room, a video game arcade, and a fitness center. Services available at the SUB have included a barber shop, a bank, and a backpacking equipment rental desk. The campus bookstore was also located in the SUB from 1950 until the early 1970s.
 
 {% include figure.html class="img-left" width="48%" caption="A photograph of the bowling alley in the SUB. Photo by Bob Wyer Photocards, Delhi, NY. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3644/rec/5)" src="images/subbowling1.jpg" %}
 
 The SUB has continuously operated a theater space, at times for live performances in addition to film screenings. Toward the end of the twentieth century, the SUB maintained a large copy center. As a reflection of the large percentage of commuter students, the lounge spaces have also been a mainstay of the SUB.
 
-In 1973, the Union Board decided to demolish the bowling alley.[^note9] 
+In 1973, the Union Board decided to demolish the bowling alley.[^note9] In prior years, fewer and fewer students bowled there and only the bowling classes used it. In 1977, a new games area with pool tables, along with a larger dining space, replaced the bowling alley on the ground floor. The renovation in 2003 created an atrium in the SUB, which now serves as a central feature of the building for gatherings and exhibitions.
 
 [^note9]: Sherie Briggs, “Bowling Alley to Die Soon,” _Daily Lobo_, October 22, 1973, UNM Digital Repository.
-
-In prior years, fewer and fewer students bowled there and only the bowling classes used it. In 1977, a new games area with pool tables, along with a larger dining space, replaced the bowling alley on the ground floor. The renovation in 2003 created an atrium in the SUB, which now serves as a central feature of the building for gatherings and exhibitions.
 
 
 {% assign images = 
