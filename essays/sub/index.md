@@ -25,9 +25,9 @@ caption="The SUB in 1959 versus the SUB in 2025. 1959 photo by Dick Meleski. [So
 
 
 
-Prior to this building, since 1936 the building that is now the Maxwell Museum functioned as the main social gathering location for UNM students - p.75 of Only in New Mexico. As early as 1950, the Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. For example, the enrollment in 1929 had not even reached 1,000.[^note1]  - p.45 of Only in New Mexico. 
+Prior to this building, since 1936 the building that is now the Maxwell Museum functioned as the main social gathering location for UNM students. As early as 1950, the Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. For example, the enrollment in 1929 had not even reached 1,000.[^note1]  
 
-[^note1]: Van Dorn Hooker, Melissa Howard, and V. B. Price, _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_ (Albuquerque, NM: University of New Mexico Press, 2000), 45.
+[^note1]: Van Dorn Hooker, Melissa Howard, and V. B. Price, _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_ (Albuquerque, NM: University of New Mexico Press, 2000), 45 and 75.
 
 In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building. Funds for the building also came from the federal agency, the Works Progress Administration.[^note2]
 
