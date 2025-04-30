@@ -25,38 +25,44 @@ caption="The SUB in 1959 versus the SUB in 2025. 1959 photo by Dick Meleski. [So
 
 
 
-Prior to this building, since 1936 the building that is now the Maxwell Museum functioned as the main social gathering location for UNM students - p.75 of Only in New Mexico. As early as 1950, the Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. For example, the enrollment in 1929 had not even reached 1,000 - p.45 of Only in New Mexico. In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building. Funds for the building also came from the federal agency, the Works Progress Administration.[^note1]
+Prior to this building, since 1936 the building that is now the Maxwell Museum functioned as the main social gathering location for UNM students - p.75 of Only in New Mexico. As early as 1950, the Student Council and other campus leaders recognized the need for a new building in the context of post-World War II changes in the student population. For example, the enrollment in 1929 had not even reached 1,000.[^note1]  - p.45 of Only in New Mexico. 
 
-[^note1]: "Dedication of the New Mexico Union," Program Pamphlet, November 14, 1959.
+[^note1]: Van Dorn Hooker, Melissa Howard, and V. B. Price, _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_ (Albuquerque, NM: University of New Mexico Press, 2000), 45.
+
+In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building. Funds for the building also came from the federal agency, the Works Progress Administration.[^note2]
+
+[^note2]: "Dedication of the New Mexico Union," Program Pamphlet, November 14, 1959.
 
 {% include figure.html class="img-right" width="48%" caption="An architectural drawing of the ground floor of the SUB from the 1959 construction plans. Source: University of New Mexico Archives, Center for Southwest Research." src="images/lowerlevelfloormap1959.jpg" %}
 
 By all accounts, students enjoyed the 1959 SUB for many years, with spacious dining areas and a twelve lane bowling alley on the lower floor.
 
-However, by 1972, students began complaining about the SUB and holding debates on whether to close it to the general public. A Daily Lobo editorial read, "the Union is the major extracurricular campus problem," and called on students themselves to come to an agreement about what to do. 
+However, by 1972, students began complaining about the SUB and holding debates on whether to close it to the general public. A Daily Lobo editorial read, "the Union is the major extracurricular campus problem," and called on students themselves to come to an agreement about what to do.[^note3] 
+
+[^note3]: “Students Should Solve Union Problem,” _Daily Lobo_, January 19, 1972.
 
 {% include aside.html class="left" text="
 It is one of the biggest drug traffic centers in the city and if that weren't enough the coffee is terrible. - Daily Lobo editorial, January 19, 1972." %}
 
-The first major renovation of the building took place in 1976. With the campus bookstore relocated, the renovation added new food services such as a rathskeller.[^note2]
+The first major renovation of the building took place in 1976. With the campus bookstore relocated, the renovation added new dining venues in the model of a rathskeller.[^note4]
 
-[^note2]: "UNM Construction Continues," Albuquerque Journal, August 15, 1976.
+[^note4]: "UNM Construction Continues," Albuquerque Journal, August 15, 1976.
 
-On November 21, 1977, the bowling alley got demolished - Office of the University Architect "Inspection Report" dated November 21, 1977, Job Inspector Lyle D. Sveum, UNM Archives Box 96, Accession 028.  In the twenty years of the building's existence, bowling had fallen out of style. The space became used for pool tables and ping-pong.
+On November 21, 1977, the bowling alley got demolished.[^note5] - Office of the University Architect "Inspection Report" dated November 21, 1977, Job Inspector Lyle D. Sveum, UNM Archives Box 96, Accession 028.  In the twenty years of the building's existence, bowling had fallen out of style. The space became used for pool tables and ping-pong.
 
+[^note5]: "Inspection Report" (University Architect, University of New Mexico, November 21, 1977), UNMA 028, Box 96, Center for Southwest Research, University Libraries, University of New Mexico.
 
+In the 1990s drug use in the SUB decreased, but other problems remained. In 1996, UNM student Khepran Mathes complained that "the SUB basement still smelled like dried barf."[^note6] 
 
+[^note6]: Khepran Mathes, "Construction screws up east campus", _Daily Lobo_, August 26, 1996.
 
+That same year, students had to wait to use the telephones in the SUB since there weren't enough to meet the demand for their use. [^note7] 
 
-In the 1990s drug use in the SUB decreased, but other problems remained. In 1996, UNM student Khepran Mathes complained that "the SUB basement still smelled like dried barf."[^note3] That same year, students had to wait to use the telephones in the SUB since there weren't enough to meet the demand for their use. [^note4] 
+[^note7]: Miguel Navrot,"SUB planners happy to hear your renovation suggestions," _Daily Lobo_, May 1, 1996.
 
-[^note3]: "Construction screws up east campus", by Khepran Mathes, Daily Lobo, August 26, 1996.
+In Fall of 2000 UNM initiated a major renovation of the SUB, the largest since the building's original construction. From October 2000 to August 2002, kiosks sold food on Cornell Mall while the construction continued.[^note8]
 
-[^note4]: "SUB planners happy to hear your renovation suggestions," Miguel Navrot, Daily Lobo, May 1, 1996.
-
-In Fall of 2000 UNM initiated a major renovation of the SUB, the largest since the building's original construction. From October 2000 to August 2002, kiosks sold food on Cornell Mall while the construction continued.[^note5]
-
-[^note5]: "Student Union Target for Change," by Garrett Ordower, Albuquerque Journal, January 20, 2001.
+[^note8]: Garrett Ordower, "Student Union Target for Change," _Albuquerque Journal_, January 20, 2001.
 
 Project delays pushed the completion of the renovation to July 2003. 
 
@@ -67,7 +73,11 @@ At various times in its history, the SUB included a sodar bar, a bowling alley, 
 
 The SUB has continuously operated a theater space, at times for live performances in addition to film screenings. Toward the end of the twentieth century, the SUB maintained a large copy center. As a reflection of the large percentage of commuter students, the lounge spaces have also been a mainstay of the SUB.
 
-In 1974, the Union Board decided to demolish the bowling alley - Daily Lobo 1974. In prior years, fewer and fewer students bowled there and only the bowling classes used it. As part of a larger renovation in 1977, a new games area with pool tables and a larger dining space replaced the bowling alley on the ground floor. 
+In 1973, the Union Board decided to demolish the bowling alley.[^note9] 
+
+[^note9]: Sherie Briggs, “Bowling Alley to Die Soon,” _Daily Lobo_, October 22, 1973, UNM Digital Repository.
+
+In prior years, fewer and fewer students bowled there and only the bowling classes used it. As part of a larger renovation in 1977, a new games area with pool tables and a larger dining space replaced the bowling alley on the ground floor. 
 
 
 {% assign images = 
@@ -103,9 +113,19 @@ In response to the killing of students on the campus of Kent State University, U
 {% include aside.html class="left" text="
 What happened outside the Union has been the subject of much controversy and debate, which I cannot help clarify. Some crucial aspects of the encounter seem to be agreed upon. - Ferrel Heady, UNM President, 1970." %}
 
-Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he recalled the events of 1970. Calvin Horne, who served as a member of the Board of Regents, collected interviews and firsthand accounts of the events of May 8, 1970. Horne concludes that the National Guard acted aggressively against students and initiated the violence - p.63-73 of University in Turmoil. The bayonet stabbings inflicted by National Guard soldiers nearly killed several people. When New Mexico Governor David Cargo met with student groups on May 9, one student said: 
+Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he recalled the events of 1970.[^note10] 
 
-> The problem as I see it, Governor Cargo, is that you are hte only man who can call out the National Guard. But the Guard was under the command of Chief Vigil; so that exonerates you from the bayonet use at the Mall yesterday. President Heady says he couldn't stop the National Guard, so that exonerates him. Mr. Vigil says he had no knowledge of the bayonets; so that exonerates him. General Doane says it's standard operating procedure for the National Guard to use bayonets; so evidently he thinks that exonerates him. Do people get stabbed by themselves? Who decides to do these things? Who is responsible?" p.67 of Tension
+[^note10]: Ferrel Heady, _One Time Around_ (Albuquerque, NM: School of Public Administration, University of New Mexico, 1999).
+
+Calvin Horne, who served as a member of the Board of Regents, collected interviews and firsthand accounts of the events of May 8, 1970. Horne concludes that the National Guard acted aggressively against students and initiated the violence.[^note11]  
+
+[^note11]: Calvin Horn, _The University in Turmoil and Transition: Crisis Decades at the University of New Mexico_ (Albuquerque, NM: Rocky Mountain Pub. Co., 1981), 63-73.
+
+The bayonet stabbings inflicted by National Guard soldiers nearly killed several people. When New Mexico Governor David Cargo met with student groups on May 9, one student said: 
+
+> The problem as I see it, Governor Cargo, is that you are hte only man who can call out the National Guard. But the Guard was under the command of Chief Vigil; so that exonerates you from the bayonet use at the Mall yesterday. President Heady says he couldn't stop the National Guard, so that exonerates him. Mr. Vigil says he had no knowledge of the bayonets; so that exonerates him. General Doane says it's standard operating procedure for the National Guard to use bayonets; so evidently he thinks that exonerates him. Do people get stabbed by themselves? Who decides to do these things? Who is responsible?[^note12] 
+
+[^note12]: Horn, _University in Turmoil_, 67.
 
 ### The 2024 Occupation
 Starting on April 22, 2024, UNM students set up a solidarity encampment at the Duck Pond. The protestors at the encampment aimed to show solidarity with other college campuses in an effort to support Palestinians in Gaza. They called on the UNM Board of Regents to adopt a resolution to divest from Israel.
@@ -113,11 +133,17 @@ Starting on April 22, 2024, UNM students set up a solidarity encampment at the D
 {% include aside.html class="left" text="
 Right now, I'm thinking and considering what it means – what this next action represents for the campus. And so for me, I understand the various perspectives. I know what's being asked, but at the same time, I think there are many things to consider, including the impact of this on other members of the community, and so (I am) considering what our next steps are. - Garnett Stokes, UNM President, 2024." %}
 
-On April 29, students and members of the community expanded the protest. They occupied the SUB to protest the refusal of the University to divest from Israel. Several of the protestors chained tents to the railing on the second floor - Daily Lobo May 1 2024. However, the occupation lasted less than ten hours. 
+On April 29, students and members of the community expanded the protest. They occupied the SUB to protest the refusal of the University to divest from Israel. Several of the protestors chained tents to the railing on the second floor.[^note13]  
+
+[^note13]: Ella Daniel and Paloma Chapa, “16 Arrested After Pro-Palestine Protesters Occupy the SUB: UNM Solidarity Encampment, Week Two,” _Daily Lobo_, May 1, 2024, https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub
+
+However, the occupation lasted less than ten hours. 
 
 {% include figure.html class="img-right" width="48%" caption="New Mexico State Police in riot gear on the night of April 30, 2024. Photo by Ella Daniel. [Source](https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub)" src="images/2024subpolice2.jpg" %}
 
-At 3:30am on Tuesday, April 30, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights." Daily Lobo Ella Daniel and Paloma Chapa, May 1, 2024.
+At 3:30am on Tuesday, April 30, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement the following day from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights."[^note14] Daily Lobo Ella Daniel and Paloma Chapa, May 1, 2024.
+
+[^note14]: Daniel and Chapa, "16 Arrested."
 
 ## An Exclusive Audio Interview with the SUB Itself
 
@@ -154,6 +180,8 @@ Coming soon!
 - Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
 
 - Horn, Calvin. _The University in Turmoil and Transition: Crisis Decades at the University of New Mexico._ Albuquerque, NM: Rocky Mountain Pub. Co., 1981.
+
+- "Inspection Report." University Architect, University of New Mexico, November 21, 1977. UNMA 028, Box 96, Center for Southwest Research, University Libraries, University of New Mexico.
 
 - Mathes, Khepran. “Construction Screws Up East Campus.” _Daily Lobo_, August 26, 1996.
 
