@@ -108,7 +108,7 @@ Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he r
 > The problem as I see it, Governor Cargo, is that you are hte only man who can call out the National Guard. But the Guard was under the command of Chief Vigil; so that exonerates you from the bayonet use at the Mall yesterday. President Heady says he couldn't stop the National Guard, so that exonerates him. Mr. Vigil says he had no knowledge of the bayonets; so that exonerates him. General Doane says it's standard operating procedure for the National Guard to use bayonets; so evidently he thinks that exonerates him. Do people get stabbed by themselves? Who decides to do these things? Who is responsible?" p.67 of Tension
 
 ### The 2024 Occupation
-Starting on April 22, 2024, UNM students set up a solidarity encampment at the Duck Pond. The protestors at the encampment aimed to show solidarity with other college campuses in an effort to support Palestinians in Gaza. 
+Starting on April 22, 2024, UNM students set up a solidarity encampment at the Duck Pond. The protestors at the encampment aimed to show solidarity with other college campuses in an effort to support Palestinians in Gaza. They called on the UNM Board of Regents to adopt a resolution to divest from Israel.
 
 {% include aside.html class="right" text="
 There are many perspectives on many complex issues, and our focus is on education. - Garnett Stokes, UNM President, 2024." %}
