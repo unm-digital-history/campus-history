@@ -134,10 +134,17 @@ At 3:30am on Tuesday, April 30, in a militarized police action, the New Mexico S
 
 ## Bibliography
 
+
+- Daniel, Ella, and Paloma Chapa. “16 Arrested After Pro-Palestine Protesters Occupy the SUB: UNM Solidarity Encampment, Week Two.” _Daily Lobo_, May 1, 2024. https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub.
+
+
+- Heady, Ferrel. _One Time Around._ Albuquerque, NM: School of Public Administration, University of New Mexico, 1999.
+
+
 - Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+- Horn, Calvin. _The University in Turmoil and Transition: Crisis Decades at the University of New Mexico._ Albuquerque, NM: Rocky Mountain Pub. Co., 1981.
 
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  96. Center for Southwest Research, University Libraries, University of New Mexico.
