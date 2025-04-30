@@ -110,7 +110,7 @@ Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he r
 ### The 2024 Occupation
 Starting on April 22, 2024, UNM students set up a solidarity encampment at the Duck Pond. The protestors at the encampment aimed to show solidarity with other college campuses in an effort to support Palestinians in Gaza. They called on the UNM Board of Regents to adopt a resolution to divest from Israel.
 
-{% include aside.html class="right" text="
+{% include aside.html class="left" text="
 There are many perspectives on many complex issues, and our focus is on education. - Garnett Stokes, UNM President, 2024." %}
 
 On April 29, students and members of the community expanded the protest. They occupied the SUB to protest the refusal of the University to divest from Israel.  
