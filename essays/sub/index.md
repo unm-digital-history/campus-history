@@ -111,13 +111,13 @@ Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he r
 Starting on April 22, 2024, UNM students set up a solidarity encampment at the Duck Pond. The protestors at the encampment aimed to show solidarity with other college campuses in an effort to support Palestinians in Gaza. They called on the UNM Board of Regents to adopt a resolution to divest from Israel.
 
 {% include aside.html class="left" text="
-There are many perspectives on many complex issues, and our focus is on education. - Garnett Stokes, UNM President, 2024." %}
+Right now, I'm thinking and considering what it means – what this next action represents for the campus. And so for me, I understand the various perspectives. I know what's being asked, but at the same time, I think there are many things to consider, including the impact of this on other members of the community, and so (I am) considering what our next steps are. - Garnett Stokes, UNM President, 2024." %}
 
-On April 29, students and members of the community expanded the protest. They occupied the SUB to protest the refusal of the University to divest from Israel.  
+On April 29, students and members of the community expanded the protest. They occupied the SUB to protest the refusal of the University to divest from Israel. Several of the protestors chained tents to the railing on the second floor - Daily Lobo May 1 2024. However, the occupation lasted less than ten hours. 
 
 {% include figure.html class="img-right" width="48%" caption="New Mexico State Police in riot gear on the night of April 30, 2024. Photo by Ella Daniel. [Source](https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub)" src="images/2024subpolice2.jpg" %}
 
-The next day, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights." Daily Lobo Ella Daniel and Paloma Chapa, May 1, 2024.
+At 3:30am on Tuesday, April 30, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights." Daily Lobo Ella Daniel and Paloma Chapa, May 1, 2024.
 
 
 
