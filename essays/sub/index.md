@@ -44,7 +44,7 @@ However, by 1972, students began complaining about the SUB and holding debates o
 {% include aside.html class="left" text="
 It is one of the biggest drug traffic centers in the city and if that weren't enough the coffee is terrible. - Daily Lobo editorial, January 19, 1972." %}
 
-The first major renovation of the building took place in 1976. With the campus bookstore relocated, the renovation added new dining venues in the model of a rathskeller.[^note4]
+The first major renovation of the building took place in 1976. With the campus bookstore relocated, the renovation added new dining venues in the model of a [rathskeller](https://en.wikipedia.org/wiki/Ratskeller).[^note4]
 
 [^note4]: "UNM Construction Continues," Albuquerque Journal, August 15, 1976.
 
@@ -131,21 +131,19 @@ The bayonet stabbings inflicted by National Guard soldiers nearly killed several
 Starting on April 22, 2024, UNM students set up a solidarity encampment at the Duck Pond. The protestors at the encampment aimed to show solidarity with other college campuses in an effort to support Palestinians in Gaza. They called on the UNM Board of Regents to adopt a resolution to divest from Israel.
 
 {% include aside.html class="left" text="
-Right now, I'm thinking and considering what it means – what this next action represents for the campus. And so for me, I understand the various perspectives. I know what's being asked, but at the same time, I think there are many things to consider, including the impact of this on other members of the community, and so (I am) considering what our next steps are. - Garnett Stokes, UNM President, 2024.[^note13]" %}
+Right now, I'm thinking and considering what it means – what this next action represents for the campus. And so for me, I understand the various perspectives. I know what's being asked, but at the same time, I think there are many things to consider, including the impact of this on other members of the community, and so (I am) considering what our next steps are. - Garnett Stokes, UNM President, 2024." %}
+
+On April 29, students and members of the community expanded the protest. They occupied the SUB to protest the refusal of the University to divest from Israel. Several of the protestors chained tents to the railing on the second floor.[^note13]  
 
 [^note13]: Ella Daniel and Paloma Chapa, “16 Arrested After Pro-Palestine Protesters Occupy the SUB: UNM Solidarity Encampment, Week Two,” _Daily Lobo_, May 1, 2024, https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub
-
-On April 29, students and members of the community expanded the protest. They occupied the SUB to protest the refusal of the University to divest from Israel. Several of the protestors chained tents to the railing on the second floor.[^note14]  
-
-[^note14]: Daniel and Chapa, “16 Arrested."
 
 However, the occupation lasted less than ten hours. 
 
 {% include figure.html class="img-right" width="48%" caption="New Mexico State Police in riot gear on the night of April 30, 2024. Photo by Ella Daniel. [Source](https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub)" src="images/2024subpolice2.jpg" %}
 
-At 3:30am on Tuesday, April 30, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement the following day from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights."[^note15] 
+At 3:30am on Tuesday, April 30, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement the following day from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights."[^note14] 
 
-[^note15]: Daniel and Chapa, "16 Arrested."
+[^note14]: Daniel and Chapa, "16 Arrested."
 
 ## An Exclusive Audio Interview with the SUB Itself
 
