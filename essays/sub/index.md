@@ -119,7 +119,9 @@ On April 29, students and members of the community expanded the protest. They oc
 
 At 3:30am on Tuesday, April 30, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights." Daily Lobo Ella Daniel and Paloma Chapa, May 1, 2024.
 
+## An Exclusive Audio Interview with the SUB Itself
 
+Coming soon!
 
 ## A 3D Image of a sub purchased at the SUB on April 29, 2025
 
