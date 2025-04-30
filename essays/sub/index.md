@@ -137,16 +137,33 @@ Coming soon!
 ## Bibliography
 
 
+- Alexander, Lily, and Nate Bernard. “The SUB’s History with Anti-War Protest.” _Daily Lobo_, May 13, 2024. https://www.dailylobo.com/article/2024/05/the-subs-history-with-anti-war-protest.
+
+- Briggs, Sherie. “Bowling Alley to Die Soon.” _Daily Lobo_, October 22, 1973. UNM Digital Repository. https://digitalrepository.unm.edu/daily_lobo_1973/119/
+
+- Chapa, Leila, and Paloma Chapa. “Seven Arrested as Police Dismantle UNM Palestine Solidarity Encampment.” _Daily Lobo_, May 16, 2024. https://www.dailylobo.com/article/2024/05/seven-arrested-as-police-dismantle-unm-palestine-solidarity-encampment.
+
+- Daniel, Ella, and Paloma Chapa. “UNM Encampment Stands in Solidarity with Palestine, Other Universities.” _Daily Lobo_, April 30, 2024. https://www.dailylobo.com/article/2024/04/unm-encampment-stands-in-solidarity-with-palestine-other-universities.
+
 - Daniel, Ella, and Paloma Chapa. “16 Arrested After Pro-Palestine Protesters Occupy the SUB: UNM Solidarity Encampment, Week Two.” _Daily Lobo_, May 1, 2024. https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub.
 
+“Dedication of the New Mexico Union: Program.” University of New Mexico, November 14, 1959. UNMA 028, Box 96. Center for Southwest Research, University Libraries, University of New Mexico.
 
 - Heady, Ferrel. _One Time Around._ Albuquerque, NM: School of Public Administration, University of New Mexico, 1999.
 
-
 - Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
-
 
 - Horn, Calvin. _The University in Turmoil and Transition: Crisis Decades at the University of New Mexico._ Albuquerque, NM: Rocky Mountain Pub. Co., 1981.
 
+- Mathes, Khepran. “Construction Screws Up East Campus.” _Daily Lobo_, August 26, 1996.
+
+- Navrot, Miguel. “SUB Planners Happy to Hear Your Renovation Suggestions.” _Daily Lobo_, May 1, 1996.
+
+- Ordower, Garrett. “Student Union Target for Change.” _Albuquerque Journal_, January 20, 2001.
+
+- "Students Should Solve Union Problem." _Daily Lobo_, January 19, 1972.
 
 - University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  96. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- “UNM Construction Continues.” _Albuquerque Journal_, August 15, 1976.
+
