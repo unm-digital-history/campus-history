@@ -12,6 +12,8 @@ background-position: 20px
 
 ## A Tale of Two Boxes
 
+{% include figure.html class="img-left" width="48%" caption="Officer examining evidence during the BYU vs. UNM basketball game February, 1970. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/1970-UNM-vs-BYU-Game.jpg" %}
+
 
 {% include figure.html class="img-right" width="48%" caption="Officer examining evidence during the BYU vs. UNM basketball game February, 1970. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/1970-UNM-vs-BYU-Game.jpg" %}
 
