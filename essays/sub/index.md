@@ -29,7 +29,7 @@ Prior to this building, since 1936 the building that is now the Maxwell Museum f
 
 [^note1]: Van Dorn Hooker, Melissa Howard, and V. B. Price, _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_ (Albuquerque, NM: University of New Mexico Press, 2000), 45 and 75.
 
-In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building. Funds for the building also came from the federal agency, the Works Progress Administration.[^note2]
+In 1956, the Student Council voted in favor of a fee to fund the construction of a new Student Union Building. Funds for the building also came from a federal agency, the Works Progress Administration.[^note2]
 
 [^note2]: "Dedication of the New Mexico Union," Program Pamphlet, November 14, 1959.
 
