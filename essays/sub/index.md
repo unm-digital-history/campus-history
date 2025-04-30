@@ -61,11 +61,11 @@ In Fall of 2000 UNM initiated a major renovation of the SUB, the largest since t
 Project delays pushed the completion of the renovation to July 2003. 
 
 ## Features and Amenities
-At various times in its history, the SUB included a bowling alley, a billiards room, a video game arcade, and a fitness center. Services available at the SUB have included a barber shop, a bank, and a backpacking equipment rental desk. 
+At various times in its history, the SUB included a sodar bar, a bowling alley, a billiards room, a video game arcade, and a fitness center. Services available at the SUB have included a barber shop, a bank, and a backpacking equipment rental desk. 
 
 {% include figure.html class="img-left" width="48%" caption="A photograph of the bowling alley in the SUB. Photo by Bob Wyer Photocards, Delhi, NY. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3644/rec/5)" src="images/subbowling1.jpg" %}
 
-More information about amenities and features.
+The SUB has continuously operated a theater space, at times for live performances in addition to film screenings. Toward the end of the twentieth century, the SUB maintained a large copy center. As a reflection of the large percentage of commuter students, the lounge spaces have also been a mainstay of the SUB.
 
 
 
@@ -75,6 +75,7 @@ Carousel second attempt
 "images/subdining1960s.jpg,
 images/store1950s.jpg,
 images/1950s-lounge.jpg,
+images/atrium-construction.jpg,
 images/bowling2.jpg,
 images/bowling-end.jpg" | split: ','
 %}
