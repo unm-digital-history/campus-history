@@ -64,7 +64,7 @@ In Fall of 2000 UNM initiated a major renovation of the SUB, the largest since t
 
 [^note8]: Garrett Ordower, "Student Union Target for Change," _Albuquerque Journal_, January 20, 2001.
 
-Project delays pushed the completion of the renovation to July 2003. 
+Project delays pushed the completion of the renovation to July 2003. No further major renovations to the SUB took place between 2003 and 2025.
 
 ## Features and Amenities
 At various times in its history, the SUB included a sodar bar, a bowling alley, a billiards room, a video game arcade, and a fitness center. Services available at the SUB have included a barber shop, a bank, and a backpacking equipment rental desk. 
