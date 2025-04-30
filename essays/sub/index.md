@@ -67,7 +67,7 @@ At various times in its history, the SUB included a sodar bar, a bowling alley, 
 
 The SUB has continuously operated a theater space, at times for live performances in addition to film screenings. Toward the end of the twentieth century, the SUB maintained a large copy center. As a reflection of the large percentage of commuter students, the lounge spaces have also been a mainstay of the SUB.
 
-
+In 1974, the Union Board decided to demolish the bowling alley - Daily Lobo 1974. In prior years, fewer and fewer students bowled there and only the bowling classes used it. As part of a larger renovation in 1977, a new games area with pool tables and a larger dining space replaced the bowling alley on the ground floor of the SUB. 
 
 
 {% assign images = 
