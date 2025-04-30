@@ -69,7 +69,6 @@ The SUB has continuously operated a theater space, at times for live performance
 
 
 
-Carousel second attempt
 
 {% assign images = 
 "images/subdining1960s.jpg,
@@ -104,7 +103,9 @@ In response to the killing of students on the campus of Kent State University, U
 {% include aside.html class="left" text="
 What happened outside the Union has been the subject of much controversy and debate, which I cannot help clarify. Some crucial aspects of the encounter seem to be agreed upon. - Ferrel Heady, UNM President." %}
 
-Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he recalled the events of 1970. Calvin Horne, who served as a member of the Board of Regents, collected interviews and firsthand accounts of the events of May 8, 1970. Horne concludes that the National Guard acted aggressively against students and initiated the violence - p.63-73 of University in Turmoil. The bayonet stabbings inflicted by National Guard soldiers nearly killed several people. When New Mexico Governor David Cargo met with student groups on May 9, a student said to him, "The problem as I see it, Governor Cargo, is that you are hte only man who can call out the National Guard. But the Guard was under the command of Chief Vigil; so that exonerates you from the bayonet use at the Mall yesterday. President Heady says he couldn't stop the National Guard, so that exonerates him. Mr. Vigil says he had no knowledge of the bayonets; so that exonerates him. General Doane says it's standard operating procedure for the National Guard to use bayonets; so evidently he thinks that exonerates him. Do people get stabbed by themselves? Who decides to do these things? Who is responsible?" p.67 of Tension
+Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he recalled the events of 1970. Calvin Horne, who served as a member of the Board of Regents, collected interviews and firsthand accounts of the events of May 8, 1970. Horne concludes that the National Guard acted aggressively against students and initiated the violence - p.63-73 of University in Turmoil. The bayonet stabbings inflicted by National Guard soldiers nearly killed several people. When New Mexico Governor David Cargo met with student groups on May 9, a student said: 
+
+> The problem as I see it, Governor Cargo, is that you are hte only man who can call out the National Guard. But the Guard was under the command of Chief Vigil; so that exonerates you from the bayonet use at the Mall yesterday. President Heady says he couldn't stop the National Guard, so that exonerates him. Mr. Vigil says he had no knowledge of the bayonets; so that exonerates him. General Doane says it's standard operating procedure for the National Guard to use bayonets; so evidently he thinks that exonerates him. Do people get stabbed by themselves? Who decides to do these things? Who is responsible?" p.67 of Tension
 
 ### The 2024 Occupation
 On April 29, 2024, students and members of the community occupied the SUB to protest the refusal of the University to divest from Israel.  
