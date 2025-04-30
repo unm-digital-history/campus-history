@@ -88,7 +88,7 @@ images = images
 
 ## Site of Antiwar Occupations
 
-In 1970 and 2024, students occupied the SUB as a social protest action against the University for its support of the national military industrial complex.
+In 1970 and 2024, students occupied the SUB as a social protest action against the University for its support of the national and global military industrial complex.
 
 {% include juxtapose.html
 image1="images/subpolice1970.jpg"
@@ -101,18 +101,24 @@ caption="Militarized law enforcement in 1970 and 2024. 1970 photo from the Calvi
 In response to the killing of students on the campus of Kent State University, UNM students occupied the SUB on May 6, 1970. On May 8, the occupation of the SUB ended when the protesters submitted to arrest without resistance. However, a crowd formed outside the SUB and approached the National Guard soldiers. The soldiers, ordered to not let anyone through, stood their ground and a violant clash erupted. The National Guard soldiers bayonetted ten people, a group that included UNM students. 
 
 {% include aside.html class="left" text="
-What happened outside the Union has been the subject of much controversy and debate, which I cannot help clarify. Some crucial aspects of the encounter seem to be agreed upon. - Ferrel Heady, UNM President." %}
+What happened outside the Union has been the subject of much controversy and debate, which I cannot help clarify. Some crucial aspects of the encounter seem to be agreed upon. - Ferrel Heady, UNM President, 1970." %}
 
 Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he recalled the events of 1970. Calvin Horne, who served as a member of the Board of Regents, collected interviews and firsthand accounts of the events of May 8, 1970. Horne concludes that the National Guard acted aggressively against students and initiated the violence - p.63-73 of University in Turmoil. The bayonet stabbings inflicted by National Guard soldiers nearly killed several people. When New Mexico Governor David Cargo met with student groups on May 9, a student said: 
 
 > The problem as I see it, Governor Cargo, is that you are hte only man who can call out the National Guard. But the Guard was under the command of Chief Vigil; so that exonerates you from the bayonet use at the Mall yesterday. President Heady says he couldn't stop the National Guard, so that exonerates him. Mr. Vigil says he had no knowledge of the bayonets; so that exonerates him. General Doane says it's standard operating procedure for the National Guard to use bayonets; so evidently he thinks that exonerates him. Do people get stabbed by themselves? Who decides to do these things? Who is responsible?" p.67 of Tension
 
 ### The 2024 Occupation
-On April 29, 2024, students and members of the community occupied the SUB to protest the refusal of the University to divest from Israel.  
+Starting on April 22, 2024, UNM students set up a solidarity encampment at the Duck Pond. The protestors at the encampment aimed to show solidarity with other college campuses in an effort to support Palestinians in Gaza. 
+
+{% include aside.html class="right" text="
+There are many perspectives on many complex issues, and our focus is on education. - Garnett Stokes, UNM President, 2024." %}
+
+On April 29, students and members of the community expanded the protest. They occupied the SUB to protest the refusal of the University to divest from Israel.  
 
 {% include figure.html class="img-right" width="48%" caption="New Mexico State Police in riot gear on the night of April 30, 2024. Photo by Ella Daniel. [Source](https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub)" src="images/2024subpolice2.jpg" %}
 
 The next day, in a militarized police action, the New Mexico State Police arrested 21 protestors. A statement from the United Academics of UNM, the union representing the faculty, read "We urge President Stokes and Provost Holloway to de-escalate their response toward students exercising their first amendment rights." Daily Lobo Ella Daniel and Paloma Chapa, May 1, 2024.
+
 
 
 ## A 3D Image of a sub purchased at the SUB on April 29, 2025
