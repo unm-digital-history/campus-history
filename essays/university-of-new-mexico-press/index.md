@@ -18,7 +18,7 @@ The University of New Mexico Press has been a fixture of UNM for nearly a centur
   class="img-right"
   width="33%"
   caption="This is a test (and this is too)"
-  src="images/KIC-Document-0001-(1).png"
+  src="images/ULPhotoImag_3418_medium.jpg"
 %}
 
 
