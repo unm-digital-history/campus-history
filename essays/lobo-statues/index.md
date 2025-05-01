@@ -40,7 +40,7 @@ An additional version of Tatschl's Lobo can be seen in the oversized recasting o
 
 {% include juxtapose.html
 image1="images/lobo-image-6.jpeg"
-image2="images/lobo-image-7.jepg"
+image2="images/lobo-image-7.jpeg"
 caption="Previous and new location of the Lobo"
 %}
 
