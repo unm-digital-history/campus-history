@@ -62,15 +62,14 @@ Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives du
 
 
 ### Locations
-{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-image8.jpg" %} 
+{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-image-8.jpg" %} 
 
 The statue was originally placed outside of Zimmerman Stadium. After the stadium's relocation to University and Cesar Chavez in the 1960s, the lobo was moved to preside over the Stanford and Central entrance to campus. He has made his most recent home outside of Johnson Center near the east entrance adjacent to Johnson Field.
 
 {% assign images = 
 "images/lobo-zimmerman-1.jpg,
 images/lobo-image-6.jpeg,
-images/lobo-image-7.jpeg,
-images/lobo-image-8.jpg," | split: ','
+images/lobo-image-7.jpeg" | split: ','
 %}
 
 {% include carousel.html
@@ -89,7 +88,7 @@ An additional version of Tatschl's Lobo can be seen in the oversized recasting o
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
-  image-url="images/lobo-head-2.jpg"
+  image-url="images/lobo-pond01.jpg"
   pre-box-space="0"
   font-size = "150%"
   line-height = "100%"
