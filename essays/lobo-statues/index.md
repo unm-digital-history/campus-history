@@ -34,10 +34,6 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's Lobo currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
-An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall.
-
-{% include figure.html class="img-left" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
-
 {% assign images = 
 "images/lobo-and-boy-1.jpg,
 images/lobo-image-2.jpg,
@@ -61,9 +57,15 @@ caption="Previous and new location of the Lobo"
   font-size = "250%"
   line-height = "150%"
   box-content='
-       One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+       "You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him."
+       '
 %}
 
+## Hodgin Hall Lobo
+
+An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall. The oversized lobo is a popular location to take graduation photos as students move to becoming an alumni, right outside the Alumni building. 
+
+{% include figure.html class="img-right" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
 
 ## Lobo among the grove 
 On the other side of Hodgin Hall, you can find Michelle Middleton's lobo statue surveilling the corner of University and Central. The statue, a gift from the class of 1993, verify, is situated among a grove of trees originally transplanted by students in 1908. Tight grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grand Cottonwoods. 
