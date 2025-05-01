@@ -133,7 +133,7 @@ Right now, I'm thinking and considering what it means – what this next action 
 
 On April 29, students and members of the community expanded the protest. They occupied the SUB to protest the refusal of the University to divest from Israel. Several of the protestors chained tents to the railing on the second floor.[^note13]  
 
-[^note13]: Ella Daniel and Paloma Chapa, “16 Arrested After Pro-Palestine Protesters Occupy the SUB: UNM Solidarity Encampment, Week Two,” _Daily Lobo_, May 1, 2024, https://www.dailylobo.com/article/2024/05/16-arrested-after-pro-palestine-protesters-occupy-the-sub
+[^note13]: Ella Daniel and Paloma Chapa, “16 Arrested After Pro-Palestine Protesters Occupy the SUB: UNM Solidarity Encampment, Week Two,” _Daily Lobo_, May 1, 2024.
 
 However, the occupation lasted less than ten hours. 
 
