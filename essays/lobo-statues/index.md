@@ -37,6 +37,12 @@ images/lobo-and-boy-1.jpg" | split: ','
 images = images 
 %}
 
+## Hodgin Hall Lobo
+
+An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall. 
+
+{% include figure.html class="img-right" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
+
 {% include scrollybox/bg.html
   height="220"
   image-url="images/lobo-image-4.jpg"
@@ -47,11 +53,6 @@ images = images
        Test.'
 %}
 
-## Hodgin Hall Lobo
-
-An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall. 
-
-{% include figure.html class="img-right" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
 
 ## Lobo among the grove 
 On the other side of Hodgin Hall, you can find Michelle Middleton's lobo statue surveilling the corner of University and Central. The statue, a gift from the class of 1993, verify, is situated among a grove of trees originally transplanted by students in 1908. Tight grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grand Cottonwoods. 
