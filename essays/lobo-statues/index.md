@@ -94,16 +94,14 @@ This is the end of the story, and you should see the text box scroll out of view
 
 ## Newest Statues 
 
-{% include figure.html class="img-right" width="48%" caption="Large Wood Carving Lobo, 2025. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="Large Wood Carving Lobo, 2025. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-wood-1.jpg" %}
 
-{% include figure.html class="img-right" width="48%" caption="Miniature Wood Carving Lobo, 2025. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="Miniature Wood Carving Lobo, 2025. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-mini-wood-1.jpg" %}
 
 
 Two new wooden statues appeared on campus in 2025. Find any information about this.
 
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
-
+## Replace 
 
 {% assign images = 
 "images/lobo-image-7.jpg,
