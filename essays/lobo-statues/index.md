@@ -40,30 +40,33 @@ Could include links to the Daily Lobo on stories about the statue getting graffi
 %}
 
 
-### John Tatschl's _Lobo_ 
+# John Tatschl's _Lobo_ 
 
 {% include figure.html class="img-right" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
-
-
-Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
-
-## Construction of the Lobo
-
-# Dedication 
-Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives during WWI and WWII. The statue was erected in 1947 shortly after the conclusion of the Second World War. A placard below the statues acknowledges those who died.
-
 {% include aside.html class="right" text="
 You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him. - John Tatschl" %}
 
-## Location
+Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
+
+### Construction of the Lobo
+Constructed out of bronze and assembled in the Art Department. 
+
+{% include figure.html class="img-left" width="30%" caption="A boy stands with the lobo inside the art studio. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-and-boy-1.jpg" %}
+
+
+### Dedication 
+Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives during WWI and WWII. The statue was erected in 1947 shortly after the conclusion of the Second World War. A placard below the statues acknowledges those who died.
+
+
+### Location
 The state was originally placed outside of Zimmerman Stadium. The stadium was relocated to its current location on University and Cesar Chavez in the 1960s. The lobo was moved to its current location near the entrance to the university at Standford and Central outside of Johnson Center. 
 
-{% include figure.html class="img-left" width="48%" height="100" caption="Sculpted by Michelle Middleton. Casted by Richard Wortman." src="images/lobo-image-2.jpg" %} 
+{% include figure.html class="img-right" width="48%" height="100" caption="Sculpted by Michelle Middleton. Casted by Richard Wortman." src="images/lobo-image-2.jpg" %} 
 
-## Hodgin Hall Lobo
+### Hodgin Hall Lobo
 
 {% include figure.html class="img-left" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
 
