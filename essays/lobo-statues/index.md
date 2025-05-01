@@ -3,7 +3,7 @@ title: lobo-statues
 author: Maya Vigil
 layout: unm-base
 date: 2025-04-29
-header-image: images/lobo-image-1.jpg
+header-image: images/lobo-header-1.jpg
 header-title: Lobo Statues Around Campus
 header-height: 50vh
 background-position: 20px
@@ -62,7 +62,7 @@ Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives du
 
 
 ### Locations
-{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo Outside of Zimmerman Stadium [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-zimmerman-1.jpg" %} 
+{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-image8.jpg" %} 
 
 The statue was originally placed outside of Zimmerman Stadium. After the stadium's relocation to University and Cesar Chavez in the 1960s, the lobo was moved to preside over the Stanford and Central entrance to campus. He has made his most recent home outside of Johnson Center near the east entrance adjacent to Johnson Field.
 
@@ -70,7 +70,7 @@ The statue was originally placed outside of Zimmerman Stadium. After the stadium
 "images/lobo-zimmerman-1.jpg,
 images/lobo-image-6.jpeg,
 images/lobo-image-7.jpeg,
-images/lobo-image-8.jpg" | split: ','
+images/lobo-image-8.jpg," | split: ','
 %}
 
 {% include carousel.html
@@ -118,7 +118,7 @@ Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. M
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
 
 {% include scrollybox/bg-switch.html
-  image-url="images/lobo-image-1.jpg"
+  image-url="images/lobos-1.jpg"
   switch-id="switch1"
   bg-id="bg1"
 %}
