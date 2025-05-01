@@ -95,7 +95,7 @@ An additional version of Tatschl's Lobo can be seen in the oversized recasting o
   line-height = "100%"
 %}
 
-### Bronze Lobos Across Campus
+## Bronze Lobos Across Campus
 There are a handful of other lobo statues scattered across campus. In various poses, you can find them lurking around the bushes and trees. The statues were donations to the university during the 2013, verify, _Spirit of the Lobo_ campaign. 
 
 Now we have a text box scrolling up over the image. At various points (clearly labeled in the following text) **the background image will switch.**
@@ -111,7 +111,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
   bg-id="bg1"
 %}
 
-## Nearby the Duck Pond
+### Nearby the Duck Pond
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
 
 ### Outside of the President's House 
