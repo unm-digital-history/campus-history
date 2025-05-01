@@ -12,30 +12,20 @@ background-position: 20px
 
 ## The Lobo
 
-{% include figure.html class="img-center" width="66%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-tight-grove-1.jpg" %}
+{% include figure.html class="img-center" width="66%" caption="Lobo On the Corner of Campus. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-tight-grove-1.jpg" %}
 
 The lobo, beloved mascot of the university, exists in many iterations across the campus. Fill in about the lobo as the mascot and how it came to be. [^note1]
 
 [^note1]: This is my citation at the end of the FIRST paragraph.
 
 
-## John Tatschl's _Lobo_
+## Lobo In Tight Grove
 
 {% include figure.html class="img-left" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
 
-Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
+Surveilling the corner of Central and University, you'll find the university's iconic lobo statue among a grove of pine trees. The statue, a gift from the Alumni Association in 1997, commemorates the centennial of the school. It is situated among a grove of trees originally transplanted by students in 1908. Tight grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grand Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
 
 Test Writing to Confirm Formatting 
-
-{% assign images = 
-"images/lobo-and-boy-1.jpg,
-images/lobo-image-2.jpg,
-images/lobo-and-boy-1.jpg" | split: ','
-%}
-
-{% include carousel.html class="img-right" width="48%"
-images = images 
-%}
 
 ## Hodgin Hall Lobo
 
@@ -55,10 +45,13 @@ An additional version of Tatschl's Lobo can be seen in the oversized recasting o
 
 
 ## John Tatschl's _Lobo_ 
-On the other side of Hodgin Hall, you can find Michelle Middleton's lobo statue surveilling the corner of University and Central. The statue, a gift from the class of 1993, verify, is situated among a grove of trees originally transplanted by students in 1908. Tight grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grand Cottonwoods. 
+
+{% include figure.html class="img-left" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
+
+Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
 {% include aside.html class="left" text="
-You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him. - John Tatschl" %}
+"You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him." John Tatschl" %}
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
@@ -94,12 +87,6 @@ Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. M
 
 #### Almost done
 This is the end of the story, and you should see the text box scroll out of view followed by the background image.
-
-{% include juxtapose.html
-image1="images/lobo-image-6.jpeg"
-image2="images/lobo-image-7.jpeg"
-caption="Previous and new location of the Lobo"
-%}
 
 {% include scrollybox/bg-multi-long-close.html %}
 
