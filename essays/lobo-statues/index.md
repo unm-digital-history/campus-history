@@ -68,6 +68,9 @@ An additional version of Tatschl's Lobo can be seen in the oversized recasting o
   line-height = "100%"
 %}
 
+### Bronze Lobos Across Campus
+There are a handful of other lobo statues scattered across campus. In various poses, you can find them lurking around the bushes and trees. The statues were donations to the university during the 2013, verify, _Spirit of the Lobo_ campaign. 
+
 Now we have a text box scrolling up over the image. At various points (clearly labeled in the following text) **the background image will switch.**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl. Curabitur consectetur placerat commodo. Maecenas sagittis facilisis turpis vel porta. Nulla facilisi. Nam viverra eget metus eget efficitur.
@@ -81,10 +84,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
   bg-id="bg1"
 %}
 
-
 ### Duis vehicula erat et diam
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
 
+{% include scrollybox/bg-switch.html
+  image-url="images/lobo-image-1.jpg"
+  switch-id="switch1"
+  bg-id="bg1"
+%}
 
 #### Almost done
 This is the end of the story, and you should see the text box scroll out of view followed by the background image.
@@ -112,8 +119,6 @@ images/lobo-zimmerman-1.jpg" | split: ','
 {% include carousel.html 
 images = images 
 %}
-
-
 
 ## Curabitur sapien risus
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
