@@ -50,7 +50,7 @@ An additional version of Tatschl's Lobo can be seen in the oversized recasting o
   font-size = "250%"
   line-height = "150%"
   box-content='
-       You know quite often after looking at something for ten years you want to disown authorship. But on the contrary I look back on my work ten years later and I'm still proud I made him.'
+       Test'
 %}
 
 
