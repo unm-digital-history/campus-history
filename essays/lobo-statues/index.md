@@ -3,7 +3,7 @@ title: lobo-statues
 author: Maya Vigil
 layout: unm-base
 date: 2025-04-29
-header-image: images/lobo-image-3.jpg
+header-image: images/lobo-image-1.jpg
 header-title: Lobo Statues Around Campus
 header-height: 50vh
 background-position: 20px
@@ -13,7 +13,7 @@ background-position: 20px
 ## The Lobo
 
 
-{% include figure.html class="img-right" width="48%" caption="Lobo statue by John Tatschl. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="Lobo statue by John Tatschl. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-tight-grove-1.jpg" %}
 
 The lobo, beloved mascot of the university, exists in many iterations across the campus. Fill in about the lobo as the mascot and how it came to be. [^note1]
 
@@ -36,7 +36,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 
 ## John Tatschl's _Lobo_
-{% include figure.html class="img-right" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
+{% include figure.html class="img-left" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
 
 {% include figure.html class="img-right" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
 
