@@ -12,7 +12,7 @@ background-position: 20px
 
 ## The Lobo
 
-{% include figure.html class="img-center" width="66%" caption="Lobo On the Corner of Campus. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-tight-grove-1.jpg" %}
+{% include figure.html class="img-center" width="75%" caption="Lobo On the Corner of Campus. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-tight-grove-1.jpg" %}
 
 The lobo, beloved mascot of the university, exists in many iterations across the campus. Fill in about the lobo as the mascot and how it came to be. [^note1]
 
@@ -21,13 +21,14 @@ The lobo, beloved mascot of the university, exists in many iterations across the
 
 ## Lobo In Tight Grove
 
-{% include figure.html class="img-left" width="48%" height="100" caption="Sculpted by Michelle Middleton. Casted by Richard Wortman." src="images/lobo-tight-grove-2.jpg" %} 
+{% include figure.html class="img-left" width="45%" height="100" caption="Sculpted by Michelle Middleton. Casted by Richard Wortman." src="images/lobo-tight-grove-2.jpg" %} 
 
 Surveilling the corner of Central and University, you'll find the university's iconic lobo statue among a grove of pine trees. The statue, a gift from the Alumni Association in 1997, commemorates the centennial of the school. It is situated among a grove of trees originally transplanted by students in 1908. Tight Grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grand Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
 
 Test Writing to Confirm Formatting 
- 
 
+Could include links to the Daily Lobo on stories about the statue getting graffitied. 
+ 
 {% include scrollybox/bg.html
   height="220"
   image-url="images/lobo-image-4.jpg"
@@ -54,7 +55,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 ## Hodgin Hall Lobo
 
-{% include figure.html class="img-right" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
 
 An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall.
 
@@ -84,10 +85,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
   bg-id="bg1"
 %}
 
-### Duis vehicula erat et diam
+## Nearby the Duck Pond
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
 
-### Duis vehicula erat et diam
+### Outside of the President's House 
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
 
 {% include scrollybox/bg-switch.html
