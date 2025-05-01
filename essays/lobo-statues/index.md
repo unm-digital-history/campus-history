@@ -13,7 +13,7 @@ background-position: 20px
 ## The Lobo
 
 
-{% include figure.html class="img-right" width="48%" caption="Lobo statue by John Tatschl. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-tight-grove-1.jpg" %}
+{% include figure.html class="img-center" width="70%" caption="Lobo statue among the trees at Tight Grove. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3](https://brand.unm.edu/brand-support/assets/zoombackground_lobostatue.jpg)" src="images/lobo-tight-grove-1.jpg" %}
 
 The lobo, beloved mascot of the university, exists in many iterations across the campus. Fill in about the lobo as the mascot and how it came to be. [^note1]
 
