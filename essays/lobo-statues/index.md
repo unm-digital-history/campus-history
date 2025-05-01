@@ -39,9 +39,9 @@ images = images
 
 ## Hodgin Hall Lobo
 
-An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall. 
-
 {% include figure.html class="img-right" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
+
+An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall. 
 
 {% include scrollybox/bg.html
   height="220"
@@ -50,7 +50,7 @@ An additional version of Tatschl's Lobo can be seen in the oversized recasting o
   font-size = "250%"
   line-height = "150%"
   box-content='
-       Test.'
+       You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him. - John Tatschl on his _Lobo_ statue'
 %}
 
 
