@@ -67,8 +67,8 @@ Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives du
 The statue was originally placed outside of Zimmerman Stadium. After the stadium's relocation to University and Cesar Chavez in the 1960s, the lobo was moved to preside over the Stanford and Central entrance to campus. He has made his most recent home outside of Johnson Center near the east entrance adjacent to Johnson Field.
 
 {% assign images = 
-"images/lobo-image-6.jpg,
-images/lobo-image-7.jpg,
+"images/lobo-image-6.jpeg,
+images/lobo-image-7.jpeg,
 images/lobo-image-8.jpg" | split: ','
 %}
 
