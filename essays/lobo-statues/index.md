@@ -62,7 +62,7 @@ Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives du
 
 
 ### Locations
-{% include figure.html class="img-center" width="48%" height="100" caption="The Lobo Outside of Zimmerman Stadium [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-image-2.jpg" %} 
+{% include figure.html class="img-center" width="48%" height="100" caption="The Lobo Outside of Zimmerman Stadium [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-zimmerman-2.jpg" %} 
 
 The statue was originally placed outside of Zimmerman Stadium. After the stadium's relocation to University and Cesar Chavez in the 1960s, the lobo was moved to preside over the Stanford and Central entrance to campus. He was eventually moved to its current location, off of the median, in the 2010s. 
 
