@@ -110,7 +110,6 @@ images/lobo-zimmerman-1.jpg" | split: ','
 %}
 
 {% include carousel.html 
-height="100"
 images = images 
 %}
 
