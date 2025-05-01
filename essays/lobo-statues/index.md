@@ -68,7 +68,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
-  image-url="images/lobo-head-2-.jpg"
+  image-url="images/lobo-head-2.jpg"
   pre-box-space="0"
   font-size = "150%"
   line-height = "100%"
