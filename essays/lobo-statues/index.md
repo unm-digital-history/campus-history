@@ -21,7 +21,7 @@ The lobo, beloved mascot of the university, exists in many iterations across the
 
 ## Lobo In Tight Grove
 
-{% include figure.html class="img-left" width="48%" caption="Sculpted by Michelle Middleton. Casted by Richard Wortman." src="images/lobo-tight-grove-2.jpg" %} 
+{% include figure.html class="img-left" width="48%" height="100" caption="Sculpted by Michelle Middleton. Casted by Richard Wortman." src="images/lobo-tight-grove-2.jpg" %} 
 
 Surveilling the corner of Central and University, you'll find the university's iconic lobo statue among a grove of pine trees. The statue, a gift from the Alumni Association in 1997, commemorates the centennial of the school. It is situated among a grove of trees originally transplanted by students in 1908. Tight Grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grand Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
 
