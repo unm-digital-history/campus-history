@@ -21,17 +21,12 @@ The lobo, beloved mascot of the university, exists in many iterations across the
 
 ## Lobo In Tight Grove
 
-{% include figure.html class="img-left" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
+{% include figure.html class="img-left" width="48%" caption="Sculpted by Michelle Middleton. Casted by Richard Wortman." src="images/lobo-tight-grove-2.heic" %} 
 
-Surveilling the corner of Central and University, you'll find the university's iconic lobo statue among a grove of pine trees. The statue, a gift from the Alumni Association in 1997, commemorates the centennial of the school. It is situated among a grove of trees originally transplanted by students in 1908. Tight grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grand Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
+Surveilling the corner of Central and University, you'll find the university's iconic lobo statue among a grove of pine trees. The statue, a gift from the Alumni Association in 1997, commemorates the centennial of the school. It is situated among a grove of trees originally transplanted by students in 1908. Tight Grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grand Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
 
 Test Writing to Confirm Formatting 
-
-## Hodgin Hall Lobo
-
-{% include figure.html class="img-right" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
-
-An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall. 
+ 
 
 {% include scrollybox/bg.html
   height="220"
@@ -46,16 +41,22 @@ An additional version of Tatschl's Lobo can be seen in the oversized recasting o
 
 ## John Tatschl's _Lobo_ 
 
-{% include figure.html class="img-left" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
+{% include figure.html class="img-right" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
 {% include aside.html class="left" text="
 You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him. - John Tatschl" %}
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+
+## Hodgin Hall Lobo
+
+{% include figure.html class="img-right" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
+
+An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall.
 
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
@@ -67,7 +68,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
   line-height = "100%"
 %}
 
-Now we have a text box scrolling up over the image. At various points (clearly labled in the following text) **the background image will switch.**
+Now we have a text box scrolling up over the image. At various points (clearly labeled in the following text) **the background image will switch.**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl. Curabitur consectetur placerat commodo. Maecenas sagittis facilisis turpis vel porta. Nulla facilisi. Nam viverra eget metus eget efficitur.
 
@@ -89,12 +90,6 @@ Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. M
 This is the end of the story, and you should see the text box scroll out of view followed by the background image.
 
 {% include scrollybox/bg-multi-long-close.html %}
-
-
-## Duis vehicula erat et diam
-{% include figure.html class="img-right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/lobo-tight-grove-2.heic" %}
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
 
 
 ## Newest Statues 
