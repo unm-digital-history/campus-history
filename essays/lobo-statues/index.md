@@ -12,8 +12,7 @@ background-position: 20px
 
 ## The Lobo
 
-
-{% include figure.html class="img-center" width="70%" caption="Lobo statue among the trees at Tight Grove. [Source][(https://brand.unm.edu/brand-support/assets/zoombackground_lobostatue.jpg)" src="images/lobo-tight-grove-1.jpg]" %}
+{% include figure.html class="img-center" width="66%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-tight-grove-1.jpg" %}
 
 The lobo, beloved mascot of the university, exists in many iterations across the campus. Fill in about the lobo as the mascot and how it came to be. [^note1]
 
@@ -26,9 +25,9 @@ Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a e
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
 
 {% include juxtapose.html
-image1="images/mvh-tv-room.jpg"
-image2="images/mvh-hist-common-room.jpg"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
+image1="images/lobo-head-1.jpg"
+image2="images/lobo-head-2.jpg"
+caption="Two versions of the Lobo Head"
 %}
 
 
