@@ -87,6 +87,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### Duis vehicula erat et diam
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
 
+### Duis vehicula erat et diam
+Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
+
 {% include scrollybox/bg-switch.html
   image-url="images/lobo-image-1.jpg"
   switch-id="switch1"
@@ -105,20 +108,7 @@ This is the end of the story, and you should see the text box scroll out of view
 
 {% include figure.html class="img-right" width="48%" caption="Miniature Wood Carving Lobo, 2025. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-mini-wood-1.jpg" %}
 
-
 Two new wooden statues appeared on campus in 2025. Find any information about this.
-
-## Replace 
-
-{% assign images = 
-"images/lobo-image-7.jpg,
-images/lobo-image-6.jpg,
-images/lobo-zimmerman-1.jpg" | split: ','
-%}
-
-{% include carousel.html 
-images = images 
-%}
 
 ## Curabitur sapien risus
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
