@@ -54,11 +54,11 @@ An additional version of Tatschl's Lobo can be seen in the oversized recasting o
 %}
 
 
-## Lobo among the grove 
+## John Tatschl's _Lobo_ 
 On the other side of Hodgin Hall, you can find Michelle Middleton's lobo statue surveilling the corner of University and Central. The statue, a gift from the class of 1993, verify, is situated among a grove of trees originally transplanted by students in 1908. Tight grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grand Cottonwoods. 
 
 {% include aside.html class="left" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
+You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him. - John Tatschl" %}
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
