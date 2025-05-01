@@ -104,7 +104,8 @@ images/lobo-head-2.jpg,
 images/lobo-head-luminarias.jpg" | split: ','
 %}
 
-{% include carousel.html
+{% include carousel.html 
+height="220"
 images = images 
 %}
 
