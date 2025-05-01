@@ -37,6 +37,8 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 ## John Tatschl's _Lobo_
 {% include figure.html class="img-left" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
 
+Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's Lobo currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the art we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
+
 {% include figure.html class="img-right" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
 
 {% include scrollybox/bg.html
