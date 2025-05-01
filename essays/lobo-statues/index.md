@@ -53,7 +53,7 @@ Perhaps the most well-known of the series of lobo statues across the campus, Joh
 
 ### Construction of the Lobo
 
-{% include figure.html class="img-left" width="30%" caption="A boy stands with the lobo inside the art studio. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-and-boy-1.jpg" %}
+{% include figure.html class="img-right" width="30%" caption="A boy stands with the lobo inside the art studio. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-and-boy-1.jpg" %}
 
 Constructed out of bronze and assembled in the Art Department. 
 
