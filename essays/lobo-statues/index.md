@@ -61,10 +61,12 @@ Constructed out of bronze and assembled in the Art Department.
 Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives during WWI and WWII. The statue was erected in 1947 shortly after the conclusion of the Second World War. A placard below the statues acknowledges those who died.
 
 
-### Location
-{% include figure.html class="img-right" width="48%" height="100" caption="Sculpted by Michelle Middleton. Casted by Richard Wortman." src="images/lobo-image-2.jpg" %} 
+### Locations
+{% include figure.html class="img-center" width="48%" height="100" caption="The Lobo Outside of Zimmerman Stadium [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-image-2.jpg" %} 
 
-The state was originally placed outside of Zimmerman Stadium. The stadium was relocated to its current location on University and Cesar Chavez in the 1960s. The lobo was moved to its current location near the entrance to the university at Standford and Central outside of Johnson Center. 
+The statue was originally placed outside of Zimmerman Stadium. After the stadium's relocation to University and Cesar Chavez in the 1960s, the lobo was moved to preside over the Stanford and Central entrance to campus. He was eventually moved to its current location, off of the median, in the 2010s. 
+
+
 
 ### Hodgin Hall Lobo
 
