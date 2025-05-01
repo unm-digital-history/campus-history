@@ -32,7 +32,7 @@ Could include links to the Daily Lobo on stories about the statue getting graffi
 {% include scrollybox/bg.html
   height="120"
   image-url="images/lobo-tatschl-01.jpg"
-  pre-box-space = "100vh"
+  pre-box-space = "60vh"
   font-size = "250%"
   line-height = "150%"
   box-content='
