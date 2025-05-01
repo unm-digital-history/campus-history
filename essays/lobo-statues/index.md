@@ -33,7 +33,7 @@ images/lobo-image-2.jpg,
 images/lobo-and-boy-1.jpg" | split: ','
 %}
 
-{% include carousel.html class="img-right" width="48%"
+{% include carousel.html
 images = images 
 %}
 
