@@ -25,7 +25,9 @@ The lobo, beloved mascot of the university, exists in many iterations across the
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
-{% assign images = 
+Test Writing to Confirm Formatting 
+
+{% class="img-right" width="48%" assign images = 
 "images/lobo-and-boy-1.jpg,
 images/lobo-image-2.jpg,
 images/lobo-and-boy-1.jpg" | split: ','
@@ -35,10 +37,14 @@ images/lobo-and-boy-1.jpg" | split: ','
 images = images 
 %}
 
-{% include juxtapose.html
-image1="images/lobo-image-6.jpeg"
-image2="images/lobo-image-7.jpeg"
-caption="Previous and new location of the Lobo"
+{% include scrollybox/bg.html
+  height="220"
+  image-url="images/lobo-image-4.jpg"
+  pre-box-space = "100vh"
+  font-size = "250%"
+  line-height = "150%"
+  box-content='
+       Test.'
 %}
 
 ## Hodgin Hall Lobo
@@ -88,6 +94,11 @@ Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. M
 #### Almost done
 This is the end of the story, and you should see the text box scroll out of view followed by the background image.
 
+{% include juxtapose.html
+image1="images/lobo-image-6.jpeg"
+image2="images/lobo-image-7.jpeg"
+caption="Previous and new location of the Lobo"
+%}
 
 {% include scrollybox/bg-multi-long-close.html %}
 
