@@ -36,7 +36,9 @@ Perhaps the most well-known of the series of lobo statues across the campus, Joh
 
 {% include figure.html class="img-right" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-and-boy-1.jpg" %}
 
-An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall. {% include figure.html class="img-left" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
+An additional version of Tatschl's Lobo can be seen in the oversized recasting of the lobo's head outside of Hodgin Hall.
+
+{% include figure.html class="img-left" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
 
 {% include juxtapose.html
 image1="images/lobo-image-6.jpeg"
@@ -113,9 +115,9 @@ Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed s
 
 
 {% assign images = 
-"images/lobo-mini-wood-1.heic,
-images/lobo-wood-1.heic,
-images/lobo-mini-wood-1.heic" | split: ','
+"images/lobo-head-1.jpg,
+images/lobo-head-2.jpg,
+images/lobo-head-luminarias.jpg" | split: ','
 %}
 
 {% include carousel.html
