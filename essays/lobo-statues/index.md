@@ -43,7 +43,7 @@ Perhaps the most well-known of the series of lobo statues across the campus, Joh
 
 {% include scrollybox/bg.html
   height="220"
-  image-url="images/mvh-women-supervision.jpg"
+  image-url="images/lobo-image-4.jpg"
   pre-box-space = "100vh"
   font-size = "250%"
   line-height = "150%"
@@ -66,7 +66,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
-  image-url="images/mvh-floorplan.jpg"
+  image-url="images/lobo-head-2-.jpg"
   pre-box-space="0"
   font-size = "150%"
   line-height = "100%"
@@ -80,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### IMAGE SWITCH HERE 
 
 {% include scrollybox/bg-switch.html
-  image-url="images/mvh-tv-room.jpg"
+  image-url="images/lobo-and-boy-1.jpg"
   switch-id="switch1"
   bg-id="bg1"
 %}
@@ -98,7 +98,7 @@ This is the end of the story, and you should see the text box scroll out of view
 
 
 ## Duis vehicula erat et diam
-{% include figure.html class="img-right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-floorplan.jpg" %}
+{% include figure.html class="img-right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/lobo-tight-grove-2.heic" %}
 
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
 
@@ -110,9 +110,9 @@ Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed s
 
 
 {% assign images = 
-"images/mvh-menu.jpg,
-images/mvh-history-stays.jpg,
-images/mvh-room-cost.jpg" | split: ','
+"images/lobo-mini-wood-1.heic,
+images/lobo-wood-1.heic,
+images/lobo-mini-wood-1.heic" | split: ','
 %}
 
 {% include carousel.html
