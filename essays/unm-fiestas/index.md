@@ -40,7 +40,7 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 
 
 {% assign images = 
-images/Fiestas-2023.jpeg,
+"images/Fiestas-2023.jpeg,
 images/Fiestas-2024-jpeg.jpeg,
 images/Fiestas-2025.jpeg" | split: ','
 %}
