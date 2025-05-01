@@ -27,7 +27,7 @@ Perhaps the most well-known of the series of lobo statues across the campus, Joh
 
 Test Writing to Confirm Formatting 
 
-{% class="img-right" width="48%" assign images = 
+{% assign images = 
 "images/lobo-and-boy-1.jpg,
 images/lobo-image-2.jpg,
 images/lobo-and-boy-1.jpg" | split: ','
