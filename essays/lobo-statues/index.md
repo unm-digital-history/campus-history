@@ -79,7 +79,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### IMAGE SWITCH HERE 
 
 {% include scrollybox/bg-switch.html
-  image-url="images/lobo-bronze-1.jpg"
+  image-url="images/lobo-bronze-2.jpg"
   switch-id="switch1"
   bg-id="bg1"
 %}
