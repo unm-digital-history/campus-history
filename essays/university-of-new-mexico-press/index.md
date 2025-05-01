@@ -1,13 +1,25 @@
 ---
-title: mesa-vista-hall
-author: Fred Gibbs
+title: The University of New Mexico Press
+author: Mason Parrish
 layout: unm-base
-date: 2015-04-14
-header-image: images/mvh-construction.jpg
-header-title: Mesa VISSSTA
+date: 2025-05-16
+header-image: TBD
+header-title: The University of New Mexico Press
 header-height: 50vh
 background-position: 20px
 ---
+
+
+## Introduction
+
+The University of New Mexico Press has been a fixture of UNM for nearly a century. Compared to many other long-standing institutions on campus, though, the Press has been shifted between many different locations over the years. Currently, it is based out of 1717 Roma Avenue NE, to the west of Dane Smith Hall; this building was first constructed as the Alpha Chi Omega sorority house. The Press occupies the first floor and basement of the building, with one office on the upper level (the rest are reserved for overflow from Scholes Hall across the street and to the east). The Press is New Mexico's one major book publisher and handles various regional projects, as well as scholarly books alongside poetry collections and fiction. Its history is long and storied, and properly begins in 1929 - incidentally the same year that the ball got rolling for the construction of its current base of operations.
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="This is a test"
+  src="images/KIC Document 0001 (1).png"
+%}
 
 
 ## An early title
