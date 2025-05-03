@@ -145,7 +145,8 @@ At 3:30am on Tuesday, April 30, in a militarized police action, the New Mexico S
 
 ## An Exclusive Audio Interview with the SUB Itself
 
-Coming soon!
+
+<audio controls src="sub-interview.mp3"></audio>
 
 ## A 3D Image of a sub purchased at the SUB on April 29, 2025
 
