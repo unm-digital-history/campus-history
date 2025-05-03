@@ -1,14 +1,15 @@
-<div id="carouselExample" class="carousel slide">
+<div id="carouselExample" class="carousel slide {{ include.class }}" style = "width: {{ include.width | default: '100%' }};">
   <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="{{include.images[0]}}" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="{{include.images[1]}}" class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="{{include.images[2]}}" class="d-block w-100" alt="...">
-    </div>
+    {% for image in include.images %}
+      <div class="carousel-item {% if forloop.first %}active{% endif %}">
+        <img src="{{image}}" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          {% assign index =  forloop.index | minus: 1 %}          
+          <h5>{{ include.headers[index] }}</h5>
+          <p>{{ include.captions[index] }}</p>
+        </div>
+      </div>
+    {% endfor %}
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>

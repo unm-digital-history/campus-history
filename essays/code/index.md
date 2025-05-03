@@ -8,6 +8,7 @@ date: 2019-04-23
 
 *This page provides all the kinds of code snippets you might need. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
 
+
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
 
 **• DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.**
@@ -52,13 +53,49 @@ blah blah blah blah ...
 #### Fourth-level heading
 ```
 
+---
+
+
+## Pull Quotes
+
+As part of our effort to highlight our most important ideas---even in the context of relatively short essays---we can use pull quotes. As it sounds, the idea is to "pull" a quote outside the main flow of the text to highlight it. You can specify if you want it on the left or right side.
+
+{% include aside.html class="left" text="
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
+
+Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.
+
+To place a pull quote as above, we use:
+
+
+```
+{%raw%}{% include aside.html
+  class="left"
+  text="Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque."
+  %}{%endraw%}
+```
 
 ---
 
+### Block quotes
+If you are quoting from a historical source, you might want to say more than can fit in a normal pull quote format. For those cases, you can use a markdown blockquote to highlight a particularly juicy quotation. Just start your quote with a greater-than sign as shown below:
+
+Here is my regular text. 
+
+> Here is my very interesting quote. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
+
+And back to the regular text.
+
+
+```
+> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
+```
+
+---
+
+
 ## Images
 There is one basic way we will embed images in our essay files. Note that it is totally different from how you learned to do them in Markdown itself. This is because if we want to maintain consistency between images, like how the captions appear, we have to make sure we display all images exactly the same way.
-
-In the following sections, the general effect is shown followed by the code snippet that produces it. You can cut and paste from the gray boxes directly into your essays, and change the image filenames, width, etc.
 
 
 ### Standard Usage
@@ -193,31 +230,83 @@ caption="These sliders are way more effective the more closely you line up the b
 
 
 ### Carousel
-Extra images that are cool but you don't know how to integrate in your essay? Use a slide carousel! There are two little bits of code to include, one to define your images, and another to actually display the carousel. 
+Extra images that are cool but you don't know how to integrate in your essay? Use a slide carousel! There are several little bits of code to include:
+- provide image names
+- provide image titles
+- provide image captions
+- actually display the carousel
 
-{% assign images = 
+If you don't want headers or captions (you can have one and not the other), just omit them from the list.
+
+You can use `width` and `class` like figures to size and position your carousel. 
+
+
+{% 
+assign images = 
 "images/mvh-construction.jpg,
 images/mvh-room-cost.jpg,
 images/mvh-tv-room.jpg" | split: ','
 %}
 
-{% include carousel.html
-images = images 
+{% 
+assign headers = 
+"A Photo Title,,
+No caption here" | split: ','
 %}
 
-The following code generates the slide deck above. Be sure to just copy and paste the entire chunck (both parts) and edit carefully.
+{%
+assign captions = 
+"It's useful to have informative captions|
+This image has a caption, but no title|
+" | split: '|'
+%}
+
+
+
+{% include carousel.html
+width = "60%"
+class = "right"
+images = images
+headers = headers
+captions = captions 
+%}
+
+
+<p style="clear:both"></p>
+
+
+The following code generates the slide deck above. Be sure to just copy and paste and edit carefully.
 
 ```
-{%raw%}{% assign images = 
-images/mvh-construction.jpg,
+{%raw%}{% 
+assign images = 
+"images/mvh-construction.jpg,
 images/mvh-room-cost.jpg,
 images/mvh-tv-room.jpg" | split: ','
 %}
 
+{% 
+assign headers = 
+"A Photo Title,,
+No caption here" | split: ','
+%}
+
+{%
+assign captions = 
+"It's useful to have informative captions|
+This image has a caption, but no title|
+" | split: '|'
+%}
+
 {% include carousel.html
-images = images 
+width = "60%"
+class = "right"
+images = images
+headers = headers
+captions = captions 
 %}{%endraw%}
 ```
+
 
 ## 3D Models
 To display your digital models, get the embed code from Sketchfab and paste it into your essay wherever you want it. The code I used is pasted below, but it's exactly what I got from Sketchfab.
@@ -288,37 +377,3 @@ Add the code, for that is:
 
 ---
 
-## Pull Quotes
-
-As part of our effort to highlight our most important ideas---even in the context of relatively short essays---we can use pull quotes. As it sounds, the idea is to "pull" a quote outside the main flow of the text to highlight it. You can specify if you want it on the left or right side.
-
-{% include aside.html class="left" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
-
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus.
-
-To place a pull quote as above, we use:
-
-
-```
-{%raw%}{% include aside.html
-  class="left"
-  text="Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque."
-  %}{%endraw%}
-```
-
----
-
-### Block quotes
-If you are quoting from a historical source, you might want to say more than can fit in a normal pull quote format. For those cases, you can use a markdown blockquote to highlight a particularly juicy quotation. Just start your quote with a greater-than sign as shown below:
-
-Here is my regular text. 
-
-> Here is my very interesting quote. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
-
-And back to the regular text.
-
-
-```
-> Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
-```
