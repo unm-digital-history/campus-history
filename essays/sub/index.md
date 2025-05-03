@@ -111,11 +111,11 @@ In response to the killing of students on the campus of Kent State University, U
 {% include aside.html class="left" text="
 What happened outside the Union has been the subject of much controversy and debate, which I cannot help clarify. Some crucial aspects of the encounter seem to be agreed upon. - Ferrel Heady, UNM President, 1970." %}
 
-Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he recalled the events of 1970. Farrel was inside the SUB when the National Guard troops arrived. He neglects to put blame on the National Guard for the violence and instead writes: "specific incidents that occurred have been recounted in detail by numerous participants, without fully clarifying exactly what took place."[^note10] 
+Ferrel Heady, the President of UNM in 1970, wrote a memoir in 1999 in which he recalled the events of 1970. Farrel was inside the SUB when the National Guard troops arrived. He neglected to put blame on the National Guard for the violence and wrote: "specific incidents that occurred have been recounted in detail by numerous participants, without fully clarifying exactly what took place."[^note10] 
 
 [^note10]: Ferrel Heady, _One Time Around_ (Albuquerque, NM: School of Public Administration, University of New Mexico, 1999), 187-188.
 
-Calvin Horne, who served as a member of the Board of Regents, collected interviews and firsthand accounts of the events of May 8, 1970. Horne concludes that the National Guard acted aggressively against students and initiated the violence.[^note11]  
+Calvin Horne, who served as a member of the Board of Regents, collected interviews and firsthand accounts of the events of May 8, 1970. Horne concluded that the National Guard acted aggressively against students and initiated the violence.[^note11]  
 
 [^note11]: Calvin Horn, _The University in Turmoil and Transition: Crisis Decades at the University of New Mexico_ (Albuquerque, NM: Rocky Mountain Pub. Co., 1981), 63-73.
 
