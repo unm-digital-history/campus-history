@@ -37,7 +37,7 @@ When considering the history of a general police force in New Mexico it is not u
 
 
 {% include scrollybox/bg.html
-  height="220"
+  height="300"
   image-url="images/1947-announcement-police-force-unm.png"
   pre-box-space = "100vh"
   font-size = "250%"
