@@ -1,10 +1,10 @@
 ---
-title: mesa-vista-hall
-author: Fred Gibbs
+title: centennial-engineering-hall
+author: Ava McAfee
 layout: unm-base
-date: 2015-04-14
+date: 2025-06-05
 header-image: images/mvh-construction.jpg
-header-title: Mesa VISSSTA
+header-title: Centennial Engineering
 header-height: 50vh
 background-position: 20px
 ---
@@ -15,11 +15,11 @@ background-position: 20px
 
 {% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-history-stays.jpg" %}
 
-Univerity of New Mexico's Centennial Engineering Building opened in Augest of 2010 and was started in 2008. It was built to continue student education in research programs and partnership with other departments. 
+Univerity of New Mexico's Centennial Engineering Building opened in Augest of 2010 and was started in 2008. It was built to continue student education in research programs and partnership with other departments.The Engineering Regional Leadership Committee and Associated General Contractors members (Howard Mock, Bob Stamm, Victor Chavez, and Vicki Mora the CEO of AGC) helped to fund the project.  
 
-[^note1]: This is my citation at the end of the FIRST paragraph.
+[^note1]:"One of the most important benefits gained from the Endowed Chair is simply its existance and visibilty" (Dr. Jerald Rounds).
 
-Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
+The Associated General Contractors (AGC) was founded in 1984 in the Civil Engineering division. They wanted to bring more awareness to the program as well as the construction industry. The goal was to prepare men and women to exceed in thier careers and become involved in New Mexico Projects. From the words of Dr. Jerald Rounds who is a Chair Professor: "One of the most important benefits gained from the Enowed Chair is simply its existance and visibilty." ASG Focuses on real world construction projects to solve, paln and present. They also grow their networking, public speaking, and team building skills.
 
 [^note2]: This is my citation at the end of the SECOND paragraph.
 
@@ -132,7 +132,7 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 ## Bibliography
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+- “UNM New Centennial Engineering Center Opens.” Bdcnetwork.com, 2024, www.bdcnetwork.com/home/press-release/55170507/unm-new-centennial-engineering-center-opens. Accessed 6 May 2025.
 
 - University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
 
