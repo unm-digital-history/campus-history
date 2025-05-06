@@ -1,10 +1,10 @@
 ---
-title: mesa-vista-hall
-author: Fred Gibbs
+title: maxwell-museum
+author: Jackie Truitt
 layout: unm-base
-date: 2015-04-14
+date: 2025-05-06
 header-image: images/mvh-construction.jpg
-header-title: Mesa VISSSTA
+header-title: Maxwell Museum
 header-height: 50vh
 background-position: 20px
 ---
