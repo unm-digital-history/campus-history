@@ -56,8 +56,25 @@ When considering the history of a general police force in New Mexico it is not u
 %}
 
 
-## Cras magna nunc
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
+## From Here to There
+There is no mention of this event in the yearbook 1947 Mirage that I could locate under the search term officers or police. As in the correspondence, Earl Bowdich and Sgt. Lee Forrester are mentioned in the first members’ roster. No mention of Earl in the yearbook despite being the Superintendent of Buildings & Grounds. Odd. This is also true in 1948.
+
+This change took place under the eighth president of the University (just after President Zimmerman). It is not mentioned in the extremely brief bio material by William E. Davis.
+
+I have since discovered that Rodey Hall and Hodgin Hall were both to be demolished. Hodgin Hall was spared and converted to the space for Alumni, Rodey was demolished in 1971 to make way for the loop road around the campus. This was the landmark just north of which the Police were initially slated to be.
+
+Where the Police went following this is a mystery. I have not been able to find a person who knows though they may be out there. There is no document that mentions it directly or indirectly that I can find either. Clearly, the police department did not cease to exist as they were part of the major incident involving UNM vs. BYU just a year before Rodey Hall was demolished. 
+
+The next point that I was able to pick up the thread from is ‘sometime’ in the 80’s when the UNM Police had taken up residence in a place they simply called ‘the white house’.  Sometime prior to the 1980s the Police and Parking were a singular department according to Officer Pete [use current title here] who has been with the department for over 15 years. Exactly when this ended is not clearly known, nor have I had the facility to track it down. [Currently the Mentorship Building?] That building still exists but according to one source who joined the force as a security supervisor in the mid-90’s, she was there when they moved to Hokona Hall, where they currently still reside. [Pictures of Basement door here would be good]. 
+
+
+Rosemary reminisced that there was barely enough room for the dispatch section of the force. The building was apparently very small, however, even by 1990 the force itself seems not to have grown much from the original 6-person force that one observed in the initial transition from nightwatchman to police force in 1947. 
+While according to Lt. Pete [get last name from biz card] the force currently stands somewhere between 30-35 persons, due to the current size of the student body and campus, the department’s hands are very much occupied.
+
+It would seem that there is something unique happening in for the department that has not happened in their long history. They will finally be getting their own building. UNM is in the final stages of building the department its own police building. -Last major piece would be to find this information. Speak to this as a piece of ‘major’ resolution to a long history of loyalty ending in a permanent space on campus dedicated to them.
+
+
+So, the Police are now in Hokona-Zuni- and have been there for at least 15 years- They came there from what they called ‘the white house’.  Suffice to say, there is a new building being built (according to them) that will house them soon.
 
 {% include aside.html class="left" text="
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
