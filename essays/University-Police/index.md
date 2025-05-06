@@ -52,7 +52,7 @@ When considering the history of a general police force in New Mexico it is not u
   font-size = "250%"
   line-height = "150%"
   box-content='
-       One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+       The image behind this text is of the original police force created in what must have been Spring of 1947".'
 %}
 
 
