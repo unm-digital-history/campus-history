@@ -15,7 +15,7 @@ background-position: 20px
 {% include figure.html class="img-left" width="48%" caption="The two boxes of archival resource UNMA 171. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/unm-cswr-two-boxes.jpg" %}
 
 
-{% include figure.html class="img-right" width="48%" caption="Officer examining evidence during the BYU vs. UNM basketball game February, 1970. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/1970-UNM-vs-BYU-Game.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="Officer examining evidence during the BYU vs. UNM basketball game February, 1970. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/--------" %}
 
  As with the many other essays to be found on this site, the idea for this page began with a question; namely, what can be known of the history of UNM's Police Department? Since the University of New Mexico was founded 1889, initially, I assumed that out of the massive numbers of records that must have surely been compiled since that time, that I would have the option to interact with a significant amount of archival material. I was eager to begin going about determining a proper historiographical method of selecting the necessary sources from which to craft my narrative. 
  
