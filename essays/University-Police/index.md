@@ -48,8 +48,7 @@ When considering the history of a general police force in New Mexico it is not u
   pre-box-space = "100vh"
   font-size = "250%"
   line-height = "150%"
-  box-content='
-       The image behind this text is of the original police force created in what must have been Spring of 1947".'
+  box-content='The image behind this text is of the original police force created in what must have been Spring of 1947.'
 %}
 
 
