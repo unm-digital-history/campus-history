@@ -26,12 +26,6 @@ background-position: 20px
 
 [^note2]: This is my citation at the end of the SECOND paragraph.
 
-{% include juxtapose.html
-image1="images/mvh-tv-room.jpg"
-image2="images/mvh-hist-common-room.jpg"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
-%}
-
 
 ## The Founding of the UNM Police Department
 ### From Negligent Nightwatchman to New Police Force
