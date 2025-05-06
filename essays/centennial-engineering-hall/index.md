@@ -10,12 +10,12 @@ background-position: 20px
 ---
 
 
-## An early title
+## Centennial Engineering Building
 
 
 {% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-history-stays.jpg" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
+Univerity of New Mexico's Centennial Engineering Building opened in Augest of 2010 and was started in 2008. It was built to continue student education in research programs and partnership with other departments. 
 
 [^note1]: This is my citation at the end of the FIRST paragraph.
 
