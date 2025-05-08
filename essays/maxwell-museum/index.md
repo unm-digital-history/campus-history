@@ -25,6 +25,7 @@ In 1932, the year that Amelia Earhart became the first woman to fly solo across 
 Nearly thirty years later, the anthropology department and museum were relocated to it's current building on the west side of campus, where it has remained ever since. Designed by renowned architect John Gaw Meem, the pueblo revival style structure was originally home to the Student Union Building (SUB).  The move brought with it renovations and expanded space, a total of 3500 square feet of exhibition space and an additional 1500 square feet designated for the storage of collections.
 
 The 60s and 70s brought incredible change to the west side of campus. The growth of the museum and its collections meant that there was a need for specialized full time staff, and in 1961, Dr. Jerry Brody became the museum's very first curator. Alongside an upward trajectory of academic research outputs, this period also saw the adoption of a formal museum guide program and the establishment of the Clark Field Archive and Library in 1968. With the museum's now enhanced space and ability for public outreach,  60,000 visitors come through the doors of the museum by the end of the 1967-68 school year. By 1973, the museum opened the associated Office of Contract Archaeology (OCA), became accredited through the American Alliance of Museums, and, thanks to major donors Dorothy and Gilbert Maxwell, received a new name: The Maxwell Museum of Anthropology.  
+{% include figure.html class="img-right" width="60%" caption="Portion of the 1967-68 College of Arts and Science's Annual Report which discusses the yearly output of the Maxwell Museum. [Source]((https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1021&context=unm_annual_reports))" src="images/67-68.jpg" %}
 
 In 2002, the physical space of the museum was expanded yet again through the building of the Hibben Center of Archaeological Research. The Hibben Center allowed for an additional 35,000 square feet to house the growing collection and archive, classrooms, research laboratories, staff offices, and more.[^note1] 
 
@@ -111,7 +112,7 @@ This is the end of the story, and you should see the text box scroll out of view
 
 
 ## Duis vehicula erat et diam
-{% include figure.html class="img-right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-floorplan.jpg" %}
+
 
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
 
