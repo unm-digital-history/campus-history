@@ -14,8 +14,7 @@ background-position: 20px
 >"Honestly, I didn't even know we had a museum of anthropology." 
 >-Excerpt from a real-life on campus conversation
 
-{% include aside.html class="text" text="
-"Have you been to the latest exhibition at the Maxwell Museum of Anthropology?"
+{% include aside.html class="center" text=" "Have you been to the latest exhibition at the Maxwell Museum of Anthropology?"
 "Honestly, I didn't even know we had a museum of anthropology." 
 -Excerpt from a real-life on campus conversation" %}
 
