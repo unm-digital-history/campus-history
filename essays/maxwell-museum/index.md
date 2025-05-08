@@ -38,14 +38,6 @@ In 2002, the physical space of the museum was expanded yet again through the bui
 
 In the intervening years, the Maxwell Museum has remained dedicated to the greater UNM community. Classes, programs, faculty mentorship, work study, fellowships, and more offers students with an interest in anthropological and museological fields a place to explore and hone their skills. Partnerships with other departments on campus and additional Albuquerque and New Mexico cultural and arts institutions bring vibrant programs and exhibitions to the local community, ensuring that the museum's vision of "Reconciling injustices. Restoring voices. Realizing community," remains at the forefront of its purpose. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.
-
-
-Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
-
-[^note2]: This is my citation at the end of the SECOND paragraph.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
 
 {% include juxtapose.html
 image1="images/jesper-ejsing-thyra.jpg"
@@ -53,8 +45,6 @@ image2="images/mvh-hist-common-room.jpg"
 caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
 %}
 
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 
 ## Donec odio elit
