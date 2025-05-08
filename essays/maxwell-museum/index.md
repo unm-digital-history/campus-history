@@ -14,6 +14,11 @@ background-position: 20px
 >"Honestly, I didn't even know we had a museum of anthropology." 
 >-Excerpt from a real-life on campus conversation
 
+{% include aside.html class="text" text="
+"Have you been to the latest exhibition at the Maxwell Museum of Anthropology?"
+"Honestly, I didn't even know we had a museum of anthropology." 
+-Excerpt from a real-life on campus conversation" %}
+
 Tucked away on the far western edge of campus, The Maxwell Museum of Anthropology provides visitors with exciting, enriching, and educational opportunities by "Working toward greater understandings of the fullness of human experiences in the Southwest and the world." In the busy and bustling ecosystem that is UNM campus, it is easy for on-the-go students, faculty, and staff to keep their heads down, focused on exactly where they need to be and when they need to be there. But, by lifting their gaze, getting off the beaten path, taking in their surroundings, and stepping through the museum's doors, they have the opportunity to be transported across campus, across the world and emerge forever changed. 
 
 {% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/jesper-ejsing-thyra.jpg" %}
@@ -69,8 +74,7 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 ## Cras magna nunc
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
 
-{% include aside.html class="left" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
+
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
