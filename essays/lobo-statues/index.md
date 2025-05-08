@@ -46,8 +46,8 @@ Could include links to the Daily Lobo on stories about the statue getting graffi
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
-{% include aside.html class="right" text="
-You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him. - John Tatschl" %}
+{% include aside.html class="right" text='
+"You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him." - John Tatschl' %}
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
