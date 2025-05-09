@@ -39,21 +39,35 @@ In the intervening years, the Maxwell Museum has remained dedicated to the great
 
 The Maxwell Museum has curated and hosted well over 150 exhibitions since the 1970s. The two current permanent exhibitions, *People of the Southwest* and *Ancestors* have been on view in various capacities since 1990. In recent years, both exhibitions have undergone updating to remain current on research trends, but more importantly, to ensure the cultural sensitivity of descendent indigenous communities. 
 
+
+
+
+
+
+{% include scrollybox/bg-multi-long.html
+  bg-id="bg1"
+  image-url="images/mvh-floorplan.jpg"
+  pre-box-space="0"
+  font-size = "150%"
+  line-height = "100%"
+%}
+
 >The exhibition celebrates the cultural history of the Southwest, especially the close relationship southwestern people have had with the land around them. Through time, the connection between people and land has produced a deep spiritual bond that continues today in the daily life of many communities.[^note2]
 
 [^note2]:  "'People of the Southwest,' Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/exhibits/permanent/people-southwest."
 
 
+{% include scrollybox/bg-switch.html
+  image-url="images/mvh-tv-room.jpg"
+  switch-id="switch1"
+  bg-id="bg1"
+%}
+
 > Modern humans are one of the most biologically successful, and unique, living mammals. Through the development of extensive and elaborate technology, we have become a major influence on the modern world, modifying it for our purposes and altering the lives of other creatures. Ancestors will lead you through those aspects of modern humanity that makes us unique and successful tracing the path of evolution through the past four million years. [^note3]
 
 [^note3]:  " 'Ancestors,' Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/exhibits/permanent/ancestors."
 
-{% include juxtapose.html
-image1="images/jesper-ejsing-thyra.jpg"
-image2="images/mvh-hist-common-room.jpg"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
-%}
-
+{% include scrollybox/bg-multi-long-close.html %}
 
 
 ## Donec odio elit
