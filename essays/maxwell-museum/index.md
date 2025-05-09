@@ -35,6 +35,18 @@ In 2002, the physical space of the museum was expanded yet again through the bui
 
 In the intervening years, the Maxwell Museum has remained dedicated to the greater UNM community. Classes, programs, faculty mentorship, work study, fellowships, and more offers students with an interest in anthropological and museological fields a place to explore and hone their skills. Partnerships with other departments on campus and additional Albuquerque and New Mexico cultural and arts institutions bring vibrant programs and exhibitions to the local community, ensuring that the museum's vision of "Reconciling injustices. Restoring voices. Realizing community," remains at the forefront of its purpose. 
 
+## Exhibitions Through the Years
+
+The Maxwell Museum has curated and hosted well over 150 exhibitions since the 1970s. The two current permanent exhibitions, *People of the Southwest* and *Ancestors* have been on view in various capacities since 1990. In recent years, both exhibitions have undergone updating to remain current on research trends, but more importantly, to ensure the cultural sensitivity of descendent indigenous communities. 
+
+>The exhibition celebrates the cultural history of the Southwest, especially the close relationship southwestern people have had with the land around them. Through time, the connection between people and land has produced a deep spiritual bond that continues today in the daily life of many communities.[^note2]
+
+[^note2]:  "'People of the Southwest,' Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/exhibits/permanent/people-southwest."
+
+
+> Modern humans are one of the most biologically successful, and unique, living mammals. Through the development of extensive and elaborate technology, we have become a major influence on the modern world, modifying it for our purposes and altering the lives of other creatures. Ancestors will lead you through those aspects of modern humanity that makes us unique and successful tracing the path of evolution through the past four million years. [^note3]
+
+[^note3]:  " 'Ancestors,' Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/exhibits/permanent/ancestors."
 
 {% include juxtapose.html
 image1="images/jesper-ejsing-thyra.jpg"
