@@ -51,7 +51,7 @@ images = images
 
 
 
-## Paragragh After Carousel
+## what to do at Fiestas!
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
 
 {% include aside.html class="left" text="
@@ -74,13 +74,13 @@ caption="ASUNM and Student orginization SSE Student Special Events"
 src="images/ASUNM.png"
 %}
 
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
+ASUNM or also referred to as Associated students at the University of New Mexico is a school organization that looks over different branches at UNM and some of these branches do the events here on campus as well as smaller events like movie nights and individual cultural events. ASUNM is made of three branches, of which there are two that are the main organizers for the events year around those are SSE and LoboSpirit. SSE or Student special events does the larger more known events while LoboSpirt does smaller events like Cultural Fairs and so on. However, all under ASUNM which has been doing these events for a long time now and is the fee that students have to pay as part of their tuition if you're wondering what that fee is for! 
 
 
 ## Organizers of Fiestas
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
+The main organizers for Fiestas is SSE as last mentioned this is their area of expertise as they also do special events like Red Rally and big comedy shows. SSE has their own branch under their organization. Under SSE you have the volunteer coordinator, sponsorship coordinator, cultural director, speakers director, assistant director and executive director. All of these roles are filled by students. The way they run the event is through collection sponsorships to fund them and to actually run it they have student volunteers. So if you ever want to help out for some of these events do be on the lookout for future dates where you can register to be part of these events and if you want to take it a push forward the spots of office do change and you can be part of those who get voted if you are looking for a more important role in these events on campus. 
 
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
+So if you ever want to help out for some of these events do be on the lookout for future dates where you can register to be part of these events and if you want to take it a push forward the spots of office do change and you can be part of those who get voted if you are looking for a more important role in these events on campus. 
 
 
 {% include juxtapose.html
@@ -91,7 +91,7 @@ caption="Comparison of The events in time."
 
 
 
-## Curabitur sapien risus
+## What has changes over the time
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
@@ -99,6 +99,6 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 > As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
 
-## Morbi posuere lacinia
+## Get Invovled with other events on campus
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
 
