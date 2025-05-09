@@ -70,7 +70,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 {% include figure.html
 class="img-right"
 width="50%"
-caption="Obviously we need a 50% image somewhere with text wrapping around it."
+caption="ASUNM and Student orginization SSE Student Special Events"
 src="images/ASUNM.png"
 %}
 
