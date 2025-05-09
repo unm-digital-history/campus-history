@@ -42,7 +42,7 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 {% assign images = 
 "images/Fiestas-2023.jpeg,
 images/Fiestas-2024-jpeg.jpeg,
-images/Fiestas-2025new.jpeg" | split: ','
+images/Fiestas-2025new.jpg" | split: ','
 %}
 
 {% include carousel.html
@@ -67,7 +67,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 
 ## Duis vehicula erat et diam
-{% include figure.html class="img-right" width="60%" caption="UNM Fiestas 2018 Main headliner Crowdsurfing [Source](https://lobolife.unm.edu/fiestas-2018/)" src="images/Fone.jpg" %}
+{% include figure.html class="img-right" width="60%" caption="UNM Fiestas 2018 Main headliner Crowdsurfing. [Source](https://lobolife.unm.edu/fiestas-2018/)" src="images/Ftwo.jpg" %}
 
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
 
@@ -78,14 +78,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
 Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
 
 
-{% assign images = 
-"images/mvh-menu.jpg,
-images/mvh-history-stays.jpg,
-images/mvh-room-cost.jpg" | split: ','
-%}
-
-{% include carousel.html
-images = images 
+{% include juxtapose.html
+image1="images/Fone.jpg"
+image2="images/unm-home.png"
+caption="These sliders are way more effective the more closely you line up the before and after images."
 %}
 
 
