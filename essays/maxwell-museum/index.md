@@ -39,11 +39,6 @@ In the intervening years, the Maxwell Museum has remained dedicated to the great
 
 The Maxwell Museum has curated and hosted well over 150 exhibitions since the 1970s. The two current permanent exhibitions, *People of the Southwest* and *Ancestors* have been on view in various capacities since 1990. In recent years, both exhibitions have undergone updating to remain current on research trends, but more importantly, to ensure the cultural sensitivity of descendent indigenous communities. 
 
-
-
-
-
-
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
   image-url="images/67-68.jpg"
@@ -51,8 +46,8 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
   font-size = "150%"
   line-height = "100%"
 %}
-
->The exhibition celebrates the cultural history of the Southwest, especially the close relationship southwestern people have had with the land around them. Through time, the connection between people and land has produced a deep spiritual bond that continues today in the daily life of many communities.[^note2]
+### People of the Southwest
+> "The exhibition celebrates the cultural history of the Southwest, especially the close relationship southwestern people have had with the land around them. Through time, the connection between people and land has produced a deep spiritual bond that continues today in the daily life of many communities." [^note2]
 
 [^note2]:  "'People of the Southwest,' Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/exhibits/permanent/people-southwest."
 
@@ -63,7 +58,8 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
   bg-id="bg1"
 %}
 
-> Modern humans are one of the most biologically successful, and unique, living mammals. Through the development of extensive and elaborate technology, we have become a major influence on the modern world, modifying it for our purposes and altering the lives of other creatures. Ancestors will lead you through those aspects of modern humanity that makes us unique and successful tracing the path of evolution through the past four million years. [^note3]
+### Ancestors
+> "Modern humans are one of the most biologically successful, and unique, living mammals. Through the development of extensive and elaborate technology, we have become a major influence on the modern world, modifying it for our purposes and altering the lives of other creatures. Ancestors will lead you through those aspects of modern humanity that makes us unique and successful tracing the path of evolution through the past four million years." [^note3]
 
 [^note3]:  " 'Ancestors,' Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/exhibits/permanent/ancestors."
 
