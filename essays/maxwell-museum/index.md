@@ -20,7 +20,7 @@ Tucked away on the far western edge of campus, The Maxwell Museum of Anthropolog
 
 {% include juxtapose.html
 image1="images/1970s-maxwell.jpg"
-image2="images/25-front.jpg"
+image2="images/2025-front.jpg"
 caption="Front entrance of the Maxwell Museum in the early 1970s, and in 2025."
 %}
 
