@@ -42,7 +42,7 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 {% assign images = 
 "images/Fiestas-2023.jpeg,
 images/Fiestas-2024-jpeg.jpeg,
-images/Fiestas-2025.jpeg" | split: ','
+images/Fiestas-2025new.jpeg" | split: ','
 %}
 
 {% include carousel.html
@@ -67,7 +67,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 
 ## Duis vehicula erat et diam
-{% include figure.html class="img-right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-floorplan.jpg" %}
+{% include figure.html class="img-right" width="60%" caption="UNM Fiestas 2018 Main headliner Crowdsurfing [Source](https://lobolife.unm.edu/fiestas-2018/)" src="images/Fone.jpg" %}
 
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
 
