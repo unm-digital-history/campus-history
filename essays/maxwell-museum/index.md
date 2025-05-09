@@ -69,6 +69,23 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
 
 {% include scrollybox/bg-multi-long-close.html %}
 
+### Man: The Music-maker, 1973
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption=""
+  src="images/centennial-hotel.jpg"
+%}
+One of the first exhibitions that the newly named Maxwell Museum mounted was *Man: The Music-maker*, highlighting world ethnomusicology. Many of the objects on display came from the personal collection of Elizabeth Kidd, a musician, teacher, world traveler, and expert in ancient Greek music. After her passing, over 300 musical instruments from all over the world were donated to the museum by Elizabeth's husband.
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Centennial Hotel"
+  src="images/centennial-hotel.jpg"
+%}
+The exhibition was organized thematically and by region, interweaving foundational information about the mechanics of sound as well as how music is incorporated into culture. First, visitors were introduced to the different types of musical instruments they may encounter throughout the exhibition. Next, were instruments and music of Indigenous North Americans, which were followed by various information on scales and melodies, and then the instruments and music of the African continent. The second half of the exhibition highlighted the social function of music, then instruments and music from Asia. The exhibition concluded with a section on contact phenomena or ''When Musics Meet."
 
 ## Donec odio elit
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
@@ -93,39 +110,6 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
-
-<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-url="images/mvh-floorplan.jpg"
-  pre-box-space="0"
-  font-size = "150%"
-  line-height = "100%"
-%}
-
-Now we have a text box scrolling up over the image. At various points (clearly labled in the following text) **the background image will switch.**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl. Curabitur consectetur placerat commodo. Maecenas sagittis facilisis turpis vel porta. Nulla facilisi. Nam viverra eget metus eget efficitur.
-
-
-### IMAGE SWITCH HERE 
-
-{% include scrollybox/bg-switch.html
-  image-url="images/mvh-tv-room.jpg"
-  switch-id="switch1"
-  bg-id="bg1"
-%}
-
-
-### Duis vehicula erat et diam
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
-
-
-#### Almost done
-This is the end of the story, and you should see the text box scroll out of view followed by the background image.
-
-
-{% include scrollybox/bg-multi-long-close.html %}
 
 
 ## Duis vehicula erat et diam
