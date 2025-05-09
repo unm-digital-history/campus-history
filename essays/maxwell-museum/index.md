@@ -18,7 +18,11 @@ background-position: 20px
 
 Tucked away on the far western edge of campus, The Maxwell Museum of Anthropology provides visitors with exciting, enriching, and educational opportunities by "Working toward greater understandings of the fullness of human experiences in the Southwest and the world." In the busy and bustling ecosystem that is UNM campus, it is easy for on-the-go students, faculty, and staff to keep their heads down, focused on exactly where they need to be and when they need to be there. But, by lifting their gaze, getting off the beaten path, taking in their surroundings, and stepping through the museum's doors, they have the opportunity to be transported across campus, across the world and emerge forever changed. 
 
-{% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/jesper-ejsing-thyra.jpg" %}
+{% include juxtapose.html
+image1="images/kimo-1928.jpg"
+image2="images/kimo-1938.jpg"
+caption="These sliders are way more effective the more closely you line up the before and after images."
+%}
 
 ## Albuquerque's First Public Museum
 
