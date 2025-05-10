@@ -81,7 +81,7 @@ One of the first exhibitions that the newly named Maxwell Museum mounted was *Ma
 
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="33%"
   caption="An 1973 Albuquerque Journal article about the 'Man: The Music-maker'"
   src="images/abqjournal-music.jpg"
@@ -89,8 +89,13 @@ One of the first exhibitions that the newly named Maxwell Museum mounted was *Ma
 
 The exhibition was organized thematically and by region, interweaving foundational information about the mechanics of sound as well as how music is incorporated into culture. First, visitors were introduced to the different types of musical instruments they may encounter throughout the exhibition. Next, were instruments and music of Indigenous North Americans, which were followed by various information on scales and melodies, and then the instruments and music of the African continent. The second half of the exhibition highlighted the social function of music, then instruments and music from Asia. The exhibition concluded with a section on contact phenomena or ''When Musics Meet."
 
-## Donec odio elit
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
+### YER DIALEGE! Kuna Women's Art, 1978-79
+
+Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador spent time as a Peace Corps volunteer in Panama where she worked alongside Kuna craftswomen of the San Blas Islands. This experience provided the foundation for Salvador's further community, anthropological, and curatorial work, culminating in the exhibition *Yer Dialege* and its corresponding publication.
+
+*Yer Dialege* means beautiful in the Kuna language, and refers specifically to "objects of delight, including flowers, jewelry, and the finest elaborate embroidered molas [blouses]."[note^4] The exhibition displayed 125 molas of various colors, styles, and designs, and in doing so, communicated to visitors the importance of the enmeshed interconnectedness between art, aesthetics, and daily life in Kuna society.
+
+[note^4]: "Throwback Thursday. Maxwell Exhibitions: Yer Dialege! Kuna Women's Art," Maxwell Museum of Anthropology, June 10, 2021, https://maxwellmuseum.unm.edu/maxwell-at-home/maxwell-history/throwback-thursday-maxwell-exhibitions-yer-dailege-kuna-women%E2%80%99s-art. 
 
 {% include scrollybox/bg.html
   height="220"
@@ -99,9 +104,9 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
   font-size = "250%"
   line-height = "150%"
   box-content='
-       One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+      "Mola-making is an important part of a woman's life, not just a leisure activity. A great deal of time is spent making molas. Women sew while visiting, traveling, listening in village meetings or sitting by themselves. Young girls are encouraged to learn to sew as early as they seem interested, which may be at age 3 or 4."[^note5].'
 %}
-
+[^note5]: Hugh Gallagher, "Folk Art Exhibit: Maxwell Displays Kuna Blouses," *Albuquerque Journal*, October 26, 1978; Maxwell Museum Institutional Archives, Exhibit Boxes, Kuna Women's Art, 1978-79, University of New Mexico, Albuquerque, New Mexico.
 
 ## Cras magna nunc
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
