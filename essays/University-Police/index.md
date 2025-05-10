@@ -39,7 +39,7 @@ When considering the history of a general police force in New Mexico it is not u
 
 {% include scrollybox/bg.html
   height="300"
-  image-url="images/1947-announcement-police-force-unm.png"
+  image-url="images/hokona-zuni-basement-unmpd-door.jpg"
   pre-box-space = "100vh"
   font-size = "150%"
   line-height = "150%"
