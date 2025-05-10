@@ -27,6 +27,7 @@ background-position: 20px
 [^note2]: This is my citation at the end of the SECOND paragraph.
 
 
+
 ## The Founding of the UNM Police Department
 ### From Negligent Nightwatchman to New Police Force
 
