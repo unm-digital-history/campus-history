@@ -90,6 +90,19 @@ One of the first exhibitions that the newly named Maxwell Museum mounted was *Ma
 The exhibition was organized thematically and by region, interweaving foundational information about the mechanics of sound as well as how music is incorporated into culture. First, visitors were introduced to the different types of musical instruments they may encounter throughout the exhibition. Next, were instruments and music of Indigenous North Americans, which were followed by various information on scales and melodies, and then the instruments and music of the African continent. The second half of the exhibition highlighted the social function of music, then instruments and music from Asia. The exhibition concluded with a section on contact phenomena or ''When Musics Meet."
 
 ### YER DIALEGE! Kuna Women's Art, 1978-79
+{% include figure.html
+class="img-left"
+width="48%"
+caption="The front cover of the invitation to the Yer Dialege exhibition opening."
+src="images/kuna-invite1.jpg"
+%}
+
+{% include figure.html
+class="img-left"
+width="48%"
+caption="The inside of the invitation to the Yer Dialege exhibition opening."
+src="images/kuna-invite2.jpg"
+%}
 
 Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador spent time as a Peace Corps volunteer in Panama where she worked alongside Kuna craftswomen of the San Blas Islands. This experience provided the foundation for Salvador's further community, anthropological, and curatorial work, culminating in the exhibition *Yer Dialege* and its corresponding publication.
 
