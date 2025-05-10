@@ -88,6 +88,7 @@ The exhibition was organized thematically and by region, interweaving foundation
 %}
 
 ### YER DIALEGE! Kuna Women's Art, 1978-79
+
 {% include figure.html
 class="img-left"
 width="48%"
@@ -104,9 +105,9 @@ src="images/kuna-invite2.jpg"
 
 Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador spent time as a Peace Corps volunteer in Panama where she worked alongside Kuna craftswomen of the San Blas Islands. This experience provided the foundation for Salvador's further community, anthropological, and curatorial work, culminating in the exhibition *Yer Dialege* and its corresponding publication.
 
-*Yer Dialege* means beautiful in the Kuna language, and refers specifically to "objects of delight, including flowers, jewelry, and the finest elaborate embroidered molas (blouses)."[note^4] The exhibition displayed 125 molas of various colors, styles, and designs, and in doing so, communicated to visitors the importance of the enmeshed interconnectedness between art, aesthetics, and daily life in Kuna society.
+*Yer Dialege* means beautiful in the Kuna language, and refers specifically to "objects of delight, including flowers, jewelry, and the finest elaborate embroidered molas (blouses)."[^note4] The exhibition displayed 125 molas of various colors, styles, and designs, and in doing so, communicated to visitors the importance of the enmeshed interconnectedness between art, aesthetics, and daily life in Kuna society.
 
-[note^4]: "Throwback Thursday. Maxwell Exhibitions: Yer Dialege! Kuna Women's Art," Maxwell Museum of Anthropology, June 10, 2021, https://maxwellmuseum.unm.edu/maxwell-at-home/maxwell-history/throwback-thursday-maxwell-exhibitions-yer-dailege-kuna-women%E2%80%99s-art. 
+[^note4]: "Throwback Thursday. Maxwell Exhibitions: Yer Dialege! Kuna Women's Art," Maxwell Museum of Anthropology, June 10, 2021, https://maxwellmuseum.unm.edu/maxwell-at-home/maxwell-history/throwback-thursday-maxwell-exhibitions-yer-dailege-kuna-women%E2%80%99s-art. 
 
 {% include scrollybox/bg.html
   height="220"
@@ -119,51 +120,6 @@ Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador 
 %}
 [^note5]: Hugh Gallagher, "Folk Art Exhibit: Maxwell Displays Kuna Blouses," *Albuquerque Journal*, October 26, 1978; Maxwell Museum Institutional Archives, Exhibit Boxes, Kuna Women's Art, 1978-79, University of New Mexico, Albuquerque, New Mexico.
 
-## Cras magna nunc
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
-
-
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-
-
-## Duis vehicula erat et diam
-
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
-
-
-## Praesent libero mi
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
-
-
-{% assign images = 
-"images/mvh-menu.jpg,
-images/mvh-history-stays.jpg,
-images/mvh-room-cost.jpg" | split: ','
-%}
-
-{% include carousel.html
-images = images 
-%}
-
-
-
-## Curabitur sapien risus
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
-
-
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
 
 
 ## Bibliography
