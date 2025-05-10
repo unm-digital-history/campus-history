@@ -112,7 +112,7 @@ Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador 
 
 {% include scrollybox/bg.html
   height="220"
-  image-url="images/mvh-women-supervision.jpg"
+  image-url="images/abqjournal-kuna.jpg"
   pre-box-space = "100vh"
   font-size = "250%"
   line-height = "150%"
