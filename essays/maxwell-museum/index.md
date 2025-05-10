@@ -109,16 +109,7 @@ Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador 
 
 [^note4]: "Throwback Thursday. Maxwell Exhibitions: Yer Dialege! Kuna Women's Art," Maxwell Museum of Anthropology, June 10, 2021, https://maxwellmuseum.unm.edu/maxwell-at-home/maxwell-history/throwback-thursday-maxwell-exhibitions-yer-dailege-kuna-women%E2%80%99s-art. 
 
-{% include scrollybox/bg.html
-  height="220"
-  image-url="images/abqjournal-kuna.jpg"
-  pre-box-space = "100vh"
-  font-size = "250%"
-  line-height = "150%"
-  box-content='
-      "Mola-making is an important part of a woman's life, not just a leisure activity. A great deal of time is spent making molas. Women sew while visiting, traveling, listening in village meetings or sitting by themselves. Young girls are encouraged to learn to sew as early as they seem interested, which may be at age 3 or 4." [^note5].'
-%}
-[^note5]: Hugh Gallagher, "Folk Art Exhibit: Maxwell Displays Kuna Blouses," *Albuquerque Journal*, October 26, 1978; Maxwell Museum Institutional Archives, Exhibit Boxes, Kuna Women's Art, 1978-79, University of New Mexico, Albuquerque, New Mexico.
+{% include scrollybox/bg.html height="220" image-url="images/abqjournal-kuna.jpg" pre-box-space = "100vh" font-size = "250%" line-height = "150%" box-content='"Mola-making is an important part of a woman's life, not just a leisure activity. A great deal of time is spent making molas. Women sew while visiting, traveling, listening in village meetings or sitting by themselves. Young girls are encouraged to learn to sew as early as they seem interested, which may be at age 3 or 4." ' %}
 
 
 
