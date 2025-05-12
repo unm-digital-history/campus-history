@@ -3,7 +3,7 @@ title: maxwell-museum
 author: Jackie Truitt
 layout: unm-base
 date: 2025-05-06
-header-image: images/mvh-construction.jpg
+header-image: images/1970s-maxwell.jpg
 header-title: Maxwell Museum
 header-height: 50vh
 background-position: 20px
