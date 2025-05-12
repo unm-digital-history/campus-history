@@ -28,7 +28,7 @@ And if you are considering being a performer for Fiestas there is also a process
 
 
 ## Past Fiestas Banners
-These are some of the banners of some of the past fiestas and our most recent ones too! There are different programs that go into this event even those in marketing are needed for things like the banners posters and even things like event merch and stickers. So if you enjoy digital art you might consider signing up and maybe your design might be UNM next Fiestas banner!
+These are some of the banners of some of the past fiestas and our most recent ones too! There are different programs that go into this event even those in marketing are needed for things like the banners posters and even things like event merch and stickers. So if you enjoy digital art you might consider signing up and maybe your design might be UNMs next Fiestas banner!
 
 
 {% assign images = 
