@@ -36,7 +36,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 
 ## Last Before Break
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit Paragragh Before Break.
+These are some of the banners of some of the past fiestas and our most recent ones too! There are different programs that go into this event even those in marketing are needed for things like the banners posters and even things like event merch and stickers. So if you enjoy digital art you might consider signing up and maybe your design might be UNM next Fiestas banner!
 
 
 {% assign images = 
@@ -55,7 +55,8 @@ images = images
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
 
 {% include aside.html class="left" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
+I had so much fun! The concert was so good and I love how there are other things available like the food trucks too! I really enjoyed it this year! - UNM Student
+" %}
 
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
