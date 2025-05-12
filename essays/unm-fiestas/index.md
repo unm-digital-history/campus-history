@@ -51,16 +51,16 @@ images = images
 
 
 
-## what to do at Fiestas!
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
+## What to do at Fiestas!
+There are so many things that you can do at fiestas, the main one is the concerts which are made of four performers. However there are some things that you can do while you wait for the next show and that is the variety of food that students can go and eat and enjoy some downtime under the shade in the tents. And in the recent times the main sponsor also has a tent with some of their merch that is available to all students
 
 {% include aside.html class="left" text="
 I had so much fun! The concert was so good and I love how there are other things available like the food trucks too! I really enjoyed it this year! - UNM Student
 " %}
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+This year at 2025 Fiestas our main sponsor was Raising Canes, and for their booth they had a little scavenger hunt that students could do during the event that if completed they were rewarded with some cool canes merch. But if you're not feeling up to the challenge you can also just relax on the grass and enjoy the view of the event. There are other tents by UNM that offer free water and medical help if needed. 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+And at the end of the event every and any student that wants to help with the takedown process of the event can do so and will receive a free event T-shirt. So if you want something to take home as a memory if you stick around to the end there's a chance you can take a fiestas shirt home!
 
 
 
