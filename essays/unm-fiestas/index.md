@@ -24,15 +24,7 @@ Some of these important regulations that are new to the event are the use of a c
 This event is also now a UNM student only event which is also very important to know as IDs will be checked. In recent events you are able to bring a plus one but always make sure that is available as these are subject to change.
 
 
-
-{% include juxtapose.html
-image1="images/mvh-tv-room.jpg"
-image2="images/mvh-hist-common-room.jpg"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
-%}
-
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+And if you are considering being a performer for Fiestas there is also a process for that. Make sure to check in with the organizers and research their booking process. UNM is very diverse and is always looking for new talent and often brings local bands for their shows like SISTERBABY, a local band whose dream was to play at fiestas. So if you have the talent this is an opportunity that is very popular! 
 
 
 ## Last Before Break
@@ -55,7 +47,7 @@ images = images
 There are so many things that you can do at fiestas, the main one is the concerts which are made of four performers. However there are some things that you can do while you wait for the next show and that is the variety of food that students can go and eat and enjoy some downtime under the shade in the tents. And in the recent times the main sponsor also has a tent with some of their merch that is available to all students
 
 {% include aside.html class="left" text="
-I had so much fun! The concert was so good and I love how there are other things available like the food trucks too! I really enjoyed it this year! - UNM Student
+“It’s special for me and my sister, who is also a student here, to perform since it’s been a dream on our bucket list since we started at UNM,” Elmore said.
 " %}
 
 This year at 2025 Fiestas our main sponsor was Raising Canes, and for their booth they had a little scavenger hunt that students could do during the event that if completed they were rewarded with some cool canes merch. But if you're not feeling up to the challenge you can also just relax on the grass and enjoy the view of the event. There are other tents by UNM that offer free water and medical help if needed. 
