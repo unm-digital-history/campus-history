@@ -27,7 +27,7 @@ This event is also now a UNM student only event which is also very important to 
 And if you are considering being a performer for Fiestas there is also a process for that. Make sure to check in with the organizers and research their booking process. UNM is very diverse and is always looking for new talent and often brings local bands for their shows like SISTERBABY, a local band whose dream was to play at fiestas. So if you have the talent this is an opportunity that is very popular! 
 
 
-## Last Before Break
+## Past Fiestas Banners
 These are some of the banners of some of the past fiestas and our most recent ones too! There are different programs that go into this event even those in marketing are needed for things like the banners posters and even things like event merch and stickers. So if you enjoy digital art you might consider signing up and maybe your design might be UNM next Fiestas banner!
 
 
