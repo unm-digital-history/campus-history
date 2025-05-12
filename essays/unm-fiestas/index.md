@@ -15,15 +15,15 @@ background-position: 20px
 
 {% include figure.html class="img-right" width="48%" caption=" Poster of UNM Fiestas for the year 2019 hosted and ran by ASUNM [Source](https://news.unm.edu/news/asunms-student-special-events-hosts-fiestas-2019)" src="images/Fiestas-2019.jpg" %}
 
-One of UNMs most known and loved events of the year is Fiestas! Fiestas is now a widely known event not only for the students that attend the university of New Mexico,  but also for everyone in the state. What started as a Three day rodeo event dated back to the 1960s now turned into one of the biggest events in the state. This event now consists of multiple artists and multiple headlines with a vast variety of music taste for everyone to enjoy. [^note1]
+One of UNMs most known and loved events of the year is Fiestas! Fiestas is now a widely known event not only for the students that attend the university of New Mexico,  but also for everyone in the state. What started as a Three day rodeo event dated back to the 1960s now turned into one of the biggest events in the state. This event now consists of multiple artists and multiple headlines with a vast variety of music taste for everyone to enjoy. 
 
-[^note1]: "Num bubble at the end of P1" This is my citation at the end of the FIRST paragraph.
+The way the Fiestas is organized is through sponsorships. This is a key role that is part of the organization that runs this event. We first have to find sponsorships like in past years like KIND and Raising Canes. This and a portion of the ASUNM fee is used to contract the artist too! There is also a Fiestas committee that is also in charge of rule making and any new regulations that might be needed for future events
 
-Paragragh 2 Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
+Some of these important regulations that are new to the event are the use of a clear bag policy, no outside food or water and no digital cameras. These are rules that are updated on a yearly basis and are subject to change but it is always good to know and research these regulations before attending the event to prepare in time.
 
-[^note2]: This is my citation at the end of the SECOND paragraph.
+This event is also now a UNM student only event which is also very important to know as IDs will be checked. In recent events you are able to bring a plus one but always make sure that is available as these are subject to change.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
+
 
 {% include juxtapose.html
 image1="images/mvh-tv-room.jpg"
