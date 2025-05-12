@@ -94,7 +94,11 @@ caption="Comparison of The events in time."
 ## Interview with UNM Fiestas and its history.
 <audio controls src="AiVoice.wav"></audio>
 
+## UNM Fiestas 2025 All Access Pass
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Tag 2" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/8e8c650f56d7438e937da9f6b1559096/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/tag-2-8e8c650f56d7438e937da9f6b1559096?utm_medium=embed&utm_campaign=share-popup&utm_content=8e8c650f56d7438e937da9f6b1559096" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Tag 2 </a> by <a href="https://sketchfab.com/._Gabriel._?utm_medium=embed&utm_campaign=share-popup&utm_content=8e8c650f56d7438e937da9f6b1559096" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Gabriel._ </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=8e8c650f56d7438e937da9f6b1559096" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
 
 ## Get Invovled with other events on campus
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
+Get involved with future fiestas by following UNM ASUNM and UNM SSE on instagram! They will post openings throughout the year to help with these events. So look out for those if you are interested. You can also find them on the bottom floor of the Student Union if you want to book a personal time to talk to the staff to get you involved. However if you just want to sit back and enjoy the events make sure to have fun and send your support to the organizers! 
 
