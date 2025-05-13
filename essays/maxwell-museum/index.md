@@ -97,7 +97,7 @@ src="images/kuna-invite1.jpg"
 
 {% include figure.html
 class="img-right"
-width="47%"
+width="46%"
 caption="The inside of the invitation to the Yer Dialege exhibition opening."
 src="images/kuna-invite2.jpg"
 %}
@@ -109,7 +109,7 @@ Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador 
 
 [^note4]: "Throwback Thursday. Maxwell Exhibitions: Yer Dialege! Kuna Women's Art," Maxwell Museum of Anthropology, June 10, 2021, https://maxwellmuseum.unm.edu/maxwell-at-home/maxwell-history/throwback-thursday-maxwell-exhibitions-yer-dailege-kuna-women%E2%80%99s-art. 
 
-{% include scrollybox/bg.html height="220" image-url="images/abqjournal-kuna.jpg" pre-box-space = "125vh" font-size = "200%" line-height = "150%" box-content= " 'Mola-making is an important part of a woman's life, not just a leisure activity. A great deal of time is spent making molas. Women sew while visiting, traveling, listening in village meetings or sitting by themselves. Young girls are encouraged to learn to sew as early as they seem interested, which may be at age 3 or 4.' -Mari Lyn Salvador " 
+{% include scrollybox/bg.html height="230" image-url="images/abqjournal-kuna.jpg" pre-box-space = "125vh" font-size = "200%" line-height = "150%" box-content= " 'Mola-making is an important part of a woman's life, not just a leisure activity. A great deal of time is spent making molas. Women sew while visiting, traveling, listening in village meetings or sitting by themselves. Young girls are encouraged to learn to sew as early as they seem interested, which may be at age 3 or 4.' -Mari Lyn Salvador " 
 %}
 
 ### The Fetish Carvers of Zuni, 1991
@@ -122,6 +122,8 @@ src="images/maxwell-zuni.jpg"
 *The Fetish Carvers of Zuni* exhibition, which opened in February of 1991, highlighted the artists of Zuni (A:Shiwi) and their iconic and beautiful sculpture work, known as fetishes. Objects of protection, fetishes are hand carved from stone, shell, and sometimes even in-organic material (like old surfboards or layers of compressed paint called Fordite). 
 
 Maxwell curator Marian Rodee and Pueblo of Zuni Arts and Crafts director James Ostler co-curated the exhibition and co-authored an exhibition catalog of the same name. Featuring approximately 135 fetishes, the exhibition provided historical context about the Pueblo of Zuni, prolific carving families, individual artists, and how both the style and purpose of fetishes have changed over time. 
+
+*The Fetish Carvers of Zuni* helped to facilitate a strong and ongoing relationship between the Maxwell Museum and fetish artists, and even today, their beautiful art can be purchased in the museum store.
 {% include figure.html
   class="img-left"
   width="33%"
@@ -129,7 +131,6 @@ Maxwell curator Marian Rodee and Pueblo of Zuni Arts and Crafts director James O
   src="images/zuni-exhibit.jpg"
 %}
  
-*The Fetish Carvers of Zuni* helped to facilitate a strong and ongoing relationship between the Maxwell Museum and fetish artists, and even today, their beautiful art can be purchased in the museum store.
 
 ## In Her Own Words
 A quick chat with Max will tell you that she's excited for new opportunites and new friends!
