@@ -45,7 +45,7 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
 
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
-  image-url="images/67-68.jpg"
+  image-url="images/maxwell-psw.jpg"
   pre-box-space="0"
   font-size = "150%"
   line-height = "100%"
@@ -57,7 +57,7 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
 
 
 {% include scrollybox/bg-switch.html
-  image-url="images/1970s-maxwell.jpg"
+  image-url="images/maxwell-ancestors2.jpg"
   switch-id="switch1"
   bg-id="bg1"
 %}
