@@ -73,14 +73,14 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
 
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="33%"
   caption="List of items in the Kidd Collection"
   src="images/kidd-instruments.jpg"
 %}
 One of the first exhibitions that the newly named Maxwell Museum mounted was *Man: The Music-maker*, highlighting world ethnomusicology. Many of the objects on display came from the personal collection of Elizabeth Kidd, a musician, teacher, world traveler, and expert in ancient Greek music. After her passing, over 300 musical instruments from all over the world were donated to the museum by Elizabeth's husband.
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="50%"
   caption="An Albuquerque Journal article about the exhibition"
   src="images/abqjournal-music.jpg"
@@ -99,7 +99,7 @@ src="images/kuna-invite1.jpg"
 
 {% include figure.html
 class="img-right"
-width="40%"
+width="48%"
 caption="The inside of the invitation to the Yer Dialege exhibition opening."
 src="images/kuna-invite2.jpg"
 %}
@@ -118,20 +118,20 @@ Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador 
 
 *The Fetish Carvers of Zuni* exhibition, which opened in February of 1991, highlighted the artists of Zuni (A:Shiwi) and their iconic and beautiful sculpture work, known as fetishes. Objects of protection, fetishes are hand carved from stone, shell, and sometimes even in-organic material (like old surfboards or layers of compressed paint called Fordite). 
 {% include figure.html
+class="img-right"
+width="33%"
+caption="The Maxwell Foundation newsletter for early 1991, highlighting The Fetish Carvers of Zuni."
+src="images/maxwell-zuni.jpg"
+%}
+
+Maxwell curator Marian Rodee and Pueblo of Zuni Arts and Crafts director James Ostler co-curated the exhibition and co-authored an exhibition catalog of the same name. Featuring approximately 135 fetishes, the exhibition provided historical context about the Pueblo of Zuni, prolific carving families, individual artists, and how both the style and purpose of fetishes have changed over time. 
+{% include figure.html
   class="img-right"
   width="33%"
   caption="An early outline of the exhibition."
   src="images/zuni-exhibit.jpg"
 %}
  
-Maxwell curator Marian Rodee and Pueblo of Zuni Arts and Crafts director James Ostler co-curated the exhibition and co-authored an exhibition catalog of the same name. Featuring approximately 135 fetishes, the exhibition provided historical context about the Pueblo of Zuni, prolific carving families, individual artists, and how both the style and purpose of fetishes have changed over time. 
-{% include figure.html
-class="img-left"
-width="33%"
-caption="The Maxwell Foundation newsletter for early 1991, highlighting The Fetish Carvers of Zuni."
-src="images/maxwell-zuni.jpg"
-%}
-
 *The Fetish Carvers of Zuni* helped to facilitate a strong and ongoing relationship between the Maxwell Museum and fetish artists, and even today, their beautiful art can be purchased in the museum store.
 
 ## In Her Own Words
