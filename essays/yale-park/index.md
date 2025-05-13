@@ -10,7 +10,9 @@ background-position: 20px
 ---
 
 
-## An early title
+## Overview
+For as long as Yale Park has been targeted by the University’s expansion efforts, students, faculty and community members have protested to stop them, the park itself being a site for protests on various issues since the Park’s inception which can be roughly traced to 1914. Yale park, once more than three times its current size, occupies about a third of the area of the bookstore which was part of the park itself until its construction in 1996. The bookstore’s encroachment was met with resistance but ultimately Yale Park has succumbed to the will of UNM’s board of regents over the decades. Yale Park, one of only a handful of parks along Central, is now a sliver of what it once was, both in scale and in use. 
+
 
 
 {% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-history-stays.jpg" %}
