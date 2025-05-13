@@ -56,10 +56,13 @@ When considering the history of a general police force in New Mexico it is not u
 ## From Here to There
 There is no mention of this event in the yearbook 1947 Mirage that I could locate under the search term officers or police. As in the correspondence, Earl Bowdich and Sgt. Lee Forrester are mentioned in the first members’ roster. No mention of Earl in the yearbook despite being the Superintendent of Buildings & Grounds. Odd. This is also true in 1948.
 
-After continuing to dig into records, I came up empty handed over and over again. Sometimes I would find something that was conspicuous by its absence that left me with more questions. What I came to surmise was that the police deparment most likely was created under the eighth president of the University John Philip Wernette (just after President Zimmerman). However, no such action is mentioned in the extremely brief bio material by William E. Davis.[^note2]
+After continuing to dig into records, I came up empty handed over and over again. Sometimes I would find something that was conspicuous by its absence that left me with more questions. What I came to surmise was that the police deparment most likely was created under the eighth president of the University, John Philip Wernette (just after President Zimmerman). However, no such action is mentioned in the extremely brief bio material by William E. Davis.[^note2]
 [^note2]: Source- https://en.wikipedia.org/wiki/List_of_presidents_of_the_University_of_New_Mexico
 
-I have since discovered that Rodey Hall and Hodgin Hall were both to be demolished. Hodgin Hall was spared and converted to the space for Alumni, Rodey was demolished in 1971 to make way for the loop road around the campus. This was the landmark just north of which the Police were initially slated to be.
+After looking at the brief news blurb in the Daily Lobo, I began trying to hunt for buildings. It is of note that the building which is either called 'H-2' or in which 'H-2' resides no longer exists. Also, I have since discovered that Rodey Hall and Hodgin Hall were both to be demolished. Hodgin Hall was spared and converted to the space for Alumni, Rodey was demolished in 1971 to make way for the loop road around the campus. This was the landmark just north of which the Police were initially slated to be.[^note3][^note4][^note5]
+[^note3]: Source-https://nmarchives.unm.edu/repositories/22/archival_objects/325077
+[^note4]: Source-University of New Mexico Hodgin and Rodey Halls Albuquerque, NM, 1952, Job Number 375-G-1, Stack: 1, Drawer: 20. John Gaw Meem Drawings and Plans, SWA JGM Drawings CSWR Microfilm NA737 M438 J64. UNM Center for Southwest Research & Special Collections.
+[^note5]: Source-https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&cc=1&sessionid=17dcbfc8-d7b4-4c37-9b3f-437176352d90
 
 Where the Police department went following this was a mystery until I spoke to a former head of security by the name of Rosemary. She had worked in the department from 1995-2020. She is directly responsible for a large unprocessed 3rd box of materials not included in the UNMA 171 collection. This box only came to light due to the expertise of the CSRW head of archives Portia Vescio.
 
@@ -87,4 +90,6 @@ In conclusion, and it seems, at long last, there is something unique happening i
 - https://news.unm.edu/news/purpose-built-unm-police-headquarters-construction-set-for-april
 - University of New Mexico. Dept. UNM Police, 1922-1995, collection UNMA 171,Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
 - University of New Mexico. Dept. UNM Police, N/A, collection UNMA 171,Box 2. Center for Southwest Research, University Libraries, University of New Mexico.
+- University of New Mexico Hodgin and Rodey Halls Albuquerque, NM, 1952, Job Number 375-G-1, Stack: 1, Drawer: 20. John Gaw Meem Drawings and Plans, SWA JGM Drawings CSWR Microfilm NA737 M438 J64. UNM Center for Southwest Research & Special Collections.
 - https://en.wikipedia.org/wiki/List_of_presidents_of_the_University_of_New_Mexico
+- https://nmarchives.unm.edu/repositories/22/archival_objects/325077
