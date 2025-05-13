@@ -3,7 +3,7 @@ title: yale-park
 author: Quinn Rogers
 layout: unm-base
 date: 2025-05-13
-header-image: 
+header-image: images/header.jpg
 header-title: Yale Park
 header-height: 50vh
 background-position: 20px
