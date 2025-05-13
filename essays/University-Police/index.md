@@ -55,16 +55,9 @@ When considering the history of a general police force in New Mexico it is not u
 
 ## From Here to There
 There is no mention of this event in the yearbook 1947 Mirage that I could locate under the search term officers or police. As in the correspondence, Earl Bowdich and Sgt. Lee Forrester are mentioned in the first members’ roster. No mention of Earl in the yearbook despite being the Superintendent of Buildings & Grounds. Odd. This is also true in 1948.
-[^note2]
-[^note2]: This is my citation at the end of the FIRST paragraph.
 
-[^note3]
-
-[^note3]: This is my citation at the end of the SECOND paragraph.
-
-
-
-This change took place under the eighth president of the University (just after President Zimmerman). It is not mentioned in the extremely brief bio material by William E. Davis.
+After continuing to dig into records, I came up empty handed over and over again. Sometimes I would find something that was conspicuous by its absence that left me with more questions. What I came to surmise was that the police deparment most likely was created under the eighth president of the University John Philip Wernette (just after President Zimmerman). However, no such action is mentioned in the extremely brief bio material by William E. Davis.[^note2]
+[^note2]: Source- https://en.wikipedia.org/wiki/List_of_presidents_of_the_University_of_New_Mexico
 
 I have since discovered that Rodey Hall and Hodgin Hall were both to be demolished. Hodgin Hall was spared and converted to the space for Alumni, Rodey was demolished in 1971 to make way for the loop road around the campus. This was the landmark just north of which the Police were initially slated to be.
 
