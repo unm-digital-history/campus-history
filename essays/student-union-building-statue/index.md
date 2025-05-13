@@ -4,7 +4,7 @@ author: Brandon Rodriguez
 layout: unm-base
 date: 2015-04-14
 header-image: images/mvh-construction.jpg
-header-title: Mesa VISSSTA
+header-title: DeVargas Hall
 header-height: 50vh
 background-position: 20px
 ---
