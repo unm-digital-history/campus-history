@@ -80,13 +80,8 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
 One of the first exhibitions that the newly named Maxwell Museum mounted was *Man: The Music-maker*, highlighting world ethnomusicology. Many of the objects on display came from the personal collection of Elizabeth Kidd, a musician, teacher, world traveler, and expert in ancient Greek music. After her passing, over 300 musical instruments from all over the world were donated to the museum by Elizabeth's husband.
 
 The exhibition was organized thematically and by region, interweaving foundational information about the mechanics of sound as well as how music is incorporated into culture. First, visitors were introduced to the different types of musical instruments they may encounter throughout the exhibition. Next, were instruments and music of Indigenous North Americans, which were followed by various information on scales and melodies, and then the instruments and music of the African continent. The second half of the exhibition highlighted the social function of music, then instruments and music from Asia. The exhibition concluded with a section on contact phenomena or ''When Musics Meet."
-{% include figure.html
-  class="img-center"
-  width="80%"
-  caption="Albuquerque Journal article highlighting Man: The Music-maker. From April, 1973."
-  src="images/abqjournal-music.jpg" %}
 
-
+INSERT ANOTHER PHOTO HERE
 
 ### YER DIALEGE! Kuna Women's Art, 1978-79
 
@@ -111,11 +106,11 @@ Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador 
 
 [^note4]: "Throwback Thursday. Maxwell Exhibitions: Yer Dialege! Kuna Women's Art," Maxwell Museum of Anthropology, June 10, 2021, https://maxwellmuseum.unm.edu/maxwell-at-home/maxwell-history/throwback-thursday-maxwell-exhibitions-yer-dailege-kuna-women%E2%80%99s-art. 
 
-{% include scrollybox/bg.html height="220" image-url="images/abqjournal-kuna.jpg" pre-box-space = "100vh" font-size = "250%" line-height = "150%" box-content=' "Mola-making is an important part of a woman's life, not just a leisure activity. A great deal of time is spent making molas. Women sew while visiting, traveling, listening in village meetings or sitting by themselves. Young girls are encouraged to learn to sew as early as they seem interested, which may be at age 3 or 4." ' %}
+INSERT SCROLLY BOX
 
 ### The Fetish Carvers of Zuni, 1991
 
-*The Fetish Carvers of Zuni* exhibition, which opened in February of 1991, highlighted the artists of Zuni (A:Shiwi) and their iconic and beautiful sculpture work, known as fetishes. Objects of protection, fetishes are hand carved from stone, shell, and sometimes even in-organic material (like old surfboards or layers of compressed paint called Fordite).{% include figure.html
+*The Fetish Carvers of Zuni* exhibition, which opened in February of 1991, highlighted the artists of Zuni (A:Shiwi) and their iconic and beautiful sculpture work, known as fetishes. Objects of protection, fetishes are hand carved from stone, shell, and sometimes even in-organic material (like old surfboards or layers of compressed paint called Fordite). {% include figure.html
   class="img-right"
   width="33%"
   caption="An early outline of the exhibition."
