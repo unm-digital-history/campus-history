@@ -9,7 +9,7 @@ header-height: 50vh
 background-position: 20px
 ---
 ## Womens Resource Center
-{% include figure.html class="img-center" width="80%" caption="Womens resource center at UNM has evolved meraculously over the past 50 years into a home and inclusive space for many students and survivors. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/20ff9c2b-21a2-4261-9e3c-6e376e0be665.sized-1000x1000.jpeg" %}
+{% include figure.html class="img-center" width="100%" caption="Womens resource center at UNM has evolved meraculously over the past 50 years into a home and inclusive space for many students and survivors. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/20ff9c2b-21a2-4261-9e3c-6e376e0be665.sized-1000x1000.jpeg" %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
 
