@@ -25,7 +25,7 @@ Throughout the years, the Social Sciences Building has witnessed countless acade
 
 
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
+
 
 {% include juxtapose.html
 image1="images/mvh-tv-room.jpg"
