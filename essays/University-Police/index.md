@@ -31,7 +31,11 @@ background-position: 20px
 The oldest document in the archive is a photocopy of a document from Nov 17, 1922, addressed to Celso Espinosa- The last document referencing him in the file is dated in April 17, 1926. From this one might understand that his tenure in the position of Nightwatchman spanned at least 4 years.
 All that exists within the archive that corroborates the existence of the police department at UNM is a letter from Seargent Lee Forrester to a Mr. Earl Bowdich, Superintendent. This letter was typed on a typewriter and is dated July 14th, 1947. At this time, based on the content of the document, the UNM Police department was already in existence. However, there is nothing in the folder itself that bridges the gap between the 1926 Nightwatchman and the New Police Force referred to in 1947. Somewhere between that time the Police department was created and staffed. 
 
-
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="Article in the Daily Lobo, shortly after the founding and staffing of the UNMPD."
+  src="images/1947-announcement-police-force-unm.png" %}
 
 
 
