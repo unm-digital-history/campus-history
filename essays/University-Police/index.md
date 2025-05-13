@@ -105,7 +105,7 @@ This portion of the webpage contains a 3d rendered image of a pincone from the l
 
 ## Bibliography
 - Pete Guevara,-current police lieutenant- in conversation with the author, in Hokona-Zuni Hall Basement, late April 2025.
-- Rosemary Melendrez, -former police security admin- telephone conversation with the author, Wednesday 05/01/2025 @ 12:30 P.M.
+- Rosemary Melendrez, -former police security admin- telephone conversation with the author, Wednesday, May 1st @ 12:30 P.M.
 - Mike McGinnes, -former police detective- telephone conversation with the author, Tuesday, May 6th, 2025 @ 8:30 A.M.
 - https://news.unm.edu/news/purpose-built-unm-police-headquarters-construction-set-for-april
 - University of New Mexico. Dept. UNM Police, 1922-1995, collection UNMA 171,Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
