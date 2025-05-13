@@ -14,7 +14,7 @@ background-position: 20px
 
 
 {% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-history-stays.jpg" %}
-
+Background
 The Social Sciences Building at the University of New Mexico (UNM) plays a pivotal role in shaping the academic experience for students and faculty alike. Opened in 1987, this modernist structure was designed by the renowned architectural firm Hutchinson, Brown and Partners. Located at the heart of UNM’s central campus, the building is home to various departments, including Sociology, Political Science, and Anthropology. It serves as a central hub for the study and exploration of human societies, cultures, and political systems, providing students with the necessary resources to engage in critical thinking and interdisciplinary research.
 The design of the Social Sciences Building reflects a blend of functional design and regional aesthetic, with its clean lines and open spaces complementing the Southwestern architectural style that defines much of UNM’s campus. Its layout was carefully planned to foster collaboration, with classrooms, lecture halls, and faculty offices arranged to encourage interaction among students and faculty. The building's proximity to other academic facilities ensures that it is a focal point for intellectual engagement, while its proximity to outdoor spaces provides a relaxing environment for reflection and informal discussion.
 Throughout the years, the Social Sciences Building has witnessed countless academic milestones, serving as the backdrop for significant research, lectures, and academic events. It is not just a building but a symbol of the university’s ongoing commitment to education, scholarship, and social change. As a place where students and scholars come together to explore pressing social issues, the building continues to inspire dialogue, growth, and an enduring pursuit of knowledge
@@ -22,10 +22,8 @@ Throughout the years, the Social Sciences Building has witnessed countless acade
 
 
 [^note1]: This is my citation at the end of the FIRST paragraph.
-
-Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
-
-[^note2]: This is my citation at the end of the SECOND paragraph.
+Construction
+The School of Social Sciences and the Graduate School of Management at the University of New Mexico were planned as three-story buildings, with the School of Management including a full basement extending 10 to 15 feet below the existing ground level. The basement was designed to reach beyond the building’s above-ground footprint on the south side. The School of Social Sciences would have a slab-on-grade first floor at an elevation of 5,162 feet, while the Graduate School of Management's basement would sit at an elevation around 5,145 feet. Interestingly, the first floor of the Social Sciences building was to be constructed just 5 feet from an existing utility tunnel, and its second floor would include a balcony extending over that tunnel. Structural engineers expected moderate loads, with maximum column loads reaching about 320 kips (or 320,000 pounds) for the Management Building and 170 kips for the Social Sciences Building. The entire project began with a geotechnical investigation by Sergent, Hauskins & Beckwith to analyze the site’s soil and subsoil conditions and provide recommendations for foundation and slab design.[^note2]: This is my citation at the end of the SECOND paragraph.
 
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
 
