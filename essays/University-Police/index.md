@@ -92,6 +92,8 @@ In conclusion, and it seems, at long last, there is something unique happening i
   title="Future HQ of UNMPD"
 %}
 
+
+The clip contains a fanciful conversation between myself and a personified archive that somewhat humorously albeit briefly seeks to encapsulate the readjustment of my research expectations.
 <audio controls src="interview-with-the-csrw-archive.mp3"></audio>
 
 
