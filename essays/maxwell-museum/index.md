@@ -41,7 +41,7 @@ In the intervening years, the Maxwell Museum has remained dedicated to the great
 
 ## Exhibitions Through the Years
 
-The Maxwell Museum has curated and hosted well over 150 exhibitions since the 1970s. The two current permanent exhibitions, *People of the Southwest* and *Ancestors* have been on view in various capacities since 1990. In recent years, both exhibitions have undergone updating to remain current on research trends, but more importantly, to ensure the cultural sensitivity of descendent indigenous communities. 
+The Maxwell Museum has curated and hosted well over 150 exhibitions since the 1970s. The two current permanent exhibitions, *Peoples of the Southwest* and *Ancestors* have been on view in various capacities since 1990. In recent years, both exhibitions have undergone updating to remain current on research trends, but more importantly, to ensure the cultural sensitivity of descendent indigenous communities. 
 
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
@@ -50,7 +50,7 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
   font-size = "150%"
   line-height = "100%"
 %}
-### People of the Southwest
+### Peoples of the Southwest
 > "The exhibition celebrates the cultural history of the Southwest, especially the close relationship southwestern people have had with the land around them. Through time, the connection between people and land has produced a deep spiritual bond that continues today in the daily life of many communities." [^note2]
 
 [^note2]:  "'People of the Southwest,' Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/exhibits/permanent/people-southwest."
@@ -72,16 +72,21 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
 ### Man: The Music-maker, 1973
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="50%"
   caption="List of items in the Kidd Collection"
   src="images/kidd-instruments.jpg"
 %}
 One of the first exhibitions that the newly named Maxwell Museum mounted was *Man: The Music-maker*, highlighting world ethnomusicology. Many of the objects on display came from the personal collection of Elizabeth Kidd, a musician, teacher, world traveler, and expert in ancient Greek music. After her passing, over 300 musical instruments from all over the world were donated to the museum by Elizabeth's husband.
 
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="An Albuquerque Journal article about the exhibition"
+  src="images/abqjournal-music.jpg"
+%}
 The exhibition was organized thematically and by region, interweaving foundational information about the mechanics of sound as well as how music is incorporated into culture. First, visitors were introduced to the different types of musical instruments they may encounter throughout the exhibition. Next, were instruments and music of Indigenous North Americans, which were followed by various information on scales and melodies, and then the instruments and music of the African continent. The second half of the exhibition highlighted the social function of music, then instruments and music from Asia. The exhibition concluded with a section on contact phenomena or ''When Musics Meet."
 
-INSERT ANOTHER PHOTO HERE
 
 ### YER DIALEGE! Kuna Women's Art, 1978-79
 
@@ -94,7 +99,7 @@ src="images/kuna-invite1.jpg"
 
 {% include figure.html
 class="img-right"
-width="48%"
+width="40%"
 caption="The inside of the invitation to the Yer Dialege exhibition opening."
 src="images/kuna-invite2.jpg"
 %}
@@ -106,25 +111,26 @@ Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador 
 
 [^note4]: "Throwback Thursday. Maxwell Exhibitions: Yer Dialege! Kuna Women's Art," Maxwell Museum of Anthropology, June 10, 2021, https://maxwellmuseum.unm.edu/maxwell-at-home/maxwell-history/throwback-thursday-maxwell-exhibitions-yer-dailege-kuna-women%E2%80%99s-art. 
 
-{% include scrollybox/bg.html height="220" image-url="images/abqjournal-kuna.jpg" pre-box-space = "125vh" font-size = "200%" line-height = "150%" box-content= "Mola-making is an important part of a woman's life, not just a leisure activity. A great deal of time is spent making molas. Women sew while visiting, traveling, listening in village meetings or sitting by themselves. Young girls are encouraged to learn to sew as early as they seem interested, which may be at age 3 or 4."
+{% include scrollybox/bg.html height="220" image-url="images/abqjournal-kuna.jpg" pre-box-space = "125vh" font-size = "200%" line-height = "150%" box-content= '"Mola-making is an important part of a woman's life, not just a leisure activity. A great deal of time is spent making molas. Women sew while visiting, traveling, listening in village meetings or sitting by themselves. Young girls are encouraged to learn to sew as early as they seem interested, which may be at age 3 or 4." -Mari Lyn Salvador'
 %}
 
 ### The Fetish Carvers of Zuni, 1991
 
-*The Fetish Carvers of Zuni* exhibition, which opened in February of 1991, highlighted the artists of Zuni (A:Shiwi) and their iconic and beautiful sculpture work, known as fetishes. Objects of protection, fetishes are hand carved from stone, shell, and sometimes even in-organic material (like old surfboards or layers of compressed paint called Fordite). {% include figure.html
+*The Fetish Carvers of Zuni* exhibition, which opened in February of 1991, highlighted the artists of Zuni (A:Shiwi) and their iconic and beautiful sculpture work, known as fetishes. Objects of protection, fetishes are hand carved from stone, shell, and sometimes even in-organic material (like old surfboards or layers of compressed paint called Fordite). 
+{% include figure.html
   class="img-right"
   width="33%"
   caption="An early outline of the exhibition."
   src="images/zuni-exhibit.jpg"
 %}
  
+Maxwell curator Marian Rodee and Pueblo of Zuni Arts and Crafts director James Ostler co-curated the exhibition and co-authored an exhibition catalog of the same name. Featuring approximately 135 fetishes, the exhibition provided historical context about the Pueblo of Zuni, prolific carving families, individual artists, and how both the style and purpose of fetishes have changed over time. 
 {% include figure.html
 class="img-left"
-width="50%"
+width="33%"
 caption="The Maxwell Foundation newsletter for early 1991, highlighting The Fetish Carvers of Zuni."
 src="images/maxwell-zuni.jpg"
 %}
-Maxwell curator Marian Rodee and Pueblo of Zuni Arts and Crafts director James Ostler co-curated the exhibition and co-authored an exhibition catalog of the same name. Featuring approximately 135 fetishes, the exhibition provided historical context about the Pueblo of Zuni, prolific carving families, individual artists, and how both the style and purpose of fetishes have changed over time. 
 
 *The Fetish Carvers of Zuni* helped to facilitate a strong and ongoing relationship between the Maxwell Museum and fetish artists, and even today, their beautiful art can be purchased in the museum store.
 
