@@ -40,15 +40,12 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 ## Construction
 The School of Social Sciences and the Graduate School of Management at the University of New Mexico were planned as three-story buildings, with the School of Management including a full basement extending 10 to 15 feet below the existing ground level. The basement was designed to reach beyond the building’s above-ground footprint on the south side. The School of Social Sciences would have a slab-on-grade first floor at an elevation of 5,162 feet, while the Graduate School of Management's basement would sit at an elevation around 5,145 feet. Interestingly, the first floor of the Social Sciences building was to be constructed just 5 feet from an existing utility tunnel, and its second floor would include a balcony extending over that tunnel. Structural engineers expected moderate loads, with maximum column loads reaching about 320 kips (or 320,000 pounds) for the Management Building and 170 kips for the Social Sciences Building. The entire project began with a geotechnical investigation by Sergent, Hauskins & Beckwith to analyze the site’s soil and subsoil conditions and provide recommendations for foundation and slab design.[^note2]: This is my citation at the end of the SECOND paragraph.
 
-{% include scrollybox/bg.html
-  height="220"
-  image-url="images/mvh-women-supervision.jpg"
-  pre-box-space = "100vh"
-  font-size = "250%"
-  line-height = "150%"
-  box-content='
-       One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
-%}
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."
+  src="images/image3.jpegjpg" %}
+      
 
 
 ## Cras magna nunc
