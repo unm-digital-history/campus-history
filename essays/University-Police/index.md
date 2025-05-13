@@ -16,17 +16,12 @@ background-position: 20px
 
  As with the many other essays to be found on this site, the idea for this page began with a question; namely, what can be known of the history of UNM's Police Department? Since the University of New Mexico was founded 1889, initially, I assumed that out of the massive numbers of records that must have surely been compiled since that time, that I would have the option to interact with a significant amount of archival material. I was eager to begin going about determining a proper historiographical method of selecting the necessary sources from which to craft my narrative. 
  
- Imagine my surprise when after making my initial request of the excellent archivists that staff the CSWR to have just two boxes set in front of me. I asked whether or not they had more boxes and just did not bring them. Upon asking that, I was told that these two boxes were all there was. I again asked to clarify whether the archivist was saying whether or not there were only two boxes in the collection UNMA 171 or whether there were only two boxes that contained the entire history of the University Police Department. The archivist confirmed the latter. After she returned to her desk, I sat there dumfounded, staring at the two boxes in front of me. This was not at all what I was expecting. As I opened the boxes, my consternation only grew. What follows is the information I was able to discover regarding the nearly undocumented history of the UNM Police Department. But first, a clarifying note.[^note1]
+ Imagine my surprise when after making my initial request of the excellent archivists that staff the CSWR to have just two boxes set in front of me. I asked whether or not they had more boxes and just did not bring them. Upon asking that, I was told that these two boxes were all there was. I again asked to clarify whether the archivist was saying whether or not there were only two boxes in the collection UNMA 171 or whether there were only two boxes that contained the entire history of the University Police Department. The archivist confirmed the latter. After she returned to her desk, I sat there dumfounded, staring at the two boxes in front of me. This was not at all what I was expecting. As I opened the boxes, my consternation only grew. What follows is the information I was able to discover regarding the nearly undocumented history of the UNM Police Department. But first, a clarifying note.
 
 {% include figure.html class="img-right" width="48%" caption="Box 1 of unma 171 with its eight folders. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/unma-171-box-1-open-with-folders.jpg" %}
 
  A police department is something separate from the things that they do. It is a group of persons voluntarily bound together by an ideal and mission. They do things, but simply because they do things, does not mean that one can truly know the history of the department itself simply by looking at the many things in which they have been involved. That constitutes more the history of their presence in the community rather than a history of the department itself. So what do I mean then when I ask, what is the history of the UNM Police Department? I intend to pursue questions such as 'When was the department created?', 'Who was the first officer to lead the department?', 'Where was the department housed on UNM campus?', 'What was the daily life of officers like and how has that changed over time?' and other such questions. In so brief a space, I cannot possibly properly treat the breadth and depth of this subject with even a rigorous overview. Rather it is my hope and intention in both seeking this information out myself, as well as creating some visibility around a clear opportunity to create a more robust archival presence for the UNMPD, that other students will take upon themselves the same mantle of discovery regarding the history of this essential department of UNM.
 
-[^note1]: This is my citation at the end of the FIRST paragraph.
-
-[^note2]
-
-[^note2]: This is my citation at the end of the SECOND paragraph.
 
 
 
@@ -36,8 +31,8 @@ background-position: 20px
 The oldest document in the archive is a photocopy of a document from Nov 17, 1922, addressed to Celso Espinosa- The last document referencing him in the file is dated in April 17, 1926. From this one might understand that his tenure in the position of Nightwatchman spanned at least 4 years.
 All that exists within the archive that corroborates the existence of the police department at UNM is a letter from Seargent Lee Forrester to a Mr. Earl Bowdich, Superintendent. This letter was typed on a typewriter and is dated July 14th, 1947. At this time, based on the content of the document, the UNM Police department was already in existence. However, there is nothing in the folder itself that bridges the gap between the 1926 Nightwatchman and the New Police Force referred to in 1947. Somewhere between that time the Police department was created and staffed. 
 
-When considering the history of a general police force in New Mexico it is not unusual that such a department did not come to UNM until what might be considered much later in the game. The Home of the New Mexico State Police (under whose umbrella UNM operates) website states that while New Mexico did not become a state until 1912, the first territorial Police Force (The New Mexico Mounted Police) was established in 1905 and continued until 1921. The first time the State Police began the official enforcement of traffic laws in the state was 1933 even though route 66 was established in 1926. Therefore, seeing the very gradual process of enforcement and necessity within the state police force itself, it is not unreasonable that the University would have its own official police officers some within the 1940s. According to a brief biography of one of the University’s most well-known presidents, Frank Zimmerman (after whom the library is named), there is no mention of Zimmerman creating a police department. His death in 1944 predates the letter in the archive by just three years, so while it is possible, it is also just as possible his immediate predecessor created the department. (more research needed). In speaking with one of the current officers within the department Lt. Joseph Bitsoih, he stated that while he had no documentation on the founding of the department, the year 1947 seemed to stick out to him as potentially the year of founding.
-
+When considering the history of a general police force in New Mexico it is not unusual that such a department did not come to UNM until what might be considered much later in the game. The Home of the New Mexico State Police (under whose umbrella UNM currently operates) website states that while New Mexico did not become a state until 1912, the first territorial Police Force (The New Mexico Mounted Police) was established in 1905 and continued until 1921. The first time the State Police began the official enforcement of traffic laws in the state was 1933 even though route 66 was established in 1926.[^note1] Therefore, seeing the very gradual process of enforcement and necessity within the state police force itself, it is not unreasonable that the University would have its own official police officers some within the 1940s. According to a brief biography of one of the University’s most well-known presidents, Frank Zimmerman (after whom the library is named), there is no mention of Zimmerman creating a police department. His death in 1944 predates the letter in the archive by just three years, so while it is possible, it is also just as possible his immediate predecessor created the department. (more research needed). In speaking with one of the current officers within the department Lt. Joseph Bitsoih, he stated that while he had no documentation on the founding of the department, the year 1947 seemed to stick out to him as potentially the year of founding.
+[^note1]: Source- https://www.joinnmsp.com/our-history/
 
 {% include scrollybox/bg.html
   height="300"
@@ -52,6 +47,14 @@ When considering the history of a general police force in New Mexico it is not u
 
 ## From Here to There
 There is no mention of this event in the yearbook 1947 Mirage that I could locate under the search term officers or police. As in the correspondence, Earl Bowdich and Sgt. Lee Forrester are mentioned in the first members’ roster. No mention of Earl in the yearbook despite being the Superintendent of Buildings & Grounds. Odd. This is also true in 1948.
+[^note2]
+[^note2]: This is my citation at the end of the FIRST paragraph.
+
+[^note3]
+
+[^note3]: This is my citation at the end of the SECOND paragraph.
+
+
 
 This change took place under the eighth president of the University (just after President Zimmerman). It is not mentioned in the extremely brief bio material by William E. Davis.
 
@@ -75,6 +78,7 @@ It would seem that there is something unique happening in for the department tha
 
 
 ## Bibliography
+- Conversation with Lt. Pete Guevara in Hokona-Zuni Hall Basement, late April 2025.
 - Telephone conversation with Rosemary Melendrez, Wednesday 05/01/2025 @ 12:30 P.M.
 - Telephone conversation with Mike McGinnes, Tuesday, May 6th, 2025 @ 8:30 A.M.
 - University of New Mexico. Dept. UNM Police, 1922-1995, collection UNMA 171,Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
