@@ -100,7 +100,7 @@ src="images/kuna-invite2.jpg"
 %}
 
 
-Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador spent time as a Peace Corps volunteer in Panama where she worked alongside Kuna craftswomen of the San Blas Islands. This experience provided the foundation for Salvador's further community, anthropological, and curatorial work, culminating in the exhibition *Yer Dialege* and its corresponding publication.
+<br> Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador spent time as a Peace Corps volunteer in Panama where she worked alongside Kuna craftswomen of the San Blas Islands. This experience provided the foundation for Salvador's further community, anthropological, and curatorial work, culminating in the exhibition *Yer Dialege* and its corresponding publication.
 
 *Yer Dialege* means beautiful in the Kuna language, and refers specifically to "objects of delight, including flowers, jewelry, and the finest elaborate embroidered molas (blouses)."[^note4] The exhibition displayed 125 molas of various colors, styles, and designs, and in doing so, communicated to visitors the importance of the enmeshed interconnectedness between art, aesthetics, and daily life in Kuna society.
 
