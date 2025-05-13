@@ -10,7 +10,7 @@ background-position: 20px
 ---
 
 
-{% include aside.html class="center" text=" 'Have you been to the latest exhibition at the Maxwell Museum of Anthropology?'
+{% include aside.html class="right" text=" 'Have you been to the latest exhibition at the Maxwell Museum of Anthropology?'
 
 'Honestly, I didn't even know we had a museum of anthropology.'
 
