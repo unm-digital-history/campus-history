@@ -45,7 +45,7 @@ Yale Park is home to two current sculptures Michael Naranjo’s “Spirit mother
 {% include figure.html
   class="img-right"
   width="33%"
-  caption=""Cultural Crossroads of the Americas" before the barbed wire was removed"
+  caption='"Cultural Crossroads of the Americas" before the barbed wire was removed'
   src="images/cultural-crossroads-wire.jpg"
 %}
 
