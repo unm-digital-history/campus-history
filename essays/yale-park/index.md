@@ -20,13 +20,34 @@ Before the plan to build the new bookstore on Yale Park was finalized, there is 
 The construction of the bookstore was heavily contested by two primary organizations, the Albuquerque Booksellers Coalition (ABC) and the Campus Community Coalition (CCC). Beyond being concerned with the loss of Yale Park’s open space, the organizations were concerned with both the lack of transparency and democracy in terms of the Regents decision to build the bookstore as well as with the impact the bookstore would have on Albuquerque’s independent bookstores. They were concerned about state-subsidized competition and the fact that the bookstore’s supply would consist of only a third of textbooks, the rest devoted to non textbook titles and merchandise. There was also concern that the bookstore would aggravate the parking situation along Central, spaces that were typically used by patrons of local businesses, because the state bookstore would be exempt from local ordinances. Students were also concerned that rising textbook prices and other hidden tuition costs would be implemented to finance the close to 5 million dollar project. 
 
 ## Protests
-While it is clear that the bookstore was constructed in an attempt to displace the unhoused, it is also quite possible that the bookstore solved another “problem” that had long plagued Yale Park, that is protests. Yale park has long been a favorable spot on campus for student protests, its proximity to central strategic in terms of mobilizing and involving both the university and the broader community. Yale park was heavily associated with protests in favor of the anti-war movement of the 1970s. There are oral accounts of the park being a site where unofficial vigils and memorials were held after John Lennon’s murder in 1980. 
+While it is clear that the bookstore was constructed in an attempt to displace the unhoused, it is also quite possible that the bookstore solved another “problem” that had long plagued Yale Park, that is protests. Yale park has long been a favorable spot on campus for student protests, its proximity to central strategic in terms of mobilizing and involving both the university and the broader community. Yale park was heavily associated with protests in favor of the anti-war movement of the 1970s. There are oral accounts of the park being a site where student organized vigils and memorials were held after John Lennon’s murder in 1980. 
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="1970 Anti-War Rally in Yale Park"
+  src="images/"
+%}
 
 ## Save the Trees
 Yale Park was once home to Siberian Elms, often mistakenly called Chinese Elms. Their familiar brownish-yellow, papery seed pods clog the campus every spring. The presence of these trees has been controversial since their arrival in New Mexico in the 19th century. They are a non-native species and are fast-growing. At the same time, they provide much needed shade, serve as windbreaks and thrive despite little water and urban pollution. Students, faculty, and community members were concerned about the felling of these trees to make way for the bookstore. Several student and neighborhood organizations filed a petition against the Regents of Unm for a restraining order to prohibit the cutting down of the trees in Yale Park in August of 1994. The petitioner's claim was that if the trees were permitted to be cut down, their position to save the park would be severely undermined. The petition was denied by State District Judge Baca. The CCC had also previously organized an Emergency Response Network to protect Yale Park’s trees. After the petition was denied, two protestors, Linda Jackson, a neighbor and longtime activist, and Joe Yarkin, a member of the UNM Green Party, chained themselves to trees, the former to a juniper and the later to an elm. Their efforts were eventually thwarted and the pair was removed by police.
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption=""
+  src="images/goodbye-to-yale-park.jpg"
+%}
+
 ## Public Art
 Yale Park is home to two current sculptures Michael Naranjo’s “Spirit mother” and Bob Hazadous’ “Cultural Crossroads of the Americas”, both installed in 1996 and both created by native artists. “Cultural Crossroads of the Americas” like Yale Park itself, has suffered from alterations. The billboard-like sculpture which pictures the migration of pre-columbian figures toward cutouts of New Mexican iconography was topped with barbed wire. The barbed wire was removed 4 years after the sculpture’s installation. According to the director of UNM’s Fine Arts Museum at the time, the barbed wire was removed because Haozous’ final model, the one approved by the Museum, did not include it, apparently jeopardizing the integrity of the competition that Haozous’ sculpture was the winner of. The barbed wire was meant to symbolize various historical uses including the U.S. Mexico border and the 28 year incarceration of the Chirachua apaches. 
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption=""Cultural Crossroads of the Americas" before the barbed wire was removed"
+  src="images/cultural-crossroads-wire.jpg"
+%}
 
 ## "A Yale Park Experience"
 I was struck by the discovery of a master student’s thesis conceived before the bookstore was, titled “A Yale Park Experience”. The thesis belongs to Scott Alan Kuykendall whose artwork covers the exterior walls of Frontier and both the interior and exterior ones of Saggio’s, both beloved restaurants mere feet away from Yale Park. The owner of Frontier, Larry Rainosek is ironically quoted as supporting the bookstore on Yale Park claiming “Yale Park hasn’t been effectively used in the 22 years he’s been in business”. Kuykendall described Yale Park as a “sanctuary”. Yale Park has always served as an intermediary, a “neutral zone”, between central, itself an extension to the city and broader community of Albuquerque, and the University’s campus. Kuykendall describes the titular experience of Yale Park as “the feeling I had one foot in the university and the other in the streets”. He captures the Park and the view from it in a series of collages, the medium in itself a reflection of the mixed identity of the Park, as community and student park, as protest site, as site for relaxation and celebration, as respite for the unhoused. His work is beautiful and vibrant, reflecting a spirit of the Park that can hopefully persist if not in its contemporary form, than in the recapturing of its legacy. 
