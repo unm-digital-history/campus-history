@@ -115,9 +115,21 @@ Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador 
 
 ### The Fetish Carvers of Zuni, 1991
 
-*The Fetish Carvers of Zuni* exhibition, which opened in February of 1991, highlighted the artists of Zuni (A:Shiwi) and their iconic and beautiful sculpture work, known as fetishes. Objects of protection, fetishes are hand carved from stone, shell, and sometimes even in-organic material (like old surfboards or layers of compressed paint called Fordite). 
+*The Fetish Carvers of Zuni* exhibition, which opened in February of 1991, highlighted the artists of Zuni (A:Shiwi) and their iconic and beautiful sculpture work, known as fetishes. Objects of protection, fetishes are hand carved from stone, shell, and sometimes even in-organic material (like old surfboards or layers of compressed paint called Fordite).{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="An early outline of the exhibition."
+  src="images/zuni-exhibit.jpg"
+%}
+ 
 
 Maxwell curator Marian Rodee and Pueblo of Zuni Arts and Crafts director James Ostler co-curated the exhibition and co-authored an exhibition catalog of the same name. Featuring approximately 135 fetishes, the exhibition provided historical context about the Pueblo of Zuni, prolific carving families, individual artists, and how both the style and purpose of fetishes have changed over time. 
+{% include figure.html
+class="img-left"
+width="50%"
+caption="The Maxwell Foundation newsletter for early 1991, highlighting The Fetish Carvers of Zuni."
+src="images/maxwell-zuni.jpg"
+%}
 
 *The Fetish Carvers of Zuni* helped to facilitate a strong and ongoing relationship between the Maxwell Museum and fetish artists, and even today, their beautiful art can be purchased in the museum store.
 
