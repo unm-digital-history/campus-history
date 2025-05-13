@@ -1,6 +1,6 @@
 ---
-title: mesa-vista-hall
-author: Fred Gibbs
+title: LaGuna-DeVargas-Hall
+author: Brandon Rodriguez
 layout: unm-base
 date: 2015-04-14
 header-image: images/mvh-construction.jpg
@@ -17,13 +17,8 @@ background-position: 20px
 
 Hey Yo, how is it going?[^note1]
 
-[^note1]: This is my citation at the end of the FIRST paragraph.
-
-Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
-
-[^note2]: This is my citation at the end of the SECOND paragraph.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
+Laguna DeVargas Hall – University of New Mexico
+Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical residence halls at UNM. Having been built during the late 60s, construction for the dorm finished in 1969. It consists of comfortable suite-style living arrangements, offering a mix of single and double rooms with shared bathrooms. Each suite accommodates up to six residents, providing a balance between privacy and community living. 
 
 {% include juxtapose.html
 image1="images/mvh-tv-room.jpg"
@@ -32,11 +27,14 @@ caption="From the TV room to the Chair room (actually, the History Department Co
 %}
 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-
-## Donec odio elit
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
+Key Features:
+Carpeted rooms with large solid wood closets and built-in dresser drawers.
+Student lounges on each floor for socializing and studying.
+Full kitchen and laundry facilities in common areas.
+Co-ed living on an alternating suite basis.
+Recreation area in the basement, open 24/7.
+Double Occupancy: $5,950 per academic year
+Single Occupancy: $8,000 per academic year
 
 {% include scrollybox/bg.html
   height="220"
@@ -49,15 +47,16 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 %}
 
 
-## Cras magna nunc
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
+History & Fun Facts:
+The University of New Mexico was founded in 1889, and its campus has grown significantly over the years.
+LDV Hall is part of UNM’s residence life program, designed to foster academic and social engagement.
+The basement recreation area is open 24/7, making it a great spot for late-night study sessions or social gatherings.
+Community Association meetings are held weekly, allowing residents to voice their opinions and contribute to campus life.
+The hall’s large solid wood closets and built-in dresser drawers are a unique feature that sets it apart from other residence halls.
+Laguna and DeVargas Halls are co-ed, but the suites alternate between male and female residents, creating a balanced and inclusive living environment.
+The full kitchen and laundry facilities in the common areas allow students to cook meals and do laundry conveniently, fostering a sense of independence.
+Mesta Vista Hall was once dorm living for students but turned into professor department offices around the same time as Devargas was being built. Very much has the late 60s aesthetic to it.
 
-{% include aside.html class="left" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
