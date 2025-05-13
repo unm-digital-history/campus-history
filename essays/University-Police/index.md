@@ -42,6 +42,7 @@ When considering the history of a general police force in New Mexico it is not u
 {% include scrollybox/bg.html
   height="300"
   image-url="images/hokona-zuni-basement-unmpd-door.jpg"
+  position = "100vh"
   pre-box-space = "100vh"
   font-size = "150%"
   line-height = "150%"
@@ -56,7 +57,7 @@ This change took place under the eighth president of the University (just after 
 
 I have since discovered that Rodey Hall and Hodgin Hall were both to be demolished. Hodgin Hall was spared and converted to the space for Alumni, Rodey was demolished in 1971 to make way for the loop road around the campus. This was the landmark just north of which the Police were initially slated to be.
 
-Where the Police went following this is a mystery. I have not been able to find a person who knows though they may be out there. There is no document that mentions it directly or indirectly that I can find either. Clearly, the police department did not cease to exist as they were part of the major incident involving UNM vs. BYU just a year before Rodey Hall was demolished. 
+Where the Police department went following this was a mystery until I spoke to a former head of security by the name I have not been able to find a person who knows though they may be out there. There is no document that mentions it directly or indirectly that I can find either. Clearly, the police department did not cease to exist as they were part of the major incident involving UNM vs. BYU just a year before Rodey Hall was demolished. 
 
 The next point that I was able to pick up the thread from is ‘sometime’ in the 80’s when the UNM Police had taken up residence in a place they simply called ‘the white house’.  Sometime prior to the 1980s the Police and Parking were a singular department according to Officer Pete [use current title here] who has been with the department for over 15 years. Exactly when this ended is not clearly known, nor have I had the facility to track it down. [Currently the Mentorship Building?] That building still exists but according to one source who joined the force as a security supervisor in the mid-90’s, she was there when they moved to Hokona Hall, where they currently still reside. [Pictures of Basement door here would be good]. 
 
