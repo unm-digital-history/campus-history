@@ -3,7 +3,7 @@ title: womens-resource-center
 author: Adriana Gutierrez
 layout: unm-base
 date: 2025-13-05
-header-image: images/mvh-construction.jpg
+header-image: images/compelling-image-international-day-elimination-violence-against-women-ai-generated_1027151-263.avif
 header-title: Womens Resource Center
 header-height: 50vh
 background-position: 20px
