@@ -59,7 +59,7 @@ I have since discovered that Rodey Hall and Hodgin Hall were both to be demolish
 
 Where the Police department went following this was a mystery until I spoke to a former head of security by the name of Rosemary. She had worked in the department from 1995-2020. She is directly responsible for a large unprocessed 3rd box of materials not included in the UNMA 171 collection. This box only came to light due to the expertise of the CSRW head of archives Portia Vescio.
 
-{% include figure.html class="img-left" width="48%" caption="An unprocessed mystery box". [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/unprocessed-box-with-binders-rosemary.jpg" %}
+{% include figure.html class="img-left" width="48%" caption= "An unprocessed mystery box". [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/unprocessed-box-with-binders-rosemary.jpg" %}
 
 
 
