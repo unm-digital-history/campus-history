@@ -77,13 +77,14 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
 %}
 One of the first exhibitions that the newly named Maxwell Museum mounted was *Man: The Music-maker*, highlighting world ethnomusicology. Many of the objects on display came from the personal collection of Elizabeth Kidd, a musician, teacher, world traveler, and expert in ancient Greek music. After her passing, over 300 musical instruments from all over the world were donated to the museum by Elizabeth's husband.
 
+
+The exhibition was organized thematically and by region, interweaving foundational information about the mechanics of sound as well as how music is incorporated into culture. First, visitors were introduced to the different types of musical instruments they may encounter throughout the exhibition. Next, were instruments and music of Indigenous North Americans, which were followed by various information on scales and melodies, and then the instruments and music of the African continent. The second half of the exhibition highlighted the social function of music, then instruments and music from Asia. The exhibition concluded with a section on contact phenomena or ''When Musics Meet."
 {% include figure.html
-  class="img-left"
-  width="33%"
+  class="img-center"
+  width="50%"
   caption="An Albuquerque Journal article about the exhibition"
   src="images/abqjournal-music.jpg"
 %}
-The exhibition was organized thematically and by region, interweaving foundational information about the mechanics of sound as well as how music is incorporated into culture. First, visitors were introduced to the different types of musical instruments they may encounter throughout the exhibition. Next, were instruments and music of Indigenous North Americans, which were followed by various information on scales and melodies, and then the instruments and music of the African continent. The second half of the exhibition highlighted the social function of music, then instruments and music from Asia. The exhibition concluded with a section on contact phenomena or ''When Musics Meet."
 
 
 ### YER DIALEGE! Kuna Women's Art, 1978-79
@@ -125,7 +126,7 @@ Maxwell curator Marian Rodee and Pueblo of Zuni Arts and Crafts director James O
 
 *The Fetish Carvers of Zuni* helped to facilitate a strong and ongoing relationship between the Maxwell Museum and fetish artists, and even today, their beautiful art can be purchased in the museum store.
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="33%"
   caption="An early outline of the exhibition."
   src="images/zuni-exhibit.jpg"
