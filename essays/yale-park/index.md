@@ -1,10 +1,10 @@
 ---
-title: mesa-vista-hall
-author: Fred Gibbs
+title: yale-park
+author: Quinn Rogers
 layout: unm-base
-date: 2015-04-14
-header-image: images/mvh-construction.jpg
-header-title: Mesa VISSSTA
+date: 2025-05-13
+header-image: 
+header-title: Yale Park
 header-height: 50vh
 background-position: 20px
 ---
