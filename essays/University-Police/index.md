@@ -84,7 +84,7 @@ In conclusion, and it seems, at long last, there is something unique happening i
 
 {% include jumbotron.html
   height="50"
-  image-url="images/centennial-hotel.jpg"
+  image-url="images/future-unmpd-hq-april-2025.png"
   title="Future HQ of UNMPD"
 %}
 
