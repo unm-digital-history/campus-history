@@ -59,8 +59,8 @@ While it is clear that the bookstore was constructed in an attempt to displace t
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Centennial Hotel"
-  src="images/centennial-hotel.jpg"
+  caption="1970 Anti-War Rally in Yale Park"
+  src="images/ULPhotoImag_3163_medium.jpg"
 %}
 
 ## Save the Trees
