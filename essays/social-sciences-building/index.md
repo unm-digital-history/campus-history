@@ -45,7 +45,7 @@ The School of Social Sciences and the Graduate School of Management at the Unive
   class="img-center"
   width="100%"
   caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."
-  src="images/image3.jpegjpg" %}
+  src="images/image3.jpeg" %}
       
 
 
