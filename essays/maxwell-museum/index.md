@@ -88,7 +88,7 @@ INSERT ANOTHER PHOTO HERE
 {% include figure.html
 class="img-left"
 width="48%"
-caption="The front cover of the invitation to the Yer Dialege exhibition opening."
+caption="Invitation to the Yer Dialege exhibition opening."
 src="images/kuna-invite1.jpg"
 %}
 
@@ -100,15 +100,14 @@ src="images/kuna-invite2.jpg"
 %}
 
 
-<br> Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador spent time as a Peace Corps volunteer in Panama where she worked alongside Kuna craftswomen of the San Blas Islands. This experience provided the foundation for Salvador's further community, anthropological, and curatorial work, culminating in the exhibition *Yer Dialege* and its corresponding publication.
+Before her tenure as the chief curator at the Maxwell Museum, Mari Lyn Salvador spent time as a Peace Corps volunteer in Panama where she worked alongside Kuna craftswomen of the San Blas Islands. This experience provided the foundation for Salvador's further community, anthropological, and curatorial work, culminating in the exhibition *Yer Dialege* and its corresponding publication.
 
 *Yer Dialege* means beautiful in the Kuna language, and refers specifically to "objects of delight, including flowers, jewelry, and the finest elaborate embroidered molas (blouses)."[^note4] The exhibition displayed 125 molas of various colors, styles, and designs, and in doing so, communicated to visitors the importance of the enmeshed interconnectedness between art, aesthetics, and daily life in Kuna society.
 
 [^note4]: "Throwback Thursday. Maxwell Exhibitions: Yer Dialege! Kuna Women's Art," Maxwell Museum of Anthropology, June 10, 2021, https://maxwellmuseum.unm.edu/maxwell-at-home/maxwell-history/throwback-thursday-maxwell-exhibitions-yer-dailege-kuna-women%E2%80%99s-art. 
 
-{% include scrollybox/bg.html height="220" image-url="images/abqjournal-kuna.jpg" pre-box-space = "100vh" font-size = "250%" line-height = "150%" box-content= "Mola-making is an important part of a woman's life, not just a leisure activity. A great deal of time is spent making molas. Women sew while visiting, traveling, listening in village meetings or sitting by themselves. Young girls are encouraged to learn to sew as early as they seem interested, which may be at age 3 or 4.[^note5]
-
-[^note5]: Hugh Gallagher, \"Folk Art Exhibit: Maxwell Displays Kuna Blouses,\" *Albuquerque Journal*, October 26, 1978; Maxwell Museum Institutional Archives, Exhibit Boxes, Kuna Women's Art, 1978-79, University of New Mexico, Albuquerque, New Mexico." %}
+{% include scrollybox/bg.html height="220" image-url="images/abqjournal-kuna.jpg" pre-box-space = "100vh" font-size = "250%" line-height = "150%" box-content= "Mola-making is an important part of a woman's life, not just a leisure activity. A great deal of time is spent making molas. Women sew while visiting, traveling, listening in village meetings or sitting by themselves. Young girls are encouraged to learn to sew as early as they seem interested, which may be at age 3 or 4."
+%}
 
 ### The Fetish Carvers of Zuni, 1991
 
