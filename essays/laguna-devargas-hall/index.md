@@ -3,7 +3,7 @@ title: LaGuna-DeVargas-Hall
 author: Brandon Rodriguez
 layout: unm-base
 date: 2015-04-14
-header-image: images/mvh-construction.jpg
+header-image: images/LagunaDeVargas.jpg
 header-title: DeVargas Hall
 header-height: 50vh
 background-position: 20px
