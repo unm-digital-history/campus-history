@@ -60,7 +60,7 @@ While it is clear that the bookstore was constructed in an attempt to displace t
   class="img-right"
   width="33%"
   caption="1970 Anti-War Rally in Yale Park"
-  src="images/ULPhotoImag_3163_medium.jpg"
+  src="yale park rally.jpg"
 %}
 
 ## Save the Trees
