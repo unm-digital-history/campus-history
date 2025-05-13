@@ -50,7 +50,7 @@ Before the plan to build the new bookstore on Yale Park was finalized, there is 
        One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
 %}
 
-## Bad for Buisness
+## Stop the Bookstore
 The construction of the bookstore was heavily contested by two primary organizations, the Albuquerque Booksellers Coalition (ABC) and the Campus Community Coalition (CCC). Beyond being concerned with the loss of Yale Park’s open space, the organizations were concerned with both the lack of transparency and democracy in terms of the Regents decision to build the bookstore as well as with the impact the bookstore would have on Albuquerque’s independent bookstores. They were concerned about state-subsidized competition and the fact that the bookstore’s supply would consist of only a third of textbooks, the rest devoted to non textbook titles and merchandise. There was also concern that the bookstore would aggravate the parking situation along Central, spaces that were typically used by patrons of local businesses, because the state bookstore would be exempt from local ordinances. Students were also concerned that rising textbook prices and other hidden tuition costs would be implemented to finance the close to 5 million dollar project. 
 
 ## Protests
