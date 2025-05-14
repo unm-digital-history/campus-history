@@ -138,7 +138,7 @@ The Maxwell Museum has offered New Mexicans the space, expertise, and community 
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="An early outline of the exhibition."
+  caption="The Maxwell's 2022-2023 Annual Report."
   src="images/maxwell-becomingus.jpg"
 %}
 The museum's age is starting to show in some cases, however, but a fresh look is on the horizon. The thirty five year old *Ancestors*, will be completely overhauled in the next several years to reflect new research, curatorial practices, and exhibition design techniques. In the meantime, the Maxwell's doors are still open, and still willing to transport you to across the state, across the country, or across the globe, right here on campus. 
@@ -151,10 +151,16 @@ A quick chat with Max will tell you that she's excited for new opportunites and 
 
 ## Bibliography
 
-- "People of the Southwest," Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/exhibits/permanent/people-southwest.
+- "2022-23 Annual Report," Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/news-events/newsletters-and-reports.
 
 - "Ancestors," Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/exhibits/permanent/ancestors.
+
+- "Anthropology - exterior - Maxwell Museum entrance," New Mexico Digital Collections, ZIM CSWR UNM Archives UNMA 028 Box 1, https://nmdc.unm.edu/digital/collection/ULPhotoImag/id/2823/rec/7. 
+
+- "People of the Southwest," Maxwell Museum of Anthropology, https://maxwellmuseum.unm.edu/exhibits/permanent/people-southwest.
 
 - Maxwell Museum Institutional Archives, Exhibit Boxes, Man: The Music-maker - Coorespondence, 1972-1973, University of New Mexico, Albuquerque, New Mexico.
 
 - Maxwell Museum Institutional Archives, Exhibit Boxes, Kuna Women's Art, University of New Mexico, Albuquerque, New Mexico.
+
+- Maxwell Museum Institutional Archives, Exhibit Boxes, Zuni Fetish Carvers Exhibit at Maxwell, 1990, University of New Mexico, Albuquerque, New Mexico.
