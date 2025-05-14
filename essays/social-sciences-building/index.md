@@ -49,8 +49,7 @@ The School of Social Sciences and the Graduate School of Management at the Unive
 
 
 ## Construction Cost
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
-
+The total construction cost for the combined project—including the School of Social Sciences, the Graduate School of Management, the Anderson School of Management, and Economics facilities—ultimately reached $6,619,000, with an additional $310,851 added later through change orders. This brought the total project cost to $6,929,851. The costs included $3.2 million for the Graduate School of Management, $2.8 million for the School of Social Sciences, $400,000 for renovations to the Anderson School of Management, and $500,000 for the Economics facility. The increase from the original estimate reflected the project's growing complexity and changing academic requirements.
 {% include aside.html class="left" text="
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
 
