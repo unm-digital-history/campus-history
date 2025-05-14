@@ -39,7 +39,8 @@ In the intervening years, the Maxwell Museum has remained dedicated to the great
 
 ## Exhibitions Through the Years
 
-The Maxwell Museum has curated and hosted well over 150 exhibitions since the 1970s. The two current permanent exhibitions, *Peoples of the Southwest* and *Ancestors* have been on view in various capacities since 1990. In recent years, both exhibitions have undergone updating to remain current on research trends, but more importantly, to ensure the cultural sensitivity of descendent indigenous communities. 
+The Maxwell Museum has curated and hosted well over 150 exhibitions since the 1970s. The two current permanent exhibitions, *Peoples of the Southwest* and *Ancestors* (the only permanent exhibition on human evolution in the country), have been on view in various capacities since 1990. In recent years, *Peoples of the Southwest* has undergone significant updating to remain current on research trends, but more importantly, to ensure the proper respect and cultural sensitivity is shown to 
+descendent communities of who's culture, lifeways, and objects the museum exhibits. 
 
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
@@ -68,7 +69,12 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
 {% include scrollybox/bg-multi-long-close.html %}
 
 ### Man: The Music-maker, 1973
-
+{% include figure.html
+  class="img-left"
+  width="50%"
+  caption="An Albuquerque Journal article about the exhibition"
+  src="images/abqjournal-music.jpg"
+%}
 {% include figure.html
   class="img-right"
   width="33%"
@@ -78,12 +84,6 @@ The Maxwell Museum has curated and hosted well over 150 exhibitions since the 19
 
 One of the first exhibitions that the newly named Maxwell Museum mounted was *Man: The Music-maker*, highlighting world ethnomusicology. Many of the objects on display came from the personal collection of Elizabeth Kidd, a musician, teacher, world traveler, and expert in ancient Greek music. After her passing, over 300 musical instruments from all over the world were donated to the museum by Elizabeth's husband.
 
-{% include figure.html
-  class="img-left"
-  width="50%"
-  caption="An Albuquerque Journal article about the exhibition"
-  src="images/abqjournal-music.jpg"
-%}
 The exhibition was organized thematically and by region, interweaving foundational information about the mechanics of sound as well as how music is incorporated into culture. First, visitors were introduced to the different types of musical instruments they may encounter throughout the exhibition. Next, were instruments and music of Indigenous North Americans, which were followed by various information on scales and melodies, and then the instruments and music of the African continent. The second half of the exhibition highlighted the social function of music, then instruments and music from Asia. The exhibition concluded with a section on contact phenomena or "When Musics Meet."
 
 
@@ -133,6 +133,10 @@ Maxwell curator Marian Rodee and Pueblo of Zuni Arts and Crafts director James O
   src="images/zuni-exhibit.jpg"
 %}
  
+## The Future of the Museum
+The Maxwell Museum has offered New Mexicans the space, expertise, and community to explore the world from their doorstep, enriching guests in cultures and experiences they might not have the opportunity to encounter otherwise. The three exhibitions described above offer only the briefest glimpse into what the Maxwell has been able to acomplish over its impressive tenure as Albuquerque's first public museum. 
+
+The museum's age is starting to show in some cases, however, but a fresh look is on the horizon. The thirty five year old *Ancestors*, will be completely overhauled in the next several years to reflect new research, curatorial practices, and exhibition design techniques. In the meantime, the Maxwell's doors are still open, and still willing to transport you to across the state, across the country, or across the globe, right here on campus. 
 
 ## In Her Own Words
 A quick chat with Max will tell you that she's excited for new opportunites and new friends!
