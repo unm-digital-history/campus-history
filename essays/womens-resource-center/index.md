@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh v
   class="img-right"
   width="66%"
   caption="Women at UNM 1972-73"
-  src="images/centennial-hotel.jpg"
+  src="images/KIC Document 0001.jpg"
 %}
 
 
