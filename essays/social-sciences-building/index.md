@@ -34,7 +34,6 @@ caption="From the TV room to the Chair room (actually, the History Department Co
 %}
 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 
 ## Construction
@@ -101,8 +100,12 @@ images = images
 
 3D Model
 <div class="sketchfab-embed-wrapper"> <iframe title="Githhub" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/a627cdd564944b49898a1dc32a2fac6a/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/githhub-a627cdd564944b49898a1dc32a2fac6a?utm_medium=embed&utm_campaign=share-popup&utm_content=a627cdd564944b49898a1dc32a2fac6a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Githhub </a> by <a href="https://sketchfab.com/Omidshenwari?utm_medium=embed&utm_campaign=share-popup&utm_content=a627cdd564944b49898a1dc32a2fac6a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Omidshenwari </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a627cdd564944b49898a1dc32a2fac6a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
-
-## Bibliography
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."
+  src="images/image2.jpeg
+  ## Bibliography
 
 - Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
 
