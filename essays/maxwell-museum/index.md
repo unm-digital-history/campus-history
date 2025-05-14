@@ -137,6 +137,12 @@ Maxwell curator Marian Rodee and Pueblo of Zuni Arts and Crafts director James O
 The Maxwell Museum has offered New Mexicans the space, expertise, and community to explore the world from their doorstep, enriching guests in cultures and experiences they might not have the opportunity to encounter otherwise. The three exhibitions described above offer only the briefest glimpse into what the Maxwell has been able to acomplish over its impressive tenure as Albuquerque's first public museum. 
 
 The museum's age is starting to show in some cases, however, but a fresh look is on the horizon. The thirty five year old *Ancestors*, will be completely overhauled in the next several years to reflect new research, curatorial practices, and exhibition design techniques. In the meantime, the Maxwell's doors are still open, and still willing to transport you to across the state, across the country, or across the globe, right here on campus. 
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="An early outline of the exhibition."
+  src="images/maxwell-becomingus.jpg"
+%}
 
 ## In Her Own Words
 A quick chat with Max will tell you that she's excited for new opportunites and new friends!
