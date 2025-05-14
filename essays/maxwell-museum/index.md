@@ -39,7 +39,7 @@ In the intervening years, the Maxwell Museum has remained dedicated to the great
 
 ## Exhibitions Through the Years
 
-The Maxwell Museum has curated and hosted well over 150 exhibitions since the 1970s. The two current permanent exhibitions, *Peoples of the Southwest* and *Ancestors* (the only permanent exhibition on human evolution in the country), have been on view in various capacities since 1990. In recent years, *Peoples of the Southwest* has undergone significant updating to remain current on research trends, but more importantly, to ensure the proper respect and cultural sensitivity is shown to 
+The Maxwell Museum has curated and hosted well over 150 exhibitions since the 1970s. The two current permanent exhibitions, *Peoples of the Southwest* and *Ancestors* (the only permanent exhibition on human evolution in the state), have been on view in various capacities since 1990. In recent years, *Peoples of the Southwest* has undergone significant updating to remain current on research trends, but more importantly, to ensure the proper respect and cultural sensitivity is shown to 
 descendent communities of who's culture, lifeways, and objects the museum exhibits. 
 
 {% include scrollybox/bg-multi-long.html
