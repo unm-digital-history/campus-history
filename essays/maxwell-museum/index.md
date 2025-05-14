@@ -19,7 +19,7 @@ Tucked away on the far western edge of campus, The Maxwell Museum of Anthropolog
 {% include juxtapose.html
 image1="images/1970s-maxwell.jpg"
 image2="images/2025-front.jpg"
-caption="Front entrance of the Maxwell Museum in the early 1970s, and in 2025."
+caption="Front entrance of the Maxwell Museum in the early 1970s, and in 2025. [Source](https://nmdc.unm.edu/digital/collection/ULPhotoImag/id/2823/rec/7)"
 %}
 
 ## Albuquerque's First Public Museum
@@ -138,7 +138,7 @@ The Maxwell Museum has offered New Mexicans the space, expertise, and community 
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="The Maxwell's 2022-2023 Annual Report."
+  caption="The Maxwell's 2022-2023 Annual Report.[Source](https://maxwellmuseum.unm.edu/news-events/newsletters-and-reports.)"
   src="images/maxwell-becomingus.jpg"
 %}
 The museum's age is starting to show in some cases, however, but a fresh look is on the horizon. The thirty five year old *Ancestors*, will be completely overhauled in the next several years to reflect new research, curatorial practices, and exhibition design techniques. In the meantime, the Maxwell's doors are still open, and still willing to transport you to across the state, across the country, or across the globe, right here on campus. 
