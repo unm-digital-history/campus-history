@@ -11,14 +11,16 @@ background-position: 20px
 ## Womens Resource Center
 {% include figure.html class="img-center" width="100%" caption="Womens resource center at UNM has evolved meraculously over the past 50 years into a home and inclusive space for many students and survivors. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/20ff9c2b-21a2-4261-9e3c-6e376e0be665.sized-1000x1000.jpeg" %}
 ## The Climb for Women at UNM
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
+For centuries, women were told to be silent, that their words meant nothing and an education for a woman was out of the ordinary. Today womens voices, create movements, win elections and rewrite laws. It was not long ago when women fought for a place in the classroom. Women at UNM made up less than 50% of total students in the 1970's. At the time there were no women vice presidents, only one woman dean and no women deans in academics. The climb for women at UNM has been a fight, that they continue to lead today. [^note1]
+
+Throughout the 1970's and so forth, women at UNM focused on maintaining a voice that would be heard throughout the entire campus. In the beginning, women at UNM developed a series of courses that would gain the name, Women's Studies. With the approval of the University President, in the summer of 1974 Women's Studies officialy offered their first course. At the time, Women's Studies was only meant to serve and educate women, this meant that all courses offered would only be facilitated by Women for Women. Sounds pretty straightforward right? However, you would be suprised to know that these few courses did not focus on the issues at hand, providing a space for women to gain presence at the University was goal number one. The courses offered for women did not initially begin with feminism or activism. These courses only provided guidence for women within their personal lives, later we will see how these women used the leverage of that presense to empower the voices of all women to come. Courses focused on topics like women's marital status, navigating life post-divorce, single-women, widowed-women, and the return to campus after having a child. While surely these courses were fit for the 1970's, as women began to expand their presence within the institution, the focus of these courses would shift and women will later become more than a wife and more than a mother.  
 {% include figure.html
   class="img-right"
   width="66%"
   caption="Women at UNM 1972-73"
   src="images/KIC Document 0001.jpg"
 %}
-
+The figure to the right highlights the great discrimination women faced at UNM, from maids to the president, it is apparently clear that women stood no chance, against men. Less than 60 years ago 
 
 [^note1]: This is my citation at the end of the FIRST paragraph.
 
