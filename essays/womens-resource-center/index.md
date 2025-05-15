@@ -56,7 +56,7 @@ At the time the center was made up of a committee, and this committee was made u
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
-  image-url="images/mvh-floorplan.jpg"
+  image-url="images/KIC Document 0001 (1).jpg"
   pre-box-space="0"
   font-size = "150%"
   line-height = "100%"
