@@ -97,21 +97,18 @@ I was struck by the discovery of a master student’s thesis conceived before th
 {% include figure.html
   class="img-right"
   width="100%"
-  caption=""
+  caption="'Saturday Night in Yale Park' Scott Alan Kuykendall"
   src="images/saturday-night.jpg"
 %}
 
-
-{% assign images = 
-images/scott-boogie-woogie.jpg,
-images/yale-park-pirates.jpg,
-images/saturday-night.jpg,
-images/yale-park-views.jpg" | split: ','
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption=""
+  src="images/yale-views.jpg"
 %}
 
-{% include carousel.html
-images = images 
-%}
+
 
 
 ## Bibliography
