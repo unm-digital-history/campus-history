@@ -54,6 +54,13 @@ Yale Park was once home to Siberian Elms, often mistakenly called Chinese Elms. 
   src="images/ecology.jpg"
 %}
 
+{% include figure.html
+  class="img-right"
+  width="100%"
+  caption="The Emergency Response Network's Watch Schedule"
+  src="watch-schedule.jpg"
+%}
+
 ## Public Art
 Yale Park is home to two current sculptures, Michael Naranjo’s “Spirit mother” and Bob Hazadous’ “Cultural Crossroads of the Americas”, both installed in 1996 and both created by native artists. “Cultural Crossroads of the Americas” like Yale Park itself, has suffered from alterations. The billboard-like sculpture which pictures the migration of pre-columbian figures toward cutouts of New Mexican iconography was topped with barbed wire. The barbed wire was removed 4 years after the sculpture’s installation. According to the director of UNM’s Fine Arts Museum at the time, the barbed wire was removed because Haozous’ final model, the one approved by the Museum, did not include it, apparently jeopardizing the integrity of the competition that Haozous’ sculpture was the winner of. The barbed wire was meant to symbolize various historical uses including the U.S. Mexico border and the 28 year incarceration of the Chirachua apaches. 
 
@@ -86,6 +93,14 @@ Yale Park is home to two current sculptures, Michael Naranjo’s “Spirit mothe
 
 ## "A Yale Park Experience"
 I was struck by the discovery of a master student’s thesis conceived before the bookstore was, titled “A Yale Park Experience”. The thesis belongs to Scott Alan Kuykendall whose artwork covers the exterior walls of Frontier and both the interior and exterior ones of Saggio’s, both beloved restaurants mere feet away from Yale Park. The owner of Frontier, Larry Rainosek is ironically quoted as supporting the bookstore on Yale Park claiming “Yale Park hasn’t been effectively used in the 22 years he’s been in business”. Kuykendall described Yale Park as a “sanctuary”. Yale Park has always served as an intermediary, a “neutral zone”, between central, itself an extension to the city and broader community of Albuquerque, and the University’s campus. Kuykendall describes the titular experience of Yale Park as “the feeling I had one foot in the university and the other in the streets”. He captures the Park and the view from it in a series of collages, the medium in itself a reflection of the mixed identity of the Park, as community and student park, as protest site, as site for relaxation and celebration, as respite for the unhoused. His work is beautiful and vibrant, reflecting a spirit of the Park that can hopefully persist if not in its contemporary form, than in the recapturing of its legacy. 
+
+{% include figure.html
+  class="img-right"
+  width="100%"
+  caption=""
+  src="images/scott-boogie-woogie.jpg"
+%}
+
 
 {% assign images = 
 images/scott-boogie-woogie.jpg,
