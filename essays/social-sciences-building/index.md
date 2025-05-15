@@ -57,21 +57,9 @@ The total construction cost for the combined project—including the School of S
 
 
 
-### IMAGE SWITCH HERE 
-
-{% include scrollybox/bg-switch.html
-  image-url="images/mvh-tv-room.jpg"
-  switch-id="switch1"
-  bg-id="bg1"
-%}
 
 
-### Duis vehicula erat et diam
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
 
-
-#### Almost done
-This is the end of the story, and you should see the text box scroll out of view followed by the background image.
 
 
 {% include scrollybox/bg-multi-long-close.html %}
