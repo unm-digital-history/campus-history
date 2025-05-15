@@ -38,14 +38,14 @@ The construction of the bookstore was heavily contested by two primary organizat
   class="img-center"
   width="100%"
   caption=""
-  src="images/regents.jpg"
+  src="images/regents.png"
 %}
 
 {% include figure.html
   class="img-center"
   width="100%"
   caption=""
-  src="images/rising-textbook-prices.jpg"
+  src="images/rising-textbook.png"
 %}
 
 
@@ -57,7 +57,7 @@ While it is clear that the bookstore was constructed in an attempt to displace t
 class="img-left"
 width="48%"
 caption="1970 Anti-War Rally in Yale Park."
-src="images/yale-park-rally.jpg"
+src="images/yale-rally.png"
 %}
 {% include figure.html
 class="img-left"
