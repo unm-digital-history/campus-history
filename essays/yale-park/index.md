@@ -35,7 +35,7 @@ Yale Park was once home to Siberian Elms, often mistakenly called Chinese Elms. 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption=""
+  caption="Linda Jackson protests against the destruction of Yale Park"
   src="images/goodbye-to-yale-park.jpg"
 %}
 
@@ -53,7 +53,7 @@ Yale Park is home to two current sculptures, Michael Naranjo’s “Spirit mothe
   class="img-right"
   width="100%"
   caption="'Cultural Crossroads of the Americas' after the barbed wire was removed in 2000"
-  src="images/cultural-crossroads-no.jpg"
+  src="images/cultural-crossroads-no-wire.jpg"
 %}
 
 ### Spirit Mother
