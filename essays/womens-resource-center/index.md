@@ -61,7 +61,7 @@ caption="These sliders are way more effective the more closely you line up the b
 {% 
 assign images = 
 "images/IMG_0183.jpg,
-images/mvh-room-cost.jpg,
+images/IMG_9590.jpg,
 images/mvh-tv-room.jpg" | split: ','
 %}
 
