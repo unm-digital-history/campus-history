@@ -22,7 +22,7 @@ The construction of the bookstore was heavily contested by two primary organizat
 {% include figure.html
   class="img-center"
   width="100%"
-  caption=""
+  caption="A Campus Community Coalition Flyer"
   src="images/anti-bookstore.jpeg"
 %}
 
@@ -37,10 +37,10 @@ caption="1970 Anti-War Rally in Yale Park."
 src="images/yale-park-rally.jpg"
 %}
 {% include figure.html
-class="img-right"
+class="img-left"
 width="48%"
 caption=""
-src="images/rally-2.jpg"
+src="images/rally-2.png"
 %}
 
 
@@ -63,8 +63,15 @@ Yale Park was once home to Siberian Elms, often mistakenly called Chinese Elms. 
   class="img-right"
   width="100%"
   caption="The Emergency Response Network's Watch Schedule"
-  src="watch-schedule.jpg"
+  src="images/watch-schedule.jpg"
 %}
+{% include figure.html
+  class="img-right"
+  width="100%"
+  caption=""
+  src="images/spring-equinox.jpg"
+%}
+
 
 ## Public Art
 Yale Park is home to two current sculptures, Michael Naranjo’s “Spirit mother” and Bob Hazadous’ “Cultural Crossroads of the Americas”, both installed in 1996 and both created by native artists. “Cultural Crossroads of the Americas” like Yale Park itself, has suffered from alterations. The billboard-like sculpture which pictures the migration of pre-columbian figures toward cutouts of New Mexican iconography was topped with barbed wire. The barbed wire was removed 4 years after the sculpture’s installation. According to the director of UNM’s Fine Arts Museum at the time, the barbed wire was removed because Haozous’ final model, the one approved by the Museum, did not include it, apparently jeopardizing the integrity of the competition that Haozous’ sculpture was the winner of. The barbed wire was meant to symbolize various historical uses including the U.S. Mexico border and the 28 year incarceration of the Chirachua apaches. 
@@ -110,7 +117,7 @@ I was struck by the discovery of a master student’s thesis conceived before th
   class="img-center"
   width="100%"
   caption=""
-  src="images/frontier-boycott.jpg"
+  src="images/frontier-boycott.png"
 %}
 
 
