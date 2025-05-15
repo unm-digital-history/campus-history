@@ -51,8 +51,8 @@ In the 1970's the Womens Resource Center was developed to act a center for women
 
 
 {% include juxtapose.html
-image1="images/.jpg"
-image2="images/kimo-1938.jpg"
+image1="images/IMG_0187.jpeg"
+image2="images/IMG_0185.jpeg"
 caption="These sliders are way more effective the more closely you line up the before and after images."
 %}
 
