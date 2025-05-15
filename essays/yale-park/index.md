@@ -62,7 +62,7 @@ I was struck by the discovery of a master student’s thesis conceived before th
 {% assign images = 
 images/scott-boogie-woogie.jpg,
 images/yale-park-pirates.jpg,
-images/saturday-night,jpg,
+images/saturday-night.jpg,
 images/yale-park-views.jpg" | split: ','
 %}
 
