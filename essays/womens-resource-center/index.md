@@ -45,8 +45,7 @@ When developing and composing the focus all things related to women at UNM, it h
 ## Womens Resource Center
 Finally, introducing the Womens Resource Center. There is very little information to be found on the basis of the development of the Womens Resource Center today. However, the purpose you are reading this, is to discover what has been found. In the 1970's while Women Studies, gained their recognition and deveolpment at the university, behind the scenes students, falculty, and staff worked tirelessly to further enhance adovocacy and support for women and students, not only at UNM, but also within the community, creating a center where students of all genders and identity can confide in. 
 
-{% include aside.html class="left" text="
-=The Womens Resource Center serves as a place of adovocacy and support. Through feminist empowerment, their goal is to equity across all students regardless of race, gener, identity, sexual orientation or class. They offer educational, social and community services and programs to encourage and support students through their academic journey at UNM" %}
+{% include aside.html class="left" text="Through feminist empowerment, the goal is to develop equity across all students regardless of race, gener, identity, sexual orientation or class." %}
 
 In the 1970's the Womens Resource Center was developed to act a center for women that could provide resources in regards to sexual assualt, rape, abortions, domestic violence, etc. Essentially upon its early developments, the center was a safe haven. In the spring of 1972, a proposal was submitted for the Womens Center and their direct relationship to Women Studies. This proposal included goals, purposes and overall objectives for the center. 
 
