@@ -43,19 +43,19 @@ When developing and composing the focus all things related to women at UNM, it h
 
 
 ## Womens Resource Center
-Finally, introducing the Womens Resource Center. There is very little information to be found on the basis of the development of the Womens Resource Center today. However, the purpose you are reading this, is to discover what has been found. In the 1970's while Women Studies, gained their recognition and deveolpment at the university, behind the scenes students, falculty, and staff worked tirelessly to further enhance adovocacy and support for women and students, not only at UNM, but also within the community, creating a center where students of all genders and identity can confide in. 
+Finally, introducing the Womens Resource Center, officially developed in the year 1972. There is very little information to be found on the basis of the development of the Womens Resource Center today. However, the purpose you are reading this, is to discover what has been found. In the 1970's while Women Studies, gained their recognition and deveolpment at the university, behind the scenes students, falculty, and staff worked tirelessly to further enhance adovocacy and support for women and students, not only at UNM, but also within the community, creating a center where students of all genders and identity can confide in. 
 
 {% include aside.html class="left" text="Through feminist empowerment, the goal is to develop equity across all students regardless of race, gener, identity, sexual orientation or class." %}
 
 In the 1970's the Womens Resource Center was developed to act a center for women that could provide resources in regards to sexual assualt, rape, abortions, domestic violence, etc. Essentially upon its early developments, the center was a safe haven. In the spring of 1972, a proposal was submitted for the Womens Center and their direct relationship to Women Studies. This proposal included goals, purposes and overall objectives for the center. 
 
-At the time the center was made up of a committee, and this committee was made up of staff and students who had the same goal and objective. This committee faced challenges, as they ulimitely had to convice UNM student affairs and other that all the issues they would be solving, were issues to be solved.
+Note that in 1972, the WRC was known as the W.C.C (Women's Coordinating Center.)
 
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
-  image-url="images/KIC Document 0001 (1).jpg"
+  image-url="images/IMG_0187.jpeg"
   pre-box-space="0"
   font-size = "150%"
   line-height = "100%"
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### IMAGE SWITCH HERE 
 
 {% include scrollybox/bg-switch.html
-  image-url="images/mvh-tv-room.jpg"
+  image-url="images/IMG_0185.jpeg"
   switch-id="switch1"
   bg-id="bg1"
 %}
