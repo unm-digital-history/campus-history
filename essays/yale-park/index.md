@@ -28,9 +28,8 @@ width="48%"
 caption="1970 Anti-War Rally in Yale Park."
 src="images/yale-park-rally.jpg"
 %}
-
 {% include figure.html
-class="img-left"
+class="img-right"
 width="48%"
 caption=""
 src="images/rally-2.jpg"
@@ -46,14 +45,12 @@ Yale Park was once home to Siberian Elms, often mistakenly called Chinese Elms. 
   caption="Linda Jackson protests against the destruction of Yale Park"
   src="images/goodbye-to-yale-park.jpg"
 %}
-
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="100%"
   caption=""
   src="images/ecology.jpg"
 %}
-
 {% include figure.html
   class="img-right"
   width="100%"
