@@ -12,12 +12,16 @@ background-position: 20px
 {% include figure.html class="img-center" width="100%" caption="Womens resource center at UNM has evolved meraculously over the past 50 years into a home and inclusive space for many students and survivors. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/wrc-building.jpeg" %}
 ## The Climb for Women at UNM
 For centuries, women were told to be silent, that their words meant nothing and an education for a woman was out of the ordinary. Today womens voices, create movements, win elections and rewrite laws. It was not long ago when women fought for a place in the classroom. Women at UNM made up less than 50% of total students in the 1970's. The climb for women at UNM has been a fight for equal opportunity, that continues to shape the institution that stands before us today. 
+
+
 {% include figure.html
   class="img-right"
   width="66%"
   caption="Women at UNM 1972-73"
   src="images/KIC Document 0001.jpg"
 %}
+
+
 For women, the start of revolutionary change began in the early 1970's, where women at UNM focused on gaining and maintaining a voice that would be heard throughout the entire campus. In the 70's, women at UNM began developing a series of courses that would be known as, Women's Studies. With the approval of the University President, in the summer of 1974 Women's Studies officialy offered their first course. At the time, these courses were only meant to serve and educate women, this meant that all courses offered would be facilitated strictly by women for women. Sounds pretty straightforward right? However, you would be suprised to know that these few courses did not initially focus on women's rights and there was no framework surrounding the discrimmination women face. The goal was to simply get women into the classroom. The courses they provided focused on guiding women in their personal lives and included topics like, women's marital status, navigating life post-divorce, single-women, widowed-women, and the return to campus after having a child. While surely these topics were fit for the 1970's, this was only the beginning of the radical change that was to come. 
 
 The figure to the right highlights the great discrimination women faced at UNM, from maids to the presidents. These women at UNM were clearly the underdog, and although faced with many challenges they persevered and rose above all odds.
