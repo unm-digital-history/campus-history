@@ -49,11 +49,12 @@ The total construction cost for the combined project—including the School of S
 
 
 
-
-
-
-
-
+{% include figure.html
+class="img-left"
+width="50%"
+caption=""
+src="Social Sciences Building.kml"
+%}
 
 
 
