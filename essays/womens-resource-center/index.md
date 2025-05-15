@@ -55,10 +55,28 @@ image1="images/IMG_0187.jpeg"
 image2="images/IMG_0185.jpg"
 caption="From proposals to simpe diagrams to history made."
 %}
-
+## Programs in 1970's
+Women in Education
+Women in Athletics
+Womens Week
+Discussion Groups; divorced women, women returning, seperated or widowed
+Public Lectures
+Film Workshops
+Careers for Women
+## Programs Today
+Include but are not limited to:
+Activism
+Feminism
+Financial Literacy
+On-Campus Safety
+Student Parent Initiative
+Gender and Sexuality
+Sexual Violence
+Women's Health
+Women in STEM
 
 ## WRC Today
-While there is no photos to be found of the W.C.C in 1972, today the Womens Resource Center plays a huge role in shaping students lives today. From vibrant colors to a welcoming atmosphere, many students call this place a home away from home.
+While there is no photos to be found of the W.C.C in 1972, today the Womens Resource Center plays a huge role in shaping students lives. From vibrant colors to a welcoming atmosphere, many students call this place a home away from home.
 {% 
 assign images = 
 "images/IMG_0183.jpg,
@@ -90,23 +108,9 @@ captions = captions
 
 
 
-## Praesent libero mi
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
 
 
 
-## Curabitur sapien risus
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
-
-
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
 
 
 ## Bibliography
