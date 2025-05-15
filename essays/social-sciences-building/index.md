@@ -27,9 +27,6 @@ Throughout the years, the Social Sciences Building has witnessed countless acade
 
 
 
-{% include juxtapose.html
-image1="images/mvh-tv-room.jpg"
-image2="images/mvh-hist-common-room.jpg"
 
 
 
@@ -41,7 +38,7 @@ The School of Social Sciences and the Graduate School of Management at the Unive
 {% include figure.html
   class="img-center"
   width="100%"
-  caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."
+  caption=""
   src="images/image3.jpeg"
   %}
       
@@ -52,7 +49,7 @@ The total construction cost for the combined project—including the School of S
 
 
 
-<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
+
 
 
 
