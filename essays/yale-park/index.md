@@ -98,7 +98,7 @@ I was struck by the discovery of a master student’s thesis conceived before th
   class="img-right"
   width="100%"
   caption=""
-  src="images/scott-boogie-woogie.jpg"
+  src="images/saturday-night.jpg"
 %}
 
 
