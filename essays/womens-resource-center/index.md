@@ -52,12 +52,13 @@ In the 1970's the Womens Resource Center was developed to act a center for women
 
 {% include juxtapose.html
 image1="images/IMG_0187.jpeg"
-image2="images/IMG_0185.jpeg"
-caption="These sliders are way more effective the more closely you line up the before and after images."
+image2="images/IMG_0185.jpg"
+caption="From proposals to simpe diagrams to history made."
 %}
 
 
 ## WRC Today
+While there is no photos to be found of the W.C.C in 1972, today the Womens Resource Center plays a huge role in shaping students lives today. From vibrant colors to a welcoming atmosphere, many students call this place a home away from home.
 {% 
 assign images = 
 "images/IMG_0183.jpg,
@@ -86,24 +87,13 @@ headers = headers
 captions = captions 
 %}
 
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
+
 
 
 ## Praesent libero mi
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
 
 Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
-
-
-{% assign images = 
-"images/mvh-menu.jpg,
-images/mvh-history-stays.jpg,
-images/mvh-room-cost.jpg" | split: ','
-%}
-
-{% include carousel.html
-images = images 
-%}
 
 
 
