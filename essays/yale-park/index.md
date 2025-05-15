@@ -23,11 +23,19 @@ The construction of the bookstore was heavily contested by two primary organizat
 While it is clear that the bookstore was constructed in an attempt to displace the unhoused, it is also quite possible that the bookstore solved another “problem” that had long plagued Yale Park, that is protests. Yale park has long been a favorable spot on campus for student protests, its proximity to central strategic in terms of mobilizing and involving both the university and the broader community. Yale park was heavily associated with protests in favor of the anti-war movement of the 1970s. There are oral accounts of the park being a site where student organized vigils and memorials were held after John Lennon’s murder in 1980. 
 
 {% include figure.html
-  class="img-right"
-  width="33%"
-  caption="1970 Anti-War Rally in Yale Park"
-  src="images/yale-park-rally.jpg"
+class="img-left"
+width="48%"
+caption="1970 Anti-War Rally in Yale Park."
+src="yale-park-rally.jpg"
 %}
+
+{% include figure.html
+class="img-left"
+width="48%"
+caption=""
+src="rally-2.jpg"
+%}
+
 
 ## Save the Trees
 Yale Park was once home to Siberian Elms, often mistakenly called Chinese Elms. Their familiar brownish-yellow, papery seed pods clog the campus every spring. The presence of these trees has been controversial since their arrival in New Mexico in the 19th century. They are a non-native species and are fast-growing. At the same time, they provide much needed shade, serve as windbreaks and thrive despite little water and urban pollution. Students, faculty, and community members were concerned about the felling of these trees to make way for the bookstore. Several student and neighborhood organizations filed a petition against the Regents of Unm for a restraining order to prohibit the cutting down of the trees in Yale Park in August of 1994. The petitioner's claim was that if the trees were permitted to be cut down, their position to save the park would be severely undermined. The petition was denied by State District Judge Baca. The CCC had also previously organized an Emergency Response Network to protect Yale Park’s trees. After the petition was denied, two protestors, Linda Jackson, a neighbor and longtime activist, and Joe Yarkin, a member of the UNM Green Party, chained themselves to trees, the former to a juniper and the later to an elm. Their efforts were eventually thwarted and the pair was removed by police.
