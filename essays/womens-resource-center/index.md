@@ -56,24 +56,24 @@ image2="images/IMG_0185.jpg"
 caption="From proposals to simpe diagrams to history made."
 %}
 ## Programs in 1970's
-Women in Education
-Women in Athletics
-Womens Week
-Discussion Groups; divorced women, women returning, seperated or widowed
-Public Lectures
-Film Workshops
-Careers for Women
+- Women in Education
+- Women in Athletics
+- Womens Week
+- Discussion Groups; divorced women, women returning, seperated or widowed
+- Public Lectures
+- Film Workshops
+- Careers for Women
 ## Programs Today
 Include but are not limited to:
-Activism
-Feminism
-Financial Literacy
-On-Campus Safety
-Student Parent Initiative
-Gender and Sexuality
-Sexual Violence
-Women's Health
-Women in STEM
+- Activism
+- Feminism
+- Financial Literacy
+- On-Campus Safety
+- Student Parent Initiative
+- Gender and Sexuality
+- Sexual Violence
+- Women's Health
+- Women in STEM
 
 ## WRC Today
 While there is no photos to be found of the W.C.C in 1972, today the Womens Resource Center plays a huge role in shaping students lives. From vibrant colors to a welcoming atmosphere, many students call this place a home away from home.
@@ -105,7 +105,7 @@ headers = headers
 captions = captions 
 %}
 
-
+## 3D Model Button Made by Students at the WRC
 
 
 
