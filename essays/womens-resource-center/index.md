@@ -9,7 +9,7 @@ header-height: 50vh
 background-position: 20px
 ---
 ## Womens Resource Center
-{% include figure.html class="img-center" width="100%" caption="Womens resource center at UNM has evolved meraculously over the past 50 years into a home and inclusive space for many students and survivors. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/20ff9c2b-21a2-4261-9e3c-6e376e0be665.sized-1000x1000.jpeg" %}
+{% include figure.html class="img-center" width="100%" caption="Womens resource center at UNM has evolved meraculously over the past 50 years into a home and inclusive space for many students and survivors. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/wrc-building.jpeg" %}
 ## The Climb for Women at UNM
 For centuries, women were told to be silent, that their words meant nothing and an education for a woman was out of the ordinary. Today womens voices, create movements, win elections and rewrite laws. It was not long ago when women fought for a place in the classroom. Women at UNM made up less than 50% of total students in the 1970's. At the time there were no women vice presidents, only one woman dean and no women deans in academics. The climb for women at UNM has been a fight, that they continue to lead today. [^note1]
 
