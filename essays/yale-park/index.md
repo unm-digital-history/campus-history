@@ -74,7 +74,7 @@ Yale Park was once home to Siberian Elms, often mistakenly called Chinese Elms. 
   class="img-right"
   width="100%"
   caption="Linda Jackson protests against the destruction of Yale Park"
-  src="images/goodbye-to-yale-park.jpg"
+  src="images/goodbye-yale.png"
 %}
 {% include figure.html
   class="img-right"
