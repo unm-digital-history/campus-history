@@ -26,14 +26,14 @@ While it is clear that the bookstore was constructed in an attempt to displace t
 class="img-left"
 width="48%"
 caption="1970 Anti-War Rally in Yale Park."
-src="yale-park-rally.jpg"
+src="images/yale-park-rally.jpg"
 %}
 
 {% include figure.html
 class="img-left"
 width="48%"
 caption=""
-src="rally-2.jpg"
+src="images/rally-2.jpg"
 %}
 
 
