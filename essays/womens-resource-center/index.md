@@ -60,7 +60,7 @@ caption="These sliders are way more effective the more closely you line up the b
 ## WRC Today
 {% 
 assign images = 
-"images/mvh-construction.jpg,
+"images/IMG_0183.jpg,
 images/mvh-room-cost.jpg,
 images/mvh-tv-room.jpg" | split: ','
 %}
