@@ -21,7 +21,7 @@ Throughout the years, the Social Sciences Building has witnessed countless acade
 
 
 
-[^note1]: This is my citation at the end of the FIRST paragraph.
+
 
 
 
@@ -54,21 +54,11 @@ The total construction cost for the combined project—including the School of S
 
 
 
-{% include scrollybox/bg-multi-long-close.html %}
 
 
 
 
 
-{% assign images = 
-"images/mvh-menu.jpg,
-images/mvh-history-stays.jpg,
-images/mvh-room-cost.jpg" | split: ','
-%}
-
-{% include carousel.html
-images = images 
-%}
 
 
 
