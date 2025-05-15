@@ -140,7 +140,7 @@ I was struck by the discovery of a master student’s thesis conceived before th
   class="img-center"
   width="100%"
   caption=""
-  src="images/yale-views.jpg"
+  src="images/yale-park-views.jpg"
 %}
 
 {% include figure.html
