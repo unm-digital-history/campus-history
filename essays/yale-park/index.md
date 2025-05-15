@@ -79,7 +79,7 @@ Yale Park is home to two current sculptures, Michael Naranjo’s “Spirit mothe
   class="img-right"
   width="100%"
   caption="'Spirit Mother' in the winter of 1997"
-  src="images/spirit-mother.jpg"
+  src="images/spirit-mother.png"
 %}
 
 ### Spirit Mother
