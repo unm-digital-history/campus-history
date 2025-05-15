@@ -13,7 +13,7 @@ background-position: 20px
 ## Background
 
 
-{% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-history-stays.jpg" %}
+
 
 The Social Sciences Building at the University of New Mexico (UNM) plays a pivotal role in shaping the academic experience for students and faculty alike. Opened in 1987, this modernist structure was designed by the renowned architectural firm Hutchinson, Brown and Partners. Located at the heart of UNM’s central campus, the building is home to various departments, including Sociology, Political Science, and Anthropology. It serves as a central hub for the study and exploration of human societies, cultures, and political systems, providing students with the necessary resources to engage in critical thinking and interdisciplinary research.
 The design of the Social Sciences Building reflects a blend of functional design and regional aesthetic, with its clean lines and open spaces complementing the Southwestern architectural style that defines much of UNM’s campus. Its layout was carefully planned to foster collaboration, with classrooms, lecture halls, and faculty offices arranged to encourage interaction among students and faculty. The building's proximity to other academic facilities ensures that it is a focal point for intellectual engagement, while its proximity to outdoor spaces provides a relaxing environment for reflection and informal discussion.
@@ -94,5 +94,5 @@ images = images
 
  <audio controls src="Audio2136.mp3"></audio>
   ## Bibliography
-
+  University of New Mexico. Dept. Facility Planning, N/A, collection Accession# 28, Box 94. Center for Southwest Research, University Libraries, University of New Mexico.
 
