@@ -30,8 +30,7 @@ Throughout the years, the Social Sciences Building has witnessed countless acade
 {% include juxtapose.html
 image1="images/mvh-tv-room.jpg"
 image2="images/mvh-hist-common-room.jpg"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
-%}
+
 
 
 
