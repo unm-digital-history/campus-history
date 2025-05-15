@@ -29,7 +29,7 @@ As time went on, studies progressed. Women Studies that once offered only one co
 class="img-left"
 width="48%"
 caption="Here's an image on the left."
-src="images/centennial-hotel.jpg"
+src="images/IMG_0181.PNG"
 %}
 
 {% include figure.html
