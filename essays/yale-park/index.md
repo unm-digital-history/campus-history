@@ -78,3 +78,8 @@ images = images
 
 
 ## Bibliography
+
+- University of New Mexico. Albuquerque Booksellers Coalition Records, 1990-2000, collection UNMA 023, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
+- University of New Mexico. Campus Community Coalition Records, 1990-2000, collection UNMA 022, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
+- University of New Mexico. University of New Mexico Student Publications Board Records, 1939-1987, collection UNMA 146, Box 18. Center for Southwest Research, University Libraries, University of New Mexico.
+
