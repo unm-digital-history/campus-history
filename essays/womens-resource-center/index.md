@@ -26,27 +26,13 @@ The figure to the right highlights statistics from 1972-73 that display an overl
 As time went on, studies progressed. Women Studies that once offered only one course, grew larger at an extremely fast rate, changing year by year. While majority of students in the studies were women, it was not exclusive. Focus shifted in the mid 1970's, the notion that women were made to only be mothers and wives finally grew into the ideology that women were much more than a small percentage of a greater picture. Eventually, feminists from all over the country came to visit classrooms and present lectures that would teach women about field they otherwise were not skilled for due to the systemic discrimination women were faced with; how to be entrepreneurs, leaders, activists, doctors, scientists. Women Studies began offering courses on such things and taught women all about economics and develop skills in addition to their ability to be mothers and wives. Groups of women falculty, staff, and students, expressed their needs and concerns to the university and the university listened. Women Studies grew into something much larger, and behind the scences of it all, women fought for more space, more inclusivitity and came together in cohallition to create what we know today as the Women's Resource Center (WRC). 
 
 {% include juxtapose.html
-image1="images/mvh-tv-room.jpg"
-image2="images/mvh-hist-common-room.jpg"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
+image1="images/IMG_0181.PNG"
+image2="images/IMG_0182.jpg"
+caption="Development of Women Studies at UNM and news letter highlighting What is Women Studies and the purpose it serves."
 %}
 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-
-## Donec odio elit
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
-
-{% include scrollybox/bg.html
-  height="220"
-  image-url="images/mvh-women-supervision.jpg"
-  pre-box-space = "100vh"
-  font-size = "250%"
-  line-height = "150%"
-  box-content='
-       One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
-%}
+When developing and composing the focus all things related to women at UNM, it had to be made clear that there was a purpose that lied within this development. During this time, the world was faced with active movements, and until 1980 women were not recognized for their history, but UNM was ahead of the game.
 
 
 ## Cras magna nunc
