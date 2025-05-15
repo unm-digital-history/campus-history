@@ -49,6 +49,12 @@ Yale Park is home to two current sculptures Michael Naranjo’s “Spirit mother
   src="images/cultural-crossroads-wire.jpg"
 %}
 
+{% include jumbotron.html
+  height="50"
+  image-url="images/cultural-crossroads-wire.jpg"
+  title="'Cultural Crossroads of the Americas' before the barbed wire was removed"
+%}
+
 ### Spirit Mother
 <div class="sketchfab-embed-wrapper"> <iframe title="Spirit Mother" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/70fc9152d0014021902e277b3449923a/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/spirit-mother-70fc9152d0014021902e277b3449923a?utm_medium=embed&utm_campaign=share-popup&utm_content=70fc9152d0014021902e277b3449923a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Spirit Mother </a> by <a href="https://sketchfab.com/quinnrr?utm_medium=embed&utm_campaign=share-popup&utm_content=70fc9152d0014021902e277b3449923a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> quinnrr </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=70fc9152d0014021902e277b3449923a" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div> 
 
