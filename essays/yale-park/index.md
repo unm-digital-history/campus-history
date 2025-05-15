@@ -35,15 +35,15 @@ The construction of the bookstore was heavily contested by two primary organizat
 %}
 
 {% include figure.html
-  class="img-center"
-  width="100%"
-  caption=""
+  class="img-left"
+  width="48%"
+  caption="Daily Lobo Illustrations"
   src="images/regents.png"
 %}
 
 {% include figure.html
-  class="img-center"
-  width="100%"
+  class="img-left"
+  width="48%"
   caption=""
   src="images/rising-textbook.png"
 %}
