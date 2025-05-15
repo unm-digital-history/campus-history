@@ -50,38 +50,11 @@ Finally, introducing the Womens Resource Center, officially developed in the yea
 In the 1970's the Womens Resource Center was developed to act a center for women that could provide resources in regards to sexual assualt, rape, abortions, domestic violence, etc. Essentially upon its early developments, the center was a safe haven. In the spring of 1972, a proposal was submitted for the Womens Center and their direct relationship to Women Studies. This proposal included goals, purposes and overall objectives for the center. Note that in 1972, the WRC was known as the W.C.C (Women's Coordinating Center.)
 
 
-<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-url="images/IMG_0187.jpeg"
-  pre-box-space="0"
-  font-size = "150%"
-  line-height = "100%"
+{% include juxtapose.html
+image1="images/.jpg"
+image2="images/kimo-1938.jpg"
+caption="These sliders are way more effective the more closely you line up the before and after images."
 %}
-
-Now we have a text box scrolling up over the image. At various points (clearly labled in the following text) **the background image will switch.**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl. Curabitur consectetur placerat commodo. Maecenas sagittis facilisis turpis vel porta. Nulla facilisi. Nam viverra eget metus eget efficitur.
-
-
-### IMAGE SWITCH HERE 
-
-{% include scrollybox/bg-switch.html
-  image-url="images/IMG_0185.jpeg"
-  switch-id="switch1"
-  bg-id="bg1"
-%}
-
-
-### Duis vehicula erat et diam
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
-
-
-#### Almost done
-This is the end of the story, and you should see the text box scroll out of view followed by the background image.
-
-
-{% include scrollybox/bg-multi-long-close.html %}
 
 
 ## Duis vehicula erat et diam
