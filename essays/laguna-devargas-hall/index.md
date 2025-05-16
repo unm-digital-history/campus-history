@@ -13,7 +13,7 @@ background-position: 20px
 ## The Ways Of DeVargas Hall
 
 
-{% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://events.unm.edu/amenities/accommodations.html)" src="images/LagunaDeVargas.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="Laguna & DeVargas Halls. [Source](https://events.unm.edu/amenities/accommodations.html)" src="images/LagunaDeVargas.jpg" %}
 
 
 
