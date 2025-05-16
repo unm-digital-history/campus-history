@@ -18,7 +18,7 @@ The lobo, beloved mascot of the university, can be spotted in many places around
 
 ## Lobo In Tight Grove
 
-{% include figure.html class="img-right" width="48%" height="100" caption="Sculpture Dedication Dec 8, 1997." src="images/lobo-tight-grove-5.jpg" %} 
+{% include figure.html class="img-right" width="48%" height="100" caption="Sculpture Dedication Dec 8, 1997." src="images/lobo-tight-grove-5.jpg"%} 
 
 Surveilling the corner of Central and University, you'll find one of the university's lobo statues situated among a grove of pine trees. Tight Grove, named for then-University President William George Tight, is formed of pine trees and Rio Grande Cottonwoods transplanted from the Sandia Mountains and foothills by students in 1908. The lobo welcomes visitors and passersby to the campus. 
 
@@ -37,14 +37,13 @@ The Lobo in Tight Grove Sculpted by Michelle Middleton. Casted by Richard Wortma
 
 # John Tatschl's _Lobo_ 
 
-{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-image-8.jpg" %}  
+{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by Carol Highsmith [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73](https://www.loc.gov/resource/highsm.65937/)" src="images/lobo-image-8.jpg" %}  
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor, began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
 {% include aside.html class="right" text="
-_You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl [^note2]" %}
-
-[^note2]: Albuquerque Journal. April 15, 1961.
+_You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl [^note2] 
+[^note2]: Albuquerque Journal. April 15, 1961." %}
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
@@ -58,7 +57,7 @@ Perhaps the most well-known of the series of lobo statues across the campus, Joh
 Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives during WWI and WWII. The statue was erected in 1947 shortly after the conclusion of the Second World War. A placard below the statues acknowledges those who died.
 
 
-### Locations
+#### Locations
 
 {% assign images = 
 "images/lobo-zimmerman-1.jpg,
@@ -67,12 +66,10 @@ images/lobo-image-7.jpeg" | split: ','
 %}
 
 {% include carousel.html
-class="img-right"
-width="48%"
 images = images 
 %}
 
-Tatschl's lobo has made many homes across campus throughout its nearly 80 years. Originally placed outside Zimmerman Stadium, it was moved following the stadium's relocation and demolition in the 1960s. His second home, near the Stanford and Central entrance, welcomed students and visitors from the median. It currently resides between Johnson Center and Johnson Field on the east side of the building. 
+Tatschl's Lobo has made many homes across campus throughout its nearly 80 years. Originally placed outside Zimmerman Stadium, it was moved following the stadium's relocation and demolition in the 1960s. His second home, near the Stanford and Central entrance, welcomed students and visitors from the median. It currently resides between Johnson Center and Johnson Field on the east side of the building. 
 
 ### Hodgin Hall Lobo
 
