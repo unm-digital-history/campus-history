@@ -27,6 +27,7 @@ caption="From the TV room to the Chair room (actually, the History Department Co
 %}
 
 
+
 Key Features:
 Carpeted rooms with large solid wood closets and built-in dresser drawers.
 Student lounges on each floor for socializing and studying.
