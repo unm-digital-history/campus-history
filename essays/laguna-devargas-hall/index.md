@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### IMAGE SWITCH HERE 
 
 {% include scrollybox/bg-switch.html
-  image-url="images/mvh-tv-room.jpg"
+  image-url="images/download (2) (1).png"
   switch-id="switch1"
   bg-id="bg1"
 %}
