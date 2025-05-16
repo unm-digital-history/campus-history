@@ -44,11 +44,11 @@ Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a re
 [^note1]: UNM LibGuides
 #### Construction of the Lobo
 
-{% include figure.html class="img-left" width="48%" caption="Tatschl beside the statue during installation.)" src="lobo-installation-2.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Tatschl beside the statue during installation." src="lobo-installation-2.jpg" %}
 
-Approached by either the student government or the fraternities and sororities on campus, Tatschl was commissioned by a university group to create a plan for the statue in the spring of 1947. The student group wanted to erect a memorial statue to honor the students and alumni who lost their lives during World War II. By homecoming of the same year, he completed the statue. Various delays pushed back the statue's dedication, including difficulty fundraising. The statue was eventually presented to the University President J. P. Wernette during the half-time activities of the New Mexico-West Texas football game on November 29, 1947.
+Approached by either the student government or the fraternities and sororities on campus, Tatschl was commissioned by a university group to create a plan for the statue in the spring of 1947. The student group wanted to erect a memorial statue to honor the students and alumni who lost their lives during World War II. By homecoming of the same year, he completed the statue. The bronze lobo was constructed in half a year for just $2800. When the statue was relocated in 1961, the cost of the new pedestal and hoists to move the statue was roughly $600. 
 
-The bronze lobo was constructed in half a year for just $2800. When the statue was relocated in 1961, the cost of the new pedestal and hoists to move the statue was roughly $600. 
+Various delays pushed back the statue's dedication, including difficulty fundraising. Finally, following the Lobo War Memorial dance sponsored by the Interfraternity Council on November 7, funds were secured. The statue was presented to the University President J. P. Wernette during the half-time activities of the New Mexico-West Texas football game on November 29, 1947.
 
 #### Locations
 
