@@ -18,7 +18,7 @@ The lobo, beloved mascot of the university, can be spotted in many places around
 
 ## Lobo In Tight Grove
 
-{% include figure.html class="img-right" width="48%" height="100" caption="Sculpture Dedication Dec 8, 1997." src="images/lobo-tight-grove-5.jpg"%} 
+{% include figure.html class="img-right" width="48%" height="100" caption="Sculpture Dedication. December 8, 1997." src="images/lobo-tight-grove-5.jpg"%} 
 
 Surveilling the corner of Central and University, you'll find one of the university's lobo statues situated among a grove of pine trees. Tight Grove, named for then-University President William George Tight, is formed of pine trees and Rio Grande Cottonwoods transplanted from the Sandia Mountains and foothills by students in 1908. The lobo welcomes visitors and passersby to the campus. 
 
@@ -37,7 +37,7 @@ The Lobo in Tight Grove Sculpted by Michelle Middleton. Casted by Richard Wortma
 
 # John Tatschl's _Lobo_ 
 
-{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by Carol Highsmith [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73](https://www.loc.gov/resource/highsm.65937/)" src="images/lobo-image-8.jpg" %}  
+{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by Carol Highsmith [Source](https://www.loc.gov/resource/highsm.65937/)" src="images/lobo-image-8.jpg" %}  
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor, began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
