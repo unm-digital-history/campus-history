@@ -10,20 +10,15 @@ background-position: 20px
 ---
 
 
-## The Lobo
+# The Lobo
 
-{% include figure.html class="img-left" width="48%" caption="Lobo On the Corner of Campus. [Source] Courtesy of Author" src="images/lobo-tight-grove-2.jpg" %}
-
-The lobo, beloved mascot of the university, exists in many iterations across the campus. Fill in about the lobo as the mascot and how it came to be. [^note1]
-
-[^note1]: This is my citation at the end of the FIRST paragraph.
-
+The lobo, beloved mascot of the university, can be spotted in many places around the campus. Fill in about the lobo as the mascot and how it came to be. 
 
 ## Lobo In Tight Grove
 
-{% include figure.html class="img-right" width="40%" height="100" caption="Sculpture Dedication on Dec 8, 1997. [Source] (Center for Southwest Research. UNMA 028 Box 60) " src="images/lobo-tight-grove-5.jpg" %} 
+{% include figure.html class="img-right" width="48%" height="100" caption="Sculpture Dedication on Dec 8, 1997. [^note1] [^note1]: Center for Southwest Research. UNMA 028 Box 60" src="images/lobo-tight-grove-5.jpg" %} 
 
-Surveilling the corner of Central and University, you'll find the university's iconic lobo statue situated among a grove of pine trees. The statue, a gift from the Alumni Association in 1997, commemorates the centennial of the school. It is situated among a grove of trees originally transplanted by students in 1908. Tight Grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grande Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
+Surveilling the corner of Central and University, you'll find the university's iconic lobo statue situated among a grove of pine trees. The statue, a gift from the Alumni Association in 1997, commemorates the school's centennial. It is situated among a grove of trees originally transplanted by students in 1908. Tight Grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grande Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
 
 The Lobo in Tight Grove Sculpted by Michelle Middleton. Casted by Richard Wortman.
  
@@ -43,7 +38,9 @@ The Lobo in Tight Grove Sculpted by Michelle Middleton. Casted by Richard Wortma
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor, began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
 {% include aside.html class="right" text="
-_You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl" %}
+_You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl [^note2]" %}
+
+[^note2]: Albuquerque Journal. April 15, 1961.
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
