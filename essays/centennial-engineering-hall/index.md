@@ -38,8 +38,6 @@ Engineering is referred to as “The Branch of science and technology concerned 
   font-size = "250%"
   line-height = "150%"
   box-content='
-       One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
-%}
 
 
 ## Centennial Engineering Library 
@@ -55,11 +53,6 @@ A big part of the Centennial Engineering building is its library. Located out fr
   line-height = "100%"
 %}
 
-Now we have a text box scrolling up over the image. At various points (clearly labled in the following text) **the background image will switch.**
-
-
-### IMAGE SWITCH HERE 
-
 {% include scrollybox/bg-switch.html
   image-url="images/mvh-tv-room.jpg"
   switch-id="switch1"
@@ -67,15 +60,8 @@ Now we have a text box scrolling up over the image. At various points (clearly l
 %}
 
 
-#### Almost done
-This is the end of the story, and you should see the text box scroll out of view followed by the background image.
-
-
 {% include scrollybox/bg-multi-long-close.html %}
 
-
-## Duis vehicula erat et diam
-{% include figure.html class="img-right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-floorplan.jpg" %}
 
 {% assign images = 
 "images/mvh-menu.jpg,
