@@ -23,7 +23,7 @@ Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical res
 {% include juxtapose.html
 image1="images/download (1) (1).png"
 image2="images/Picsart_25-05-13_20-47-27-014.png"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
+caption="Here can be seen two young gentlmen on the left walking across the DeVargas Courtyard in 1971. On the right, a current picture of the Hall, with the fountain now removed"
 %}
 
 
