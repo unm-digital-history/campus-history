@@ -37,7 +37,7 @@ The Lobo in Tight Grove Sculpted by Michelle Middleton. Casted by Richard Wortma
 
 # John Tatschl's _Lobo_ 
 
-{% include figure.html class="img-right" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
+{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-image-8.jpg" %}  
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor, began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
@@ -59,9 +59,6 @@ Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives du
 
 
 ### Locations
-{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-image-8.jpg" %} 
-
-The statue was originally placed outside Zimmerman Stadium. After the stadium's relocation to University and Cesar Chavez in the 1960s, the lobo was moved to preside over the Stanford and Central entrance to campus. He has made his most recent home outside of Johnson Center near the east entrance, adjacent to Johnson Field.
 
 {% assign images = 
 "images/lobo-zimmerman-1.jpg,
@@ -74,6 +71,8 @@ class="img-right"
 width="48%"
 images = images 
 %}
+
+Tatschl's lobo has made many homes across campus throughout its nearly 80 years. Originally placed outside Zimmerman Stadium, it was moved following the stadium's relocation and demolition in the 1960s. His second home, near the Stanford and Central entrance, welcomed students and visitors from the median. It currently resides between Johnson Center and Johnson Field on the east side of the building. 
 
 ### Hodgin Hall Lobo
 
