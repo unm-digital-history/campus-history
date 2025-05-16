@@ -35,14 +35,15 @@ The Lobo finds an apt home in the man-made forest on the edge of campus. Tight G
 
 {% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by Carol Highsmith [Source](https://www.loc.gov/resource/highsm.65937/)" src="images/lobo-image-8.jpg" %}  
 
-The oldest of the lobo statues, John Tatschl's _Lobo_, has been a staple of campus since its unveiling in 1947. Tatschl, an Austrian artist and professor, began his career at the university the year prior and quickly became known for his contributions to art across campus. The Lobo statue was the first such work with _The History of Writing_ in the Zimmerman Library stairwell, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), and the altar screens inside the Alumni Memorial Chapel following. 
+The oldest of the lobo statues, John Tatschl's _Lobo_, has been a staple of campus since its unveiling in 1947. Tatschl, an Austrian artist and professor, began his career at the university the year prior and quickly became known for his contributions to art across campus. The Lobo statue was the first such work, followed by _The History of Writing_ in the Zimmerman Library stairwell, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), and the altar screens inside the Alumni Memorial Chapel. 
 
 {% include aside.html class="right" text="
 _You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl. _Albuquerque Journal. April 15, 1961._" %}
 
-Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a realistic style. Rather, the _Lobo_ reflects "the mechanized streamlined artistic styles utilized by some post-war Modernist artists."[^note1] Aside from the abstraction, the _Lobo_ measures larger than the Mexican grey wolf at approximately 4 feet high and 7 1/2 feet long. Tatschl, in a 1961 interview for the _New Mexico Lobo_, stated he believed the statue to be the only bronze statue between El Paso and Denver. Now it is one of many on campus alone. 
+Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a realistic style. Rather, the _Lobo_ reflects "the mechanized streamlined artistic styles utilized by some post-war Modernist artists." [^note1] Aside from the abstraction, the _Lobo_ measures larger than the Mexican grey wolf at approximately 4 feet high and 7 1/2 feet long. Tatschl, in a 1961 interview for the _New Mexico Lobo_, stated he believed the statue to be the only bronze statue between El Paso and Denver. Now Tatschl's lobo is one of many bronze statues on campus alone. 
+
 [^note1]: UNM LibGuides
-#### Construction of the Lobo
+### Construction of the Lobo
 
 {% include figure.html class="img-left" width="48%" caption="Tatschl beside the statue during installation." src="lobo-installation-2.jpg" %}
 
@@ -50,7 +51,7 @@ Approached by either the student government or the fraternities and sororities o
 
 Various delays pushed back the statue's dedication, including difficulty fundraising. Finally, following the Lobo War Memorial dance sponsored by the Interfraternity Council on November 7, funds were secured. The statue was presented to the University President J. P. Wernette during the half-time activities of the New Mexico-West Texas football game on November 29, 1947.
 
-#### Locations
+### Locations
 
 {% assign images = 
 "images/lobo-zimmerman-1.jpg,
@@ -68,7 +69,7 @@ Tatschl's Lobo has made many homes across campus throughout its nearly 80 years.
 
 {% include figure.html class="img-left" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
 
-The oversized Lobo head outside of Hodgin Hall is a replica of Professor Tatschl's original Lobo. The replica was completed in June 198 by the Shidoni Foundry in Tesque, New Mexico. The bronze statue is a donation to the University and Hodgin Hall by Eleanor and Dr. Randy Seligman. 
+The oversized Lobo head outside of Hodgin Hall is a replica of Professor Tatschl's original Lobo. The replica was completed in June 1985 by the Shidoni Foundry in Tesque, New Mexico. The bronze statue is a donation to the University and Hodgin Hall by Eleanor and Dr. Randy Seligman. 
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
