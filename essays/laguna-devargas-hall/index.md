@@ -39,12 +39,11 @@ Single Occupancy: $8,000 per academic year
 
 {% include scrollybox/bg.html
   height="220"
-  image-url="images/mvh-women-supervision.jpg"
+  image-url="images/Picsart_25-05-13_20-40-23-057.jpg"
   pre-box-space = "100vh"
   font-size = "250%"
   line-height = "150%"
-  box-content='
-       One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+  box-content='The original Blue Print for the dorm hall.'
 %}
 
 
