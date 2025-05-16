@@ -43,7 +43,7 @@ Single Occupancy: $8,000 per academic year
   pre-box-space = "100vh"
   font-size = "250%"
   line-height = "150%"
-  box-content='The original Blue Print for the dorm hall.'
+  box-content='Laguna DeVargas Hall was designed by Architects Ernest J. Kump, William W. Ellison and associates of them. Here, the original blueprint for the hall.'
 %}
 
 
