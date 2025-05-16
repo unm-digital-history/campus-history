@@ -35,20 +35,20 @@ The Lobo finds an apt home in the man-made forest on the edge of campus. Tight G
 
 {% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by Carol Highsmith [Source](https://www.loc.gov/resource/highsm.65937/)" src="images/lobo-image-8.jpg" %}  
 
-The oldest of the lobo statues, John Tatschl's _Lobo_, has been a staple of campus since its unveiling in 1947. Tatschl, an Austrian artist and professor, began his career at the university the year prior and quickly became known for his contributions to art across the campus. The Lobo statue was the first such work with _The History of Writing_ in the Zimmerman Library stairwell, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), and the altar screens inside the Alumni Memorial Chapel following. 
+The oldest of the lobo statues, John Tatschl's _Lobo_, has been a staple of campus since its unveiling in 1947. Tatschl, an Austrian artist and professor, began his career at the university the year prior and quickly became known for his contributions to art across campus. The Lobo statue was the first such work with _The History of Writing_ in the Zimmerman Library stairwell, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), and the altar screens inside the Alumni Memorial Chapel following. 
 
 {% include aside.html class="right" text="
 _You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl. _Albuquerque Journal. April 15, 1961._" %}
 
-Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a realistic style. Rather, the _Lobo_ reflects "the mechanized streamlined artistic styles utilized by some post-war Modernist artists." Aside from the abstraction, the _Lobo_ measures larger than the Mexican grey wolf at approximately 4 feet high and 7 1/2 feet long. Tatschl, in a 1961 interview for the _New Mexico Lobo_, stated he believed the statue to be the only bronze statue between El Paso and Denver. Now it is one of many on campus alone. 
-
+Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a realistic style. Rather, the _Lobo_ reflects "the mechanized streamlined artistic styles utilized by some post-war Modernist artists."[^note1] Aside from the abstraction, the _Lobo_ measures larger than the Mexican grey wolf at approximately 4 feet high and 7 1/2 feet long. Tatschl, in a 1961 interview for the _New Mexico Lobo_, stated he believed the statue to be the only bronze statue between El Paso and Denver. Now it is one of many on campus alone. 
+[^note1]: UNM LibGuides
 #### Construction of the Lobo
 
-{% include figure.html class="img-left" width="48%" caption="A boy stands with the lobo inside the art studio. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-and-boy-1.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Tatschl beside the statue during installation.)" src="lobo-installation-2.jpg" %}
 
 Approached by either the student government or the fraternities and sororities on campus, Tatschl was commissioned by a university group to create a plan for the statue in the spring of 1947. The student group wanted to erect a memorial statue to honor the students and alumni who lost their lives during World War II. By homecoming of the same year, he completed the statue. Various delays pushed back the statue's dedication, including difficulty fundraising. The statue was eventually presented to the University President J. P. Wernette during the half-time activities of the New Mexico-West Texas football game on November 29, 1947.
 
-The bronze lobo, at one point believed to be the only bronze statue between El Paso and Denver, was constructed in half a year for just $2800. When the statue was relocated in 1961, the cost of the new pedastal and cost to move the statue was roughly $600. 
+The bronze lobo was constructed in half a year for just $2800. When the statue was relocated in 1961, the cost of the new pedestal and hoists to move the statue was roughly $600. 
 
 #### Locations
 
