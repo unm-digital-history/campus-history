@@ -4,7 +4,7 @@ author: Maya Vigil
 layout: unm-base
 date: 2025-04-29
 header-image: images/lobo-header-1.jpg
-header-title: Lobo Statues Around Campus
+header-title: Lobo Statues
 header-height: 50vh
 background-position: 20px
 ---
@@ -12,7 +12,7 @@ background-position: 20px
 
 ## The Lobo
 
-{% include figure.html class="img-center" width="75%" caption="Lobo On the Corner of Campus. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-tight-grove-1.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Lobo On the Corner of Campus. [Source] Courtesy of Author" src="images/lobo-tight-grove-2.jpg" %}
 
 The lobo, beloved mascot of the university, exists in many iterations across the campus. Fill in about the lobo as the mascot and how it came to be. [^note1]
 
@@ -21,13 +21,11 @@ The lobo, beloved mascot of the university, exists in many iterations across the
 
 ## Lobo In Tight Grove
 
-{% include figure.html class="img-left" width="45%" height="100" caption="Sculpted by Michelle Middleton. Casted by Richard Wortman." src="images/lobo-tight-grove-2.jpg" %} 
+{% include figure.html class="img-right" width="40%" height="100" caption="Sculpture Dedication on Dec 8, 1997. [Source] (Center for Southwest Research. UNMA 028 Box 60) " src="images/lobo-tight-grove-5.jpg" %} 
 
-Surveilling the corner of Central and University, you'll find the university's iconic lobo statue among a grove of pine trees. The statue, a gift from the Alumni Association in 1997, commemorates the centennial of the school. It is situated among a grove of trees originally transplanted by students in 1908. Tight Grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grand Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
+Surveilling the corner of Central and University, you'll find the university's iconic lobo statue situated among a grove of pine trees. The statue, a gift from the Alumni Association in 1997, commemorates the centennial of the school. It is situated among a grove of trees originally transplanted by students in 1908. Tight Grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grande Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
 
-Test Writing to Confirm Formatting 
-
-Could include links to the Daily Lobo on stories about the statue getting graffitied. 
+The Lobo in Tight Grove Sculpted by Michelle Middleton. Casted by Richard Wortman.
  
 {% include scrollybox/bg.html
   height="120"
@@ -44,18 +42,18 @@ Could include links to the Daily Lobo on stories about the statue getting graffi
 
 {% include figure.html class="img-right" width="48%" caption="Lobo statue by John Tatschl. Source" src="images/lobo-image-1.jpg" %} 
 
-Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
+Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor, began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
 {% include aside.html class="right" text="
 _You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl" %}
 
 Perhaps the most well-known of the series of lobo statues across the campus, John Tatschl's _Lobo_ currently stands outside of Johnson Center near the entrance at Stanford and Central. Tatschl, an Austrian artist and professor began his career at the university in 1946. During his tenure, he produced many of the public art displays we are familiar with on campus including the multi-story sculpture that ascends the main stairwell of Zimmerman Library, The History of Writing, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), as well as the design for the altar screens inside the Alumni Memorial Chapel.
 
-### Construction of the Lobo
+#### Construction of the Lobo
 
-{% include figure.html class="img-right" width="30%" caption="A boy stands with the lobo inside the art studio. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-and-boy-1.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="A boy stands with the lobo inside the art studio. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-and-boy-1.jpg" %}
 
-Constructed out of bronze and assembled in the Art Department. 
+
 
 ### Dedication 
 Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives during WWI and WWII. The statue was erected in 1947 shortly after the conclusion of the Second World War. A placard below the statues acknowledges those who died.
@@ -64,7 +62,7 @@ Tatschl's _Lobo_ is dedicated to the students and alumni who lost their lives du
 ### Locations
 {% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/2667/rec/73)" src="images/lobo-image-8.jpg" %} 
 
-The statue was originally placed outside of Zimmerman Stadium. After the stadium's relocation to University and Cesar Chavez in the 1960s, the lobo was moved to preside over the Stanford and Central entrance to campus. He has made his most recent home outside of Johnson Center near the east entrance adjacent to Johnson Field.
+The statue was originally placed outside Zimmerman Stadium. After the stadium's relocation to University and Cesar Chavez in the 1960s, the lobo was moved to preside over the Stanford and Central entrance to campus. He has made his most recent home outside of Johnson Center near the east entrance, adjacent to Johnson Field.
 
 {% assign images = 
 "images/lobo-zimmerman-1.jpg,
