@@ -40,16 +40,15 @@ The oldest of the lobo statues, John Tatschl's _Lobo_, has been a staple of camp
 {% include aside.html class="right" text="
 _You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl. _Albuquerque Journal. April 15, 1961._" %}
 
-Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a realistic style. Rather, the _Lobo_ reflects "the mechanized streamlined artistic styles utilized by some post-war Modernist artists." [^note1] Aside from the abstraction, the _Lobo_ measures larger than the Mexican grey wolf at approximately 4 feet high and 7 1/2 feet long. Tatschl, in a 1961 interview for the _New Mexico Lobo_, stated he believed the statue to be the only bronze statue between El Paso and Denver. Now Tatschl's lobo is one of many bronze statues on campus alone. 
+Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a realistic style. Rather, the _Lobo_ reflects "the mechanized streamlined artistic styles utilized by some post-war Modernist artists."[^note1] Aside from the abstraction, the _Lobo_ measures larger than the Mexican grey wolf at approximately 4 feet high and 7 1/2 feet long. Tatschl, in a 1961 interview for the _New Mexico Lobo_, stated he believed the statue to be the only bronze statue between El Paso and Denver. Now Tatschl's lobo is one of many bronze statues on campus alone. 
 
-[^note1]: UNM LibGuides
 ### Construction of the Lobo
 
-{% include figure.html class="img-left" width="48%" caption="Tatschl beside the statue during installation." src="lobo-installation-2.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Tatschl beside the statue during installation." src="lobo-installation-1.jpg" %}
 
 Approached by either the student government or the fraternities and sororities on campus, Tatschl was commissioned by a university group to create a plan for the statue in the spring of 1947. The student group wanted to erect a memorial statue to honor the students and alumni who lost their lives during World War II. By homecoming of the same year, he completed the statue. The bronze lobo was constructed in half a year for just $2800. When the statue was relocated in 1961, the cost of the new pedestal and hoists to move the statue was roughly $600. 
 
-Various delays pushed back the statue's dedication, including difficulty fundraising. Finally, following the Lobo War Memorial dance sponsored by the Interfraternity Council on November 7, funds were secured. The statue was presented to the University President J. P. Wernette during the half-time activities of the New Mexico-West Texas football game on November 29, 1947.
+Various delays pushed back the statue's dedication, including difficulty fundraising. Following the Lobo War Memorial dance sponsored by the Interfraternity Council on November 7, funds were finally secured. The statue was presented to the University President J.P. Wernette during the half-time activities of the New Mexico-West Texas football game on November 29, 1947.
 
 ### Locations
 
@@ -67,11 +66,10 @@ Tatschl's Lobo has made many homes across campus throughout its nearly 80 years.
 
 ### Hodgin Hall Lobo
 
-{% include figure.html class="img-left" width="48%" caption="Lobo head outside Hodgin Hall. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-head-1.jpg" %}
+{% include figure.html class="img-left" width="60%" caption="A popular prop for graduation photos, the Lobo Head fittingly lives outside the Alumni Building." src="images/lobo-head-1.jpg" %}
 
-The oversized Lobo head outside of Hodgin Hall is a replica of Professor Tatschl's original Lobo. The replica was completed in June 1985 by the Shidoni Foundry in Tesque, New Mexico. The bronze statue is a donation to the University and Hodgin Hall by Eleanor and Dr. Randy Seligman. 
+Can't get enough of Professor Tatschl's _Lobo_? You'll find an oversized replica of the head of Tatschl's original Lobo outside Hodgin Hall. The replica was completed in June 1985 by the Shidoni Foundry in Tesque, New Mexico. The bronze statue is a donation to the University and Hodgin Hall by Eleanor and Dr. Randy Seligman. 
 
-<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
   image-url="images/lobo-pond01.jpg"
@@ -80,8 +78,8 @@ The oversized Lobo head outside of Hodgin Hall is a replica of Professor Tatschl
   line-height = "100%"
 %}
 
-## Bronze Lobos Across Campus
-Lurking among the trees and bushes of central campus, you'll encounter other bronze lobo statues in various poses. The statues were donations to the University during the 2013 _Spirit of the Lobo_ campaign. 
+## _Spirit of the Lobo_
+Lurking among the trees and bushes of central campus, you'll encounter smaller bronze lobo statues in various poses. The statues were donations to the University during the 2014 _Spirit of the Lobo_ campaign. The campaign, begun by then-University President Robert Frank, set out to commemorate what it means to be a Lobo through the installation of permanent bronze statues throughout the community. Purchased through the UNM Foundation, the statues were available for $5,000, with the opportunity to install them either on campus or elsewhere. Each statue on campus has a plaque thanking the donors. Similarly to the Lobo in Tight Grove, the 36" lobo statues are realistic representations of the school mascot. 
 
 {% include scrollybox/bg-switch.html
   image-url="images/lobo-bronze-2.jpg"
@@ -97,17 +95,10 @@ Lurking among the trees and bushes of central campus, you'll encounter other bro
 
 {% include scrollybox/bg-multi-long-close.html %}
 
-
-## Newest Statues 
-
-{% include figure.html class="img-right" width="48%" caption="Large Wood Carving Lobo, 2025. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-wood-1.jpg" %}
-
-{% include figure.html class="img-right" width="48%" caption="Miniature Wood Carving Lobo, 2025. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3474/rec/3)" src="images/lobo-mini-wood-1.jpg" %}
-
-Two new wooden statues appeared on campus in 2025. Find any information about this.
-
 ## 3D Lobo Statue Scan 
 <div class="sketchfab-embed-wrapper"> <iframe title="Howling Lobo" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/c7d2cc4c74c64067aac7000e5b4ef069/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/howling-lobo-c7d2cc4c74c64067aac7000e5b4ef069?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d2cc4c74c64067aac7000e5b4ef069" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Howling Lobo </a> by <a href="https://sketchfab.com/vigilmaya?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d2cc4c74c64067aac7000e5b4ef069" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> vigilmaya </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d2cc4c74c64067aac7000e5b4ef069" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+[^note1]: Test
 
 ## Bibliography
 
@@ -120,3 +111,9 @@ Two new wooden statues appeared on campus in 2025. Find any information about th
 - University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028, Box  9. Center for Southwest Research, University Libraries, University of New Mexico.
 
 - University of New Mexico Traditions. [Source] (https://www.unm.edu/welcome/traditions/index.html)
+
+- UNM Alumni Hodgin Hall Walking Tour [Source] (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)
+
+- UNM LibGuides [Source] (https://libguides.unm.edu/publicart)
+
+- UNM News [Source] (https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)
