@@ -16,13 +16,13 @@ For as long as Yale Park has been targeted by the University’s expansion effor
 ## "The Greening of Yale Park"
 Before the plan to build the new bookstore on Yale Park was finalized, there is evidence for a plan, not to scrap Yale Park, but instead to revitalize it. The Park was transferred from the University to the city of Albuquerque in 1964. It switched back over into the University’s hands in 1986. Under university management, the Park was severely neglected. Soon after the transfer, the city controlled pipelines that provided water to the park were disconnected and no consistent water source took their place. The revitalization project was less an attempt to beautify the park for the sake of the campus and community and more an attempt to discourage unhoused community members from making use of the park, the same goal that the future bookstore would claim to accomplish. An article published in the Albuquerque Journal, about a year before the bookstore broke ground, titled “The Greening of Yale Park” describes the vision of Gil Berry, the architect for the proposed makeover: “plans call for Yale Park to have everything a park should have: trees, grass, walkways, benches. What Berry hopes it won't have is a continuation of the transients and homeless people who have frequented the area in the past few years”. Activists claim that the park was intentionally allowed to deteriorate by the University in order to garner public support for the bookstore as a solution. There is indeed a disconnect between the Regents blaming Yale Park’s condition for attracting unhoused people while simultaneously refusing to maintain its upkeep. The revitalization project was ultimately abandoned in favor of the bookstore. Activists also suggest that the building of the bookstore on Yale park was a form of retribution by the regents due to an earlier successful campaign that stopped the building of the future Cornell parking structure. 
 
-{% include figure.html
-  class="img-center"
-  width="100%"
-  caption="Campus Community Coalition's vision for the new Yale Park"
-  src="goals-for-park.jpeg"
-%}
 
+{% include figure.html
+  class="img-right"
+  width="100%"
+  caption="Campus Community Coalition's vision for the New Yale Park"
+  src="images/goodbye-yale.png"
+%}
 
 ## Stop the Bookstore
 The construction of the bookstore was heavily contested by two primary organizations, the Albuquerque Booksellers Coalition (ABC) and the Campus Community Coalition (CCC). Beyond being concerned with the loss of Yale Park’s open space, the organizations were concerned with both the lack of transparency and democracy in terms of the Regents decision to build the bookstore as well as with the impact the bookstore would have on Albuquerque’s independent bookstores. They were concerned about state-subsidized competition and the fact that the bookstore’s supply would consist of only a third of textbooks, the rest devoted to non textbook titles and merchandise. There was also concern that the bookstore would aggravate the parking situation along Central, spaces that were typically used by patrons of local businesses, because the state bookstore would be exempt from local ordinances. Students were also concerned that rising textbook prices and other hidden tuition costs would be implemented to finance the close to 5 million dollar project. 
@@ -76,6 +76,7 @@ Yale Park was once home to Siberian Elms, often mistakenly called Chinese Elms. 
   caption="Linda Jackson protests against the destruction of Yale Park"
   src="images/goodbye-yale.png"
 %}
+
 {% include figure.html
   class="img-right"
   width="100%"
@@ -83,21 +84,21 @@ Yale Park was once home to Siberian Elms, often mistakenly called Chinese Elms. 
   src="images/ecology.jpg"
 %}
 {% include figure.html
-  class="img-right"
-  width="100%"
+  class="img-center"
+  width="60%"
   caption="The Emergency Response Network's Watch Schedule"
   src="images/watch-schedule.jpg"
 %}
 {% include figure.html
-  class="img-right"
-  width="100%"
+  class="img-center"
+  width="60%"
   caption=""
   src="images/spring-equinox.jpg"
 %}
 
 {% include figure.html
   class="img-center"
-  width="100%"
+  width="60%"
   caption=""
   src="images/protest-read.jpg"
 %}
