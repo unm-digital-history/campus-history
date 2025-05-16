@@ -22,7 +22,7 @@ Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical res
 
 {% include juxtapose.html
 image1="images/download (1) (1).png"
-image2="images/LagunaDeVargas.jpg"
+image2="images/Picsart_25-05-13_20-47-27-014.png"
 caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
 %}
 
