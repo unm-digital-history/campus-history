@@ -12,13 +12,17 @@ background-position: 20px
 
 # The Lobo
 
-The lobo, beloved mascot of the university, can be spotted in many places around the campus. Fill in about the lobo as the mascot and how it came to be. 
+The lobo, beloved mascot of the university, can be spotted in many places around the campus. Fill in about the lobo as the mascot and how it came to be. [^note3]
+
+[^note3]: Test
 
 ## Lobo In Tight Grove
 
-{% include figure.html class="img-right" width="48%" height="100" caption="Sculpture Dedication on Dec 8, 1997. [^note1] [^note1]: Center for Southwest Research. UNMA 028 Box 60" src="images/lobo-tight-grove-5.jpg" %} 
+{% include figure.html class="img-right" width="48%" height="100" caption="Sculpture Dedication Dec 8, 1997." src="images/lobo-tight-grove-5.jpg" %} 
 
-Surveilling the corner of Central and University, you'll find the university's iconic lobo statue situated among a grove of pine trees. The statue, a gift from the Alumni Association in 1997, commemorates the school's centennial. It is situated among a grove of trees originally transplanted by students in 1908. Tight Grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grande Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
+Surveilling the corner of Central and University, you'll find one of the university's lobo statues situated among a grove of pine trees. Tight Grove, named for then-University President William George Tight, is formed of pine trees and Rio Grande Cottonwoods transplanted from the Sandia Mountains and foothills by students in 1908. The lobo welcomes visitors and passersby to the campus. 
+
+The statue, a gift from the Alumni Association in 1997, commemorates the Alumni Association's 100th anniversary. It is situated among a grove of trees originally transplanted by students in 1908. Tight Grove, named after the president of the university at the time, consists mainly of pine trees and Rio Grande Cottonwoods. The statue has stood among these trees for nearly three decades now, forming a part of the modern campus that most visitors are sure to be familiar with. 
 
 The Lobo in Tight Grove Sculpted by Michelle Middleton. Casted by Richard Wortman.
  
