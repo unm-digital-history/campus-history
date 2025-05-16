@@ -3,7 +3,7 @@ title: yale-park
 author: Quinn Rogers
 layout: unm-base
 date: 2025-05-13
-header-image: images/yale-park-pirates.jpg
+header-image: images/header.png
 header-title: Yale Park
 header-height: 50vh
 background-position: 20px
@@ -146,9 +146,9 @@ I was struck by the discovery of a master student’s thesis conceived before th
 
 {% include figure.html
   class="img-center"
-  width="100%"
-  caption=""
-  src="images/frontier-boycott.png"
+  width="70%"
+  caption="A flyer calling for a boycott of Frontier"
+  src="images/boycott.png"
 %}
 
 
