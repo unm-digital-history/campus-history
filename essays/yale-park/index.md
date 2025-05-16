@@ -21,7 +21,7 @@ Before the plan to build the new bookstore on Yale Park was finalized, there is 
   class="img-right"
   width="100%"
   caption="Campus Community Coalition's vision for the New Yale Park"
-  src="images/goodbye-yale.png"
+  src="images/park-goals.png"
 %}
 
 ## Stop the Bookstore
