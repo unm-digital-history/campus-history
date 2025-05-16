@@ -88,14 +88,7 @@ An additional version of Tatschl's Lobo can be seen in the oversized recasting o
 %}
 
 ## Bronze Lobos Across Campus
-There are a handful of other lobo statues scattered across campus. In various poses, you can find them lurking around the bushes and trees. The statues were donations to the university during the 2013, verify, _Spirit of the Lobo_ campaign. 
-
-Now we have a text box scrolling up over the image. At various points (clearly labeled in the following text) **the background image will switch.**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl. Curabitur consectetur placerat commodo. Maecenas sagittis facilisis turpis vel porta. Nulla facilisi. Nam viverra eget metus eget efficitur.
-
-
-### IMAGE SWITCH HERE 
+Lurking among the trees and bushes of central campus, you'll encounter other bronze lobo statues in various poses. The statues were donations to the university during the 2013 _Spirit of the Lobo_ campaign. 
 
 {% include scrollybox/bg-switch.html
   image-url="images/lobo-bronze-2.jpg"
@@ -103,20 +96,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
   bg-id="bg1"
 %}
 
-### Nearby the Duck Pond
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
-
-### Outside of the President's House 
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
-
 {% include scrollybox/bg-switch.html
   image-url="images/lobos-1.jpg"
   switch-id="switch1"
   bg-id="bg1"
 %}
-
-#### Almost done
-This is the end of the story, and you should see the text box scroll out of view followed by the background image.
 
 {% include scrollybox/bg-multi-long-close.html %}
 
@@ -135,10 +119,6 @@ Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 > As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
-
-
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
 
 ## 3D Lobo Statue Scan 
 <div class="sketchfab-embed-wrapper"> <iframe title="Howling Lobo" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/c7d2cc4c74c64067aac7000e5b4ef069/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/howling-lobo-c7d2cc4c74c64067aac7000e5b4ef069?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d2cc4c74c64067aac7000e5b4ef069" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Howling Lobo </a> by <a href="https://sketchfab.com/vigilmaya?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d2cc4c74c64067aac7000e5b4ef069" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> vigilmaya </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d2cc4c74c64067aac7000e5b4ef069" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
