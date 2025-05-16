@@ -92,14 +92,14 @@ Yale Park was once home to Siberian Elms, often mistakenly called Chinese Elms. 
 {% include figure.html
   class="img-center"
   width="60%"
-  caption=""
+  caption="Flyer for a celebration in Yale Park"
   src="images/spring-equinox.jpg"
 %}
 
 {% include figure.html
   class="img-center"
   width="60%"
-  caption=""
+  caption="A Flyer for a protest reading against the destruction of Yale Park"
   src="images/protest-read.jpg"
 %}
 
