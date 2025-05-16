@@ -33,8 +33,6 @@ The Lobo in Tight Grove Sculpted by Michelle Middleton. Casted by Richard Wortma
   pre-box-space = "50vh"
   font-size = "250%"
   line-height = "150%"
-  box-content='
-       Introducing the Tatschl Lobo'
 %}
 
 
