@@ -18,9 +18,9 @@ Among the numerous public art installations on campus, you'll encounter many ite
 
 {% include figure.html class="img-right" width="48%" height="100" caption="Sculpture Dedication. December 8, 1997." src="images/lobo-tight-grove-5.jpg"%} 
 
-Where might you encounter a real Lobo? While it is unlikely you'll ever stumble across a Mexican grey wolf in the wild, you _can_ find them in the mountain ranges of New Mexico. But, with a bit of wonder, you can imagine encountering one in its natural habitat with a visit to the Lobo in Tight Grove. Situated among century-old ponderosa pines, you'll find the UNM Lobo surveilling the corner of University and Central. The statue, sculpted by Michelle Middleton and cast by Richard Wortman, was a gift from the Alumni Association in 1997 to commemorate its 100th anniversary. 
+Where might you encounter a real Lobo? While it is unlikely you'll ever stumble across a Mexican grey wolf in the wild, you _can_ find them in the mountain ranges of New Mexico. But, with a bit of wonder, you can imagine encountering one in its natural habitat with a visit to the Lobo in Tight Grove. Situated among century-old ponderosa pines, you'll find the UNM Lobo surveilling the corner of University and Central. The statue, sculpted by Michelle Middleton and cast by Richard Wortman, was a gift from the Alumni Association in 1997 to commemorate its 100th anniversary. [^tight grove]
 
-The Lobo finds an apt home in the man-made forest on the edge of campus. Tight Grove, a cluster of ponderosa pine trees and Rio Grande cottonwoods transplanted from the Sandia Mountains, was created by and named for then-University President William George Tight and the students who transplanted the trees in 1905. Tight Grove and the Lobo statue serve as a peaceful retreat on campus and a reminder of the state's natural beauty. 
+The Lobo finds an apt home in the man-made forest on the edge of campus. Tight Grove, a cluster of ponderosa pine trees and Rio Grande cottonwoods transplanted from the Sandia Mountains, was created by and named for then-University President William George Tight and the students who transplanted the trees in 1905.[^tight grove2] Tight Grove and the Lobo statue serve as a peaceful retreat on campus and a reminder of the state's natural beauty. 
  
 {% include scrollybox/bg.html
   height="120"
@@ -33,14 +33,14 @@ The Lobo finds an apt home in the man-made forest on the edge of campus. Tight G
 
 # John Tatschl's _Lobo_ 
 
-{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by Carol Highsmith [Source](https://www.loc.gov/resource/highsm.65937/)" src="images/lobo-image-8.jpg" %}  
+{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by [Carol Highsmith (https://www.loc.gov/resource/highsm.65937/)]" src="images/lobo-image-8.jpg" %}  
 
-The oldest of the lobo statues, John Tatschl's _Lobo_, has been a staple of campus since its unveiling in 1947. Tatschl, an Austrian artist and professor, began his career at the university the year prior and quickly became known for his contributions to art across campus. The Lobo statue was the first such work, followed by _The History of Writing_ in the Zimmerman Library stairwell, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), and the altar screens inside the Alumni Memorial Chapel. 
+The oldest of the lobo statues, John Tatschl's _Lobo_, has been a staple of campus since its unveiling in 1947. Tatschl, an Austrian artist and professor, began his career at the university the year prior and quickly became known for his contributions to art across campus. The Lobo statue was the first such work, followed by _The History of Writing_ in the Zimmerman Library stairwell, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), and the altar screens inside the Alumni Memorial Chapel. Outside of artwork at the University, Tatschl constructed many other bronze statues across the country 
 
 {% include aside.html class="right" text="
-_You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl. _Albuquerque Journal. April 15, 1961._" %}
+_You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl [^tatschl quote]" %}
 
-Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a realistic style. Rather, the _Lobo_ reflects "the mechanized streamlined artistic styles utilized by some post-war Modernist artists."[^note1] Aside from the abstraction, the _Lobo_ measures larger than the Mexican grey wolf at approximately 4 feet high and 7 1/2 feet long. Tatschl, in a 1961 interview for the _New Mexico Lobo_, stated he believed the statue to be the only bronze statue between El Paso and Denver. Now Tatschl's lobo is one of many bronze statues on campus alone. 
+Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a realistic style. Rather, the _Lobo_ reflects "the mechanized streamlined artistic styles utilized by some post-war Modernist artists."[^libguides] Aside from the abstraction, the _Lobo_ measures larger than the Mexican grey wolf at approximately 4 feet high and 7 1/2 feet long. Tatschl, in a 1961 interview for the _New Mexico Lobo_, stated he believed the statue to be the only bronze statue between El Paso and Denver. Now Tatschl's lobo is one of many bronze statues on campus alone. 
 
 ### Construction of the Lobo
 
@@ -100,7 +100,7 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 
 
 
-## A Conversation with the Statues
+## A Conversation Between Two the Lobo (Statues)
 
 <audio controls src="lobo-statues.mp3"></audio>
 
@@ -116,11 +116,14 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 
 - University of New Mexico Traditions. [Source] (https://www.unm.edu/welcome/traditions/index.html)
 
-- UNM Alumni Hodgin Hall Walking Tour [Source] (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)
+- UNM Alumni Hodgin Hall Walking Tour [Source (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)]
 
 - UNM LibGuides [Source (https://libguides.unm.edu/publicart)]
 
 - UNM News [Source (https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)]
 
 [^mascot]: [UNM Traditions (https://www.unm.edu/welcome/traditions/index.html)]
-
+[^tight grove]: UNM Facility Planning Records
+[^tight grove2]: [Hodgin Hall Walking Tour (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)]
+[^libguides]: [Source (https://libguides.unm.edu/publicart)]
+[^tatschl quote]: Albuquerque Journal. April 15, 1961.
