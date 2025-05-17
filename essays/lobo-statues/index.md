@@ -12,6 +12,8 @@ background-position: 20px
 
 # The Lobo
 
+{% include figure.html class="img-center" width="48%" height="100" caption="One of the smaller _Spirit of the Lobo_ statues posed near the Duck Pond" src="images/lobo-snow-1.jpg"%} 
+
 Among the numerous public art installations on campus, you'll encounter many iterations of the University's mascot, the Lobo. First suggested in 1920, the Lobo is a recognizable and beloved school symbol, representing teamwork and fearlessness.[^mascot] Let's take a tour of the statues around campus.
 
 ## Lobo In Tight Grove
@@ -44,7 +46,7 @@ Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a re
 
 ### Construction of the Lobo
 
-{% include figure.html class="img-left" width="48%" caption="Tatschl beside the statue during installation.[^tatschl]" src="lobo-installation-2.jpg" %}
+{% include figure.html class="img-center" width="48%" height="100" caption="Tatschl supervising the installation of his statue." src="images/lobo-installation-2.jpg"%} 
 
 Approached by either the student government or the fraternities and sororities on campus, Tatschl was commissioned by a university group to create a plan for the statue in the spring of 1947. The student group wanted to erect a memorial statue to honor the students and alumni who lost their lives during World War II.[^archive] By homecoming of the same year, he completed the statue. The bronze lobo was constructed in half a year for just $2800. When the statue was relocated in 1961, the cost of the new pedestal and hoists to move the statue was roughly $600. 
 
