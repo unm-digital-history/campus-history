@@ -100,6 +100,10 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 
 [^note1]: Test
 
+## A Conversation with the Statues
+
+<audio controls src="lobo-statues.mp3"></audio>
+
 ## Bibliography
 
 - Highsmith, Carol M, photographer. One of several sculptures of a lobo, or timber wolf, on the campus of the University of New Mexico in Albuquerque, the largest city in New Mexico. United States New Mexico Bernalillo County Albuquerque, 2020. -12-27. Photograph. https://www.loc.gov/item/2020742577/.
