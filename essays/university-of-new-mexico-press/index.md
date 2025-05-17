@@ -30,7 +30,7 @@ Even though it would not be until the fall of 2009 that the Press would come to 
 
 In a similar vein, the first building the Press was housed in was already established. In the summer of 1921, Mrs. Jacob Korber and her son A.P. Korber gifted UNM $500 to pay for equipment for a wireless telephone and telegraph station. It conducted its first radio broadcast on December 16th, 1921. While it was initially based in the Science Hall, in 1925, two small buildings were built for the Station. UNM had high hopes for the Korber Wireless Station, proudly boasting that its towers would be "destined to be of great service to this region." It closed the very next year because it was too expensive to operate. 
 
-After that, one of the buildings was reappropriated as a music studio for a short time, before the Press ultimately ended up inhabiting them. At the time, the buildings were connected by an outdoor boardwalk.
+After that, one of the buildings was reappropriated as a music studio for a short time, before the Press ultimately ended up inhabiting them. At the time, the buildings were connected by an outdoor boardwalk. In 1934, the Buildings and Grounds Department was able to double the size of the Press by removing the shared walls between the two buildings and constructing a roof over them both. The resulting structure was joined to Carlisle Gym and still stands to this day. It was further expanded in 1938, when Professor William E. Burk of the School of Architecture donated his services to both double the space within the building once again and to remodel it in the Pueblo Revival style. The US government's Works Progress Administration helped make this possible. The Press occupied the building until 1949, with the editorial offices moving to a building close by that has since been replaced with Clark Hall. The former Korber Radio Station buildings would come to house the Office of Veteran's Affairs and the Counseling and Testing Division, and remain standing to this day.
 
 {% include figure.html
 class="img-left"
@@ -42,14 +42,15 @@ caption="A map of the University of New Mexico campus in December 1928, showing 
 {% include figure.html
 class="img-left"
 width="48%"
-caption="The campus in December 1935. By this point, the two buildings had been connected to each other and the Carlisle Gym."
+caption="The campus in December 1935. By this point, the two Korber/Press buildings had been connected to each other and the Carlisle Gym."
   src="images/Screenshot_2025-05-01_180119.png"
 %}
 
 {% include figure.html
   class="img-center"
   width="100%"
-  %}
+  caption="An architectural drawing of one of the original Korber Wireless Station buildings compared to the site today, now housing UNM Facilities Management. If one looks closely, they can see lines in the stucco to the right of the door that appear to match with where a window originally was, complete with it being taller than the door itself, and one level to the ground that seems to match with the originally raised entrance walkway; it is likely this is the exact same side of the building."
+  src="images/Screenshot_20250516_152855.jpg" %}
 
 [^note1]: This is my citation at the end of the FIRST paragraph.
 
