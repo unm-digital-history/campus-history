@@ -40,7 +40,7 @@ The Lobo finds an apt home in the man-made forest on the edge of campus. Tight G
 The oldest of the lobo statues, John Tatschl's _Lobo_, has been a staple of campus since its unveiling in 1947. Tatschl, an Austrian artist and professor, began his career at the university the year prior and quickly became known for his contributions to art across campus. The Lobo statue was the first such work, followed by _The History of Writing_ in the Zimmerman Library stairwell, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), and the altar screens inside the Alumni Memorial Chapel. Outside of artwork at the University, Tatschl constructed many other bronze statues across the country 
 
 {% include aside.html class="right" text="
-_You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl [^tatschl quote]" %}
+_You know, quite often after looking at something for ten years, you want to disown authorship. But on the contrary, I look back on my work ten years later and I'm still proud I made him._ - John Tatschl [^tatschlquote]" %}
 
 Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a realistic style. Rather, the _Lobo_ reflects "the mechanized streamlined artistic styles utilized by some post-war Modernist artists."[^libguides] Aside from the abstraction, the _Lobo_ measures larger than the Mexican grey wolf at approximately 4 feet high and 7 1/2 feet long. Tatschl, in a 1961 interview for the _New Mexico Lobo_, stated he believed the statue to be the only bronze statue between El Paso and Denver. Today, Tatschl's lobo is one of many bronze statues on campus alone. 
 
@@ -128,7 +128,7 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 [^tightgrove]: UNM Facility Planning Records, CSWR
 [^tightgrove2]: [Hodgin Hall Walking Tour](https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)
 [^libguides]: [UNM LibGuides](https://libguides.unm.edu/publicart)
-[^tatschl quote]: Albuquerque Journal. April 15, 1961.
+[^tatschlquote]: Albuquerque Journal. April 15, 1961.
 [^unmnews]: [UNM News](https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus) February 9, 2014.
 [^hodginhall]: UNM Facility Planning Records, CSWR
 [^tatschl]: UNM Facility Planning Records, CSWR
