@@ -22,12 +22,11 @@ The University of New Mexico Press has been a fixture of UNM for nearly a centur
 %}
 
 
-## An early title
+## Origins of the Press
 
+Even though it would not be until the fall of 2009 that the Press would come to be housed within 1717 Roma, both may not have existed if not for the efforts of UNM President James Fulton Zimmerman. It was Zimmerman who encouraged the building program for fraternities and sororities, which manifested as a subdivision on Roma named Sorority Row, and he was also the figure who brought the Press to campus. On June 1st, 1929, UNM's Board of Regents unanimously approved the establishment of the Press. However, the Press was not started from scratch. A conglomerate of organizations based in Santa Fe—the Museum of New Mexico, the School of American Research, the Historical Society of New Mexico, the New Mexico Archaeological Society, and the New Mexico Geographical Society—had previously banded together to establish the El Palacio Press, which published the periodical _El Palacio_. _El Palacio_ began life as a monthly publication that covered scientific, literary, and art news of the Spanish Southwest, and it soon became the first weekly publication devoted to archaeology and museum activities. It was first published in November 1913 and was based inside the Palace of the Governors, whose name it was derived from. Dr. Zimmerman entered into a cooperative agreement with the director of the Museum of New Mexico and the School of American Research, Dr. Edgar L. Hewett, which meant that the entire Press was transplanted from Santa Fe to UNM in 1930. The first equipment was moved over sometime in August or September of that year. The press's name initially remained El Palacio Press, but as people increasingly referred to it as the University of New Mexico's press, the name stuck. 
 
-{% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-history-stays.jpg" %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
+### The Press's First Location
 
 [^note1]: This is my citation at the end of the FIRST paragraph.
 
