@@ -167,7 +167,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 > As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
-<audio controls src="assets/UNM-Press-Building-Interview.mp3"></audio>
+<audio controls src="UNM-Press-Building-Interview.mp3"></audio>
 
 
 ## Bibliography
