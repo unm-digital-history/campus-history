@@ -58,8 +58,6 @@ For its first 3 years, the Press was little more than a printing facility for UN
 <div class="sketchfab-embed-wrapper"> <iframe title="New Mexico History and Civics" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f877dc2dd53b442f9cbd9c331e159200/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/new-mexico-history-and-civics-f877dc2dd53b442f9cbd9c331e159200?utm_medium=embed&utm_campaign=share-popup&utm_content=f877dc2dd53b442f9cbd9c331e159200" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> New Mexico History and Civics </a> by <a href="https://sketchfab.com/masonparrish?utm_medium=embed&utm_campaign=share-popup&utm_content=f877dc2dd53b442f9cbd9c331e159200" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> masonparrish </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f877dc2dd53b442f9cbd9c331e159200" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 
-[^note1]: This is my citation at the end of the FIRST paragraph.
-
 Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
 
 [^note2]: This is my citation at the end of the SECOND paragraph.
@@ -166,9 +164,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 > As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
-
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
+<audio controls src="assets/UNM-Press-Building-Interview.mp3"></audio>
 
 
 ## Bibliography
