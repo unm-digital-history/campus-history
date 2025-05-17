@@ -33,7 +33,7 @@ The Lobo finds an apt home in the man-made forest on the edge of campus. Tight G
 
 # John Tatschl's _Lobo_ 
 
-{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by Carol Highsmith [Source] (https://www.loc.gov/resource/highsm.65937/)" src="images/lobo-image-8.jpg" %}  
+{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by Carol Highsmith [Source](https://www.loc.gov/resource/highsm.65937/)" src="images/lobo-image-8.jpg" %}  
 
 The oldest of the lobo statues, John Tatschl's _Lobo_, has been a staple of campus since its unveiling in 1947. Tatschl, an Austrian artist and professor, began his career at the university the year prior and quickly became known for his contributions to art across campus. The Lobo statue was the first such work, followed by _The History of Writing_ in the Zimmerman Library stairwell, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), and the altar screens inside the Alumni Memorial Chapel. Outside of artwork at the University, Tatschl constructed many other bronze statues across the country 
 
@@ -114,17 +114,17 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 
 - University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028, Box  9. Center for Southwest Research, University Libraries, University of New Mexico.
 
-- University of New Mexico Traditions. [Source] (https://www.unm.edu/welcome/traditions/index.html)
+- University of New Mexico Traditions. [UNM Traditions](https://www.unm.edu/welcome/traditions/index.html)
 
-- UNM Alumni Hodgin Hall Walking Tour [Source] (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)
+- UNM Alumni Hodgin Hall Walking Tour [Source](https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)
 
-- UNM LibGuides [Source] (https://libguides.unm.edu/publicart)
+- UNM LibGuides [Source](https://libguides.unm.edu/publicart)
 
-- UNM News [Source] (https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)
+- UNM News [Source](https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)
 
 [^mascot]: UNM Traditions (https://www.unm.edu/welcome/traditions/index.html)
 [^tight grove]: UNM Facility Planning Records
 [^tight grove2]: [Hodgin Hall Walking Tour (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)]
-[^libguides]: [Source (https://libguides.unm.edu/publicart)]
+[^libguides]: [Source](https://libguides.unm.edu/publicart)
 [^tatschl quote]: Albuquerque Journal. April 15, 1961.
 [^unmnews]: UNM News. February 9, 2014.
