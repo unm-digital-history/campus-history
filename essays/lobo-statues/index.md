@@ -12,7 +12,7 @@ background-position: 20px
 
 # The Lobo
 
-Among the numerous public art installations on campus, you'll encounter many iterations of the University's mascot, the Lobo. First suggested in 1920, the Lobo is a recognizable and beloved school symbol, representing teamwork and fearlessness. Let's take a tour of the statues around campus.
+Among the numerous public art installations on campus, you'll encounter many iterations of the University's mascot, the Lobo. First suggested in 1920, the Lobo is a recognizable and beloved school symbol, representing teamwork and fearlessness.[^mascot] Let's take a tour of the statues around campus.
 
 ## Lobo In Tight Grove
 
@@ -98,7 +98,7 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 ## 3D Lobo Statue Scan 
 <div class="sketchfab-embed-wrapper"> <iframe title="Howling Lobo" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/c7d2cc4c74c64067aac7000e5b4ef069/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/howling-lobo-c7d2cc4c74c64067aac7000e5b4ef069?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d2cc4c74c64067aac7000e5b4ef069" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Howling Lobo </a> by <a href="https://sketchfab.com/vigilmaya?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d2cc4c74c64067aac7000e5b4ef069" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> vigilmaya </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=c7d2cc4c74c64067aac7000e5b4ef069" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
-[^note1]: Test
+
 
 ## A Conversation with the Statues
 
@@ -121,3 +121,5 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 - UNM LibGuides [Source] (https://libguides.unm.edu/publicart)
 
 - UNM News [Source] (https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)
+
+[^mascot]: [UNM Traditions] (https://www.unm.edu/welcome/traditions/index.html)
