@@ -118,8 +118,9 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 
 - UNM Alumni Hodgin Hall Walking Tour [Source] (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)
 
-- UNM LibGuides [Source] (https://libguides.unm.edu/publicart)
+- UNM LibGuides [Source (https://libguides.unm.edu/publicart)]
 
-- UNM News [Source] (https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)
+- UNM News [Source (https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)]
 
-[^mascot]: [UNM Traditions] (https://www.unm.edu/welcome/traditions/index.html)
+[^mascot]: [UNM Traditions (https://www.unm.edu/welcome/traditions/index.html)]
+
