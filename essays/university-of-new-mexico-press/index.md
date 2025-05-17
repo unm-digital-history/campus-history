@@ -62,10 +62,43 @@ Between 1933 and 1943, the Press published 56 total books. Book publishing wasn'
 #### The Future Location of the Press
 The agreement for the construction of the Alpha Chi Omega sorority house was made on April 19th, 1930, between the "ALPHA CHI OMEGA BUILDING ASSOCIATION OF NEW MEXICO" and architect Beula Fleming. The house was finished sometime in late December of that year, or early January. It was outfitted with a three-tier fireplace, a grand piano, and other amenities.
 
-## 1717 Roma "Interview"
+## 1717 Roma Interview
+Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega girls got up to, as well as some operations of the Press in the present-day.
 <audio controls src="UNM-Press-Building-Interview.mp3"></audio>
 
+## Acknowledgments
+I would like to thank former Press Director Elizabeth Hadas, former Press employees Durwood Ball and David Holtby, and current Press employee Elise McHugh for their help in providing information on the Press's history between the late 1980s up until today. Elise also provided the pictures of the cracks at the Basehart Press location.
 
 ## Bibliography
-
-
+- _A History of the Buildings of the University of New Mexico: 1890-1934_ by Susan McColeman
+- “About Us.” El Palacio, March 14, 2019. https://elpalacio.org/about-us/.
+- Albuquerque Historical Society. 2022. “History of UNM Press: The Largest Book Publishing Company in New Mexico.” https://www.youtube.com/watch?v=7v7nNQ_MlxQ.
+- Alpha Chi Omega 1717 Roma Ave. NE Albuquerque, NM, 1980, Job Number 1, Stack: 28, Drawer: 05. Beula Fleming Architectural Drawings, SWA-Fleming-Drawings. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/323775 Accessed May 16, 2025.
+- Alpha Chi Omega, 1717 Roma Ave. NE, contracts, specifications, addendum,, 1930, Box: 1, Folder: 1. Beula Fleming Job Files, MSS-789-BC. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/238376 Accessed May 16, 2025.
+- Alpha Chi Omega, Drawer: 6. University of New Mexico Vertical Files, UNMA-006. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/342204 Accessed May 16, 2025.
+- Alpha Chi Omega Sorority House 1717 East Roma Ave. Albuquerque, New Mexico, 7/31/1950, Stack: 15, Drawer: 6. Louis G. Hesselden architectural drawings and plans collection, SWA-HESSELDON-Drawings. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/324359 Accessed May 16, 2025.
+- Homecoming - fraternity house decorations - Alpha Chi Omega. New Mexico’s Digital Collections. University of New Mexico University Libraries, March 19, 2012. https://nmdc.unm.edu/digital/collection/ULPhotoImag/id/3418/rec/2. 
+- _Miracle on the Mesa: A History of the University of New Mexico 1889-2003_ by William E. Davis
+- _Only in New Mexico: An Architectural History of the University of New Mexico. The First Century, 1889-1989_ by Van Dorn Hooker with Melissa Howard and V. B. Price
+- Press Records - History,, 1942-1950, Box: 7. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/340665 Accessed May 16, 2025.
+- Press Records - History of UNM Press,, 1940-1949, Box: 14. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/340943 Accessed May 16, 2025.
+- Press Records - History of UNM Press,, 1950-1959, Box: 14. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/340944 Accessed May 16, 2025.
+- Press Records - History of UNM Press,, 1960-1968, Box: 14. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/340945 Accessed May 16, 2025.
+- Press Records - History of UNM Press,, 1970-1979, Box: 14. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/340946 Accessed May 16, 2025.
+- Press Records - Report - Financial,, 1982-1986, Box: 8. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/340675 Accessed May 16, 2025.
+- _Pueblo on the Mesa: The First Fifty Years_ at the University of New Mexico by Dorothy Hughes
+- Sororities - Alpha Chi Omega - Formal - Two,, 1930s. University of New Mexico Student Publications Board Records,, UNMA-146. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/253944 Accessed May 16, 2025.
+- University of New Mexico. "Annual Report of the University, 1967-1968." (1968). https://digitalrepository.unm.edu/unm_annual_reports/38
+- University of New Mexico. "New Mexico Lobo, Volume 070, No 49, 12/16/1966." 70, 49 (1966). https://digitalrepository.unm.edu/daily_lobo_1966/123
+- University of New Mexico. "New Mexico Lobo, Volume 070, No 84, 3/31/1967." 70, 84 (1967). https://digitalrepository.unm.edu/daily_lobo_1967/30
+- University of New Mexico. "New Mexico Lobo, Volume 070, No 109, 5/15/1967." 70, 109 (1967). https://digitalrepository.unm.edu/daily_lobo_1967/55
+- University of New Mexico. "New Mexico Daily Lobo, Volume 089, No 147, 5/6/1985." 89, 147 (1985). https://digitalrepository.unm.edu/daily_lobo_1985/72
+- University of New Mexico. "The Mirage, 1935." (1935). https://digitalrepository.unm.edu/unm_yearbooks/23
+- University of New Mexico. "The Mirage, 1945." (1945). https://digitalrepository.unm.edu/unm_yearbooks/60
+- University of New Mexico. "The Mirage, 1947." (1947). https://digitalrepository.unm.edu/unm_yearbooks/24
+- University of New Mexico. "The Mirage, 1966." (1966). https://digitalrepository.unm.edu/unm_yearbooks/63
+- University of New Mexico. "The Mirage, 1967." (1967). https://digitalrepository.unm.edu/unm_yearbooks/56
+- University of New Mexico Board of Regents. "University of New Mexico Board of Regents Minutes for June 13, 1995." (1995). https://digitalrepository.unm.edu/bor_minutes/629
+- UNM Office of the Registrar. "1924-1925-UNM CATALOG." (1925). https://digitalrepository.unm.edu/course_catalogs/27
+- UNM Office of the Registrar. "1935-1936 CATALOG ISSUE- BULLETIN." (1936). https://digitalrepository.unm.edu/course_catalogs/40
+- UNM Office of the Registrar. "1951-1952 CATALOG ISSUE- BULLETIN." (1951). https://digitalrepository.unm.edu/course_catalogs/58
