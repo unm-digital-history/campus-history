@@ -44,7 +44,7 @@ Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a re
 
 ### Construction of the Lobo
 
-{% include figure.html class="img-left" width="48%" caption="Tatschl beside the statue during installation." src="lobo-installation-2.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Tatschl beside the statue during installation.[^tatschl]" src="lobo-installation-2.jpg" %}
 
 Approached by either the student government or the fraternities and sororities on campus, Tatschl was commissioned by a university group to create a plan for the statue in the spring of 1947. The student group wanted to erect a memorial statue to honor the students and alumni who lost their lives during World War II. By homecoming of the same year, he completed the statue. The bronze lobo was constructed in half a year for just $2800. When the statue was relocated in 1961, the cost of the new pedestal and hoists to move the statue was roughly $600. 
 
@@ -68,7 +68,7 @@ Tatschl's Lobo has made many homes across campus throughout its nearly 80 years.
 
 {% include figure.html class="img-left" width="60%" caption="A popular prop for graduation photos, the Lobo Head fittingly lives outside the Alumni Building." src="images/lobo-head-1.jpg" %}
 
-Can't get enough of Professor Tatschl's _Lobo_? You'll find an oversized replica of the head of Tatschl's original Lobo outside Hodgin Hall. The replica was completed in June 1985 by the Shidoni Foundry in Tesque, New Mexico. The bronze statue is a donation to the University and Hodgin Hall by Eleanor and Dr. Randy Seligman. 
+Can't get enough of Professor Tatschl's _Lobo_? You'll find an oversized replica of the head of Tatschl's original Lobo outside Hodgin Hall. The replica was completed in June 1985 by the Shidoni Foundry in Tesque, New Mexico. The bronze statue is a donation to the University and Hodgin Hall by Eleanor and Dr. Randy Seligman.[^hodginhall]
 
 {% include scrollybox/bg-multi-long.html
   bg-id="bg1"
@@ -79,7 +79,7 @@ Can't get enough of Professor Tatschl's _Lobo_? You'll find an oversized replica
 %}
 
 ## _Spirit of the Lobo_
-Lurking among the trees and bushes of central campus, you'll encounter smaller bronze lobo statues in various poses. The statues were donations to the University during the 2014 _Spirit of the Lobo_ campaign. The campaign, begun by then-University President Robert Frank, set out to commemorate what it means to be a Lobo through the installation of permanent bronze statues throughout the community. Purchased through the UNM Foundation, the statues were available for $5,000, with the opportunity to install them either on campus or elsewhere. Each statue on campus has a plaque thanking the donors. Similarly to the Lobo in Tight Grove, the 36" lobo statues are realistic representations of the school mascot. [^unmnews]
+Lurking among the trees and bushes of central campus, you'll encounter smaller bronze lobo statues in various poses. The statues were donations to the University during the 2014 _Spirit of the Lobo_ campaign. The campaign, begun by then-University President Robert Frank, set out to commemorate what it means to be a Lobo through the installation of permanent bronze statues throughout the community. Purchased through the UNM Foundation, the statues were available for $5,000, with the opportunity to install them either on campus or elsewhere. Each statue on campus has a plaque thanking the donors. Similar to the Lobo in Tight Grove, the 36" lobo statues are realistic representations of the school mascot. [^unmnews]
 
 {% include scrollybox/bg-switch.html
   image-url="images/lobo-bronze-2.jpg"
@@ -114,17 +114,19 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 
 - University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028, Box  9. Center for Southwest Research, University Libraries, University of New Mexico.
 
-- University of New Mexico Traditions. [UNM Traditions](https://www.unm.edu/welcome/traditions/index.html)
+- [UNM Traditions](https://www.unm.edu/welcome/traditions/index.html)
 
-- UNM Alumni Hodgin Hall Walking Tour [Source](https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)
+- [UNM Alumni Hodgin Hall Walking Tour](https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)
 
-- UNM LibGuides [Source](https://libguides.unm.edu/publicart)
+- [UNM LibGuides](https://libguides.unm.edu/publicart)
 
-- UNM News [Source](https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)
+- [UNM News](https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)
 
-[^mascot]: UNM Traditions (https://www.unm.edu/welcome/traditions/index.html)
-[^tight grove]: UNM Facility Planning Records
-[^tight grove2]: [Hodgin Hall Walking Tour (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)]
-[^libguides]: [Source](https://libguides.unm.edu/publicart)
+[^mascot]: [UNM Traditions](https://www.unm.edu/welcome/traditions/index.html)
+[^tight grove]: UNM Facility Planning Records, CSWR
+[^tight grove2]: [Hodgin Hall Walking Tour](https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)
+[^libguides]: [UNM LibGuides](https://libguides.unm.edu/publicart)
 [^tatschl quote]: Albuquerque Journal. April 15, 1961.
-[^unmnews]: UNM News. February 9, 2014.
+[^unmnews]: [UNM News](https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus) February 9, 2014.
+[^hodginhall]: UNM Facility Planning Records, CSWR
+[^tatschl]: UNM Facility Planning Records, CSWR
