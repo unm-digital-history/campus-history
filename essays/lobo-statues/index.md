@@ -33,7 +33,7 @@ The Lobo finds an apt home in the man-made forest on the edge of campus. Tight G
 
 # John Tatschl's _Lobo_ 
 
-{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by [Carol Highsmith (https://www.loc.gov/resource/highsm.65937/)]" src="images/lobo-image-8.jpg" %}  
+{% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by Carol Highsmith [Source] (https://www.loc.gov/resource/highsm.65937/)" src="images/lobo-image-8.jpg" %}  
 
 The oldest of the lobo statues, John Tatschl's _Lobo_, has been a staple of campus since its unveiling in 1947. Tatschl, an Austrian artist and professor, began his career at the university the year prior and quickly became known for his contributions to art across campus. The Lobo statue was the first such work, followed by _The History of Writing_ in the Zimmerman Library stairwell, the colorful glass wall of the College of Education Building (formerly Travelstead Hall), and the altar screens inside the Alumni Memorial Chapel. Outside of artwork at the University, Tatschl constructed many other bronze statues across the country 
 
