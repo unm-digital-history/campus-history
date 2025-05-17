@@ -12,7 +12,7 @@ background-position: 20px
 
 ## Introduction
 
-The University of New Mexico Press has been a fixture of UNM for nearly a century. Compared to many other long-standing institutions on campus, though, the Press has been shifted between many different locations over the years. Currently, it is based out of 1717 Roma Avenue NE, to the west of Dane Smith Hall; this building was first constructed as the Alpha Chi Omega sorority house. The Press occupies the first floor and basement of the building, with one office on the upper level (the rest are reserved for overflow from Scholes Hall across the street and to the east). The Press is New Mexico's one major book publisher and handles various regional projects, as well as scholarly books alongside poetry collections and fiction. Its history is long and storied, and, as far as becoming part of UNM goes, properly begins in 1929—incidentally, the same year that the ball got rolling for the construction of its current base of operations.
+The University of New Mexico Press has been a fixture of UNM for nearly a century. Compared to many other long-standing institutions on campus, though, the Press has been shifted between many different locations over the years. Currently, it is based out of 1717 Roma Avenue NE, to the west of Dane Smith Hall; this building was first constructed as the Alpha Chi Omega sorority house in 1930-31, following the establishment of the UNM Chapter in 1918. The Press occupies the first floor and basement of the building, with one office on the upper level (the rest are reserved for overflow from Scholes Hall across the street and to the east). The Press is New Mexico's one major book publisher and handles various regional projects, as well as scholarly books alongside poetry collections and fiction. Its history is long and storied, and, as far as becoming part of UNM goes, properly begins in 1929—incidentally, the same year that the ball got rolling for the construction of its current base of operations.
 
 {% include figure.html
   class="img-center"
@@ -59,10 +59,10 @@ For its first 3 years, the Press was little more than a printing facility for UN
 
 Between 1933 and 1943, the Press published 56 total books. Book publishing wasn't a focus of the Press at first, as they were busy handling the catalogues for UNM and its graduate school, as well as an increasing number of bulletins. They leased their machinery and equipment from the School of American Research until 1935, when the Press acquired it for $5,000. Additionally, as part of UNM, plans were made for a University literary publication with a distinctly Southwestern flavor, in the form of the _New Mexico Quarterly._
 
-### The Future Location of the Press
+#### The Future Location of the Press
+The agreement for the construction of the Alpha Chi Omega sorority house was made on April 19th, 1930, between the "ALPHA CHI OMEGA BUILDING ASSOCIATION OF NEW MEXICO" and architect Beula Fleming. The house was finished sometime in late December of that year, or early January. It was outfitted with a three-tier fireplace, a grand piano, and other amenities.
 
-
-
+## 1717 Roma "Interview"
 <audio controls src="UNM-Press-Building-Interview.mp3"></audio>
 
 
