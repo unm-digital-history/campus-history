@@ -28,6 +28,29 @@ Even though it would not be until the fall of 2009 that the Press would come to 
 
 ### The Press's First Location
 
+In a similar vein, the first building the Press was housed in was already established. In the summer of 1921, Mrs. Jacob Korber and her son A.P. Korber gifted UNM $500 to pay for equipment for a wireless telephone and telegraph station. It conducted its first radio broadcast on December 16th, 1921. While it was initially based in the Science Hall, in 1925, two small buildings were built for the Station. UNM had high hopes for the Korber Wireless Station, proudly boasting that its towers would be "destined to be of great service to this region." It closed the very next year because it was too expensive to operate. 
+
+After that, one of the buildings was reappropriated as a music studio for a short time, before the Press ultimately ended up inhabiting them. At the time, the buildings were connected by an outdoor boardwalk.
+
+{% include figure.html
+class="img-left"
+width="48%"
+caption="A map of the University of New Mexico campus in December 1928, showing the eventual home of the Press in its original state."
+  src="images/Screenshot_2025-05-16_025216.png"
+%}
+
+{% include figure.html
+class="img-left"
+width="48%"
+caption="The campus in December 1935. By this point, the two buildings had been connected to each other and the Carlisle Gym."
+  src="images/Screenshot_2025-05-01_180119.png"
+%}
+
+{% include figure.html
+  class="img-center"
+  width="100%"
+  %}
+
 [^note1]: This is my citation at the end of the FIRST paragraph.
 
 Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
