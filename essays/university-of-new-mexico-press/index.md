@@ -101,4 +101,5 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 - University of New Mexico Board of Regents. "University of New Mexico Board of Regents Minutes for June 13, 1995." (1995). https://digitalrepository.unm.edu/bor_minutes/629
 - UNM Office of the Registrar. "1924-1925-UNM CATALOG." (1925). https://digitalrepository.unm.edu/course_catalogs/27
 - UNM Office of the Registrar. "1935-1936 CATALOG ISSUE- BULLETIN." (1936). https://digitalrepository.unm.edu/course_catalogs/40
+- UNM Office of the Registrar. "1948-1949 CATALOG ISSUE- BULLETIN." (1948). https://digitalrepository.unm.edu/course_catalogs/54
 - UNM Office of the Registrar. "1951-1952 CATALOG ISSUE- BULLETIN." (1951). https://digitalrepository.unm.edu/course_catalogs/58
