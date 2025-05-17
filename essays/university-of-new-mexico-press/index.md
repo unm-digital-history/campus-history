@@ -3,7 +3,7 @@ title: The University of New Mexico Press
 author: Mason Parrish
 layout: unm-base
 date: 2025-05-16
-header-image: TBD
+header-image: PXL_20250501_220349996.jpg
 header-title: The University of New Mexico Press
 header-height: 50vh
 background-position: 20px
