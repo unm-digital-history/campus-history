@@ -79,7 +79,7 @@ Can't get enough of Professor Tatschl's _Lobo_? You'll find an oversized replica
 %}
 
 ## _Spirit of the Lobo_
-Lurking among the trees and bushes of central campus, you'll encounter smaller bronze lobo statues in various poses. The statues were donations to the University during the 2014 _Spirit of the Lobo_ campaign. The campaign, begun by then-University President Robert Frank, set out to commemorate what it means to be a Lobo through the installation of permanent bronze statues throughout the community. Purchased through the UNM Foundation, the statues were available for $5,000, with the opportunity to install them either on campus or elsewhere. Each statue on campus has a plaque thanking the donors. Similarly to the Lobo in Tight Grove, the 36" lobo statues are realistic representations of the school mascot. 
+Lurking among the trees and bushes of central campus, you'll encounter smaller bronze lobo statues in various poses. The statues were donations to the University during the 2014 _Spirit of the Lobo_ campaign. The campaign, begun by then-University President Robert Frank, set out to commemorate what it means to be a Lobo through the installation of permanent bronze statues throughout the community. Purchased through the UNM Foundation, the statues were available for $5,000, with the opportunity to install them either on campus or elsewhere. Each statue on campus has a plaque thanking the donors. Similarly to the Lobo in Tight Grove, the 36" lobo statues are realistic representations of the school mascot. [^unmnews]
 
 {% include scrollybox/bg-switch.html
   image-url="images/lobo-bronze-2.jpg"
@@ -100,7 +100,7 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 
 
 
-## A Conversation Between Two the Lobo (Statues)
+## A Conversation Between Two Lobo (Statues)
 
 <audio controls src="lobo-statues.mp3"></audio>
 
@@ -116,14 +116,15 @@ Lurking among the trees and bushes of central campus, you'll encounter smaller b
 
 - University of New Mexico Traditions. [Source] (https://www.unm.edu/welcome/traditions/index.html)
 
-- UNM Alumni Hodgin Hall Walking Tour [Source (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)]
+- UNM Alumni Hodgin Hall Walking Tour [Source] (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)
 
-- UNM LibGuides [Source (https://libguides.unm.edu/publicart)]
+- UNM LibGuides [Source] (https://libguides.unm.edu/publicart)
 
-- UNM News [Source (https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)]
+- UNM News [Source] (https://news.unm.edu/news/unm-s-spirit-of-the-lobos-program-roams-campus)
 
-[^mascot]: [UNM Traditions (https://www.unm.edu/welcome/traditions/index.html)]
+[^mascot]: UNM Traditions (https://www.unm.edu/welcome/traditions/index.html)
 [^tight grove]: UNM Facility Planning Records
 [^tight grove2]: [Hodgin Hall Walking Tour (https://www.unmalumni.com/s/1730/images/gid2/editor_documents/2020_redesign/hodgin-pdfs/hodgin-hall-walking-tour.pdf?gid=2&pgid=61&sessionid=061e5dbe-72a8-4fe2-a075-722cb4dd625c&cc=1)]
 [^libguides]: [Source (https://libguides.unm.edu/publicart)]
 [^tatschl quote]: Albuquerque Journal. April 15, 1961.
+[^unmnews]: UNM News. February 9, 2014.
