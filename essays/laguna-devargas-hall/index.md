@@ -76,7 +76,7 @@ And Fine Arts LLC – A space for students passionate about music, dance, theate
 
 Laguna DeVargas Hall consists of comfortable suite-style living arrangements, offering a mix of single and double rooms with shared bathrooms. Everyone loves to have a neraby bathroom!
 
-### IMAGE SWITCH HERE 
+
 
 {% include scrollybox/bg-switch.html
   image-url="images/7468851284_c44195be90_b.jpg"
@@ -86,11 +86,9 @@ Laguna DeVargas Hall consists of comfortable suite-style living arrangements, of
 
 
 ### Duis vehicula erat et diam
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
+Within the Lugana Hall setup, you will find three sectors for DeVargas. All made to incorporate space and order for those moving in. 
 
 
-#### Almost done
-This is the end of the story, and you should see the text box scroll out of view followed by the background image.
 
 
 {% include scrollybox/bg-multi-long-close.html %}
