@@ -18,7 +18,7 @@ background-position: 20px
 
 
 Laguna DeVargas Hall – University of New Mexico
-Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical residence halls at UNM. Having been built during the late 60s, construction for the dorm finished in 1969 and was praised for its unique and fresh design. It consists of comfortable suite-style living arrangements, offering a mix of single and double rooms with shared bathrooms. Each suite accommodates up to six residents, providing a balance between privacy and community living. And depending on which room you get, you may even see a beautiful view of the Sandia Mountains standing proudly in the distance when on the 3rd floor!
+Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical residence halls at UNM. Having been built during the late 60s, construction for the dorm finished in 1969 and was praised for its unique and fresh design. It consists of comfortable suite-style living arrangements, offering a mix of single and double rooms with shared bathrooms. Each suite accommodates up to six residents, providing a balance between privacy and community living. This suite-style design was introduced to provide a more modern and comfortable living space, with shared bathrooms and common areas that encourage social interaction. And depending on which room you get, you may even see a beautiful view of the Sandia Mountains standing proudly in the distance when on the 3rd floor!
 
 {% include juxtapose.html
 image1="images/download (1) (1).png"
@@ -29,13 +29,12 @@ caption="Here can be seen two young gentlmen on the left walking across the DeVa
 
 
 Key Features:
-Carpeted rooms with large solid wood closets and built-in dresser drawers.
-Student lounges on each floor for socializing and studying.
-Full kitchen and laundry facilities in common areas.
-Co-ed living on an alternating suite basis.
-Recreation area in the basement, open 24/7.
-Double Occupancy: $5,950 per academic year
-Single Occupancy: $8,000 per academic year
+Where you will stay, carpeted rooms come with large solid wood closets and built-in dresser drawers for any clothes, projects, pantry storage or even secret friends you may want to hide for a later party. 
+Laguna DeVargas Hall comes with student lounges on each floor for socializing and studying. You will also notice TVs on each of these lounges. 
+There is a full kitchen and laundry facilities in common areas just right at the basement levels.
+DeVargas offers Co-ed living on an alternating suite basis.
+In case you need an area to kick back with friends or want to lounge out in peace, DeVargas Hall has you covered! With a recreation area in the basement, open 24/7, you can’t go wrong. 
+
 
 {% include scrollybox/bg.html
   height="220"
