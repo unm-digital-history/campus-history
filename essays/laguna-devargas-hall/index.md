@@ -46,11 +46,17 @@ In case you need an area to kick back with friends or want to lounge out in peac
 %}
 
 
-Knowing that the The Laguna DeVargas Halls were designed to foster a balance between community engagement and personal privacy, making them a popular choice for students who 
+Knowing that the The Laguna DeVargas Halls were designed to foster a balance between community engagement 
 
-prefer a more independent living arrangement, they have engaged with helping foster academic groups as well. Over the years, Laguna DeVargas Hall has hosted various Living 
+and personal privacy, making them a popular choice for students who 
 
-Learning Communities (LLCs), including STEM and Fine Arts programs, helping students connect with peers who share their academic interests.
+prefer a more independent living arrangement, they have engaged with helping foster academic groups as well. 
+
+Over the years, Laguna DeVargas Hall has hosted various Living 
+
+Learning Communities (LLCs), including STEM and Fine Arts programs, helping students connect with peers who 
+
+share their academic interests.
 
 STEM LLC – A community for students interested in science, engineering, and planetary sciences.
 
