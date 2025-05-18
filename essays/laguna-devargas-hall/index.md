@@ -46,16 +46,15 @@ In case you need an area to kick back with friends or want to lounge out in peac
 %}
 
 
-History & Fun Facts:
-The University of New Mexico was founded in 1889, and its campus has grown significantly over the years.
-LDV Hall is part of UNM’s residence life program, designed to foster academic and social engagement.
-The basement recreation area is open 24/7, making it a great spot for late-night study sessions or social gatherings.
-Community Association meetings are held weekly, allowing residents to voice their opinions and contribute to campus life.
-The hall’s large solid wood closets and built-in dresser drawers are a unique feature that sets it apart from other residence halls.
-Laguna and DeVargas Halls are co-ed, but the suites alternate between male and female residents, creating a balanced and inclusive living environment.
-The full kitchen and laundry facilities in the common areas allow students to cook meals and do laundry conveniently, fostering a sense of independence.
-Mesta Vista Hall was once dorm living for students but turned into professor department offices around the same time as Devargas was being built. Very much has the late 60s aesthetic to it.
+Knowing that the The Laguna DeVargas Halls were designed to foster a balance between community engagement and personal privacy, making them a popular choice for students who 
 
+prefer a more independent living arrangement, they have engaged with helping foster academic groups as well. Over the years, Laguna DeVargas Hall has hosted various Living 
+
+Learning Communities (LLCs), including STEM and Fine Arts programs, helping students connect with peers who share their academic interests.
+
+STEM LLC – A community for students interested in science, engineering, and planetary sciences.
+
+And Fine Arts LLC – A space for students passionate about music, dance, theater, and visual arts. 
 
 
 <!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
