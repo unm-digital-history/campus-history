@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligu
 ### IMAGE SWITCH HERE 
 
 {% include scrollybox/bg-switch.html
-  image-url="images/download (3) (1).png"
+  image-url="images/7468851284_c44195be90_b.jpg"
   switch-id="switch1"
   bg-id="bg1"
 %}
