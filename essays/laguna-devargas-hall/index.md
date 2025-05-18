@@ -18,7 +18,7 @@ background-position: 20px
 
 
 
-Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical residence halls at UNM. Having been built during the late 60s, construction for the dorm finished in 1969 and was praised for its unique and fresh design. It consists of comfortable suite-style living arrangements, offering a mix of single and double rooms with shared bathrooms. Each suite accommodates up to six residents, providing a balance between privacy and community living. This suite-style design was introduced to provide a more modern and comfortable living space, with shared bathrooms and common areas that encourage social interaction. And depending on which room you get, you may even see a beautiful view of the Sandia Mountains standing proudly in the distance when on the 3rd floor!
+Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical residence halls at UNM. Having been built during the late 60s, construction for the dorm finished in 1969 and was praised for its unique and fresh design. Each suite accommodates up to six residents, providing a balance between privacy and community living. This suite-style design was introduced to provide a more modern and comfortable living space, with shared bathrooms and common areas that encourage social interaction. And depending on which room you get, you may even see a beautiful view of the Sandia Mountains standing proudly in the distance when on the 3rd floor!
 
 {% include juxtapose.html
 image1="images/Picsart_25-05-18_17-15-19-658.jpg"
@@ -72,10 +72,9 @@ And Fine Arts LLC – A space for students passionate about music, dance, theate
   line-height = "100%"
 %}
 
-Now we have a text box scrolling up over the image. At various points (clearly labled in the following text) **the background image will switch.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl. Curabitur consectetur placerat commodo. Maecenas sagittis facilisis turpis vel porta. Nulla facilisi. Nam viverra eget metus eget efficitur.
 
+Laguna DeVargas Hall consists of comfortable suite-style living arrangements, offering a mix of single and double rooms with shared bathrooms. Everyone loves to have a neraby bathroom!
 
 ### IMAGE SWITCH HERE 
 
