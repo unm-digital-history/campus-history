@@ -104,8 +104,24 @@ However, it cannot be said that the Press's editorial offices fared quite as wel
 
 Afterwards, though, the Press was left in a relatively good position. In 1957, the offices moved into a 10-suite room in Marron Hall, which had once been a dormitory itself, across the street from the printing plant in the Journalism Building. They remained there until September of 1964, when they moved into a space on the second floor of the newly completed west wing of the Journalism Building. Apparently, this was its sixth location on campus, meaning at some point, the offices had occupied yet another place on UNM campus. They accrued a substantial foreign business, mainly with Central and South America.
 
+### 1717 Roma Expands
+The architect Louis G. Hesselden was brought on to design and build an addition to the Alpha Chi Omega sorority house in 1950, which included a new lounge, bathroom, laundry room, and a "town girl's room," as well as a few other renovations like an additional shower in the second floor bathroom. A door at the end of the upstairs hallway was also added to access the roof of the expansion, which was intended as a sun deck. The basement was left untouched, though the building's foundation was updated to accommodate the new left side of the house. The lounge now serves as the Press's entrance room.
+
+{% include jumbotron.html
+  height="50"
+  image-url="Screenshot_20250516_150644~3.jpg"
+  title="The Hesselden addition + alteration plans."
+%}
+
+{% include figure.html
+class="img-center"
+width="100%"
+caption="The lounge space today, which serves as the entrance and reception area."
+src="images/PXL_20250501_160143468.jpg"
+%}
+
 ## Interview with 1717 Roma
-Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega girls got up to, as well as some operations of the Press in the present-day.
+Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega members got up to, as well as some operations of the Press in the present-day.
 <audio controls src="UNM-Press-Building-Interview.mp3"></audio>
 
 ## Acknowledgments
