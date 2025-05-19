@@ -59,6 +59,13 @@ For its first 3 years, the Press was little more than a printing facility for UN
 
 Between 1933 and 1943, the Press published 56 total books. Book publishing wasn't a focus of the Press at first, as they were busy handling the catalogues for UNM and its graduate school, as well as an increasing number of bulletins. They leased their machinery and equipment from the School of American Research until 1935, when the Press acquired it for $5,000. Additionally, as part of UNM, plans were made for a University literary publication with a distinctly Southwestern flavor, in the form of the _New Mexico Quarterly._
 
+{% include figure.html
+class="img-center"
+width="100%"
+caption="An overhead view of campus from 1943, in which both the Press offices and 1717 Roma can be seen."
+src="images/Screenshot_20250516_162707.jpg"
+%}
+
 ### The Future Location of the Press
 The agreement for the construction of the Alpha Chi Omega sorority house was made on April 19th, 1930, between the "ALPHA CHI OMEGA BUILDING ASSOCIATION OF NEW MEXICO" and architect Beula Fleming. The house was finished sometime in late December of that year or in early January 1931. It was outfitted with a three-tier fireplace, a grand piano, and other amenities. The initial sketches for the building differed from the final layout; the living room originally protruded out more from the rest of the house, with a fireplace nestled in its bottom left corner, and a conservatory room adjacent to it was dropped entirely. The dining room and kitchen were also made flush with the reoriented living room. Additionally, the original plan called for a porch on the exterior facing west; this did not come to fruition, with one instead being built along the walkway to the entryway door.
 
@@ -82,6 +89,20 @@ src="images/Screenshot_2025-05-16_023922.png"
 %}
 
 ## Growing Pains
+The Press faced many challenges early on in its life. For nearly the first decade of its life at UNM, the Great Depression was raging, and during at least one summer, the Press lacked the money to pay its personnel. Its first home also wasn't terribly well-suited to the Press's operations; floor space for the UNM Press Plant reportedly had only ever been adequate shortly after each stage of new construction. Operating in under 4000 square feet of space not only made it impossible for the Press to add any new machinery to their operations, but the established machinery was so crowded that it was allegedly dangerous. In the fall of 1943, President Zimmerman asked Joseph A. Brandt, then-director of the University of Chicago Press, to visit the UNM Press and provide feedback. Brandt's response in 1944 did offer some praise for the press even existing, and he also commended the organization of the plant, but he stated that it was understaffed, underfunded, and underequipped. During the 1930s and 1940s, the press's staff ranged from 4 to 8 people, which limited just how much they could achieve. Additionally, due to being the only prominent publisher in a 400-mile radius at this time (and for years to come), many Press staff lacked top-level publishing experience. Brandt offered a multitude of recommendations for improving the Press's operations, including aiming to publish 6-10 new books per year across 2 seasonal lists, making production money available for books in a composite budget, preparing for a loss of $10,000 to $15,000 annually, and making the plant a formal division of the Press. The following reorganization took place against the backdrop of thousands more students coming to UNM, in part due to the GI Bill that brought in an influx of World War II veterans. It resulted in the press taking on a broader publishing program as well, with less of a focus on scholarly material.
+
+That's not to say there weren't any positive developments with the Press around this time. In 1949, construction on the Journalism Building wrapped up, and the Press plant found a stable, suitable home within it. It occupied the entire first floor, and was the most complete university plant in the Southwest. Scholastic societies based outside of New Mexico sometimes contracted with the plant simply because they were that satisfied with the quality of their printing, and their employee count rose to 30 staffers.
+
+{% include figure.html
+class="img-center"
+width="100%"
+caption="The Journalism building in 1949."
+src="images/Journalism-and-UNM-Press-building-1949.png"
+%}
+
+However, it cannot be said that the Press's editorial offices fared quite as well. By 1948, they'd already moved into a building directly southwest of their initial location, roughly where Clark Hall stands now. Within a few years, though, they'd moved to a temporary structure to the northeast of the Library (which had not yet been named for Zimmerman), labeled as T-21 on the campus map. It was part of a collection of buildings that mostly served as women's dormitories. During this time, they were able to expand and establish distinct editorial, art, sales and promotion, and shipping and bookkeeping departments, as well as a clerical staff. They also produced some books on behalf of the University of Arizona, whose press existed in name only until 1959. However, 1956 brought on more tough times for the Press, including a near-total reorganization. The idea was combining the Press, _New Mexico Quarterly_, and _Publications_ series into a single department while making printing operations independent. The entirety of the Press was laid off so that the new editor of publications, Roland Dickey, could appoint a new staff, though one of the affected employees did end up staying on as an office manager.
+
+Afterwards, though, the Press was left in a relatively good position. In 1957, the offices moved into a 10-suite room in Marron Hall, which had once been a dormitory itself, across the street from the printing plant in the Journalism Building. They remained there until September of 1964, when they moved into a space on the second floor of the newly completed west wing of the Journalism Building. Apparently, this was its sixth location on campus, meaning at some point, the offices had occupied yet another place on UNM campus. They accrued a substantial foreign business, mainly with Central and South America.
 
 ## Interview with 1717 Roma
 Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega girls got up to, as well as some operations of the Press in the present-day.
@@ -93,7 +114,7 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 ## Bibliography
 - _A History of the Buildings of the University of New Mexico: 1890-1934_ by Susan McColeman
 - “About Us.” El Palacio, March 14, 2019. https://elpalacio.org/about-us/.
-- Albuquerque Historical Society. 2022. “History of UNM Press: The Largest Book Publishing Company in New Mexico.” https://www.youtube.com/watch?v=7v7nNQ_MlxQ.
+- Albuquerque Historical Society. 2022. “History of UNM Press: The Largest Book Publishing Company in New Mexico.” https://www.albuqhistsoc.org/programs/ahs-2022-2023-programs/history-of-unm-press-the-largest-book-publishing-company-in-new-mexico/, https://www.youtube.com/watch?v=7v7nNQ_MlxQ.
 - Alpha Chi Omega 1717 Roma Ave. NE Albuquerque, NM, 1980, Job Number 1, Stack: 28, Drawer: 05. Beula Fleming Architectural Drawings, SWA-Fleming-Drawings. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/323775 Accessed May 16, 2025.
 - Alpha Chi Omega, 1717 Roma Ave. NE, contracts, specifications, addendum,, 1930, Box: 1, Folder: 1. Beula Fleming Job Files, MSS-789-BC. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/238376 Accessed May 16, 2025.
 - Alpha Chi Omega, Drawer: 6. University of New Mexico Vertical Files, UNMA-006. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/342204 Accessed May 16, 2025.
