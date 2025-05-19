@@ -134,7 +134,8 @@ In the gathering for the ways of DeVargas, my team and I were able to spot and a
   
 - The Univeristy Of New Mexico https://events.unm.edu/amenities/accommodations.html
 
-- UNM University Libraries https://unm.on.worldcat.org/search?search1=KW%3A%20&queryString=KW%3A%20%28Laguna%20DeVargas%29&clusterResults=true&stickyFacetsChecked=on&changedFacet=scope&groupVariantRecords=false&bookReviews=off
+- UNM University Libraries https://unm.on.worldcat.org/search?search1=KW%3A%20&queryString=KW%3A%20%28Laguna%20DeVargas%29&clusterResults
+=true&stickyFacetsChecked=on&changedFacet=scope&groupVariantRecords=false&bookReviews=off
 
 
 - UNM.edu https://events.unm.edu/amenities/accommodations.html
