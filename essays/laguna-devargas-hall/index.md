@@ -24,8 +24,7 @@ Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical res
 image1="images/Picsart_25-05-18_17-15-19-658.jpg"
 image2="images/Picsart_25-05-18_17-12-31-306.jpg"
 caption="Here can be seen two young gentlmen on the left walking across the DeVargas Courtyard in 1971. On the right, a current picture of the Hall, with the fountain now removed."
-%}[Source](https://unm.on.worldcat.org/search?search1=KW%3A%20&queryString=KW%3A%20%28Laguna%20DeVargas%29&clusterResults=true&stickyFacetsChecked=on&changedFacet=scope&groupVariantRecords=false&bookReviews=off)
-
+%}
 
 
 Key Features:
