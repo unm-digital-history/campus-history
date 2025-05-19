@@ -62,16 +62,23 @@ Between 1933 and 1943, the Press published 56 total books. Book publishing wasn'
 #### The Future Location of the Press
 The agreement for the construction of the Alpha Chi Omega sorority house was made on April 19th, 1930, between the "ALPHA CHI OMEGA BUILDING ASSOCIATION OF NEW MEXICO" and architect Beula Fleming. The house was finished sometime in late December of that year or in early January 1931. It was outfitted with a three-tier fireplace, a grand piano, and other amenities. The initial sketches for the building differed from the final layout; the living room originally protruded out more from the rest of the house, with a fireplace nestled in its bottom left corner, and a conservatory room adjacent to it was dropped entirely. The dining room and kitchen were also made flush with the reoriented living room. Additionally, the original plan called for a porch on the exterior facing west; this did not come to fruition, with one instead being built along the walkway to the entryway door.
 
-{% assign images = "images/ClearerBeula.jpg, images/Beula_Fleming_stuff_1.jpg, images/CamScanner_04-30-2025_15.29_1.jpg, images/Screenshot_2025-05-16_023922.png" | split: ',' %}
+{% assign images = "images/ClearerBeula.jpg, images/Beula_Fleming_stuff_1.jpg, images/CamScanner_04-30-2025_15.29_1.jpg" | split: ',' %}
 
 {% include carousel.html images = images %}
 
-The first image is of the initial plan for the ground floor of 1717 Roma Avenue NE. The second is of sketches of the original design of the building from the right side and front. The third is a picture of the structure shortly after construction was finished, which is largely identical to the current building aside from the lack of the 1950 addition and the double doors being removes; the step leading up to it does still remain, but the doors were walled off and a window was inserted where they once stood. The fourth depicts the fireplace inside the living room.
+The first image is of the initial plan for the ground floor of 1717 Roma Avenue NE. The second is of sketches of the original design of the building from the right side and front. The third is a picture of the structure shortly after construction was finished, which is largely identical to the current building aside from the lack of the 1950 addition and the double doors being removes; the step leading up to it does still remain, but the doors were walled off and a window was inserted where they once stood. 
 
 {% include juxtapose.html
 image1="images/KICDocument0001.png"
 image2="images/PXL_20250501_220504555.jpg"
 caption="1717 Roma in the 1930s, compared to how this corner of the building looks today."
+%}
+
+{% include figure.html
+class="img-center"
+width="30%"
+caption="The fireplace, inside the living room."
+src="images/Screenshot_2025-05-16_023922.png"
 %}
 
 ## Growing Pains
