@@ -67,14 +67,13 @@ ClearerBeula.jpg,
 CamScanner_04-30-2025_15.29_1.jpg,
 Screenshot_2025-05-16_023922.png" | split: ','
 %}
-
 {% include carousel.html
 images = images 
 %}
 
 {% include juxtapose.html
 image1="images/KICDocument0001.png"
-image2="images/markup_1000026592.jpg"
+image2="images/PXL_20250501_220504555.jpg"
 caption="1717 Roma in the 1930s, compared to how this corner of the building looks today."
 %}
 
