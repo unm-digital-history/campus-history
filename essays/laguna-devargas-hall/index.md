@@ -80,8 +80,7 @@ Laguna DeVargas Hall consists of comfortable suite-style living arrangements, of
 {% include scrollybox/bg-switch.html
   image-url="images/7468851284_c44195be90_b.jpg"
   switch-id="switch1"
-  bg-id="bg1"
-%}
+  bg-id="bg1"%}
 
 
 ### Unique Layout
