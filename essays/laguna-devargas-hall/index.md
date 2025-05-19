@@ -116,14 +116,10 @@ images/Picsart_25-05-18_18-53-07-805.jpg" | split: ','
 images = images 
 %}
 
+
+## 3D DeVargas soap bottle scan 
 <div class="sketchfab-embed-wrapper"> <iframe title="Meyers Soap Bottle" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/51017e01c9084e36a3fb98781a4c59f4/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/meyers-soap-bottle-51017e01c9084e36a3fb98781a4c59f4?utm_medium=embed&utm_campaign=share-popup&utm_content=51017e01c9084e36a3fb98781a4c59f4" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Meyers Soap Bottle </a> by <a href="https://sketchfab.com/Brodriguez777?utm_medium=embed&utm_campaign=share-popup&utm_content=51017e01c9084e36a3fb98781a4c59f4" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Brodriguez777 </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=51017e01c9084e36a3fb98781a4c59f4" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
-## Curabitur sapien risus
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
 
 ## Morbi posuere lacinia
