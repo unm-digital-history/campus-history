@@ -122,9 +122,8 @@ images = images
 
 
 
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
-
+## Interview with the one and only!
+In the gathering for the ways of DeVargas, my team and I were able to spot and ask DeVargas some questions about himself along with quick facts. In my time spent with him, I collected the vibe that he was a very chill and down to Earth being...well, you kinda need to be down to Earth if you want to be a functional building. Please take a listen to this little snippet of the interview with DeVargas found here. 
 
 ## Bibliography
 
