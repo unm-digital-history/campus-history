@@ -98,7 +98,7 @@ Within the Lugana Hall setup, you will find four sectors for DeVargas. All made 
 ## About LDV's lead architect
 {% include figure.html class="img-right" width="60%" caption="Mr. Ernest J. Kump. [Source](https://alchetron.com/Ernest-J-Kump)" src="images/ernest-j-kump-5071f3f4-9a13-4cce-8a25-63b9de414ff-resize-750.webp" %}
 
-Mr. Ernest J. Kump was born on December 29th, 1911 and passed away on November 4th, 1999. Throughout his life, Mr. Kump had accomplished many great architect projects across America. He has even been considered by The American Institute of Architects as "a pioneer of modular practices and systems concepts in architecture." [^source].(https://alchetron.com/Ernest-J-Kump)" During the 1960s especially, Ernest J. Kump played a major role for UNM, giving the University the '"Ultra-Modern"' look. Resulting in buildings like Laguna DeVargas and how their
+Mr. Ernest J. Kump was born on December 29th, 1911 and passed away on November 4th, 1999. Throughout his life, Mr. Kump had accomplished many great architect projects across America. He has even been considered by The American Institute of Architects as "a pioneer of modular practices and systems concepts in architecture." [Source](https://alchetron.com/Ernest-J-Kump)" During the 1960s especially, Ernest J. Kump played a major role for UNM, giving the University the '"Ultra-Modern"' look. Resulting in buildings like Laguna DeVargas and how their
 unique design helps give UNM a special place in the modern architect world. 
 
 
