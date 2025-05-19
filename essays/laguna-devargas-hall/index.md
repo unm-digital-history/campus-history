@@ -107,9 +107,9 @@ unique design helps give UNM a special place in the modern architect world.
 
 
 {% assign images = 
-"images/download (3) (2).png,
-images/download (2) (2).png,
-images/Unm_devargashall.jpg" | split: ','
+"images/Picsart_25-05-18_18-52-00-428.jpg,
+images/Picsart_25-05-18_18-53-38-381.jpg,
+images/Picsart_25-05-18_18-53-07-805.jpg" | split: ','
 %}
 
 {% include carousel.html
