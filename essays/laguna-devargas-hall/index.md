@@ -98,39 +98,12 @@ Within the Lugana Hall setup, you will find three sectors for DeVargas. All made
 ## About LDV's lead architect
 {% include figure.html class="img-right" width="60%" caption="Mr. Ernest J. Kump. [Source](https://alchetron.com/Ernest-J-Kump)" src="images/ernest-j-kump-5071f3f4-9a13-4cce-8a25-63b9de414ff-resize-750.webp" %}
 
-Mr. Ernest J. Kump was born on December 
-
-29th, 1911 and passed away on November
-
-4th, 1999. Throughout his life, Mr. Kump
-
-had accomplished many great architect 
-
-projects across America. He has even been 
-
-considered by The American Institute 
-
-of Architects as 
-
-"a pioneer of modular practices and 
-
-systems concepts in architecture."
-
-During the 1960s especially, Ernest J. Kump 
-
-played a major role for UNM, giving the 
-
-University the '"Ultra-Modern"' look. Resulting 
-
-in buildings like Laguna DeVargas and how their
-
-unique design helps give UNM a special place
-
-in the modern architect world. 
+Mr. Ernest J. Kump was born on December 29th, 1911 and passed away on November 4th, 1999. Throughout his life, Mr. Kump had accomplished many great architect projects across America. He has even been considered by The American Institute of Architects as "a pioneer of modular practices and systems concepts in architecture." During the 1960s especially, Ernest J. Kump played a major role for UNM, giving the University the '"Ultra-Modern"' look. Resulting in buildings like Laguna DeVargas and how their
+unique design helps give UNM a special place in the modern architect world. 
 
 
-## Praesent libero mi
-<div class="sketchfab-embed-wrapper"> <iframe title="Meyers Soap Bottle" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/51017e01c9084e36a3fb98781a4c59f4/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/meyers-soap-bottle-51017e01c9084e36a3fb98781a4c59f4?utm_medium=embed&utm_campaign=share-popup&utm_content=51017e01c9084e36a3fb98781a4c59f4" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Meyers Soap Bottle </a> by <a href="https://sketchfab.com/Brodriguez777?utm_medium=embed&utm_campaign=share-popup&utm_content=51017e01c9084e36a3fb98781a4c59f4" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Brodriguez777 </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=51017e01c9084e36a3fb98781a4c59f4" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+## DeVargas Aesthetic
+
 
 
 {% assign images = 
@@ -143,7 +116,7 @@ images/mvh-room-cost.jpg" | split: ','
 images = images 
 %}
 
-
+<div class="sketchfab-embed-wrapper"> <iframe title="Meyers Soap Bottle" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/51017e01c9084e36a3fb98781a4c59f4/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/meyers-soap-bottle-51017e01c9084e36a3fb98781a4c59f4?utm_medium=embed&utm_campaign=share-popup&utm_content=51017e01c9084e36a3fb98781a4c59f4" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Meyers Soap Bottle </a> by <a href="https://sketchfab.com/Brodriguez777?utm_medium=embed&utm_campaign=share-popup&utm_content=51017e01c9084e36a3fb98781a4c59f4" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Brodriguez777 </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=51017e01c9084e36a3fb98781a4c59f4" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 ## Curabitur sapien risus
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
