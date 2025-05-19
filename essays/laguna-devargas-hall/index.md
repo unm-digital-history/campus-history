@@ -115,6 +115,7 @@ images/Picsart_25-05-18_18-53-07-805.jpg" | split: ','
 {% include carousel.html
 images = images 
 %}
+[Source](https://unm.on.worldcat.org/search?search1=KW%3A%20&queryString=KW%3A%20%28Laguna%20DeVargas%29&clusterResults=true&stickyFacetsChecked=on&changedFacet=scope&groupVariantRecords=false&bookReviews=off)
 
 
 ## 3D DeVargas soap bottle scan 
