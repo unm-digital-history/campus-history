@@ -64,9 +64,9 @@ The agreement for the construction of the Alpha Chi Omega sorority house was mad
 
 {% assign images = ClearerBeula.jpg, CamScanner_04-30-2025_15.29_1.jpg, Screenshot_2025-05-16_023922.png" | split: ','%}
 
-{% include carousel.html
-images = images 
-%}
+{% include carousel.html images = images %}
+
+The first image is of the initial plan of the ground floor of 1717 Roma NE. The second is a picture of the structure shortly after construction on it finished. The third depicts the fireplace inside the building.
 
 {% include juxtapose.html
 image1="images/KICDocument0001.png"
