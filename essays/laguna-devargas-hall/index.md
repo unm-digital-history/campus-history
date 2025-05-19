@@ -125,6 +125,8 @@ images = images
 ## Interview with the one and only!
 In the gathering for the ways of DeVargas, my team and I were able to spot and ask DeVargas some questions about himself along with quick facts. In my time spent with him, I collected the vibe that he was a very chill and down to Earth being...well, you kinda need to be down to Earth if you want to be a functional building. Please take a listen to this little snippet of the interview with DeVargas found here. 
 
+<audio controls src="code-narration.mp3"></audio>
+
 ## Bibliography
 
 - Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
