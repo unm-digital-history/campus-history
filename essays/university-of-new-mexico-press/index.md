@@ -62,9 +62,8 @@ Between 1933 and 1943, the Press published 56 total books. Book publishing wasn'
 #### The Future Location of the Press
 The agreement for the construction of the Alpha Chi Omega sorority house was made on April 19th, 1930, between the "ALPHA CHI OMEGA BUILDING ASSOCIATION OF NEW MEXICO" and architect Beula Fleming. The house was finished sometime in late December of that year or in early January 1931. It was outfitted with a three-tier fireplace, a grand piano, and other amenities. The initial sketches for the building differed from the final layout; the living room originally protruded out more from the rest of the house, with a fireplace nestled in its bottom left corner, and a conservatory room adjacent to it was dropped entirely. The dining room and kitchen were also made flush with the reoriented living room.
 
-{% assign images = 
-ClearerBeula.jpg, CamScanner_04-30-2025_15.29_1.jpg, Screenshot_2025-05-16_023922.png" | split: ','
-%}
+{% assign images = ClearerBeula.jpg, CamScanner_04-30-2025_15.29_1.jpg, Screenshot_2025-05-16_023922.png" | split: ','%}
+
 {% include carousel.html
 images = images 
 %}
