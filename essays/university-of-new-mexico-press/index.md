@@ -109,8 +109,8 @@ The architect Louis G. Hesselden was brought on to design and build an addition 
 
 {% include jumbotron.html
   height="50"
-  image-url="Screenshot_20250516_150644~3.jpg"
-  title="The Hesselden addition + alteration plans."
+  image-url="images/Screenshot_20250516_150644~3.jpg"
+  title=""
 %}
 
 {% include figure.html
