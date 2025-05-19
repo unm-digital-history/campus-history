@@ -108,7 +108,7 @@ Afterwards, though, the Press was left in a relatively good position. In 1957, t
 The architect Louis G. Hesselden was brought on to design and build an addition to the Alpha Chi Omega sorority house in 1950, which included a new lounge, bathroom, laundry room, and a "town girl's room," as well as a few other renovations like an additional shower in the second floor bathroom. A door at the end of the upstairs hallway was also added to access the roof of the expansion, which was intended as a sun deck. The basement was left untouched, though the building's foundation was updated to accommodate the new left side of the house. The lounge now serves as the Press's entrance room.
 
 {% include jumbotron.html
-  height="25"
+  height="36"
   image-url="images/Screenshot_20250516_150644~3.jpg"
   title=""
 %}
@@ -116,7 +116,7 @@ The architect Louis G. Hesselden was brought on to design and build an addition 
 {% include figure.html
 class="img-center"
 width="100%"
-caption="The lounge space today, which serves as the entrance and reception area."
+caption="The lounge space today, which serves as the Press entrance and reception area."
 src="images/PXL_20250501_160143468.jpg"
 %}
 
