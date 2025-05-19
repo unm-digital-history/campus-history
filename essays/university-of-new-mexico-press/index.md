@@ -60,15 +60,13 @@ For its first 3 years, the Press was little more than a printing facility for UN
 Between 1933 and 1943, the Press published 56 total books. Book publishing wasn't a focus of the Press at first, as they were busy handling the catalogues for UNM and its graduate school, as well as an increasing number of bulletins. They leased their machinery and equipment from the School of American Research until 1935, when the Press acquired it for $5,000. Additionally, as part of UNM, plans were made for a University literary publication with a distinctly Southwestern flavor, in the form of the _New Mexico Quarterly._
 
 #### The Future Location of the Press
-The agreement for the construction of the Alpha Chi Omega sorority house was made on April 19th, 1930, between the "ALPHA CHI OMEGA BUILDING ASSOCIATION OF NEW MEXICO" and architect Beula Fleming. The house was finished sometime in late December of that year or in early January 1931. It was outfitted with a three-tier fireplace, a grand piano, and other amenities. The initial sketches for the building differed from the final layout; the living room originally protruded out more from the rest of the house, with a fireplace nestled in its bottom left corner, and a conservatory room adjacent to it was dropped entirely. The dining room and kitchen were also made flush with the reoriented living room.
+The agreement for the construction of the Alpha Chi Omega sorority house was made on April 19th, 1930, between the "ALPHA CHI OMEGA BUILDING ASSOCIATION OF NEW MEXICO" and architect Beula Fleming. The house was finished sometime in late December of that year or in early January 1931. It was outfitted with a three-tier fireplace, a grand piano, and other amenities. The initial sketches for the building differed from the final layout; the living room originally protruded out more from the rest of the house, with a fireplace nestled in its bottom left corner, and a conservatory room adjacent to it was dropped entirely. The dining room and kitchen were also made flush with the reoriented living room. Additionally, the original plan called for a porch on the exterior facing west; this did not come to fruition.
 
-{% assign images = "images/ClearerBeula.jpg, images/CamScanner_04-30-2025_15.29_1.jpg, images/Screenshot_2025-05-16_023922.png" | split: ',' %}
+{% assign images = "images/ClearerBeula.jpg, images/Beula_Fleming_stuff_1.jpg, images/CamScanner_04-30-2025_15.29_1.jpg, images/Screenshot_2025-05-16_023922.png" | split: ',' %}
 
 {% include carousel.html images = images %}
 
-The first image is of the initial plan for the ground floor of 1717 Roma Avenue NE. The second is a picture of the structure shortly after construction was finished. The third depicts the fireplace inside the living room.
-
-## Growing Pains
+The first image is of the initial plan for the ground floor of 1717 Roma Avenue NE. The second is of sketches of the original design of the building from the right side and front. The third is a picture of the structure shortly after construction was finished, which is largely identical to the current building aside from the lack of the 1950 addition and the double doors being removed. The fourth depicts the fireplace inside the living room.
 
 {% include juxtapose.html
 image1="images/KICDocument0001.png"
@@ -76,7 +74,9 @@ image2="images/PXL_20250501_220504555.jpg"
 caption="1717 Roma in the 1930s, compared to how this corner of the building looks today."
 %}
 
-## 1717 Roma Interview
+## Growing Pains
+
+## Interview with 1717 Roma
 Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega girls got up to, as well as some operations of the Press in the present-day.
 <audio controls src="UNM-Press-Building-Interview.mp3"></audio>
 
