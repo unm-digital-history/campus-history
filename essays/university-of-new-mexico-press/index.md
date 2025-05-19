@@ -66,7 +66,7 @@ The agreement for the construction of the Alpha Chi Omega sorority house was mad
 
 {% include carousel.html images = images %}
 
-The first image is of the initial plan for the ground floor of 1717 Roma Avenue NE. The second is of sketches of the original design of the building from the right side and front. The third is a picture of the structure shortly after construction was finished, which is largely identical to the current building aside from the lack of the 1950 addition and the double doors being removed. The fourth depicts the fireplace inside the living room.
+The first image is of the initial plan for the ground floor of 1717 Roma Avenue NE. The second is of sketches of the original design of the building from the right side and front. The third is a picture of the structure shortly after construction was finished, which is largely identical to the current building aside from the lack of the 1950 addition and the double doors being removes; the step leading up to it does still remain, but the doors were walled off and a window was inserted where they once stood. The fourth depicts the fireplace inside the living room.
 
 {% include juxtapose.html
 image1="images/KICDocument0001.png"
