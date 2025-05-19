@@ -130,10 +130,12 @@ In the gathering for the ways of DeVargas, my team and I were able to spot and a
 
 ## Bibliography
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+- Ernest J. Kump Alchetron, https://alchetron.com/Ernest-J-Kump
+  
+- The Univeristy Of New Mexico https://events.unm.edu/amenities/accommodations.html
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+- UNM University Libraries https://unm.on.worldcat.org/search?search1=KW%3A%20&queryString=KW%3A%20%28Laguna%20DeVargas%29&clusterResults=true&stickyFacetsChecked=on&changedFacet=scope&groupVariantRecords=false&bookReviews=off
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
 
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
+- UNM.edu https://events.unm.edu/amenities/accommodations.html
+
