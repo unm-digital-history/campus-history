@@ -86,7 +86,7 @@ Laguna DeVargas Hall consists of comfortable suite-style living arrangements, of
 
 
 ### Unique Layout
-Within the Lugana Hall setup, you will find three sectors for DeVargas. All made to incorporate space and order for those moving in. 
+Within the Lugana Hall setup, you will find four sectors for DeVargas. All made to incorporate space and order for those moving in. 
 
 
 
