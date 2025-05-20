@@ -178,11 +178,52 @@ src="images/Screenshot_20250516_153057.jpg"
 
 First, a flood took place. Then cracks began to form in the floors and walls, with one nearly being two feet deep. The building had been built in an unorthodox manner because a second story that could be rented out was hastily added to the construction plan, and so it ended up with bizarre support beams, including ones that ran diagonally and in front of windows. This, coupled with the construction workers not digging deep enough to properly ground the building, was the cause of it beginning to break apart. The strain of the unplanned additional floor was too much for it to bear. Newly added rods that drilled deep into the Basehart location's foundation were needed to shore it up.
 
-Other issues plagued the Press at this time as well. They had been under the assumption that the Basehart building would be theirs, and invested money in it accordingly, but it turned out they were merely renting it from UNM, which caused some confusion and frustration. UNM Central Administration then effectively evicted the Press to allocate the Basehart location's newly built offices to a biology research institute that had been awarded a multi-million-dollar, multi-year grant for an international project. They were threatening to move their program to another university, which drove UNM to find a way to keep them around. As for the Press...well, UNM told them they could relocate to 1717 Roma Ave NE, and said it'd make for a better arrangement because no rent payments would be necessary. That fall, the Press made the move, though the warehouse remained at Basehart until 2017. It was shuttered permanently, with fulfillment and distribution then being outsourced to Longleaf.
+Other issues plagued the Press at this time as well. They had been under the assumption that the Basehart building would be theirs, and invested money in it accordingly, but it turned out they were merely renting it from UNM, which caused some confusion and frustration. UNM Central Administration then effectively evicted the Press to allocate the Basehart location's newly built offices to a biology research institute that had been awarded a multi-million-dollar, multi-year grant for an international project. They were threatening to move their program to another university, which drove UNM to find a way to keep them around. As for the Press...well, UNM told them they could relocate to 1717 Roma Ave NE, and said it'd make for a better arrangement because no rent payments would be necessary. That fall, the Press made the move, though the warehouse remained at Basehart until 2017, when it was shuttered permanently. Fulfillment and distribution were then outsourced to Longleaf.
 
-1717 Roma stands as the Press's third-longest tenured location, after the original Korber Building(s) and the Journalism Building. It has also marked a less tumultuous era of its history, with less major developments outside of being placed under the jurisdiction of the Zimmerman Library in 2020, offering benefits like the existence of a fundraising department.
+## The Press at 1717 Roma/Conclusion
 
+1717 Roma stands as the Press's third-longest tenured location, after the original Korber Building(s) and the Journalism Building. It has also marked a less tumultuous era of its history, with less major developments outside of being placed under the jurisdiction of the Zimmerman Library in 2020, offering benefits like the existence of a fundraising department. A Little Free Library was affixed to the Press sign out front on May 9th, 2025.
 
+Throughout its own long life, 1717 Roma has changed quite a bit, even from the original vision for the building. Comparing both Beula Fleming and Louis G. Hesselden's sketches of its layout to up-to-date maps reveals some intriguing insights.
+
+{% include figure.html
+class="img-center"
+width="100%"
+caption="All 3 floors of 1717 Roma as initially planned by Beula Fleming. Note that they have been turned upside-down to match the orientation of Hesselden's drawings and the current maps."
+src="images/Screenshot_20250516_150618.jpg"
+%}
+
+{% include figure.html
+class="img-center"
+width="100%"
+caption="All 3 floors of 1717 Roma as drawn out by Louis G. Hesselden, reflecting the final overall design of Beula's work as well as his newly planned additions and changes."
+src="images/Screenshot_20250516_150644~3.jpg"
+%}
+
+{% include figure.html
+class="img-center"
+width="100%"
+caption="Up-to-date maps of 1717 Roma taken from emergency evacuation guidelines for each floor, demonstrating many changes made to the interior."
+src="images/Screenshot_20250516_150700.jpg"
+%}
+
+Walls were torn down to open up many rooms, though others were divided up further. For example, the dining room the Alpha Chi Omega girls ate in was divided into an extension of the old check room, a small kitchen space, and offices for the business department. What was once the Alpha Chi Omega living room was split into five rooms, while the fireplace was concealed behind drywall. 
+
+{% include figure.html
+class="img-center"
+width="100%"
+caption="The editorial, design, and production department space within the Press, based out of the former living room. The ornate beams are one of the only relics of the original space."
+src="images/PXL_20250501_230832554.jpg"
+%}
+
+Perhaps where the building's history shines through most clearly is in the Ernest R. Earick Memorial Library, though. Even in the adjacent hallway, a gap in the floor trim marks where a door once stood, leading to the matron's room originally and the housemother's reception room in Hesselden's time. Even inside the room, though, there are distinctive signs left behind. A small divot in the ventilation jutting down from the ceiling, now propping up some _New Mexico Quarterly_ magazines, marks where a closet once was. In the back-right corner, the ceiling opens up where another door once stood. A protrusion that links with the vent is all that remains of a bathroom. It is quite appropriate that a building with such a storied history is now home to an organization focused predominantly on putting stories and histories out into the world.
+
+{% include figure.html
+class="img-center"
+width="100%"
+caption="The hallway outside the Ernest R. Earick Memorial Library and the library itself from both sides. It houses the majority of the Press's output and also acts as a conference room for Press meetings."
+src="images/Screenshot_20250516_153240.jpg"
+%}
 
 ## Interview with 1717 Roma
 Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega members got up to, as well as some operations of the Press in the present-day.
@@ -225,6 +266,7 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 - University of New Mexico. "The Mirage, 1967." (1967). https://digitalrepository.unm.edu/unm_yearbooks/56
 - University of New Mexico. "The Mirage, 1968." (1968). https://digitalrepository.unm.edu/unm_yearbooks/66
 - University of New Mexico Board of Regents. "University of New Mexico Board of Regents Minutes for June 13, 1995." (1995). https://digitalrepository.unm.edu/bor_minutes/629
+- UNM Emergency Evacuation Maps. (2019).
 - UNM Office of the Registrar. "1924-1925-UNM CATALOG." (1925). https://digitalrepository.unm.edu/course_catalogs/27
 - UNM Office of the Registrar. "1935-1936 CATALOG ISSUE- BULLETIN." (1936). https://digitalrepository.unm.edu/course_catalogs/40
 - UNM Office of the Registrar. "1948-1949 CATALOG ISSUE- BULLETIN." (1948). https://digitalrepository.unm.edu/course_catalogs/54
