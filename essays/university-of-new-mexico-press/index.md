@@ -109,9 +109,10 @@ The architect Louis G. Hesselden was brought on to design and build an addition 
 {% include jumbotron.html
   height="35.57"
   image-url="images/Screenshot_20250516_150644~3.jpg"
-  caption="Hesselden's plans for the "Addition + Alteration" to the Alpha Chi Omega sorority house."
   title=""
 %}
+
+Hesselden's plans for the "Addition + Alteration" to the Alpha Chi Omega sorority house.
 
 {% include figure.html
 class="img-center"
