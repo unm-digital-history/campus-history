@@ -132,11 +132,11 @@ Under the leadership of Dickey, the Press wound up building a sizable backlog of
 {% include figure.html
 class="img-center"
 width="100%"
-caption="The Alpha Chi Omega Sorority House, as photographed in the 1966 edition of UNM's _The Mirage_ yearbook. Holes in the arch can be seen where the Greek letters of the sorority—ΑΧΩ—once were."
+caption="The Alpha Chi Omega Sorority House, as photographed in the 1965-1966 edition of UNM's _The Mirage_ yearbook. Holes in the arch can be seen where the Greek letters of the sorority—ΑΧΩ—once were."
 src="images/The_Mirage_1966_copy_1.pdf.png"
 %}
 
-1717 Roma Avenue NE went through a particularly radical shakeup in the 1960s.
+1717 Roma Avenue NE went through a particularly radical shakeup in the 1960s. In October 1965, the Board of Educationa Finance approved a University revenue bond issue to finance various endeavors, such as the construction of The Pit, an Olympic pool, the Laguna and DeVargas dormitories, and the La Posada dining hall. Simultaneously, they approved UNM's purchase of the Alpha Chi Omega fraternity house. The sorority had outgrown it, and they subsequently moved into a Spanish colonial house. 
 
 ## Interview with 1717 Roma
 Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega members got up to, as well as some operations of the Press in the present-day.
@@ -168,6 +168,7 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 - University of New Mexico. "New Mexico Lobo, Volume 070, No 49, 12/16/1966." 70, 49 (1966). https://digitalrepository.unm.edu/daily_lobo_1966/123
 - University of New Mexico. "New Mexico Lobo, Volume 070, No 84, 3/31/1967." 70, 84 (1967). https://digitalrepository.unm.edu/daily_lobo_1967/30
 - University of New Mexico. "New Mexico Lobo, Volume 070, No 109, 5/15/1967." 70, 109 (1967). https://digitalrepository.unm.edu/daily_lobo_1967/55
+- University of New Mexico. "New Mexico Daily Lobo, Volume 080, No 69, 11/29/1976." 80, 69 (1976). https://digitalrepository.unm.edu/daily_lobo_1976/142
 - University of New Mexico. "New Mexico Daily Lobo, Volume 089, No 147, 5/6/1985." 89, 147 (1985). https://digitalrepository.unm.edu/daily_lobo_1985/72
 - University of New Mexico. "The Mirage, 1935." (1935). https://digitalrepository.unm.edu/unm_yearbooks/23
 - University of New Mexico. "The Mirage, 1945." (1945). https://digitalrepository.unm.edu/unm_yearbooks/60
