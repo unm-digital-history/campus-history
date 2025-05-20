@@ -131,7 +131,7 @@ Under the leadership of Dickey, the Press wound up building a sizable backlog of
 
 {% include figure.html
 class="img-center"
-width="100%"
+width="50%"
 caption="The Alpha Chi Omega Sorority House, as photographed in the 1965-1966 edition of UNM's _The Mirage_ yearbook. Holes in the arch can be seen where the Greek letters of the sorority—ΑΧΩ—once were."
 src="images/The_Mirage_1966_copy_1.pdf.png"
 %}
