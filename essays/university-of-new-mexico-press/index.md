@@ -8,7 +8,7 @@ header-title: The University of New Mexico Press
 header-height: 50vh
 background-position: 20px
 ---
-# Note: This is still a work-in-progress.
+# Note: This is still a work-in-progress (namely, I haven't added footnotes yet, there's one section I want to add an image to, and it could use some polishing up), but it is content-complete.
 
 ## Introduction
 
