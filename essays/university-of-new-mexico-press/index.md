@@ -122,11 +122,11 @@ src="images/PXL_20250501_160143468.jpg"
 %}
 
 ## Changes in the 1960s
-Under the leadership of Dickey, the Press wound up building a sizable backlog of manuscripts awaiting publication, which resulted in Frank H. Wardlaw, director of the University of Texas Press, conducting an inspection of their operations in 1965. Wardlaw saw Dickey as a friend and did go easy on him at first, but he realized that the alternative could be someone far less sympathetic filling his role. The most pressing issue was that a book could languish in production for five to six years before being published, though Wardlaw also stated he felt that sales efforts, particularly advertising, were suboptimal. He encouraged the UNM Press to outsource to manufacturers in the Eastern US to clear up their backlog, and also advised bringing bookkeeping, shipping, and warehousing under the Press's control in the future, as other UNM programs still handled those at the time. Dickey would leave the Press at the end of 1966 to join the University of Wisconsin Press, with Roger W. Shugg being hired to assume directorial duties. However, Shugg couldn't move to New Mexico for full-time work, so two joint directors served until July 1st, 1967, when he was able to begin his tenure. Shugg made a substantial push to increase the Press's output; in his first year, the Press published 16 books, whereas in the three years prior, they'd only released 19 books. Production control was also tightened soon after Wardlaw's examination, though it took until 1975 for the Press to handle its own shipping. 
 {% include aside.html
   class="right"
-  text="-	“We exist to fill a scholarly gap. The Press is non-profit and not taxed. We publish what commercial publishers cannot afford to publish in highly specialized fields.” - Mrs. Carol Kurman, acting director of the UNM Press"
+  text="-	“We exist to fill a scholarly gap. The Press is non-profit and not taxed. We publish what commercial publishers cannot afford to publish in highly specialized fields.” - Mrs. Carol Kurman, acting director of the UNM Press, 1967"
   %}
+Under the leadership of Dickey, the Press wound up building a sizable backlog of manuscripts awaiting publication, which resulted in Frank H. Wardlaw, director of the University of Texas Press, conducting an inspection of their operations in 1965. Wardlaw saw Dickey as a friend and did go easy on him at first, but he realized that the alternative could be someone far less sympathetic filling his role. The most pressing issue was that a book could languish in production for five to six years before being published, though Wardlaw also stated he felt that sales efforts, particularly advertising, were suboptimal. He encouraged the UNM Press to outsource to manufacturers in the Eastern US to clear up their backlog, and also advised bringing bookkeeping, shipping, and warehousing under the Press's control in the future, as other UNM programs still handled those at the time. Dickey would leave the Press at the end of 1966 to join the University of Wisconsin Press, with Roger W. Shugg being hired to assume directorial duties. However, Shugg couldn't move to New Mexico for full-time work, so two joint directors served until July 1st, 1967, when he was able to begin his tenure. Shugg made a substantial push to increase the Press's output; in his first year, the Press published 16 books, whereas in the three years prior, they'd only released 19 books. Production control was also tightened soon after Wardlaw's examination, though it took until 1975 for the Press to handle its own shipping. 
 
 {% include figure.html
 class="img-center"
@@ -135,7 +135,7 @@ caption="The Alpha Chi Omega Sorority House, as photographed in the 1965-1966 ed
 src="images/The_Mirage_1966_copy_1.pdf.png"
 %}
 
-1717 Roma Avenue NE went through a particularly radical shakeup in the 1960s. In October 1965, the Board of Educationa Finance approved a University revenue bond issue to finance various endeavors, such as the construction of The Pit, an Olympic pool, the Laguna and DeVargas dormitories, and the La Posada dining hall. Simultaneously, they approved UNM's purchase of the Alpha Chi Omega fraternity house. The sorority had outgrown it, and they subsequently moved into a Spanish colonial house. 
+1717 Roma Avenue NE went through a particularly radical shakeup in the 1960s. In October 1965, the Board of Educational Finance approved a University revenue bond issue to finance various endeavors, such as the construction of The Pit, an Olympic pool, the Laguna and DeVargas dormitories, and the La Posada dining hall. Simultaneously, they approved UNM's purchase of the Alpha Chi Omega fraternity house. The sorority had outgrown it, and they subsequently moved into a new, larger house in a Spanish colonial style. 
 
 {% include figure.html
 class="img-center"
@@ -143,6 +143,8 @@ width="100%"
 caption="The new Alpha Chi Omega Sorority House, as photographed in the 1967-1968 edition of UNM's _The Mirage_ yearbook. It has since been transformed into the ROTC Education Complex."
 src="images/Screenshot_2025-05-19_224254.png"
 %}
+
+
 
 ## Interview with 1717 Roma
 Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega members got up to, as well as some operations of the Press in the present-day.
