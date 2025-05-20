@@ -173,7 +173,7 @@ In December 2004, demolition began on the Lomas location to build the UNM John &
 class="img-center"
 width="100%"
 caption="The subpar construction of the new Press building caused cracks ranging from thin lines to crevices nearly two feet deep to form in the window frames, walls, and floors."
-src="Screenshot_20250516_153057.jpg"
+src="images/Screenshot_20250516_153057.jpg"
 %}
 
 First, a flood took place. Then cracks began to form in the floors and walls, with one nearly being two feet deep. The building had been built in an unorthodox manner because a second story that could be rented out was hastily added to the construction plan, and so it ended up with bizarre support beams, including ones that ran diagonally and in front of windows. This, coupled with the construction workers not digging deep enough to properly ground the building, was the cause of it beginning to break apart. The strain of the unplanned additional floor was too much for it to bear. Newly added rods that drilled deep into the Basehart location's foundation were needed to shore it up.
