@@ -129,6 +129,15 @@ Under the leadership of Dickey, the Press wound up building a sizable backlog of
   text="-	“We exist to fill a scholarly gap. The Press is non-profit and not taxed. We publish what commercial publishers cannot afford to publish in highly specialized fields.” - Mrs. Carol Kurman, acting director of the UNM Press"
   %}
 
+{% include figure.html
+class="img-center"
+width="100%"
+caption="The Alpha Chi Omega Sorority House, as photographed in the 1966 edition of UNM's _The Mirage_ yearbook. Holes in the arch can be seen where the Greek letters of the sorority—ΑΧΩ—once were."
+src="images/The_Mirage_1966_copy_1.pdf.png"
+%}
+
+1717 Roma Avenue NE went through a particularly radical shakeup in the 1960s.
+
 ## Interview with 1717 Roma
 Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega members got up to, as well as some operations of the Press in the present-day.
 <audio controls src="UNM-Press-Building-Interview.mp3"></audio>
