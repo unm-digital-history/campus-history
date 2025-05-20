@@ -123,9 +123,8 @@ src="images/PXL_20250501_160143468.jpg"
 
 ## Changes in the 1960s
 Under the leadership of Dickey, the Press wound up building a sizable backlog of manuscripts awaiting publication, which resulted in Frank H. Wardlaw, director of the University of Texas Press, conducting an inspection of their operations in 1965. Wardlaw saw Dickey as a friend and did go easy on him at first, but he realized that the alternative could be someone far less sympathetic filling his role. The most pressing issue was that a book could languish in production for five to six years before being published, though Wardlaw also stated he felt that sales efforts, particularly advertising, were suboptimal. He encouraged the UNM Press to outsource to manufacturers in the Eastern US to clear up their backlog, and also advised bringing bookkeeping, shipping, and warehousing under the Press's control in the future, as other UNM programs still handled those at the time. Dickey would leave the Press at the end of 1966 to join the University of Wisconsin Press, with Roger W. Shugg being hired to assume directorial duties. However, Shugg couldn't move to New Mexico for full-time work, so two joint directors served until July 1st, 1967, when he was able to begin his tenure. Shugg made a substantial push to increase the Press's output; in his first year, the Press published 16 books, whereas in the three years prior, they'd only released 19 books. Production control was also tightened soon after Wardlaw's examination, though it took until 1975 for the Press to handle its own shipping. 
-
 {% include aside.html
-  class="center"
+  class="right"
   text="-	“We exist to fill a scholarly gap. The Press is non-profit and not taxed. We publish what commercial publishers cannot afford to publish in highly specialized fields.” - Mrs. Carol Kurman, acting director of the UNM Press"
   %}
 
