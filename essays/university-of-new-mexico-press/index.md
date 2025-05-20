@@ -29,7 +29,7 @@ Even though it would not be until the fall of 2009 that the Press would come to 
 
 In a similar vein, the first building the Press was housed in was already established. In the summer of 1921, Mrs. Jacob Korber and her son A.P. Korber gifted UNM $500 to pay for equipment for a wireless telephone and telegraph station. It conducted its first radio broadcast on December 16th, 1921. While it was initially based in the Science Hall, in 1925, two small buildings were built for the Station. UNM had high hopes for the Korber Wireless Station, proudly boasting that its towers would be "destined to be of great service to this region." It closed the very next year because it was too expensive to operate. 
 
-After that, one of the buildings was reappropriated as a music studio for a short time, before the Press ultimately ended up inhabiting both of them. At the time, the buildings were connected by an outdoor boardwalk. In 1934, the Buildings and Grounds Department was able to double the size of the Press by removing the shared walls between the two buildings and constructing a roof over them both. The resulting structure was joined to Carlisle Gym and still stands to this day. It was further expanded in 1938, when Professor William E. Burk of the School of Architecture donated his services to both double the space within the building once again and to remodel it in the Pueblo Revival style. The US government's Works Progress Administration helped make this possible. The Press occupied the building until 1949, with the editorial offices moving to a building close by that has since been replaced with Clark Hall. The former Korber Radio Station buildings would come to house the Office of Veterans' Affairs and the Counseling and Testing Division, and remain standing to this day as a facilities management structure.
+After that, one of the buildings was reappropriated as a music studio for a short time, before the Press ultimately ended up inhabiting both of them. At the time, the buildings were connected by an outdoor boardwalk. In 1934, the Buildings and Grounds Department was able to double the size of the Press by removing the shared walls between the two buildings and constructing a roof over them both. The resulting structure was joined to Carlisle Gym and still stands to this day; the US government's Works Progress Administration helped make the renovation possible. It was further expanded in 1938, when Professor William E. Burk of the School of Architecture donated his services to both double the space within the building once again and to remodel it in the Pueblo Revival style. The Press occupied the building until 1949. The former Korber Radio Station buildings would come to house the Office of Veterans' Affairs and the Counseling and Testing Division, and remain standing to this day as a facilities management structure.
 
 {% include figure.html
 class="img-left"
@@ -138,6 +138,13 @@ src="images/The_Mirage_1966_copy_1.pdf.png"
 
 1717 Roma Avenue NE went through a particularly radical shakeup in the 1960s. In October 1965, the Board of Educationa Finance approved a University revenue bond issue to finance various endeavors, such as the construction of The Pit, an Olympic pool, the Laguna and DeVargas dormitories, and the La Posada dining hall. Simultaneously, they approved UNM's purchase of the Alpha Chi Omega fraternity house. The sorority had outgrown it, and they subsequently moved into a Spanish colonial house. 
 
+{% include figure.html
+class="img-center"
+width="100%"
+caption="The new Alpha Chi Omega Sorority House, as photographed in the 1967-1968 edition of UNM's _The Mirage_ yearbook. It has since been transformed into the ROTC Education Complex."
+src="images/Screenshot_2025-05-19_224254.png"
+%}
+
 ## Interview with 1717 Roma
 Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega members got up to, as well as some operations of the Press in the present-day.
 <audio controls src="UNM-Press-Building-Interview.mp3"></audio>
@@ -175,6 +182,7 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 - University of New Mexico. "The Mirage, 1947." (1947). https://digitalrepository.unm.edu/unm_yearbooks/24
 - University of New Mexico. "The Mirage, 1966." (1966). https://digitalrepository.unm.edu/unm_yearbooks/63
 - University of New Mexico. "The Mirage, 1967." (1967). https://digitalrepository.unm.edu/unm_yearbooks/56
+- University of New Mexico. "The Mirage, 1968." (1968). https://digitalrepository.unm.edu/unm_yearbooks/66
 - University of New Mexico Board of Regents. "University of New Mexico Board of Regents Minutes for June 13, 1995." (1995). https://digitalrepository.unm.edu/bor_minutes/629
 - UNM Office of the Registrar. "1924-1925-UNM CATALOG." (1925). https://digitalrepository.unm.edu/course_catalogs/27
 - UNM Office of the Registrar. "1935-1936 CATALOG ISSUE- BULLETIN." (1936). https://digitalrepository.unm.edu/course_catalogs/40
