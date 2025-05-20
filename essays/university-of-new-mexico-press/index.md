@@ -108,11 +108,11 @@ Afterwards, though, the Press was left in a relatively good position. In 1957, t
 The architect Louis G. Hesselden was brought on to design and build an addition to the Alpha Chi Omega sorority house in 1950, which included a new lounge, bathroom, laundry room, and a "town girl's room," as well as a few other renovations like an additional shower in the second floor bathroom. A door at the end of the upstairs hallway was also added to access the roof of the expansion, which was intended as a sun deck. The basement was left untouched, though the building's foundation was updated to accommodate the new left side of the house. The lounge now serves as the Press's entrance room.
 
 {% include jumbotron.html
-  height="35.58"
+  height="35.57"
   image-url="images/Screenshot_20250516_150644~3.jpg"
+  caption="Hesselden's plans for the "Addition + Alteration" to the Alpha Chi Omega sorority house."
   title=""
 %}
-Hesselden's plans for the "Addition + Alteration" to the Alpha Chi Omega sorority house.
 
 {% include figure.html
 class="img-center"
@@ -126,7 +126,7 @@ Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of
 <audio controls src="UNM-Press-Building-Interview.mp3"></audio>
 
 ## Acknowledgments
-I would like to thank former Press Director Elizabeth Hadas, former Press employees Durwood Ball and David Holtby, and current Press employee Elise McHugh for their help in providing information on the Press's history between the late 1980s up until today. Elise also provided the pictures of the cracks at the Basehart Press location.
+I would like to thank former Press Director Elizabeth Hadas, former Press employees Durwood Ball and David Holtby, and current Press employee Elise McHugh for their help in providing information on the Press's history between the late 1980s up until the present day. Elise also provided the pictures of the cracks at the Basehart Press location.
 
 ## Bibliography
 - _A History of the Buildings of the University of New Mexico: 1890-1934_ by Susan McColeman
