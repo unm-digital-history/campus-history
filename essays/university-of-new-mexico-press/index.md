@@ -35,7 +35,7 @@ Even though it would not be until the fall of 2009 that the Press would come to 
 {% include figure.html
 class="img-center"
 width="50%"
-caption="The Palace of the Governors in two stages of remodeling in 1913, the year El Palacio Press, the progenitor to the UNM Press, began to release its eponymous magazine."
+caption="The Palace of the Governors in two stages of remodeling in 1913, the year El Palacio Press, the progenitor to the UNM Press, began to release its eponymous magazine."[^Repair][^Restoration]
 src="images/Screenshot_20250521_004700.jpg"
 %}
 
@@ -294,10 +294,48 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 - UNM Emergency Evacuation Maps. (2019).
 - UNM Office of the Registrar. "1924-1925-UNM CATALOG." (1925). https://digitalrepository.unm.edu/course_catalogs/27
 - UNM Office of the Registrar. "1935-1936 CATALOG ISSUE- BULLETIN." (1936). https://digitalrepository.unm.edu/course_catalogs/40
+- UNM Office of the Registrar. "1943-1944 ANNUAL RECORD- BULLETIN." (1944). https://digitalrepository.unm.edu/course_catalogs/49
 - UNM Office of the Registrar. "1948-1949 CATALOG ISSUE- BULLETIN." (1948). https://digitalrepository.unm.edu/course_catalogs/54
 - UNM Office of the Registrar. "1951-1952 CATALOG ISSUE- BULLETIN." (1951). https://digitalrepository.unm.edu/course_catalogs/58
 
-[^AHS]: Albuquerque Historical Society. 2022. “History of UNM Press: The Largest Book Publishing Company in New Mexico.” https://www.albuqhistsoc.org/programs/ahs-2022-2023-programs/history-of-unm-press-the-largest-book-publishing-company-in-new-mexico/, https://www.youtube.com/watch?v=7v7nNQ_MlxQ.
+[^1940s]: Press Records - History of UNM Press,, 1940-1949, Box: 14. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. 
+[^1942]: Press Records - History,, 1942-1950, Box: 7. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections.
+[^1949]: Homecoming - fraternity house decorations - Alpha Chi Omega. New Mexico’s Digital Collections. University of New Mexico University Libraries, March 19, 2012. 
+[^1950s]: Press Records - History of UNM Press,, 1950-1959, Box: 14. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections.
+[^1960s]: Press Records - History of UNM Press,, 1960-1968, Box: 14. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/340945 Accessed May 16, 2025.
+[^1970s]: Press Records - History of UNM Press,, 1970-1979, Box: 14. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. 
+[^AHS]: Albuquerque Historical Society. 2022. “History of UNM Press: The Largest Book Publishing Company in New Mexico.”
+[^Annual]: University of New Mexico. "Annual Report of the University, 1967-1968." (1968).
+[^Beula]: Beula Fleming Architectural Drawings
+[^C-3]: UNM Office of the Registrar. "1948-1949 CATALOG ISSUE- BULLETIN." (1948).
+[^ConjoinedtoCarlisle]: UNM Office of the Registrar. "1935-1936 CATALOG ISSUE- BULLETIN." (1936).
+[^Davis]: _Miracle on the Mesa: A History of the University of New Mexico 1889-2003_ by William E. Davis
+[^Evac]: UNM Emergency Evacuation Maps. (2019).
+[^Financial]: Press Records - Report - Financial,, 1982-1986, Box: 8. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. 
+[^Fleming]: Beula Fleming Job Files
+[^ForHadas]: “Past Presidents.” Association of University Presses, June 14, 2024. https://aupresses.org/about-aupresses/board-of-directors/past-presidents/. 
+[^Hesselden]: Louis G. Hesselden architectural drawings and plans collection
+[^Hooker]: _Only in New Mexico: An Architectural History of the University of New Mexico. The First Century, 1889-1989_ by Van Dorn Hooker with Melissa Howard and V. B. Price
+[^Hughes]: _Pueblo on the Mesa: The First Fifty Years_ at the University of New Mexico by Dorothy Hughes
 [^Korber]: 1924-1925 UNM Catalog
+[^Lobo1966]: University of New Mexico. "New Mexico Lobo, Volume 070, No 49, 12/16/1966." 70, 49 (1966).
+[^LoboMar1967]: University of New Mexico. "New Mexico Lobo, Volume 070, No 84, 3/31/1967." 70, 84 (1967). 
+[^LoboMay1967]: University of New Mexico. "New Mexico Lobo, Volume 070, No 109, 5/15/1967." 70, 109 (1967).
+[^Lobo1976]: University of New Mexico. "New Mexico Daily Lobo, Volume 080, No 69, 11/29/1976." 80, 69 (1976).
+[^Lobo1985]: University of New Mexico. "New Mexico Daily Lobo, Volume 089, No 147, 5/6/1985." 89, 147 (1985). 
 [^McColeman]: _A History of the Buildings of the University of New Mexico: 1890-1934_ by Susan McColeman
+[^Mirage35]: University of New Mexico. "The Mirage, 1935." (1935).
+[^Mirage45]: University of New Mexico. "The Mirage, 1945." (1945).
+[^Mirage47]: University of New Mexico. "The Mirage, 1947." (1947).
+[^Mirage66]: University of New Mexico. "The Mirage, 1966." (1966).
+[^Mirage67]: University of New Mexico. "The Mirage, 1967." (1967).
+[^Mirage68]: University of New Mexico. "The Mirage, 1968."
+[^NYT]: Lee, Felicia R. “Best Seller Is a Fake, Professor Asserts.” The New York Times, October 4, 1991.
+[^Overhead]: UNM Office of the Registrar. "1943-1944 ANNUAL RECORD- BULLETIN." (1944).
 [^Palacio]: “About Us.” El Palacio, March 14, 2019. https://elpalacio.org/about-us/.
+[^Regents]: University of New Mexico Board of Regents. "University of New Mexico Board of Regents Minutes for June 13, 1995." (1995).
+[^Repair]: Nusbaum, Jesse. Repair and remodeling of portal, Palace of the Governors, Santa Fe, New Mexico. New Mexico’s Digital Collections. University of New Mexico University Libraries, March 2011.
+[^Restoration]: Nusbaum, Jesse. Palace of the Governors during restoration, Santa Fe, New Mexico. New Mexico’s Digital Collections. University of New Mexico University Libraries, February 2011.
+[^Sororities]: Sororities - Alpha Chi Omega - Formal - Two,, 1930s. University of New Mexico Student Publications Board Records,, UNMA-146. UNM Center for Southwest Research & Special Collections.
+[^T-21]: UNM Office of the Registrar. "1951-1952 CATALOG ISSUE- BULLETIN." (1951).
+[^Vertical]: University of New Mexico Vertical Files, UNMA-006
