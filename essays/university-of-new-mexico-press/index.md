@@ -16,14 +16,14 @@ The University of New Mexico Press has been a fixture of UNM for nearly a centur
 
 {% include figure.html
   class="img-center"
-  width="30%"
+  width="65%"
   caption="1717 Roma Avenue NE in 1949, decorated as part of a sorority house decor competition."
   src="images/ULPhotoImag_3418_medium.jpg"
 %}
 
 {% include figure.html
   class="img-center"
-  width="75%"
+  width="65%"
   caption="The University of New Mexico Press building today."
   src="images/PXL_20250501_220133669.jpg"
 %}
@@ -34,7 +34,7 @@ Even though it would not be until the fall of 2009 that the Press would come to 
 
 {% include figure.html
 class="img-center"
-width="100%"
+width="65%"
 caption="The Palace of the Governors in two stages of remodeling in 1913, the year El Palacio Press, the progenitor to the UNM Press, began to release its eponymous magazine."
 src="images/Screenshot_20250521_004700.jpg"
 %}
