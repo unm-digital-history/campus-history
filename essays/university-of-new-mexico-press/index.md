@@ -266,6 +266,8 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 - Homecoming - fraternity house decorations - Alpha Chi Omega. New Mexico’s Digital Collections. University of New Mexico University Libraries, March 19, 2012. https://nmdc.unm.edu/digital/collection/ULPhotoImag/id/3418/rec/2.
 - Lee, Felicia R. “Best Seller Is a Fake, Professor Asserts.” The New York Times, October 4, 1991. https://www.nytimes.com/1991/10/04/us/best-seller-is-a-fake-professor-asserts.html. 
 - _Miracle on the Mesa: A History of the University of New Mexico 1889-2003_ by William E. Davis
+- Nusbaum, Jesse. Palace of the Governors during restoration, Santa Fe, New Mexico. New Mexico’s Digital Collections. University of New Mexico University Libraries, February 2011. https://nmdc.unm.edu/digital/collection/nusbaum/id/614/rec/192.
+- Nusbaum, Jesse. Repair and remodeling of portal, Palace of the Governors, Santa Fe, New Mexico. New Mexico’s Digital Collections. University of New Mexico University Libraries, March 2011. https://nmdc.unm.edu/digital/collection/nusbaum/id/654/rec/242. 
 - _Only in New Mexico: An Architectural History of the University of New Mexico. The First Century, 1889-1989_ by Van Dorn Hooker with Melissa Howard and V. B. Price
 - “Past Presidents.” Association of University Presses, June 14, 2024. https://aupresses.org/about-aupresses/board-of-directors/past-presidents/. 
 - Press Records - History,, 1942-1950, Box: 7. University of New Mexico Press records, UNMA 125. UNM Center for Southwest Research & Special Collections. https://nmarchives.unm.edu/repositories/22/archival_objects/340665 Accessed May 16, 2025.
