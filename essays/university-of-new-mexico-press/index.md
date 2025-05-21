@@ -77,7 +77,7 @@ Between 1933 and 1943, the Press published 56 total books. Book publishing wasn'
 {% include figure.html
 class="img-center"
 width="90%"
-caption="An overhead view of campus from 1943, in which both the Press offices and 1717 Roma can be seen."
+caption="An overhead view of campus from 1943, in which both the Press offices (#33) and 1717 Roma (directly north of #30) can be seen."
 src="images/Screenshot_20250516_162707.jpg"
 %}
 
