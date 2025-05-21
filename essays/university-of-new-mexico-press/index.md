@@ -35,7 +35,7 @@ Even though it would not be until the fall of 2009 that the Press would come to 
 {% include figure.html
 class="img-center"
 width="50%"
-caption="The Palace of the Governors in two stages of remodeling in 1913, the year El Palacio Press, the progenitor to the UNM Press, began to release its eponymous magazine."[^Repair] [^Restoration]
+caption="The Palace of the Governors in two stages of remodeling in 1913, the year El Palacio Press, the progenitor to the UNM Press, began to release its eponymous magazine." [^Repair] [^Restoration]
 src="images/Screenshot_20250521_004700.jpg"
 %}
 
