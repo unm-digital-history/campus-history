@@ -12,7 +12,7 @@ background-position: 20px
 
 ## Introduction
 
-The University of New Mexico Press has been a fixture of UNM for nearly a century. Compared to many of the other long-standing institutions on campus, though, the Press has been shifted between many different locations over the years. Currently, it is based out of 1717 Roma Avenue NE, to the west of Dane Smith Hall and north of the Anthropology building; this location was first constructed as the Alpha Chi Omega sorority house in 1930-31, following the establishment of its UNM Chapter in 1918. The Press occupies the first floor and basement of the building, with one office on the upper level (the rest are reserved for overflow from Scholes Hall across the street and to the east). The Press is New Mexico's one major book publisher and handles various regional projects, as well as scholarly books alongside poetry collections and fiction. Its history is long and storied, and, as far as becoming part of UNM goes, properly begins in 1929—incidentally, the same year that the ball got rolling for the construction of its current base of operations.
+The University of New Mexico Press has been a fixture of UNM for nearly a century. Compared to many of the other long-standing institutions on campus, though, the Press has been shifted between many different locations over the years. Currently, it is based out of 1717 Roma Avenue NE, to the west of Dane Smith Hall and north of the Anthropology building; this location was first constructed as the Alpha Chi Omega sorority house in 1930-31, following the establishment of its UNM Chapter in 1918.[^Mirage35] The Press occupies the first floor and basement of the building, with one office on the upper level (the rest are reserved for overflow from Scholes Hall across the street and to the east). The Press is New Mexico's one major book publisher and handles various regional projects, as well as scholarly books alongside poetry collections and fiction. Its history is long and storied, and, as far as becoming part of UNM goes, properly begins in 1929—incidentally, the same year that the ball got rolling for the construction of its current base of operations.
 
 {% include figure.html
   class="img-center"
@@ -25,9 +25,10 @@ The University of New Mexico Press has been a fixture of UNM for nearly a centur
 {% include figure.html
   class="img-center"
   width="60%"
-  caption="The University of New Mexico Press building today."
+  caption=""
   src="images/PXL_20250501_220133669.jpg"
 %}
+>The University of New Mexico Press building today.[^Me]
 
 ## Origins of the Press
 
@@ -36,9 +37,10 @@ Even though it would not be until the fall of 2009 that the Press would come to 
 {% include figure.html
 class="img-center"
 width="50%"
-caption="The Palace of the Governors in two stages of remodeling in 1913, the year El Palacio Press, the progenitor to the UNM Press, began to release its eponymous magazine."
+caption=""
 src="images/Screenshot_20250521_004700.jpg"
 %}
+>The Palace of the Governors in two stages of remodeling in 1913, the year El Palacio Press, the progenitor to the UNM Press, began to release its eponymous magazine.[^Repair][^Restoration]
 
 Dr. Zimmerman entered into a cooperative agreement with the director of the Museum of New Mexico and the School of American Research, Dr. Edgar L. Hewett, which meant that the entire Press was transplanted from Santa Fe to UNM in 1930. On July 15th, Paul A. F. Walter, Jr. was hired as the assistant director for both the Museum of New Mexico and the School of American Research, as well as the director of publications at UNM. The first equipment was moved over sometime in August or September of that year. The press's name initially remained El Palacio Press, but as people increasingly referred to it as the University of New Mexico's press, the name stuck. At the time the UNM Press began operations, it was the only one located between the University of Oklahoma and the West Coast.
 
@@ -51,22 +53,25 @@ After that, one of the buildings was reappropriated as a music studio for a shor
 {% include figure.html
 class="img-center"
 width="60%"
-caption="A map of the University of New Mexico campus in December 1928, showing the eventual home of the Press in its original state."
+caption=""
   src="images/Screenshot_2025-05-16_025216.png"
 %}
+>A map of the University of New Mexico campus in December 1928, showing the eventual home of the Press in its original state.[^McColeman]
 
 {% include figure.html
 class="img-center"
 width="60%"
-caption="The campus in December 1935. By this point, the two Korber/Press buildings had been connected to each other and the Carlisle Gym."
+caption=""
   src="images/Screenshot_2025-05-01_180119.png"
 %}
+The campus in December 1935. By this point, the two Korber/Press buildings had been conjoined and linked to the Carlisle Gym.[^ConjoinedtoCarlisle]
 
 {% include figure.html
   class="img-center"
   width="100%"
-  caption="An architectural drawing of one of the original Korber Wireless Station buildings compared to the site today, now housing UNM Facilities Management. If one looks closely, they can see lines in the stucco to the right of the door that appear to match with where a window originally was, complete with it being taller than the door itself, and one level to the ground that seems to match with the originally raised entrance walkway; it is likely this is the exact same side of the building."
+  caption=""
   src="images/Screenshot_20250516_152855.jpg" %}
+>An architectural drawing of one of the original Korber Wireless Station buildings[^McColeman] compared to the site today, now housing UNM Facilities Management[^Me]. If one looks closely, they can see lines in the stucco to the right of the door that appear to match with where a window originally was, complete with it being taller than the door itself, and one level to the ground that seems to match with the originally raised entrance walkway; it is likely this is the exact same side of the building.
 
 ### Early Press Operations
 For its first 3 years, the Press was little more than a printing facility for UNM. UNM had conducted some publishing prior to the establishment of the Press, including catalogs, internal materials, and some booklets, from 1898 onward. Their first ever booklet publication was published under the auspices of the "Hadley Climatological Laboratory" and was titled "Physiological Corrolaries of Equilibrium Theory of Nervous Action and Control."[^AHS] At first, the Press's output was largely comprised of similar material. Its first publications were pamphlets, while it also published booklets in the Bulletins series. Their equipment, though, was used to print works for UNM staff and other individuals, and some of these were credited to the Press. Technically, their first-ever hardcover book release was _Givers of Life_ by Emma Esterbook, which was published in 1931. However, the Press does not classify it as their first release because they did not advertise, distribute, or catalog it themselves. Their first true release was _New Mexico History and Civics_ by Lansing B. Bloom and Thomas C. Donnelly (the future president of New Mexico Highlands University) in 1933. This was also the year that Fred E. Harvey was hired as the Press Director.
@@ -78,9 +83,10 @@ Between 1933 and 1943, the Press published 56 total books. Book publishing wasn'
 {% include figure.html
 class="img-center"
 width="90%"
-caption="An overhead view of campus from 1943, in which both the Press offices (#33) and 1717 Roma (directly north of #30) can be seen."
+caption=""
 src="images/Screenshot_20250516_162707.jpg"
 %}
+>An overhead view of campus from 1943, in which both the Press offices (#33) and 1717 Roma (directly north of #30) can be seen.[^Overhead]
 
 ### The Future Location of the Press
 The agreement for the construction of the Alpha Chi Omega sorority house was made on April 19th, 1930, between the "ALPHA CHI OMEGA BUILDING ASSOCIATION OF NEW MEXICO" and architect Beula Fleming. The house was finished sometime in late December of that year or in early January 1931. It was outfitted with a three-tier fireplace, a grand piano, and other amenities. The initial sketches for the building differed from the final layout; the living room originally protruded out more from the rest of the house, with a fireplace nestled in its bottom left corner, and a conservatory room adjacent to it was dropped entirely. The dining room and kitchen were also made flush with the reoriented living room. Additionally, the original plan called for a porch on the exterior facing west; this did not come to fruition, with one instead being built along the walkway to the entryway door.
@@ -89,20 +95,22 @@ The agreement for the construction of the Alpha Chi Omega sorority house was mad
 
 {% include carousel.html images = images %}
 
-The first image is of the initial plan for the ground floor of 1717 Roma Avenue NE. The second is of sketches of the original design of the building from the right side and front. The third is a picture of the structure shortly after construction was finished, which is largely identical to the current building aside from the lack of the 1950 addition and the double doors being removed; the step leading up to it does still remain, but the doors were walled off and a window was inserted where they once stood. 
+>The first image is of the initial plan for the ground floor of 1717 Roma Avenue NE. The second is of sketches of the original design of the building from the right side and front.[^Beula] The third is a picture of the structure shortly after construction was finished, which is largely identical to the current building aside from the lack of the 1950 addition and the double doors being removed; the step leading up to it does still remain, but the doors were walled off and a window was inserted where they once stood.[^Vertical] 
 
 {% include juxtapose.html
 image1="images/KICDocument0001.png"
 image2="images/PXL_20250501_220504555.jpg"
-caption="1717 Roma in the 1930s, compared to how this corner of the building looks today."
+caption=""
 %}
+>1717 Roma in the 1930s[^Sororities], compared to how this corner of the building looks today.[^Me]
 
 {% include figure.html
 class="img-center"
 width="35%"
-caption="The fireplace, inside the living room."
+caption=""
 src="images/Screenshot_2025-05-16_023922.png"
 %}
+>The fireplace, inside the living room.[^Mirage37]
 
 ## Growing Pains
 The Press faced many challenges early on in its life. For nearly the first decade of its life at UNM, the Great Depression was raging, and during at least one summer, the Press lacked the money to pay its personnel. Its first home also wasn't terribly well-suited to the Press's operations; floor space for the UNM Press Plant reportedly had only ever been adequate shortly after each stage of new construction. Operating in under 4000 square feet of space not only made it impossible for the Press to add any new machinery to their operations, but the established machinery was so crowded that it was allegedly dangerous. In the fall of 1943, President Zimmerman asked Joseph A. Brandt, then-director of the University of Chicago Press, to visit the UNM Press and provide feedback. Brandt's response in 1944 did offer some praise for the press even existing, and he also commended the organization of the plant, but he stated that it was understaffed, underfunded, and underequipped. During the 1930s and 1940s, the press's staff ranged from 4 to 8 people, which limited just how much they could achieve. Additionally, due to being the only prominent publisher in a 400-mile radius at this time (and for years to come), many Press staff lacked top-level publishing experience. Brandt offered a multitude of recommendations for improving the Press's operations, including aiming to publish 6-10 new books per year across 2 seasonal lists, making production money available for books in a composite budget, preparing for a loss of $10,000 to $15,000 annually, and making the plant a formal division of the Press. The following reorganization took place against the backdrop of thousands more students coming to UNM, in part due to the GI Bill that brought in an influx of World War II veterans. It resulted in the press taking on a broader publishing program as well, with less of a focus on scholarly material.
@@ -112,9 +120,10 @@ That's not to say there weren't any positive developments with the Press around 
 {% include figure.html
 class="img-center"
 width="60%"
-caption="The Journalism building in 1949."
+caption=""
 src="images/Journalism-and-UNM-Press-building-1949.png"
 %}
+>The Journalism building in 1949.[^AHS]
 
 However, it cannot be said that the Press's editorial offices fared quite as well. By 1948, they'd already moved into a building directly southwest of their initial location, roughly where Clark Hall stands now. Within a few years, though, they'd moved to a temporary structure to the northeast of the Library (which had not yet been named for Zimmerman), labeled as T-21 on the campus map. It was part of a collection of buildings that mostly served as women's dormitories. During this time, they were able to expand and establish distinct editorial, art, sales and promotion, and shipping and bookkeeping departments, as well as a clerical staff. They also produced some books on behalf of the University of Arizona, whose press existed in name only until 1959. However, 1956 brought on more tough times for the Press, including a near-total reorganization. The idea was combining the Press, _New Mexico Quarterly_, and _Publications_ series into a single department while making printing operations independent. The entirety of the Press was laid off so that the new editor of publications, Roland Dickey, could appoint a new staff, though one of the affected employees did end up staying on as an office manager.
 
@@ -141,25 +150,27 @@ src="images/PXL_20250501_160143468.jpg"
 ## Changes in the 1960s
 {% include aside.html
   class="right"
-  text="-	“We exist to fill a scholarly gap. The Press is non-profit and not taxed. We publish what commercial publishers cannot afford to publish in highly specialized fields.” - Mrs. Carol Kurman, acting director of the UNM Press, 1967"
+  text="-	“We exist to fill a scholarly gap. The Press is non-profit and not taxed. We publish what commercial publishers cannot afford to publish in highly specialized fields.” - Mrs. Carol Kurman, acting director of the UNM Press, 1967"[^1960s]
   %}
 Under the leadership of Dickey, the Press wound up building a sizable backlog of manuscripts awaiting publication, which resulted in Frank H. Wardlaw, director of the University of Texas Press, conducting an inspection of their operations in 1965. Wardlaw saw Dickey as a friend and did go easy on him at first, but he realized that the alternative could be someone far less sympathetic filling his role. The most pressing issue was that a book could languish in production for five to six years before being published, though Wardlaw also stated he felt that sales efforts, particularly advertising, were suboptimal. He encouraged the UNM Press to outsource to manufacturers in the Eastern US to clear up their backlog, and also advised bringing bookkeeping, shipping, and warehousing under the Press's control in the future, as other UNM programs still handled those at the time. Dickey would leave the Press at the end of 1966 to join the University of Wisconsin Press, with Roger W. Shugg being hired to assume directorial duties. Shugg was the first truly professional director the UNM Press had. However, Shugg couldn't move to New Mexico for full-time work, so two joint directors served until July 1st, 1967, when he was able to begin his tenure. Shugg made a substantial push to increase the Press's output; in his first year, the Press published 16 books, whereas in the three years prior, they'd only released 19 books. Production control was also tightened soon after Wardlaw's examination, though it took until 1975 for the Press to handle its own shipping. 
 
 {% include figure.html
 class="img-center"
 width="60%"
-caption="The Alpha Chi Omega Sorority House, as photographed in the 1965-1966 edition of UNM's _The Mirage_ yearbook. Holes in the arch can be seen where the Greek letters of the sorority—ΑΧΩ—once were."
+caption=""
 src="images/The_Mirage_1966_copy_1.pdf.png"
 %}
+>The Alpha Chi Omega Sorority House, as photographed in the 1965-1966 edition of UNM's _The Mirage_ yearbook. Holes in the arch can be seen where the Greek letters of the sorority—ΑΧΩ—once were.[^Mirage66]
 
 1717 Roma Avenue NE went through a particularly radical shakeup in the 1960s. In October 1965, the Board of Educational Finance approved a University revenue bond issue to finance various endeavors, such as the construction of The Pit, an Olympic pool, the Laguna and DeVargas dormitories, and the La Posada dining hall. Simultaneously, they approved UNM's purchase of the Alpha Chi Omega fraternity house. The sorority had outgrown it, and they subsequently moved into a new, larger house in a Spanish colonial style. 
 
 {% include figure.html
 class="img-center"
 width="60%"
-caption="The new Alpha Chi Omega Sorority House, as photographed in the 1967-1968 edition of UNM's _The Mirage_ yearbook. It has since been transformed into the ROTC Education Complex."
+caption=""
 src="images/Screenshot_2025-05-19_224254.png"
 %}
+The new Alpha Chi Omega Sorority House, as photographed in the 1967-1968 edition of UNM's _The Mirage_ yearbook.[^Mirage68] It has since been transformed into the ROTC Education Complex.
 
 So...what did UNM use their newly acquired building for? Well, it was first designated as the location for the offices of the Institute of Meteoritics. 1717 Roma only housed them very briefly, though. The Institute was already in a period of relaitve inactivity after its director retired in 1962, and while they had a full-time researcher between 1966 and 1967, he soon left. By the end of March 1967, the office of International Programs and Services had taken up residence in 1717 Roma, where it would remain well into the 1980s.
 
@@ -167,7 +178,7 @@ So...what did UNM use their newly acquired building for? Well, it was first desi
 Under the direction of Shugg, the UNM Press flourished into the 1970s and beyond. While still mid-sized, Shugg's efforts helped attract more top regional and faculty authors to the Press (after they had ironically struggled to secure manuscripts from UNM staff and were also relatively ignored in New Mexico despite having the pull to secure reviews in prominent places like the _Los Angeles Times_), to the point that it commanded equal respect to the Oklahoma and Texas university presses. Its growth was rapid, publishing five times as many books and boasting an annual business nearly four times greater than just four years prior—and that was with two fewer full-time employees. 76.4% of purchases were made from buyers outside of New Mexico. And this was all at a time where the Press was not accepting works of fiction or poetry; they instead referred authors who submitted such works to them to other publishing houses. Shugg's goal was for around 50% of the Press's books to be regional and the other 50% to be of general interest, with half also coming from UNM employees and associates, with a third of books being profitable so that the Press could be self-sustaining, or very close to it. At the same time, press employee Jack Rittenhouse pursued an initiative to revive out-of-print regional texts.
 {% include aside.html
   class="right"
-  text="-	“The University started the Press in hard times and has stuck by it through very difficult periods. It’s not so unusual for a university to subsidize a losing athletic program, but it shows great forethought and dedication for the University of New Mexico Press to be able to continue and grow.” - Dr. Robert Shugg"
+  text="-	“The University started the Press in hard times and has stuck by it through very difficult periods. It’s not so unusual for a university to subsidize a losing athletic program, but it shows great forethought and dedication for the University of New Mexico Press to be able to continue and grow.” - Dr. Robert Shugg[^1960s]"
   %}
 There were still some difficulties: in particular, the plant was no longer competitive because its photo composition system was obsolete, forcing the Press to outsource some projects to keep their prices economical. This was inconvenient and cost the plant both time and money. Additionally, the sales force of the Columbia University Press had begun representing the Press in the Eastern US starting in 1971, but by late 1976, they had since made arrangements with another 8-9 presses, and the one they had established with the UNM Press was no longer satisfactory. Thus, the directors and marketing managers of the University of Washington, the University of Texas, the University of Texas A&M, Brigham Young University, the University of Oklahoma, and the University of New Mexico Presses founded a new marketing consortium called the University Marketing Group. And over the Thanksgiving holidays in 1977, a cold front plunged temperatures to 10°F. This caught the University off guard, as to conserve energy while classes weren't in session, they had set temperatures inside buildings to 58°F. The resulting damages cost UNM an estimated $800,000 to $1 million in damages, largely because of pipes bursting. The UNM Press offices were among those affected, in addition to the Press's former home in Marron Hall and its future residence of 1717 Roma Avenue NE—at the time referred to as the "UNM Personnel Department." However, none of these setbacks kept the Press from maintaining strong momentum into the future, under the direction of Luther Wilson, who became press director in 1980.
 
@@ -180,9 +191,10 @@ But it was a little too good to be true. _The Education of Little Tree_ wasn't j
 {% include figure.html
 class="img-center"
 width="75%"
-caption="A plaque on display in the UNM Press lobby for the Sheridan Books, Inc. Platinum Book Award, commemorating the existence of over a million print copies of _The Education of Little Tree_ as of July 2005."
+caption=""
 src="images/CamScanner_05-20-2025_13.30_1.jpg"
 %}
+>A plaque on display in the UNM Press lobby for the Sheridan Books, Inc. Platinum Book Award, commemorating the existence of over a million print copies of _The Education of Little Tree_ as of July 2005.[^Me]
 
 With that said, though, UNM Press largely escaped from the crosshairs of the controversy. The very next year, Elizabeth Hadas was actually elected the president of the Association of American University Presses, where she served a standard year-long term. In fact, _The Education of Little Tree_ received a film adaptation after the fact that flew under the radar due to being released the same day as James Cameron's _Titanic_, and the book still sells well, its backstory often being overlooked. So why exactly has the book still endured despite where it came from? As Hadas put it, "Even though the author had terrible values, the book espouses excellent values." _The Education of Little Tree_ is too far removed from Asa Earl Carter's beliefs for them to really impose themselves upon the content of the book. While the UNM Press published it under the perception of it being a memoir, it helped launch a renewed initiative from them to publish literary works, alongside the 1992 release of _Alburquerque_ by Rudolfo Anaya. Its sales also enabled the Press to hire more staff, publish some pricey photography and art books, and supply employees with a good deal of educational travel. The sheer success of the book even allowed the Press to be self-supporting for a time. It's a complicated situation, but the Press does still recognize the book as part of their history.
 
@@ -196,9 +208,10 @@ In December 2004, demolition began on the Lomas location to build the UNM John &
 {% include figure.html
 class="img-center"
 width="100%"
-caption="The subpar construction of the new Press building caused cracks ranging from thin lines to crevices nearly two feet deep to form in the window frames, walls, and floors."
+caption=""
 src="images/Screenshot_20250516_153057.jpg"
 %}
+>The subpar construction of the new Press building caused cracks ranging from thin lines to crevices nearly two feet deep to form in the window frames, walls, and floors.[^McHugh]
 
 First, a flood took place. Then cracks began to form in the floors and walls, with one nearly being two feet deep. The building had been built in an unorthodox manner because a second story that could be rented out was hastily added to the construction plan, and so it ended up with bizarre support beams, including ones that ran diagonally and in front of windows. This, coupled with the construction workers not digging deep enough to properly ground the building, was the cause of it beginning to break apart. The strain of the unplanned additional floor was too much for it to bear. Newly added rods that drilled deep into the Basehart location's foundation were needed to shore it up.
 
@@ -213,41 +226,46 @@ Throughout its own long life, 1717 Roma has changed quite a bit, even from the o
 {% include figure.html
 class="img-center"
 width="100%"
-caption="All 3 floors of 1717 Roma as initially planned by Beula Fleming. Note that they have been turned upside-down to match the orientation of Hesselden's drawings and the current maps."
+caption=""
 src="images/Screenshot_20250516_150618.jpg"
 %}
+>All 3 floors of 1717 Roma as initially planned by Beula Fleming. Note that they have been turned upside-down to match the orientation of Hesselden's drawings and the current maps.[^Beula]
 
 {% include figure.html
 class="img-center"
 width="100%"
-caption="All 3 floors of 1717 Roma as drawn out by Louis G. Hesselden, reflecting the final overall design of Beula's work as well as his newly planned additions and changes."
+caption=""
 src="images/Screenshot_20250516_150644~3.jpg"
 %}
+>All 3 floors of 1717 Roma as drawn out by Louis G. Hesselden, reflecting the final overall design of Beula's work as well as his newly planned additions and changes.[^Hesselden]
 
 {% include figure.html
 class="img-center"
 width="100%"
-caption="Up-to-date maps of 1717 Roma taken from emergency evacuation guidelines for each floor, demonstrating many changes made to the interior."
+caption=""
 src="images/Screenshot_20250516_150700.jpg"
 %}
+>Up-to-date maps of 1717 Roma taken from emergency evacuation guidelines for each floor, demonstrating many changes made to the interior.[^Evac]
 
 Walls were torn down to open up many rooms, though others were divided up further. For example, the dining room the Alpha Chi Omega girls ate in was divided into an extension of the old check room, a small kitchen space, and offices for the business department. What was once the Alpha Chi Omega living room was split into five rooms, while the fireplace was concealed behind drywall. 
 
 {% include figure.html
 class="img-center"
 width="50%"
-caption="The editorial, design, and production department space within the Press, based out of the former living room. The ornate beams are one of the only relics of the original space."
+caption=""
 src="images/PXL_20250501_230832554.jpg"
 %}
+>The editorial, design, and production department space within the Press, based out of the former living room. The ornate beams are one of the only relics of the original space.[^Me]
 
 Perhaps where the building's history shines through most clearly is in the Ernest R. Earick Memorial Library, though. Even in the adjacent hallway, a gap in the floor trim marks where a door once stood, leading to the matron's room originally and the housemother's reception room in Hesselden's time. Even inside the room, though, there are distinctive signs left behind. A small divot in the ventilation jutting down from the ceiling, now propping up some _New Mexico Quarterly_ magazines, marks where a closet once was. In the back-right corner, the ceiling opens up where another door once stood. A protrusion that links with the vent is all that remains of a bathroom. It is quite appropriate that a building with such a storied history is now home to an organization focused predominantly on putting stories and histories out into the world.
 
 {% include figure.html
 class="img-center"
 width="60%"
-caption="The hallway outside the Ernest R. Earick Memorial Library and the library itself from both sides. It houses the majority of the Press's output and also acts as a conference room for Press meetings."
+caption=""
 src="images/Screenshot_20250516_153240.jpg"
 %}
+>The hallway outside the Ernest R. Earick Memorial Library and the library itself from both sides.[^Me] It houses the majority of the Press's output and also acts as a conference room for Press meetings.
 
 ## Interview with 1717 Roma
 Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of what the Alpha Chi Omega members got up to, as well as some operations of the Press in the present-day.
@@ -286,6 +304,7 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 - University of New Mexico. "New Mexico Daily Lobo, Volume 080, No 69, 11/29/1976." 80, 69 (1976). https://digitalrepository.unm.edu/daily_lobo_1976/142
 - University of New Mexico. "New Mexico Daily Lobo, Volume 089, No 147, 5/6/1985." 89, 147 (1985). https://digitalrepository.unm.edu/daily_lobo_1985/72
 - University of New Mexico. "The Mirage, 1935." (1935). https://digitalrepository.unm.edu/unm_yearbooks/23
+- University of New Mexico. "The Mirage, 1937." (1937). https://digitalrepository.unm.edu/unm_yearbooks/21
 - University of New Mexico. "The Mirage, 1945." (1945). https://digitalrepository.unm.edu/unm_yearbooks/60
 - University of New Mexico. "The Mirage, 1947." (1947). https://digitalrepository.unm.edu/unm_yearbooks/24
 - University of New Mexico. "The Mirage, 1966." (1966). https://digitalrepository.unm.edu/unm_yearbooks/63
@@ -325,12 +344,15 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 [^Lobo1976]: University of New Mexico. "New Mexico Daily Lobo, Volume 080, No 69, 11/29/1976." 80, 69 (1976).
 [^Lobo1985]: University of New Mexico. "New Mexico Daily Lobo, Volume 089, No 147, 5/6/1985." 89, 147 (1985). 
 [^McColeman]: _A History of the Buildings of the University of New Mexico: 1890-1934_ by Susan McColeman
+[^McHugh]: Photos provided by UNM Press employee Elise McHugh
+[^Me]: Photo taken by essay author
 [^Mirage35]: University of New Mexico. "The Mirage, 1935." (1935).
+[^Mirage37]: University of New Mexico. "The Mirage, 1937." (1937).
 [^Mirage45]: University of New Mexico. "The Mirage, 1945." (1945).
 [^Mirage47]: University of New Mexico. "The Mirage, 1947." (1947).
 [^Mirage66]: University of New Mexico. "The Mirage, 1966." (1966).
 [^Mirage67]: University of New Mexico. "The Mirage, 1967." (1967).
-[^Mirage68]: University of New Mexico. "The Mirage, 1968."
+[^Mirage68]: University of New Mexico. "The Mirage, 1968." (1968).
 [^NYT]: Lee, Felicia R. “Best Seller Is a Fake, Professor Asserts.” The New York Times, October 4, 1991.
 [^Overhead]: UNM Office of the Registrar. "1943-1944 ANNUAL RECORD- BULLETIN." (1944).
 [^Palacio]: “About Us.” El Palacio, March 14, 2019. https://elpalacio.org/about-us/.
