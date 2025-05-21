@@ -18,7 +18,7 @@ The University of New Mexico Press has been a fixture of UNM for nearly a centur
   class="img-center"
   width="30%"
   caption="1717 Roma Avenue NE in 1949, decorated as part of a sorority house decor competition."
-  src="images/ULPhotoImag_3418_medium.jpgg"
+  src="images/ULPhotoImag_3418_medium.jpg"
 %}
 
 {% include figure.html
