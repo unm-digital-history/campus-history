@@ -16,14 +16,14 @@ The University of New Mexico Press has been a fixture of UNM for nearly a centur
 
 {% include figure.html
   class="img-center"
-  width="65%"
+  width="50%"
   caption="1717 Roma Avenue NE in 1949, decorated as part of a sorority house decor competition."
   src="images/ULPhotoImag_3418_medium.jpg"
 %}
 
 {% include figure.html
   class="img-center"
-  width="65%"
+  width="50%"
   caption="The University of New Mexico Press building today."
   src="images/PXL_20250501_220133669.jpg"
 %}
@@ -34,7 +34,7 @@ Even though it would not be until the fall of 2009 that the Press would come to 
 
 {% include figure.html
 class="img-center"
-width="65%"
+width="35%"
 caption="The Palace of the Governors in two stages of remodeling in 1913, the year El Palacio Press, the progenitor to the UNM Press, began to release its eponymous magazine."
 src="images/Screenshot_20250521_004700.jpg"
 %}
@@ -48,15 +48,15 @@ In a similar vein, the first building the Press was housed in was already establ
 After that, one of the buildings was reappropriated as a music studio for a short time, before the Press ultimately ended up inhabiting both of them. At the time, the buildings were connected by an outdoor boardwalk. In 1934, the Buildings and Grounds Department was able to double the size of the Press by removing the shared walls between the two buildings and constructing a roof over them both. The resulting structure was joined to Carlisle Gym and still stands to this day; the US government's Works Progress Administration helped make the renovation possible. It was further expanded in 1938, when Professor William E. Burk of the School of Architecture donated his services to both double the space within the building once again and to remodel it in the Pueblo Revival style. The Press occupied the building until 1949. The former Korber Radio Station buildings would come to house the Office of Veterans' Affairs and the Counseling and Testing Division, and remain standing to this day as a facilities management structure.
 
 {% include figure.html
-class="img-left"
-width="55%"
+class="img-center"
+width="50%"
 caption="A map of the University of New Mexico campus in December 1928, showing the eventual home of the Press in its original state."
   src="images/Screenshot_2025-05-16_025216.png"
 %}
 
 {% include figure.html
-class="img-left"
-width="55%"
+class="img-center"
+width="50%"
 caption="The campus in December 1935. By this point, the two Korber/Press buildings had been connected to each other and the Carlisle Gym."
   src="images/Screenshot_2025-05-01_180119.png"
 %}
@@ -76,7 +76,7 @@ Between 1933 and 1943, the Press published 56 total books. Book publishing wasn'
 
 {% include figure.html
 class="img-center"
-width="100%"
+width="80%"
 caption="An overhead view of campus from 1943, in which both the Press offices and 1717 Roma can be seen."
 src="images/Screenshot_20250516_162707.jpg"
 %}
@@ -98,7 +98,7 @@ caption="1717 Roma in the 1930s, compared to how this corner of the building loo
 
 {% include figure.html
 class="img-center"
-width="30%"
+width="40%"
 caption="The fireplace, inside the living room."
 src="images/Screenshot_2025-05-16_023922.png"
 %}
@@ -110,7 +110,7 @@ That's not to say there weren't any positive developments with the Press around 
 
 {% include figure.html
 class="img-center"
-width="100%"
+width="50%"
 caption="The Journalism building in 1949."
 src="images/Journalism-and-UNM-Press-building-1949.png"
 %}
@@ -132,7 +132,7 @@ Hesselden's plans for the "Addition + Alteration" to the Alpha Chi Omega sororit
 
 {% include figure.html
 class="img-center"
-width="100%"
+width="50%"
 caption="The lounge space today, which serves as the Press entrance and reception area."
 src="images/PXL_20250501_160143468.jpg"
 %}
@@ -146,7 +146,7 @@ Under the leadership of Dickey, the Press wound up building a sizable backlog of
 
 {% include figure.html
 class="img-center"
-width="75%"
+width="50%"
 caption="The Alpha Chi Omega Sorority House, as photographed in the 1965-1966 edition of UNM's _The Mirage_ yearbook. Holes in the arch can be seen where the Greek letters of the sorority—ΑΧΩ—once were."
 src="images/The_Mirage_1966_copy_1.pdf.png"
 %}
@@ -155,7 +155,7 @@ src="images/The_Mirage_1966_copy_1.pdf.png"
 
 {% include figure.html
 class="img-center"
-width="100%"
+width="50%"
 caption="The new Alpha Chi Omega Sorority House, as photographed in the 1967-1968 edition of UNM's _The Mirage_ yearbook. It has since been transformed into the ROTC Education Complex."
 src="images/Screenshot_2025-05-19_224254.png"
 %}
@@ -178,7 +178,7 @@ But it was a little too good to be true. _The Education of Little Tree_ wasn't j
 
 {% include figure.html
 class="img-center"
-width="70%"
+width="50%"
 caption="A plaque on display in the UNM Press lobby for the Sheridan Books, Inc. Platinum Book Award, commemorating the existence of over a million print copies of _The Education of Little Tree_ as of July 2005."
 src="images/CamScanner_05-20-2025_13.30_1.jpg"
 %}
@@ -234,7 +234,7 @@ Walls were torn down to open up many rooms, though others were divided up furthe
 
 {% include figure.html
 class="img-center"
-width="100%"
+width="50%"
 caption="The editorial, design, and production department space within the Press, based out of the former living room. The ornate beams are one of the only relics of the original space."
 src="images/PXL_20250501_230832554.jpg"
 %}
@@ -243,7 +243,7 @@ Perhaps where the building's history shines through most clearly is in the Ernes
 
 {% include figure.html
 class="img-center"
-width="100%"
+width="60%"
 caption="The hallway outside the Ernest R. Earick Memorial Library and the library itself from both sides. It houses the majority of the Press's output and also acts as a conference room for Press meetings."
 src="images/Screenshot_20250516_153240.jpg"
 %}
