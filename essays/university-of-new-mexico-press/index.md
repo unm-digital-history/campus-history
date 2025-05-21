@@ -298,3 +298,5 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 - UNM Office of the Registrar. "1951-1952 CATALOG ISSUE- BULLETIN." (1951). https://digitalrepository.unm.edu/course_catalogs/58
 
 [^Korber]: 1924-1925 UNM Catalog
+[^McColeman]: _A History of the Buildings of the University of New Mexico: 1890-1934_ by Susan McColeman
+[^Palacio]: “About Us.” El Palacio, March 14, 2019. https://elpalacio.org/about-us/.
