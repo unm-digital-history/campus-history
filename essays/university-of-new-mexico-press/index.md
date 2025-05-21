@@ -16,14 +16,30 @@ The University of New Mexico Press has been a fixture of UNM for nearly a centur
 
 {% include figure.html
   class="img-center"
+  width="30%"
+  caption="1717 Roma Avenue NE in 1949, decorated as part of a sorority house decor competition."
+  src="images/ULPhotoImag_3418_medium.jpgg"
+%}
+
+{% include figure.html
+  class="img-center"
   width="75%"
-  caption="The University of New Mexico Press building."
+  caption="The University of New Mexico Press building today."
   src="images/PXL_20250501_220133669.jpg"
 %}
 
 ## Origins of the Press
 
-Even though it would not be until the fall of 2009 that the Press would come to be housed within 1717 Roma, both may not have existed if not for the efforts of UNM President James Fulton Zimmerman. It was Zimmerman who encouraged the building program for fraternities and sororities, which manifested as a subdivision on Roma named Sorority Row, and he was also the figure who brought the Press to campus. On June 1st, 1929, UNM's Board of Regents unanimously approved the establishment of the Press. However, the Press was not started from scratch. A conglomerate of organizations based in Santa Fe—the Museum of New Mexico, the School of American Research, the Historical Society of New Mexico, the New Mexico Archaeological Society, and the New Mexico Geographical Society—had previously banded together to establish the El Palacio Press, which published the periodical _El Palacio_. _El Palacio_ began life as a monthly publication that covered scientific, literary, and art news of the Spanish Southwest, and it soon became the first weekly publication devoted to archaeology and museum activities. It was first published in November 1913 and was based inside the Palace of the Governors, whose name it was derived from. Dr. Zimmerman entered into a cooperative agreement with the director of the Museum of New Mexico and the School of American Research, Dr. Edgar L. Hewett, which meant that the entire Press was transplanted from Santa Fe to UNM in 1930. On July 15th, Paul A. F. Walter, Jr. was hired as the assistant director for both the Museum of New Mexico and the School of American Research, as well as the director of publications at UNM. The first equipment was moved over sometime in August or September of that year. The press's name initially remained El Palacio Press, but as people increasingly referred to it as the University of New Mexico's press, the name stuck. At the time the UNM Press began operations, it was the only one located between the University of Oklahoma and the West Coast.
+Even though it would not be until the fall of 2009 that the Press would come to be housed within 1717 Roma, both may not have existed if not for the efforts of UNM President James Fulton Zimmerman. It was Zimmerman who encouraged the building program for fraternities and sororities, which manifested as a subdivision on Roma named Sorority Row, and he was also the figure who brought the Press to campus. On June 1st, 1929, UNM's Board of Regents unanimously approved the establishment of the Press. However, the Press was not started from scratch. A conglomerate of organizations based in Santa Fe—the Museum of New Mexico, the School of American Research, the Historical Society of New Mexico, the New Mexico Archaeological Society, and the New Mexico Geographical Society—had previously banded together to establish the El Palacio Press, which published the periodical _El Palacio_. _El Palacio_ began life as a monthly publication that covered scientific, literary, and art news of the Spanish Southwest, and it soon became the first weekly publication devoted to archaeology and museum activities. It was first published in November 1913 and was based inside the Palace of the Governors, whose name it was derived from. 
+
+{% include figure.html
+class="img-center"
+width="100%"
+caption="The Palace of the Governors in two stages of remodeling in 1913, the year El Palacio Press, the progenitor to the UNM Press, began to release its eponymous magazine."
+src="images/Screenshot_20250521_004700.jpg"
+%}
+
+Dr. Zimmerman entered into a cooperative agreement with the director of the Museum of New Mexico and the School of American Research, Dr. Edgar L. Hewett, which meant that the entire Press was transplanted from Santa Fe to UNM in 1930. On July 15th, Paul A. F. Walter, Jr. was hired as the assistant director for both the Museum of New Mexico and the School of American Research, as well as the director of publications at UNM. The first equipment was moved over sometime in August or September of that year. The press's name initially remained El Palacio Press, but as people increasingly referred to it as the University of New Mexico's press, the name stuck. At the time the UNM Press began operations, it was the only one located between the University of Oklahoma and the West Coast.
 
 ### The First Location of the Press
 
@@ -33,14 +49,14 @@ After that, one of the buildings was reappropriated as a music studio for a shor
 
 {% include figure.html
 class="img-left"
-width="48%"
+width="55%"
 caption="A map of the University of New Mexico campus in December 1928, showing the eventual home of the Press in its original state."
   src="images/Screenshot_2025-05-16_025216.png"
 %}
 
 {% include figure.html
 class="img-left"
-width="48%"
+width="55%"
 caption="The campus in December 1935. By this point, the two Korber/Press buildings had been connected to each other and the Carlisle Gym."
   src="images/Screenshot_2025-05-01_180119.png"
 %}
@@ -159,6 +175,13 @@ The 1982-1983 fiscal year was particularly significant for the Press, as for the
 In 1991, its paperback edition topped the _New York Times_'s nonfiction bestseller list. It sold over a million copies, making it the highest-grossing book the Press has ever released. 
 
 But it was a little too good to be true. _The Education of Little Tree_ wasn't just discovered to be a fictional work masquerading as an accurate account after the fact. It was found that Forrest Carter was a pseudonym for the late Asa Earl Carter, a Ku Klux Klan member, anti-Semite, and white supremacist who had authored some of the most famous speeches of the notorious Governor George Wallace of Alabama. The _New York Times_, who broke the story in October 1991, subsequently moved the book to the fiction side of the bestseller's list, which killed its status as a chart topper.
+
+{% include figure.html
+class="img-center"
+width="70%"
+caption="A plaque on display in the UNM Press lobby for the Sheridan Books, Inc. Platinum Book Award, commemorating the existence of over a million print copies of _The Education of Little Tree_ as of July 2005."
+src="images/CamScanner_05-20-2025_13.30_1.jpg"
+%}
 
 With that said, though, UNM Press largely escaped from the crosshairs of the controversy. The very next year, Elizabeth Hadas was actually elected the president of the Association of American University Presses, where she served a standard year-long term. In fact, _The Education of Little Tree_ received a film adaptation after the fact that flew under the radar due to being released the same day as James Cameron's _Titanic_, and the book still sells well, its backstory often being overlooked. So why exactly has the book still endured despite where it came from? As Hadas put it, "Even though the author had terrible values, the book espouses excellent values." _The Education of Little Tree_ is too far removed from Asa Earl Carter's beliefs for them to really impose themselves upon the content of the book. While the UNM Press published it under the perception of it being a memoir, it helped launch a renewed initiative from them to publish literary works, alongside the 1992 release of _Alburquerque_ by Rudolfo Anaya. Its sales also enabled the Press to hire more staff, publish some pricey photography and art books, and supply employees with a good deal of educational travel. The sheer success of the book even allowed the Press to be self-supporting for a time. It's a complicated situation, but the Press does still recognize the book as part of their history.
 
