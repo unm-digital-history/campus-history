@@ -71,7 +71,7 @@ The campus in December 1935. By this point, the two Korber/Press buildings had b
   width="100%"
   caption=""
   src="images/Screenshot_20250516_152855.jpg" %}
->An architectural drawing of one of the original Korber Wireless Station buildings[^McColeman] compared to the site today, now housing UNM Facilities Management[^Me]. If one looks closely, they can see lines in the stucco to the right of the door that appear to match with where a window originally was, complete with it being taller than the door itself, and one level to the ground that seems to match with the originally raised entrance walkway; it is likely this is the exact same side of the building.
+>An architectural drawing of one of the original Korber Wireless Station buildings[^McColeman] compared to the site today, now housing UNM Facilities Management.[^Me] If one looks closely, they can see lines in the stucco to the right of the door that appear to match with where a window originally was, complete with it being taller than the door itself, and one level to the ground that seems to match with the originally raised entrance walkway; it is likely this is the exact same side of the building.
 
 ### Early Press Operations
 For its first 3 years, the Press was little more than a printing facility for UNM. UNM had conducted some publishing prior to the establishment of the Press, including catalogs, internal materials, and some booklets, from 1898 onward. Their first ever booklet publication was published under the auspices of the "Hadley Climatological Laboratory" and was titled "Physiological Corrolaries of Equilibrium Theory of Nervous Action and Control."[^AHS] At first, the Press's output was largely comprised of similar material. Its first publications were pamphlets, while it also published booklets in the Bulletins series. Their equipment, though, was used to print works for UNM staff and other individuals, and some of these were credited to the Press. Technically, their first-ever hardcover book release was _Givers of Life_ by Emma Esterbook, which was published in 1931. However, the Press does not classify it as their first release because they did not advertise, distribute, or catalog it themselves. Their first true release was _New Mexico History and Civics_ by Lansing B. Bloom and Thomas C. Donnelly (the future president of New Mexico Highlands University) in 1933. This was also the year that Fred E. Harvey was hired as the Press Director.
@@ -138,14 +138,15 @@ The architect Louis G. Hesselden was brought on to design and build an addition 
   title=""
 %}
 
-> Hesselden's plans for the "Addition + Alteration" to the Alpha Chi Omega sorority house.[^Hesselden]
+>Hesselden's plans for the "Addition + Alteration" to the Alpha Chi Omega sorority house.[^Hesselden]
 
 {% include figure.html
 class="img-center"
 width="60%"
-caption="The lounge space today, which serves as the Press entrance and reception area."
+caption=""
 src="images/PXL_20250501_160143468.jpg"
 %}
+> The lounge space today, which serves as the Press entrance and reception area.[^Me]
 
 ## Changes in the 1960s
 {% include aside.html
@@ -272,7 +273,7 @@ Embedded below is a mockup interview with 1717 Roma NE, which alludes to some of
 <audio controls src="UNM-Press-Building-Interview.mp3"></audio>
 
 ## Acknowledgments
-I would like to thank former Press Director Elizabeth Hadas, former Press employees Durwood Ball and David Holtby, and current Press employee Elise McHugh for their help in providing information on the Press's history between the late 1980s up until the present day. Elise also provided the pictures of the cracks at the Basehart Press location.
+I would like to thank former Press Director Elizabeth Hadas, former Press employees Durwood Ball and David Holtby, and current Press employee Elise McHugh for their help in providing information on the Press's history between the late 1980s up until the present day.
 
 ## Bibliography
 - _A History of the Buildings of the University of New Mexico: 1890-1934_ by Susan McColeman
