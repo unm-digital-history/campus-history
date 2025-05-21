@@ -297,4 +297,4 @@ I would like to thank former Press Director Elizabeth Hadas, former Press employ
 - UNM Office of the Registrar. "1948-1949 CATALOG ISSUE- BULLETIN." (1948). https://digitalrepository.unm.edu/course_catalogs/54
 - UNM Office of the Registrar. "1951-1952 CATALOG ISSUE- BULLETIN." (1951). https://digitalrepository.unm.edu/course_catalogs/58
 
-[^Korber]: UNM Office of the Registrar. "1924-1925-UNM CATALOG." (1925). https://digitalrepository.unm.edu/course_catalogs/27
+[^Korber]: 1924-1925 UNM Catalog
