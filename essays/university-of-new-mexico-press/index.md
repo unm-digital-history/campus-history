@@ -171,11 +171,11 @@ width="60%"
 caption=""
 src="images/Screenshot_2025-05-19_224254.png"
 %}
-The new Alpha Chi Omega Sorority House, as photographed in the 1967-1968 edition of UNM's _The Mirage_ yearbook.[^Mirage68] It has since been transformed into the ROTC Education Complex.
+>The new Alpha Chi Omega Sorority House, as photographed in the 1967-1968 edition of UNM's _The Mirage_ yearbook.[^Mirage68] It has since been transformed into the ROTC Education Complex.
 
-So...what did UNM use their newly acquired building for? Well, it was first designated as the location for the offices of the Institute of Meteoritics. 1717 Roma only housed them very briefly, though. The Institute was already in a period of relaitve inactivity after its director retired in 1962, and while they had a full-time researcher between 1966 and 1967, he soon left. By the end of March 1967, the office of International Programs and Services had taken up residence in 1717 Roma, where it would remain well into the 1980s.
+So...what did UNM use their newly acquired building for? Well, it was first designated as the location for the offices of the Institute of Meteoritics. 1717 Roma only housed them very briefly, though. The Institute was already in a period of relative inactivity after its director retired in 1962, and while they had a full-time researcher between 1966 and 1967, he soon left. By the end of March 1967, the office of International Programs and Services had taken up residence in 1717 Roma, where it would remain well into the 1980s.
 
-## The Press Hits its Stride
+## The Press Hits Its Stride
 Under the direction of Shugg, the UNM Press flourished into the 1970s and beyond. While still mid-sized, Shugg's efforts helped attract more top regional and faculty authors to the Press (after they had ironically struggled to secure manuscripts from UNM staff and were also relatively ignored in New Mexico despite having the pull to secure reviews in prominent places like the _Los Angeles Times_), to the point that it commanded equal respect to the Oklahoma and Texas university presses. Its growth was rapid, publishing five times as many books and boasting an annual business nearly four times greater than just four years prior—and that was with two fewer full-time employees. 76.4% of purchases were made from buyers outside of New Mexico. And this was all at a time where the Press was not accepting works of fiction or poetry; they instead referred authors who submitted such works to them to other publishing houses. Shugg's goal was for around 50% of the Press's books to be regional and the other 50% to be of general interest, with half also coming from UNM employees and associates, with a third of books being profitable so that the Press could be self-sustaining, or very close to it. At the same time, press employee Jack Rittenhouse pursued an initiative to revive out-of-print regional texts.
 {% include aside.html
   class="right"
