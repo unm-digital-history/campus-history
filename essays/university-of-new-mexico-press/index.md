@@ -7,9 +7,7 @@ header-image: images/PXL_20250501_220349996.jpg
 header-title: The University of New Mexico Press
 header-height: 50vh
 background-position: 20px
----
-# Note: This is still a work-in-progress (namely, I haven't added footnotes yet, there's one section I want to add an image to, and it could use some polishing up), but it is content-complete.
-
+--- 
 ## Introduction
 
 The University of New Mexico Press has been a fixture of UNM for nearly a century. Compared to many of the other long-standing institutions on campus, though, the Press has shifted between many different locations over the years. Currently, it is based out of 1717 Roma Avenue NE, to the west of Dane Smith Hall and north of the Anthropology building; this location was first constructed as the Alpha Chi Omega sorority house in 1930-31, following the establishment of its UNM Chapter in 1918.[^Mirage35] The Press occupies the first floor and basement of the building, with one office on the upper level (the rest are reserved for overflow from Scholes Hall, across the street and to the east). The Press is New Mexico's sole major book publisher and handles various regional projects, as well as broader scholarly books, poetry collections, and works of fiction. Its history is long and storied, and, as far as becoming a part of UNM goes, properly begins in 1929—incidentally, the same year that the ball got rolling for the construction of its current base of operations.
