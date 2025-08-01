@@ -1,10 +1,10 @@
 ---
-title: mesa-vista-hall
+title: Mesa Vista Hall
 author: Fred Gibbs
 layout: unm-base
-date: 2015-04-14
+date: 2025-04-24
 header-image: images/mvh-construction.jpg
-header-title: Mesa VISSSTA
+header-title: Mesa Vista Hall
 header-height: 50vh
 background-position: 20px
 ---
