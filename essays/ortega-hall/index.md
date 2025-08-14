@@ -1,8 +1,15 @@
 ---
-title: Ortega-Hall
+title: Ortega Hall
 author: Dyson Chmura
 layout: unm-base
 date: 2019-04-10
+popup-teaser: Completed in 1977, this first increment in the main academic area of the central campus established the upper pedestrian walkway system which connects the major academic buildings south of the central plaza.
+card-description: Completed in 1977, this first increment in the main academic area of the central campus established the upper pedestrian walkway system which connects the major academic buildings south of the central plaza.
+card-image: /essays/ortega-hall/images/ortega-hall-exterior1.jpeg
+header-title:
+header-image: images/ortega-hall-exterior1.jpeg
+type: offices
+start: 1971
 ---
 
 

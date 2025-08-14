@@ -1,15 +1,20 @@
 ---
-title: womens-resource-center
+title: Womens Resource Center
 author: Adriana Gutierrez
-layout: unm-base
 date: 2025-13-05
-header-image: images/compelling-image-international-day-elimination-violence-against-women-ai-generated_1027151-263.avif
+layout: unm-base
+card-image: /essays/womens-resource-center/images/wrc-building.jpeg
+popup-teaser: A living legacy of the women who reshaped UNM.
+card-description: The Women's Resource Center carries forward a legacy of resistace and institutional change, and is now a home for advocacy, support, and equity.
 header-title: Womens Resource Center
 header-height: 50vh
-background-position: 20px
+header-image: images/wrc-building.jpeg
+background-position: 0px
 ---
+
 ## Womens Resource Center
 {% include figure.html class="img-center" width="100%" caption="Womens resource center at UNM has evolved meraculously over the past 50 years into a home and inclusive space for many students and survivors. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/wrc-building.jpeg" %}
+
 ## The Climb for Women at UNM
 For centuries, women were told to be silent, that their words meant nothing and an education for a woman was out of the ordinary. Today women's voices, create movements, win elections and rewrite laws. It was not long ago when women fought for a place in the classroom. Women at UNM made up less than 50% of total students in the 1970's. The climb for women at UNM has been a fight for equal opportunity, that continues to shape the institution that stands before us today. 
 {% include figure.html

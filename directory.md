@@ -1,15 +1,25 @@
 ---
 title: UNM Campus Histories
-layout: directory
+layout: unm-base
 date: 2024-04-13
-subtitle: Pick a place...any place.
+header-image: "/assets/images/1946 map to campus.jpg"
+header-height: 40vh
+background-position: "0px -70px"
 ---
+
+<!-- close the container div for full viewer width display -->
+{::nomarkdown}
+</div>
+<div style="margin-left:10%; margin-right:10%; margin-top:2%">
+{:/nomarkdown}
 
 # Directory of Essays
 
-<!--Sheetrock expects to be outputting HTML for each row, so here's a place to put it.-->
-<div id="sheetrock">page loading...</div>
+{% assign essays = site.pages | where_exp: "page", "page.path contains 'essays/'" 
+%}
 
-<div id="cards" class="row"></div>
-    
+{% include card-grid.html 
+cards = essays
+%}
 
+</div>

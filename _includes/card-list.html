@@ -1,0 +1,20 @@
+{% assign cards = include.cards %}
+
+{% for card in cards %}
+<div class="card mb-3">
+  {% assign card_href = card.link | default: card.url %}
+  <a href="{{ card.href }}">
+    <div class="row g-0">
+      <div class="col-sm-4">
+        <img src="{{ card.dir }}{{ card.card-image }}" class="img-fluid rounded-start card-image" alt="...">
+      </div>
+      <div class="col-sm-8">
+        <div class="card-body">
+            <h3 class="card-title">{{ card.title }}</h3>
+            <p class="card-text"> {{ card.card-blurb }} </p>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+{% endfor %}

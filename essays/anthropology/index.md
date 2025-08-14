@@ -4,9 +4,18 @@ author: Maxine Porter
 layout: unm-base
 date: 2019-04-10
 header-image: images/anth-exterior-close.jpg
-header-title: Anthropology Building
+background-position: 0 60%
+popup-teaser: The original Student Union Building, now home to the Anthropology Department.
+card-description: Constructed in 1937 as the original Student Union Building, the Anthropology building represents the changing heart of the University of New Mexico.
+card-image: /essays/anthropology/images/anth-exterior-close.jpg
+type: activity
+start: 1936
+end: 1960
+type2: classrooms
+start2: 1960
 ---
 
+# Anthropology Building
 Where is the heart of the University of New Mexico? The stylistically striking Zimmerman Library? The ever-bustling Student Union Building? Definitely not a tucked-away science building on the edge of campus. But if the university has a historical heart, it lies in the Anthropology building. Shielded by massive pines on the western side of campus, this squat complex contains a lecture hall, labs, offices, and the Maxwell Museum of Anthropology. Though it has a low profile today, it was once the center of campus life as the original Student Union Building.
 
 ## Construction

@@ -3,6 +3,12 @@ title: Dane Smith Hall
 author: Jacob Brown
 layout: unm-base
 date: 2019-04-10
+header-image: images/dane-smith-modern.jpg
+popup-teaser: View the history of one of the most widely used buildings on campus.
+card-description: Opened in 1999, it is the University of New Mexico's seconds all-classroom facility where most undergraduates spend much of thier time their first two years.
+card-image: /essays/dane-smith-hall/images/dane-smith-modern.jpg
+type: classrooms
+start: 1999
 ---
 
 

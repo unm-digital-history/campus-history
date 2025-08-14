@@ -1,16 +1,18 @@
 ---
-title: lobo-statues
+title: Lobo Statues
 author: Maya Vigil
 layout: unm-base
 date: 2025-04-29
+popup-teaser: Have you seen the various lobo statues around campus? Let's learn about their history!
+card-description: Beginning with John Tatschl's Lobo statue erected in 1947, various other lobo statue have come to adorn the campus in the following decades. From the lobo overlooking the corner of campus to the smaller statues, the mascot of the university finds its home in various spots across the campus.
+card-image: /essays/lobo-statues/images/lobo-header-1.jpg
 header-image: images/lobo-header-1.jpg
-header-title: Lobo Statues
-header-height: 50vh
-background-position: 20px
+header-title: 
+background-position: 0px
 ---
 
 
-# The Lobo
+# The Lobo Statues
 
 {% include figure.html class="img-left" width="65%" height="100" caption="One of the smaller _Spirit of the Lobo_ statues posed near the Duck Pond" src="images/lobo-snow-1.jpg"%} 
 
@@ -33,7 +35,7 @@ The Lobo finds an apt home in the man-made forest on the edge of campus. Tight G
 %}
 
 
-# John Tatschl's _Lobo_ 
+## John Tatschl's _Lobo_ 
 
 {% include figure.html class="img-right" width="48%" height="100" caption="The Lobo in his current location. Photo by [Carol Highsmith](https://www.loc.gov/resource/highsm.65937/)" src="images/lobo-image-8.jpg" %}  
 
@@ -44,7 +46,7 @@ _You know, quite often after looking at something for ten years, you want to dis
 
 Unlike the lobo statue in Tight Grove, Tatschl's _Lobo_ does not conform to a realistic style. Rather, the _Lobo_ reflects "the mechanized streamlined artistic styles utilized by some post-war Modernist artists."[^libguides] Aside from the abstraction, the _Lobo_ measures larger than the Mexican grey wolf at approximately 4 feet high and 7 1/2 feet long. Tatschl, in a 1961 interview for the _New Mexico Lobo_, stated he believed the statue to be the only bronze statue between El Paso and Denver. Today, Tatschl's lobo is one of many bronze statues on campus alone. 
 
-### Construction of the Lobo
+## Construction of the Lobo
 
 {% include figure.html class="img-left" width="48%" height="100" caption="Tatschl supervising the installation of his statue." src="images/lobo-installation-2.jpg"%} 
 
@@ -52,7 +54,7 @@ Approached by either the student government or the fraternities and sororities o
 
 Various delays pushed back the statue's dedication, including difficulty fundraising. Following the Lobo War Memorial dance sponsored by the Interfraternity Council on November 7, funds were finally secured. The statue was presented to the University President J.P. Wernette during the half-time activities of the New Mexico-West Texas football game on November 29, 1947.
 
-### Locations
+## Locations
 
 {% assign images = 
 "images/lobo-zimmerman-1.jpg,
@@ -66,7 +68,7 @@ images = images
 
 Tatschl's Lobo has made many homes across campus throughout its nearly 80 years. Originally placed outside Zimmerman Stadium, it was moved following the stadium's relocation and demolition in the 1960s. From its second home mounted atop a 20-foot-high stone pedestal, near the Stanford and Central entrance, the Lobo welcomed students and visitors from the median. Currently, it resides between Johnson Center and Johnson Field on the east side of the building. 
 
-### Hodgin Hall Lobo
+## Hodgin Hall Lobo
 
 {% include figure.html class="img-left" width="60%" caption="A popular prop for graduation photos, the Lobo Head fittingly lives outside the Alumni Building." src="images/lobo-head-1.jpg" %}
 

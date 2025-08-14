@@ -1,13 +1,17 @@
 ---
 title: Yatoka Hall
 author: Nick Christman
-layout: unm-base
 date: 2019-05-09
+layout: unm-base
+popup-teaser: This building looks like it sits over the Duck Pond because before 1975, this space was occupied by Yatoka Hall.
+card-description: Yatoka Hall was built to be a mens dorm in 1928. Later, it would be used for classrooms before being demolished to make room for the Duck Pond.
+card-image: /essays/yatoka-hall/images/yatoka-hall-1928.JPG
+header-image: images/yatoka-hall-1928.JPG
+type: dorm
+start: 1928 
 ---
 
-
 # Yatoka Hall
-
 Yatoka Hall has a very interesting history as part of the UNM campus, mainly because very few people remember that it existed. The space that once belonged to Yatoka Hall is now significantly overshadowed by this space's current use, the [Duck Pond](https://unm-campus-histories.github.io/spaces/essays/quintana-duck-pond). Yatoka Hall served various purposes throughout its years of operation, but ultimately, UNM decided that a nature site would be more suitable for this location. A brief look at Yatoka Hall's history will explain why this decision was easy to make and why Yatoka Hall is almost forgotten.
 
 ## Early Days

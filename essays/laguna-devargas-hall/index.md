@@ -1,22 +1,19 @@
 ---
-title: LaGuna-DeVargas-Hall
+title: Laguna DeVargas Hall
 author: Brandon Rodriguez
 layout: unm-base
 date: 2015-04-14
+popup-teaser: Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical residence halls at UNM.
+card-description: Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical residence halls at UNM.
+card-image: /essays/laguna-devargas-hall/images/LagunaDeVargas.jpg
 header-image: images/LagunaDeVargas.jpg
-header-title: DeVargas Hall
-header-height: 50vh
-background-position: 20px
+header-title: 
+background-position: 0px
 ---
 
-
-## The Ways Of DeVargas Hall
-
+# Laguna DeVargas Hall
 
 {% include figure.html class="img-right" width="48%" caption="Laguna & DeVargas Halls. [Source](https://issuu.com/unmreslife/docs/housing_recruitment_brochure_2022-23_rev7_for_issu)" src="images/8c3ead16234e5425de1ca6fe0e829c9d.jpeg" %}
-
-
-
 
 Laguna DeVargas Hall (LDV) is one of the most distinctive and more classical residence halls at UNM. Having been built during the late 60s, construction for the dorm finished in 1969 and was praised for its unique and fresh design. Each suite accommodates up to six residents, providing a balance between privacy and community living. This suite-style design was introduced to provide a more modern and comfortable living space, with shared bathrooms and common areas that encourage social interaction. And depending on which room you get, you may even see a beautiful view of the Sandia Mountains standing proudly in the distance when on the 3rd floor!
 

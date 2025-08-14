@@ -18,13 +18,18 @@ iframe {
   flex-direction: row;
 }
 
-.row {
-  display: inline;
+.nav-justified>li {
+  display: table-cell;
 }
 
-.row a {
-  border-bottom: none;
+
+@media (min-width: 768px) {
+  .nav-justified>li {
+    display: table-cell;
+    width: auto;
+  }
 }
+
 
 #sheetrock {
     display:none;
@@ -36,12 +41,11 @@ html, body {
   height: 100vh;
   line-height: 1.4em;
   background-color: #fefefe;
-  font-size: 15px;
   width:100%;
 }
 
-.container {
-  max-width:55rem;
+.xan-container {
+  max-width:80rem;
   margin: 0 auto;
   clear:both;
 }
@@ -69,19 +73,11 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size: 2.5rem;
-}
-
-.home-title h1 {
-  font-family: 'Abril Fatface', sans-serif;
-  color:#fff;
-  font-size: 3rem;
-  margin-top: -1.2em;
-  margin-bottom: .2em;
+  font-size: 3.2rem;
 }
 
 h2 {
-  font-size: 1.8rem;
+  font-size: 2.4rem;
   clear:both
 }
 
@@ -107,6 +103,7 @@ hr {
 }
 
 p {
+  font-size: 16px;
   font-family: 'Open Sans', sans-serif;
   line-height: 1.6em;
   margin-bottom: 1.5em;
@@ -133,22 +130,6 @@ blockquote {
   font-size: 90%;
   border:none;
 }
-
-a {
-  color: #005999;
-  font-weight:bold;
-  border-bottom: 2px dotted #87a7be;
-}
-
-a:visited {
- color: #44136c;
- border-bottom: 2px dotted #956cb7;
-}
-
-a:hover {
-  text-decoration:none;
-}
-
 
 ul {
   margin-bottom:1rem;
@@ -179,6 +160,88 @@ li ul li {
   background-color:#ccc;
 }
 
+
+/*****************************************************
+JUMBOTRON
+*****************************************************/
+
+.xan-jumbotron {
+  position: relative;
+  text-align: center;
+  display: flex;
+    flex-direction: column;
+    justify-content: center; /* vertical centering */
+    align-items: center; /* horizontal centering */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.xan-jumbotron::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0);
+  z-index: 1;
+}
+
+.xan-jumbotron h1,
+.xan-jumbotron p {
+  position: relative;
+  z-index: 2;
+  color: #fff;
+  text-align: right;
+}
+
+
+.xan-jumbotron h1 {
+  font-size: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0;
+}
+
+.page-header-stripe {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: auto;
+  background: rgba(0,0,0,0.7); /* semi-transparent black */
+  display: flex;
+  align-items: center; /* vertical centering */
+  text-align:right;
+  justify-content: flex-end; /* right justify */
+  padding-right: 2rem;
+  padding-left: 0;
+}
+
+
+.header-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 3rem;
+  color: #fff;
+  background: rgba(0,0,0,0.3);
+  padding: 0.5em 0.7em;
+  border-radius: 50%;
+  z-index: 10;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.header-arrow-left {
+  left: 1rem;
+}
+.header-arrow-right {
+  right: 1rem;
+}
+.header-arrow:hover {
+  background: rgba(0,0,0,0.6);
+}
 
 /*****************************************************
 PULLQUOTES
@@ -294,6 +357,7 @@ figcaption.img-center {
 figcaption p {
   margin:0;
   padding:0;
+  font-size: 13px;
   line-height: 1.4em;
 }
 
@@ -327,64 +391,59 @@ figcaption a {
 }
 
 
-
-
 /*****************************************************
 DIRECTORY CARDS
 *****************************************************/
 
 .card {
-  width:21%;
-  border:0;
-  min-width:235px;
-  min-height:8rem;
-  margin: 3rem 2rem 0rem 0;
-  float:left;
-  opacity:.8;
-  font-size:12px;
-  }
+  min-height: 40rem;
+  opacity: .8;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  /* Smooth transition */
+}
+
 
 .card:hover {
-background:#eee;
-opacity:1;
+  background: #eee;
+  opacity: 1;
+  transform: scale(1.05);
+  /* Slightly enlarge the card */
 }
 
-.cards > a {
-opacity:1;
-color:#000;
-}
-
-.cards > a p {
-opacity:1;
-color:#333;
-}
-
-
-.cards > a:hover {
-//background:#eee;
-}
-
-.card-block {
-padding:1%;
-min-height:14em;
+.card-image {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  max-height: 20rem;
 }
 
 .card-img-top {
-  width:100%;
-  height:15rem;
+  height: 15rem;
+    border-radius: 0.75rem;
 }
 
-.card h4 {
-font-family:'Open Sans';
-font-size:1.5em;
-margin-top:.5em;
+.card h3 {
+  font-family: 'Open Sans';
+  font-size: 2rem;
+  font-weight: bold;
+  margin: .5rem 0 1rem 0;
 }
 
 .card-text {
-font-size:1em;
-font-weight:normal;
-color:#333;
+  font-size: 1.5rem;
+  font-weight: normal;
 }
+
+.card a {
+  opacity: 1;
+  color: #000;
+  text-decoration: none;
+  border-bottom: 0px
+}
+
+
+
+
 
 
 @media (max-width: 576px) {
@@ -445,25 +504,10 @@ margin:.5rem 0 0 2rem;
 
   @media (max-width: 992px) {
 
-body {
-  font-size:12px;
-}
-
-  .card {
-    width:40%;
-  }
-
-
 figure.img-right-col {
   position:relative;
   width: 100%;
   margin: 1rem 0 1rem 0;
 }
 
-}
-
-@media (max-width: 576px) {
-.card {
-  width:100%;
-}
 }

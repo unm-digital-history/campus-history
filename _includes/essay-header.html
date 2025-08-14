@@ -1,8 +1,35 @@
-<div class="jumbotron" style="
+{% capture header_image_url %}
+  {% include image-path.html path=include.image-url %}
+{% endcapture %}
+
+<div class="xan-jumbotron" style="
       margin-bottom:0;
-      height: {{ include.height }}; 
-      background-image: url('{{include.image-url}}');
-      background-position: {{include.background-position}};">
-    <h1 id="page-title">{{ include.title}}</h1>
-    <h2 id="page-subtitle">{{ include.text }}</h2>
+      height: {{ include.height | default: '50vh' }}; 
+      background-image: url('{{ header_image_url | strip }}');
+      background-position: {{ include.background-position }};">
+
+  {% if include.prev_url %}
+    <a href="{{site.baseurl}}{{ include.prev_url }}" class="header-arrow header-arrow-left">&#8592;</a>
+  {% endif %}
+  {% if include.next_url %}
+    <a href="{{site.baseurl}}{{ include.next_url }}" class="header-arrow header-arrow-right">&#8594;</a>
+  {% endif %}
+
+  {% if include.title or include.subtitle or include.author %}
+  <div class="page-header-stripe">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col">
+          <h1 id="page-title">{{ include.title}}</h1>          
+          {% if include.subtitle %}
+            <h2 id="page-subtitle">{{ include.subtitle }}</h2>
+          {% endif %}          
+          {% if include.author %}
+            <p class="page-header-author">{{ include.author }}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %} 
 </div>

@@ -35,26 +35,47 @@ body {
   float:left;
 }
 
-.map-popup {
-  margin:0rem 0 1rem;
+.popup-card {
+    display: flex;
+    align-items: flex-start;
 }
 
-.map-popup img {
 
-  height:100px;
-  float:left;
-  margin-right:1rem;
-  clear:both;
+.popup-card {
+  font-size: 1.4em; /* Increase as needed */
 }
 
-.map-popup h3{
+.popup-card h3 {
+  font-size: 1.5em;
+}
+
+.popup-card p,
+.popup-card a {
+  font-size: 1.1em;
+}
+
+
+
+.popup-img {
+    width: 200px;
+    height: auto;
+    border-radius: 0.75rem;
+    margin-right: 1em;
+    flex-shrink: 0;
+}
+
+.popup-text {
+    flex: 1;
+}
+
+.popup-card h3{
   font-family:'Oswald';
-  font-size:1.2rem;
+  font-size:1.8rem;
   margin:0;
   padding:0;
 }
 
-.map-popup h4{
+.popup h4{
   font-family:'Oswald';
   margin:1rem 0 0 0;
   padding:0;
@@ -78,17 +99,6 @@ body {
   text-decoration:none;
 }
 
-
-
-
-#map {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height:600px;
-}
 
 .leaflet-overlay-pane path {
     transition: fill-opacity 0.2s linear;

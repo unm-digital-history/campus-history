@@ -1,10 +1,19 @@
 ---
-title: center-of-the-universe
+title: Center of the Universe
 author: Alex Wells
-layout: unm-base
 date: 2019-5-10
+layout: unm-base
 header-image: images/cotu-sketch.png
 header-title: The Center of the Universe
+popup-teaser: A unique walk through sculpture by Bruce Nauman
+card-description: A unique walk through sculpture by Bruce Nauman
+card-image: /essays/center-of-the-universe/images/cotu-sketch.png
+type: art
+start:
+end: 
+type.1:
+start.1: 
+end.1:
 ---
 
 ## Controversy in Concrete

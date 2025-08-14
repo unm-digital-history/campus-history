@@ -1,15 +1,27 @@
 ---
-title: Sara-Raynolds-Hall
+title: Sara Raynolds Hall
 author: Autumn Buckridge
 layout: unm-base
 date: 2019-04-20
+popup-teaser: Check out Sara Raynolds Hall and travel back in time one hundred years
+card-description: A Mayan Pueblo Revival building built in 1920 to house the Home Economics Department
+card-image: /essays/sara-raynolds-hall/images/SRH_construction1.jpg
+header-title:
+header-image: images/SRH_construction1.jpg
+type: classrooms
+start: 1920
+end: 1963
+type2: offices
+start2: 1963
 ---
 
-
 # Sara Raynolds Hall
-{% include figure.html class="img-left" width="100%" caption="Imagine: It's 1920. The Great War had just ended. The men are coming back home and the women want more to do. A brand new building, Sara Raynolds Hall, is under construction on Central Avenue. It will house the expanding Home Economics Department, opening its doors for women throughout the community. " src="images/SRH_construction1.jpg" %}
+It's 1920. The Great War had just ended. The men are coming back home and the women want more to do. A brand new building, Sara Raynolds Hall, is under construction on Central Avenue. It will house the expanding Home Economics Department, opening its doors for women throughout the community. 
+
 
 ## Overview 
+{% include figure.html class="right" width="50%" caption="The construction of Sara Raynolds Hall" src="images/SRH_construction1.jpg" %}
+
 Sara Raynolds Hall is a single-story Mayan Pueblo Revival building on the southern edge of the main campus of the University of New Mexico. It sits on a small rise just north of Central Avenue, with its front facade facing west to Terrance Street. It is a U-shaped brick and stucco building with 12-over-1 double hung wood windows and exaggerated, geometric buttresses on the exterior corners of the building. 
 
 Built to house the Home Economics Department (which had been working out of the basement of Hodgin Hall until then), it is today in need of some preservation and repair. For example, nearly half of the original windows are missing and have been covered with stucco. Despite this unfortunate neglect, it is incredibly charming, a quintessential representation of early [Pueblo Revival](https://en.wikipedia.org/wiki/Pueblo_Revival_architecture) institutional buildings. The hall is surrounded by [Parson's Grove](http://pdc.unm.edu/strategic-leadership/university-landscape-architect/HeritageZone-Parson.pdf), a [Romanitic Landscape](https://www.themorgan.org/exhibitions/romantic-gardens) from 1928 named after early UNM Financial Secretary Josephine Parsons, who served from 1894-1927. 

@@ -1,13 +1,18 @@
 ---
-title: Modern Art by Betty Sabo
+title: Modern Art
 author: Jared Lucero
 layout: unm-base
 date: 2019-03-25
+popup-teaser: One of the most popular spaces walked through by students, faculty, and visitors!
+card-description: “I think everyone can relate to some part of it - the piece has a storyline to a certain extent that is easily recognizable. It’s fun. I really want people to enjoy it.”
+card-image: /essays/modern-art/images/modern-art-intro.png
+header-title: 
 header-image: images/modern-art-intro.png
-header-title: "Modern Art"
+type: art
+start: 
 ---
 
-## Introduction
+# Modern Art Installation
 
 {% include figure.html class="img-right" width="33%" caption="Betty's bronze scultures with a green hat placed on one of the heads" src="images/modern-art-intro.png" %}
 

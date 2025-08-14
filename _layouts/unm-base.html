@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-{% include header-default.html %}
+{% include page-header.html %}
 
 <body id="home">
   <!-- Google Tag Manager -->
@@ -29,17 +29,43 @@
 
 
 
-{% include unm-nav.html %}
+{% include nav-unm.html %}
 
 
 <div id="header">
   <div class="container">
     <a href="{{site.baseurl}}index.html">
-      <h1>UNM Campus Histories</h1>
       <!--<h3>{{page.subtitle}}</h3>-->
     </a>
   </div>
 </div>
+
+
+
+
+{% if page.path contains 'essays/' %}
+  {% assign essays = site.pages | sort: "title" %}
+  {% assign urls = essays | map: 'url' %}
+  {% assign page_url = page.url | strip %}
+  {% assign current_index = -1 %}
+  {% for u in urls %}
+    {% if u == page_url %}
+      {% assign current_index = forloop.index0 %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign last_index = urls.size | minus: 1 %}
+  {% assign next_index = current_index | plus: 1 %}
+  {% assign prev_index = current_index | minus: 1 %}
+
+  {% if current_index > 0 %}
+    {% assign prev_url = urls[prev_index] %}
+  {% endif %}
+  {% if current_index >= 0 and current_index < last_index %}
+    {% assign next_url = urls[next_index] %}
+  {% endif %}
+{% endif %}
+ 
 
 {% assign headerimage = page.header-image %}
 {% assign headertitle = page.header-title %}
@@ -53,23 +79,31 @@
   image-url = headerimage
   title = headertitle
   background-position = backgroundposition
+  prev_url = prev_url
+  next_url = next_url
 %}
 
 {% endif %}
 
 
-{% include site-nav.html %}
+{% include nav-site.html %}
  
-<div id="upper"><div class="container"><!--UPPER--></div></div><div id="breadcrumbs"><div class="container"></div></div>
+<div id="upper">
+  <div class="container">
+    <!--UPPER-->
+  </div>
+</div>
+<div id="breadcrumbs">
+  <div class="container"></div>
+</div>
 
-
-  <div class="container layout" id="c">
+  <div class="xan-container layout" id="c">
         {{ content }}
   </div>
 
 {% include footer-unm.html %}
 
-{% include bottom-js.html %}
+{% include page-js.html %}
 
 </body>
 </html>

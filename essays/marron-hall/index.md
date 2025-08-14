@@ -1,14 +1,21 @@
 ---
-title: Marron-Hall
+title: Marron Hall
 author: Gabrielle Hockstra-Johnson
 layout: unm-base
 date: 2019-04-10
+popup-teaser: The building formerly known as South Hakona Hall
+card-description: Originally a women's wing of Hakona Hall, Marron Hall came to be after constructions and restorations of a few former campus buildingd.
+card-image: /essays/marron-hall/images/marron-hall.jpg
+header-title: Marron Hall
+header-image: images/marron-hall.jpg
+type: dorm
+start: 1921
 ---
 
 
-# MARRON HALL / MARN / BUILDING #9 / SOUTH HALL / NEW WOMEN’S DORM 
-
 {% include figure.html class="img-right" width="33%" caption="Marron Hall circa late 90's-early 2000's" src="images/MarronHall.png" %}
+
+# Marron Hall
 
 Marron Hall existed as a space long before the building came to be known as Marron Hall. What is now known as Marron Hall came to existence in 1921, when the original South Hall was built. South Hall was built as an addition to the original Hokona Hall. At the time the population of UNM was booming and female students needed a place to board at on campus, before that time students could stay at one of the few dorm rooms on campus. But even fefore the dorms were built it was thought that female students could board with Albuquerque families. The rush of students was so much that by 1931 an addition had to be made to the dorm. It is this additional part that is now a part of Marron Hall. It is that same year that Frances Halloran Marron, Marron Hall’s namesake, was appointed to the UNM Board of Regents.
 

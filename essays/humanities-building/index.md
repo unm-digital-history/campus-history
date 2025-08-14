@@ -1,8 +1,16 @@
 ---
-title: Humanities
+title: Humanities Building
 author: Jessica Bowen
 layout: unm-base
 date: 2019-04-10
+popup-teaser: An administration building with award-winning but highly controversial architecture
+card-description: Award-winning architecture that sparked intense philosophical debate among the administration building's intended residents
+card-image: /essays/humanities-building/images/humanities-building-old-plaza-bw.jpg
+header-title:
+header-image: images/humanities-building-old-plaza-bw.jpg
+type: offices
+start: 1972
+end: 2026
 ---
 
 # Humanities Building

@@ -1,19 +1,27 @@
 ---
-title: mesa-vista-hall
+title: Mesa Vista Hall
 author: Fred Gibbs
 layout: unm-base
 date: 2015-04-14
+popup-teaser: From men's dorm to bastion of the humanities
+card-description: From men's dorm to bastion of the humanities
+card-image: /essays/mesa-vista-hall/images/mvh-construction.jpg
+type: dorm
+start: 1950
+end: 1975
+type2: offices
+start2: 1975
+end2:
+header-title: 
 header-image: images/mvh-construction.jpg
-header-title: Mesa VISSSTA
-header-height: 50vh
-background-position: 20px
+background-position: 10px
 ---
 
-
-## An early title
-
-
+ 
+# Mesa Vista Hall
 {% include figure.html class="img-right" width="48%" caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/mvh-history-stays.jpg" %}
+
+This essay is mostly dummy text. The point is to visually illustrate various features that can be used on site essay pages. There is a separate [code page](../code) that walks through all the "features" used on this page and gives the code snippets that you can copy and paste into your essays. Or you can just edit this one, adding, rearranging, and deleting as necessary.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
 
@@ -114,7 +122,8 @@ images/mvh-room-cost.jpg" | split: ','
 %}
 
 {% include carousel.html
-images = images 
+id="first"
+images=images 
 %}
 
 

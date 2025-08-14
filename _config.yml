@@ -1,11 +1,3 @@
-defaults:
-  -
-    scope:
-      path: "sites"
-    values:
-      layout: "single-col"
-
-
 port: 4001
 
 baseurl: /campus-history/

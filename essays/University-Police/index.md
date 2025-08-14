@@ -1,20 +1,25 @@
 ---
-title: University-Police
+title: University Police
 author: Luke Betzner
 layout: unm-base
 date: 2025-24-4
+card-description: This overview is a bandaid holding together a sparse, truncated, and incomplete history of UNMPD. Who will take on the rewarding challenge of adding to it?
+card-image: /essays/university-police/images/1970-UNM-vs-BYU-Game.jpg
+popup-teaser: Do you like to find and fill archival gaps?
+header-title: 
 header-image: images/1970-UNM-vs-BYU-Game.jpg
-header-title: University Police
-header-height: 50vh
-background-position: 20px
+header-height:
+background-position: 0px
 ---
 
+# University Police
+ As with the many other essays to be found on this site, the idea for this page began with a question; namely, what can be known of the history of UNM's Police Department? 
 
 ## A Tale of Two Boxes
 
-{% include figure.html class="img-left" width="48%" caption="The two boxes of archival resource UNMA 171. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/unm-cswr-two-boxes.jpg" %}
+{% include figure.html class="right" width="48%" caption="The two boxes of archival resource UNMA 171. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/unm-cswr-two-boxes.jpg" %}
 
- As with the many other essays to be found on this site, the idea for this page began with a question; namely, what can be known of the history of UNM's Police Department? Since the University of New Mexico was founded 1889, initially, I assumed that out of the massive numbers of records that must have surely been compiled since that time, that I would have the option to interact with a significant amount of archival material. I was eager to begin going about determining a proper historiographical method of selecting the necessary sources from which to craft my narrative. 
+Since the University of New Mexico was founded 1889, initially, I assumed that out of the massive numbers of records that must have surely been compiled since that time, that I would have the option to interact with a significant amount of archival material. I was eager to begin going about determining a proper historiographical method of selecting the necessary sources from which to craft my narrative. 
  
  Imagine my surprise when after making my initial request of the excellent archivists that staff the CSWR to have just two boxes set in front of me. I asked whether or not they had more boxes and just did not bring them. Upon asking that, I was told that these two boxes were all there was. I again asked to clarify whether the archivist was saying whether or not there were only two boxes in the collection UNMA 171 or whether there were only two boxes that contained the entire history of the University Police Department. The archivist confirmed the latter. After she returned to her desk, I sat there dumfounded, staring at the two boxes in front of me. This was not at all what I was expecting. As I opened the boxes, my consternation only grew. What follows is the information I was able to discover regarding the nearly undocumented history of the UNM Police Department. But first, a clarifying note.
 

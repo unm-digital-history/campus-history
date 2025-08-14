@@ -1,16 +1,20 @@
 ---
-title: maxwell-museum
+title: Maxwell Museum
 author: Jackie Truitt
 layout: unm-base
 date: 2025-05-06
+popup-teaser: Did you know that Albuquerque's first public museum was on campus?
+card-description: The Maxwell Museum of Anthropology has been providing students and the public alike with enriching experiences since 1932.
+card-image: /essays/maxwell-museum/images/1970s-maxwell.jpg
 header-image: images/1970s-maxwell.jpg
-header-title: Maxwell Museum
-header-height: 50vh
-background-position: 20px
+header-title:
+background-position: 0px
 ---
 
+# Maxwell Museum
+Tucked away on the far western edge of campus, The Maxwell Museum of Anthropology provides visitors with exciting, enriching, and educational opportunities by "Working toward greater understandings of the fullness of human experiences in the Southwest and the world." 
 
-Tucked away on the far western edge of campus, The Maxwell Museum of Anthropology provides visitors with exciting, enriching, and educational opportunities by "Working toward greater understandings of the fullness of human experiences in the Southwest and the world." In the busy and bustling ecosystem that is UNM campus, it is easy for on-the-go students, faculty, and staff to keep their heads down, focused on exactly where they need to be and when they need to be there. But, by lifting their gaze, getting off the beaten path, taking in their surroundings, and stepping through the museum's doors, they have the opportunity to be transported across campus, across the world and emerge forever changed. 
+In the busy and bustling ecosystem that is UNM campus, it is easy for on-the-go students, faculty, and staff to keep their heads down, focused on exactly where they need to be and when they need to be there. But, by lifting their gaze, getting off the beaten path, taking in their surroundings, and stepping through the museum's doors, they have the opportunity to be transported across campus, across the world and emerge forever changed. 
 
 >"Have you been to the latest exhibition at the Maxwell Museum of Anthropology?"
 <br>"Honestly, I didn't even know we had a museum of anthropology."

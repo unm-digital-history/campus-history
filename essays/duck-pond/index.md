@@ -3,11 +3,14 @@ title: Duck Pond
 author: Mateo Quintana
 layout: unm-base
 date: 2019-04-11
+popup-teaser: A relaxing place for students to eat, study, or lounge around
+card-description: Built in 1975 people were hesitant about a landscaping project.During and even shortly after construction it was criticized heavily. It was eventually named by the students who adore it to this day.
+card-image: /essays/duck-pond/images/duck-pond-0002.png
+type: nature
+start: 1976
 ---
 
-
 # Duck Pond
-
 {% include figure.html class="img-left" width="75%" caption="A photo of the Pond taken shortly after completion. shows a distinct lack of foliage on the peninsula and surrounding area." src="images/duck-pond-0002.png" %}
 
 ## Yatoka Hall & Y-1

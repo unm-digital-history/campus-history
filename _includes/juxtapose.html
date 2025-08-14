@@ -1,7 +1,9 @@
-<div id="juxtapose-wrapper" class="juxtapose" data-startingposition="{{include.starting-position | default: 50%}}" data-label="{{include.data-label}}" data-credit="{{include.data-credit}}" data-showlabels="false" data-showcredits="false" data-animate="false">
-  <img src="{{include.image1}}" />
-  <img src="{{include.image2}}" />
+<div id="juxtapose-wrapper" class="juxtapose" data-startingposition="{{include.starting-position | default: 50%}}"
+  data-label="{{include.data-label}}" data-credit="{{include.data-credit}}" data-showlabels="false"
+  data-showcredits="false" data-animate="false">
+  <img src="{{ include.image1 | strip }}" />
+  <img src="{{ include.image2 | strip }}" />
 </div>
 <figcaption class="{{ include.class }}">
   {{ include.caption | markdownify }}
-</figcaption>
+</figcaption> 

@@ -1,0 +1,25 @@
+{% assign cards = include.cards %}
+
+<!-- change row-cols-md-2 to 3 or 4 for different number of cols -->
+<div class="container-fluid">
+<div class="row row-cols-1 row-cols-md-3 row-cols-lg-4 row-cols-xl-4 g-4">
+  {% for card in cards %}
+  {% if card.title and card.card-description %}
+  <div class="col">
+    <div class="card v-card">
+      {% assign card_href = card.link | default: card.url %}
+      <a href="{{ site.baseurl }}{{ card_href }}">
+        {% if card.card-image %}
+        <img src="{% include image-path.html path=card.card-image %}" class="card-img-top" alt="...">
+        {% endif %}
+        <div class="card-body">
+          <h3 class="card-title">{{ card.title }}</h3>
+          <p class="card-text">{{ card.card-description }}</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+</div> 
